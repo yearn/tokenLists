@@ -1,10 +1,10 @@
 {
   "name": "Yearn Token List",
   "description": "",
-  "timestamp": "2025-04-27T00:57:17Z",
+  "timestamp": "2025-07-18T15:55:58Z",
   "version": {
-    "major": 45,
-    "minor": 16,
+    "major": 46,
+    "minor": 0,
     "patch": 0
   },
   "logoURI": "https://assets.smold.app/api/token/1/0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e/logo.svg",
@@ -1396,7 +1396,7 @@
       "address": "0x23ee2343B892b1BB63503a4FAbc840E0e2C6810f",
       "name": "Axelar",
       "symbol": "AXL",
-      "logoURI": "https://assets.coingecko.com/coins/images/27277/large/V-65_xQ1_400x400.jpeg?1663121730",
+      "logoURI": "ipfs://QmYJRge59EKjEcCzs4X9j6c3dsAJBCzJRRgN5XZtg9treW",
       "chainId": 10,
       "decimals": 6
     },
@@ -9420,6 +9420,14 @@
       "name": "VolatileV2 AMM - SYNTH/STKN",
       "symbol": "vAMMV2-SYNTH/STKN",
       "logoURI": "https://assets.smold.app/api/token/10/0xeE847E8140A679befAE14e0BD4F341E53cC03a72/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xeF4461891DfB3AC8572cCf7C794664A8DD927945",
+      "name": "WalletConnect",
+      "symbol": "WCT",
+      "logoURI": "https://assets.smold.app/api/token/10/0xeF4461891DfB3AC8572cCf7C794664A8DD927945/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },

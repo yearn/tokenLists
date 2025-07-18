@@ -61,7 +61,7 @@ type TYearnTokenData struct {
 }
 
 func fetchYearnTokenList() []models.TokenListToken {
-	list := helpers.FetchJSON[map[uint64]map[string]TYearnTokenData](`https://ydevmon.ycorpo.com/tokens/all`)
+	list := helpers.FetchJSON[map[uint64]map[string]TYearnTokenData](`https://ydaemon.yearn.fi/tokens/all`)
 	listPerChainID := []models.TokenListToken{}
 
 	for chainID, listPerChain := range list {

@@ -1,9 +1,9 @@
 {
   "name": "DefiLlama",
   "description": "",
-  "timestamp": "2025-07-13T01:02:59Z",
+  "timestamp": "2025-07-18T15:55:48Z",
   "version": {
-    "major": 127,
+    "major": 128,
     "minor": 0,
     "patch": 0
   },
@@ -63,6 +63,14 @@
       "name": "pSTAKE Finance",
       "symbol": "PSTAKE",
       "logoURI": "https://assets.smold.app/api/token/10/0x023550ADDe4FA2F90D63a41D9282BEE0294c04cD/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x03569CC076654F82679C4BA2124D64774781B01D",
+      "name": "BOLD Stablecoin",
+      "symbol": "BOLD",
+      "logoURI": "https://assets.smold.app/api/token/10/0x03569CC076654F82679C4BA2124D64774781B01D/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -762,6 +770,14 @@
       "logoURI": "https://assets.coingecko.com/coins/images/12645/large/AAVE.png",
       "chainId": 10,
       "decimals": 6
+    },
+    {
+      "address": "0x64445f0aecC51E94aD52d8AC56b7190e764E561a",
+      "name": "Wrapped Frax",
+      "symbol": "WFRAX",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/55432/thumb/wfrax_64.png?1745993624",
+      "chainId": 10,
+      "decimals": 18
     },
     {
       "address": "0x66E535e8D2ebf13F49F3D49e5c50395a97C137b1",

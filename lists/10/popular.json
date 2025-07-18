@@ -1,9 +1,9 @@
 {
   "name": "Popular tokens",
   "description": "A curated list of popular tokens from all the token lists on tokenlistooor.",
-  "timestamp": "2025-07-13T01:30:36Z",
+  "timestamp": "2025-07-18T16:15:09Z",
   "version": {
-    "major": 81,
+    "major": 82,
     "minor": 0,
     "patch": 0
   },
@@ -59,6 +59,14 @@
       "decimals": 6
     },
     {
+      "address": "0x10010078a54396F62c96dF8532dc2B4847d47ED3",
+      "name": "Hundred Finance",
+      "symbol": "HND",
+      "logoURI": "https://assets.smold.app/api/token/10/0x10010078a54396F62c96dF8532dc2B4847d47ED3/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
       "address": "0x14778860E937f509e651192a90589dE711Fb88a9",
       "name": "CyberConnect",
       "symbol": "CYBER",
@@ -105,6 +113,14 @@
       "logoURI": "ipfs://QmYJRge59EKjEcCzs4X9j6c3dsAJBCzJRRgN5XZtg9treW",
       "chainId": 10,
       "decimals": 6
+    },
+    {
+      "address": "0x2513486f18eeE1498D7b6281f668B955181Dd0D9",
+      "name": "OpenXSwap Gov Token",
+      "symbol": "xOpenX",
+      "logoURI": "https://assets.smold.app/api/token/10/0x2513486f18eeE1498D7b6281f668B955181Dd0D9/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
     },
     {
       "address": "0x2598c30330D5771AE9F983979209486aE26dE875",
@@ -232,10 +248,10 @@
       "decimals": 18
     },
     {
-      "address": "0x4200000000000000000000000000000000000006",
-      "name": "Wrapped Ether",
-      "symbol": "WETH",
-      "logoURI": "https://assets.smold.app/api/token/10/0x4200000000000000000000000000000000000006/logo-128.png",
+      "address": "0x3eE6107d9C93955acBb3f39871D32B02F82B78AB",
+      "name": "Staked ERN Vault",
+      "symbol": "stERN",
+      "logoURI": "https://assets.smold.app/api/token/10/0x3eE6107d9C93955acBb3f39871D32B02F82B78AB/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -512,14 +528,6 @@
       "decimals": 18
     },
     {
-      "address": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
-      "name": "Tether USD",
-      "symbol": "USDT",
-      "logoURI": "https://assets.smold.app/api/token/10/0x94b008aA00579c1307B0EF2c499aD98a8ce58e58/logo-128.png",
-      "chainId": 10,
-      "decimals": 6
-    },
-    {
       "address": "0x970D50d09F3a656b43E11B0D45241a84e3a6e011",
       "name": "DAI+",
       "symbol": "DAI+",
@@ -606,6 +614,14 @@
       "logoURI": "https://assets.smold.app/api/token/10/0xB153FB3d196A8eB25522705560ac152eeEc57901/logo-128.png",
       "chainId": 10,
       "decimals": 18
+    },
+    {
+      "address": "0xB25EA095997F5bBaa6cEa962c4fBf3bfc3C09776",
+      "name": "Promethios",
+      "symbol": "FIRE",
+      "logoURI": "https://assets.smold.app/api/token/10/0xB25EA095997F5bBaa6cEa962c4fBf3bfc3C09776/logo-128.png",
+      "chainId": 10,
+      "decimals": 9
     },
     {
       "address": "0xB962150760F9A3bB00e3E9Cf48297EE20AdA4A33",
@@ -776,6 +792,14 @@
       "decimals": 18
     },
     {
+      "address": "0xb532178708814F0c174B29B991D2b355106Afbc3",
+      "name": "Astrava",
+      "symbol": "AST",
+      "logoURI": "https://assets.smold.app/api/token/10/0xb532178708814F0c174B29B991D2b355106Afbc3/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
       "address": "0xb829b68f57CC546dA7E5806A929e53bE32a4625D",
       "name": "Axelar Wrapped ETH",
       "symbol": "axlETH",
@@ -788,6 +812,14 @@
       "name": "Osaka Protocol",
       "symbol": "OSAK",
       "logoURI": "https://assets.smold.app/api/token/10/0xbFd5206962267c7b4b4A8B3D76AC2E1b2A5c4d5e/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xbf0c7ccB143126C1bE90a426f676f5cb313956d9",
+      "name": "Tempest",
+      "symbol": "TEM",
+      "logoURI": "https://assets.smold.app/api/token/10/0xbf0c7ccB143126C1bE90a426f676f5cb313956d9/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -900,6 +932,14 @@
       "name": "Mai Stablecoin",
       "symbol": "MAI",
       "logoURI": "https://assets.smold.app/api/token/10/0xdFA46478F9e5EA86d57387849598dbFB2e964b02/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xdb4eA87fF83eB1c80b8976FC47731Da6a31D35e5",
+      "name": "wTBT(Bridge Token)",
+      "symbol": "wTBT",
+      "logoURI": "https://assets.smold.app/api/token/10/0xdb4eA87fF83eB1c80b8976FC47731Da6a31D35e5/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },

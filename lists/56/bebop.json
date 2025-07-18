@@ -1,20 +1,36 @@
 {
   "name": "Bebop",
   "description": "",
-  "timestamp": "2024-10-13T01:37:42Z",
+  "timestamp": "2025-07-18T15:53:57Z",
   "version": {
-    "major": 19,
-    "minor": 1,
+    "major": 21,
+    "minor": 0,
     "patch": 0
   },
   "logoURI": "https://bebop-public-images.s3.eu-west-2.amazonaws.com/bebop-logo.png",
   "keywords": null,
   "tokens": [
     {
+      "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
+      "name": "Dai Token",
+      "symbol": "DAI",
+      "logoURI": "https://tokens.1inch.io/0x6b175474e89094c44da98b954eedeac495271d0f.png",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
       "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
       "name": "Ethereum Token",
       "symbol": "ETH",
       "logoURI": "https://tokens.1inch.io/0x2170ed0880ac9a755fd29b2688956bd959f933f8.png",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "address": "0x40af3827F39D0EAcBF4A168f8D4ee67c121D11c9",
+      "name": "TrueUSD",
+      "symbol": "TUSD",
+      "logoURI": "https://tokens.1inch.io/0x40af3827f39d0eacbf4a168f8d4ee67c121d11c9.png",
       "chainId": 56,
       "decimals": 18
     },
@@ -27,10 +43,18 @@
       "decimals": 18
     },
     {
-      "address": "0x6985884C4392D348587B19cb9eAAf157F13271cd",
-      "name": "LayerZero",
-      "symbol": "ZRO",
-      "logoURI": "https://assets.coingecko.com/coins/images/28206/large/ftxG9_TJ_400x400.jpeg?1668396420",
+      "address": "0x6894CDe390a3f51155ea41Ed24a33A4827d3063D",
+      "name": "Simons Cat",
+      "symbol": "CAT",
+      "logoURI": "https://assets.coingecko.com/coins/images/39765/large/Simon's_Cat_Logo.png?1724017505",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+      "name": "BTCB Token",
+      "symbol": "BTCB",
+      "logoURI": "https://tokens.1inch.io/0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c.png",
       "chainId": 56,
       "decimals": 18
     },

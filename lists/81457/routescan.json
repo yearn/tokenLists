@@ -1,9 +1,9 @@
 {
   "name": "RouteScan",
   "description": "",
-  "timestamp": "2025-07-13T01:29:23Z",
+  "timestamp": "2025-07-18T15:56:27Z",
   "version": {
-    "major": 33,
+    "major": 34,
     "minor": 0,
     "patch": 0
   },
@@ -30,18 +30,10 @@
       "decimals": 18
     },
     {
-      "address": "0x0F8881FC1fCA1f5151FA4205D55922fFA15E707a",
-      "name": "Blast Disperse",
-      "symbol": "DISP",
-      "logoURI": "https://assets.smold.app/api/token/81457/0x0F8881FC1fCA1f5151FA4205D55922fFA15E707a/logo-128.png",
-      "chainId": 81457,
-      "decimals": 18
-    },
-    {
-      "address": "0x1509706a6c66CA549ff0cB464de88231DDBe213B",
-      "name": "Aura",
-      "symbol": "AURA",
-      "logoURI": "https://cms-cdn.avascan.com/cms2/type=default_350_0.4ad2ed3e63e8",
+      "address": "0x1A3D9B2fa5c6522c8c071dC07125cE55dF90b253",
+      "name": "Duo USD",
+      "symbol": "DUSD",
+      "logoURI": "https://cms-cdn.avascan.com/cms2/duousd_32.1fb8847d5fb8.png",
       "chainId": 81457,
       "decimals": 18
     },
@@ -54,26 +46,10 @@
       "decimals": 18
     },
     {
-      "address": "0x29c55Eb48e578Cc498F9ACE4CBEFBa1b37E3374d",
-      "name": "Omega Liquidity Token",
-      "symbol": "OLT",
-      "logoURI": "https://assets.smold.app/api/token/81457/0x29c55Eb48e578Cc498F9ACE4CBEFBa1b37E3374d/logo-128.png",
-      "chainId": 81457,
-      "decimals": 18
-    },
-    {
       "address": "0x38aD23b0902D0d86c2F3949BC505194D70B762F5",
       "name": "Burn Wrapped AJNA",
       "symbol": "bwAJNA",
       "logoURI": "https://assets.smold.app/api/token/81457/0x38aD23b0902D0d86c2F3949BC505194D70B762F5/logo-128.png",
-      "chainId": 81457,
-      "decimals": 18
-    },
-    {
-      "address": "0x4186BFC76E2E237523CBC30FD220FE055156b41F",
-      "name": "KelpDao Restaked ETH",
-      "symbol": "rsETH",
-      "logoURI": "https://cms-cdn.avascan.com/cms2/KelpDAO Bridged rsETH  Optimism .6bb865873483.png",
       "chainId": 81457,
       "decimals": 18
     },
@@ -142,18 +118,18 @@
       "decimals": 18
     },
     {
-      "address": "0x7217124C626f0b7077bE91dF939195C9a8184ecC",
-      "name": "Finger Blast",
-      "symbol": "FINGER",
-      "logoURI": "https://cms-cdn.avascan.com/cms2/fingerblast_32.94bb324600cb.png",
-      "chainId": 81457,
-      "decimals": 18
-    },
-    {
       "address": "0x73c369F61c90f03eb0Dd172e95c90208A28dC5bc",
       "name": "OLE token powering both DistrictOne and OpenLeverage",
       "symbol": "OLE",
       "logoURI": "https://cms-cdn.avascan.com/cms2/openleverageole_32.4e4f676e9d85.png",
+      "chainId": 81457,
+      "decimals": 18
+    },
+    {
+      "address": "0x764933fbAd8f5D04Ccd088602096655c2ED9879F",
+      "name": "Any Inu (non-ITS)",
+      "symbol": "AI",
+      "logoURI": "https://cms-cdn.avascan.com/cms2/anyinu_32.54fb64a0fb01.png",
       "chainId": 81457,
       "decimals": 18
     },
@@ -166,6 +142,21 @@
       "decimals": 18
     },
     {
+      "address": "0x837fE561e9C5DFa73F607fDa679295DBC2Be5E40",
+      "name": "Monoswap USD",
+      "symbol": "MUSD",
+      "chainId": 81457,
+      "decimals": 18
+    },
+    {
+      "address": "0x949185D3BE66775Ea648F4a306740EA9eFF9C567",
+      "name": "YELToken",
+      "symbol": "YEL",
+      "logoURI": "https://cms-cdn.avascan.com/cms2/YEL-20220719.284f9f8bc43a.png",
+      "chainId": 81457,
+      "decimals": 18
+    },
+    {
       "address": "0x963eec23618BbC8e1766661d5f263f18094Ae4d5",
       "name": "Cybro Token",
       "symbol": "CYBRO",
@@ -174,10 +165,10 @@
       "decimals": 18
     },
     {
-      "address": "0xA4C7aA67189EC5623121c6C94Ec757DfeD932D4B",
-      "name": "Mia",
-      "symbol": "MIA",
-      "logoURI": "https://cms-cdn.avascan.com/cms2/mia.99a1cc8f2054.webp",
+      "address": "0x9bD75c164dAf830733AC2EA71A0258f95aac7C57",
+      "name": "BlastCat",
+      "symbol": "BCat",
+      "logoURI": "https://cms-cdn.avascan.com/cms2/200x200bcat-logo.cae99912e8eb.webp",
       "chainId": 81457,
       "decimals": 18
     },
@@ -212,6 +203,14 @@
       "logoURI": "https://cms-cdn.avascan.com/cms2/wbtc_32.c40a66859738.png",
       "chainId": 81457,
       "decimals": 8
+    },
+    {
+      "address": "0xaab1e605B12C70D7b3aA3e44fb21e96c7A12631c",
+      "name": "Yes USD",
+      "symbol": "yUSD",
+      "logoURI": "https://assets.smold.app/api/token/81457/0xaab1e605B12C70D7b3aA3e44fb21e96c7A12631c/logo-128.png",
+      "chainId": 81457,
+      "decimals": 18
     },
     {
       "address": "0xb1a5700fA2358173Fe465e6eA4Ff52E36e88E2ad",

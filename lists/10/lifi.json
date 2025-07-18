@@ -1,9 +1,9 @@
 {
   "name": "Lifi Token List",
   "description": "",
-  "timestamp": "2025-07-13T01:28:08Z",
+  "timestamp": "2025-07-18T15:53:47Z",
   "version": {
-    "major": 10,
+    "major": 11,
     "minor": 0,
     "patch": 0
   },
@@ -135,6 +135,14 @@
       "name": "Vana",
       "symbol": "VANA",
       "logoURI": "https://assets.smold.app/api/token/10/0x7FF7Fa94b8b66Ef313f7970d4EEbd2CB3103a2C0/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x90337e484B1Cb02132fc150d3Afa262147348545",
+      "name": "USDp",
+      "symbol": "USDp",
+      "logoURI": "https://assets.smold.app/api/token/10/0x90337e484B1Cb02132fc150d3Afa262147348545/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },

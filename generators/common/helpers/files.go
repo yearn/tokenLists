@@ -470,7 +470,7 @@ func SaveChainListInJsonFile(
 		** Save the list
 		**************************************************************************/
 		tokenList.Name = chains.CHAINS[chainID].Name
-		tokenList.LogoURI = `https://assets.smold.app/chains/` + chainIDStr + `/logo-128.png`
+		tokenList.LogoURI = `https://token-assets-one.vercel.app/chains/` + chainIDStr + `/logo-128.png`
 		tokenList.Tokens = tokens
 		jsonData, err := json.MarshalIndent(tokenList, "", "  ")
 		if err != nil {

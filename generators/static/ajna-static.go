@@ -1131,12 +1131,12 @@ var AJNA_STATIC_TOKENLIST = map[uint64][]TStaticElement{
 		{`0xE41d2489571d322189246DaFA5ebDe1F4699F498`, `https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xE41d2489571d322189246DaFA5ebDe1F4699F498/logo.png`},
 		{`0xC91a71A1fFA3d8B22ba615BA1B9c01b2BBBf55ad`, `https://assets.coingecko.com/coins/images/26141/large/zig_zag.?1656248564`},
 		{`0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2`, `https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png`},
-		{`0x24Ae2dA0f361AA4BE46b48EB19C91e02c5e4f27E`, `https://assets.smold.app/api/token/1/0x24Ae2dA0f361AA4BE46b48EB19C91e02c5e4f27E/logo-128.png`},
-		{`0x2a8c22E3b10036f3AEF5875d04f8441d4188b656`, `https://assets.smold.app/api/token/1/0x2a8c22E3b10036f3AEF5875d04f8441d4188b656/logo-128.png`},
+		{`0x24Ae2dA0f361AA4BE46b48EB19C91e02c5e4f27E`, `https://token-assets-one.vercel.app/api/token/1/0x24Ae2dA0f361AA4BE46b48EB19C91e02c5e4f27E/logo-128.png`},
+		{`0x2a8c22E3b10036f3AEF5875d04f8441d4188b656`, `https://token-assets-one.vercel.app/api/token/1/0x2a8c22E3b10036f3AEF5875d04f8441d4188b656/logo-128.png`},
 	},
 	10: {
 		{`0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85`, `https://raw.githubusercontent.com/SmolDapp/tokenAssets/main/tokens/10/0x0b2c639c533813f4aa9d7837caf62653d097ff85/logo-128.png`},
-		{`0x4200000000000000000000000000000000000042`, `https://assets.smold.app/token/10/0x4200000000000000000000000000000000000042/logo-128.png`},
+		{`0x4200000000000000000000000000000000000042`, `https://token-assets-one.vercel.app/token/10/0x4200000000000000000000000000000000000042/logo-128.png`},
 	},
 	5: {
 		{`0xaadebCF61AA7Da0573b524DE57c67aDa797D46c5`, `https://assets.coingecko.com/coins/images/30187/large/AJNA-Icon-200.png?1683601845`},
@@ -1731,8 +1731,8 @@ var AJNA_STATIC_TOKENLIST = map[uint64][]TStaticElement{
 		{`0x050C24dBf1eEc17babE5fc585F06116A259CC77A`, `https://raw.githubusercontent.com/SmolDapp/tokenAssets/main/tokens/42161/0x050c24dbf1eec17babe5fc585f06116a259cc77a/logo-128.png`},
 	},
 	1380012617: {
-		{`0xf037540e51d71b2d2b1120e8432ba49f29edfbd0`, `https://assets.smold.app/api/token/1380012617/0xf037540e51d71b2d2b1120e8432ba49f29edfbd0/logo-128.png`}, // wETH
-		{`0xfbda5f676cb37624f28265a144a48b0d6e87d3b6`, `https://assets.smold.app/api/token/1380012617/0xfbda5f676cb37624f28265a144a48b0d6e87d3b6/logo-128.png`}, // USDC
-		{`0x362fae9a75b27bbc550aac28a7c1f96c8d483120`, `https://assets.smold.app/api/token/1380012617/0x362fae9a75b27bbc550aac28a7c1f96c8d483120/logo-128.png`}, // USDT
+		{`0xf037540e51d71b2d2b1120e8432ba49f29edfbd0`, `https://token-assets-one.vercel.app/api/token/1380012617/0xf037540e51d71b2d2b1120e8432ba49f29edfbd0/logo-128.png`}, // wETH
+		{`0xfbda5f676cb37624f28265a144a48b0d6e87d3b6`, `https://token-assets-one.vercel.app/api/token/1380012617/0xfbda5f676cb37624f28265a144a48b0d6e87d3b6/logo-128.png`}, // USDC
+		{`0x362fae9a75b27bbc550aac28a7c1f96c8d483120`, `https://token-assets-one.vercel.app/api/token/1380012617/0x362fae9a75b27bbc550aac28a7c1f96c8d483120/logo-128.png`}, // USDT
 	},
 }

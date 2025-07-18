@@ -33,7 +33,7 @@ func fetchYearnMinTokenList() []models.TokenListToken {
 				Address: vault.Address,
 				Name:    vault.Name,
 				Symbol:  vault.Symbol,
-				LogoURI: `https://assets.smold.app/api/token/` + chainIDStr + `/` + vault.Address + `/logo-128.png`,
+				LogoURI: `https://token-assets-one.vercel.app/api/token/` + chainIDStr + `/` + vault.Address + `/logo-128.png`,
 				ChainID: chainID,
 			})
 
@@ -52,7 +52,7 @@ func fetchYearnMinTokenList() []models.TokenListToken {
 func buildYearnMinimalTokenList() {
 	tokenList := helpers.LoadTokenListFromJsonFile(`yearn-min.json`)
 	tokenList.Name = `Yearn Minimal Token List`
-	tokenList.LogoURI = `https://assets.smold.app/api/token/1/0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e/logo.svg`
+	tokenList.LogoURI = `https://token-assets-one.vercel.app/api/token/1/0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e/logo.svg`
 	tokenList.Keywords = []string{`yearn`, `yfi`, `yvault`, `ytoken`, `ycurve`, `yprotocol`, `vaults`}
 	tokens := fetchYearnMinTokenList()
 

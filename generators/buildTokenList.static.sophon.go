@@ -15,7 +15,7 @@ func buildSophonStaticTokenList() {
 	tokenList := helpers.LoadTokenListFromJsonFile(`sophon-static.json`)
 	tokenList.Name = `Sophon (Static)`
 	tokenList.Description = `Sophon aims to make the experiences people already love more valuable, more connected, and more rewarding`
-	tokenList.LogoURI = `https://assets.smold.app/chains/50104/logo-128.png`
+	tokenList.LogoURI = `https://token-assets-one.vercel.app/chains/50104/logo-128.png`
 	tokenList.Keywords = []string{`Sophon`}
 	tokens := []models.TokenListToken{}
 	tokens = append(tokens, fetchSophonStaticTokenList(50104)...)

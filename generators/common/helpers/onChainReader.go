@@ -208,7 +208,7 @@ func GetTokensFromAddresses(chainID uint64, tokenAddresses []string) []models.To
 		if token, ok := tokensInfo[utils.ToAddress(address)]; ok {
 			logoURI := getExistingLogo(chainID, address, tokenList)
 			if logoURI == `` {
-				logoURI = `https://assets.smold.app/api/token/` + strconv.FormatUint(chainID, 10) + `/` + token.Address + `/logo-128.png`
+				logoURI = `https://token-assets-one.vercel.app/api/token/` + strconv.FormatUint(chainID, 10) + `/` + token.Address + `/logo-128.png`
 			}
 			if newToken, err := SetToken(
 				token.Address,

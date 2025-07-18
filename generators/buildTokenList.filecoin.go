@@ -39,7 +39,7 @@ func fetchFilscanTokens(chainID uint64) []models.TokenListToken {
 func buildFilecoinTokenList() {
 	tokenList := helpers.LoadTokenListFromJsonFile(`filecoin.json`)
 	tokenList.Name = `filecoin`
-	tokenList.LogoURI = `https://assets.smold.app/api/chains/314/logo-128.png`
+	tokenList.LogoURI = `https://token-assets-one.vercel.app/api/chains/314/logo-128.png`
 	tokenList.Keywords = []string{`filecoin`}
 	tokens := []models.TokenListToken{}
 	tokens = append(tokens, fetchFilscanTokens(314)...)

@@ -1,10 +1,10 @@
 {
   "name": "Blockscout",
   "description": "",
-  "timestamp": "2025-07-13T01:13:58Z",
+  "timestamp": "2025-07-18T19:50:14Z",
   "version": {
-    "major": 95,
-    "minor": 0,
+    "major": 96,
+    "minor": 1,
     "patch": 0
   },
   "logoURI": "https://2383309224-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-Lq1XoWGmy8zggj_u2fM%2Ficon%2FyFkt6mPJJvjKiSBBOppe%2FBS_logo_slack.png?alt=media",
@@ -89,7 +89,7 @@
       "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
       "name": "Bridged USD Coin (PoS)",
       "symbol": "USDC.e",
-      "logoURI": "https://assets.smold.app/api/token/137/0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174/logo-128.png",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/137/0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174/logo-128.png",
       "chainId": 137,
       "decimals": 6
     },
@@ -97,7 +97,7 @@
       "address": "0x2893Ef551B6dD69F661Ac00F11D93E5Dc5Dc0e99",
       "name": "BlackRock USD Institutional Digital Liquidity Fund",
       "symbol": "BUIDL",
-      "logoURI": "https://asset-images.messari.io/images/18282bf5-ef60-4e10-9fed-6a057fb4890a/128.png",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/137/0x2893Ef551B6dD69F661Ac00F11D93E5Dc5Dc0e99/logo-128.png",
       "chainId": 137,
       "decimals": 6
     },
@@ -121,7 +121,7 @@
       "address": "0x3c499c542cEF5E3811e1192ce70d8cC03d5c3359",
       "name": "USD Coin",
       "symbol": "USDC",
-      "logoURI": "https://assets.smold.app/api/token/137/0x3c499c542cEF5E3811e1192ce70d8cC03d5c3359/logo-128.png",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/137/0x3c499c542cEF5E3811e1192ce70d8cC03d5c3359/logo-128.png",
       "chainId": 137,
       "decimals": 6
     },
@@ -217,7 +217,7 @@
       "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
       "name": "Wrapped Ether",
       "symbol": "WETH",
-      "logoURI": "https://assets.smold.app/api/token/137/0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619/logo-128.png",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/137/0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619/logo-128.png",
       "chainId": 137,
       "decimals": 18
     },
@@ -241,7 +241,7 @@
       "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
       "name": "(PoS) Dai Stablecoin",
       "symbol": "DAI",
-      "logoURI": "https://assets.smold.app/api/token/137/0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063/logo-128.png",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/137/0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063/logo-128.png",
       "chainId": 137,
       "decimals": 18
     },
@@ -305,7 +305,7 @@
       "address": "0xD6DF932A45C0f255f85145f286eA0b292B21C90B",
       "name": "Aave (PoS)",
       "symbol": "AAVE",
-      "logoURI": "https://assets.smold.app/api/token/137/0xD6DF932A45C0f255f85145f286eA0b292B21C90B/logo-128.png",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/137/0xD6DF932A45C0f255f85145f286eA0b292B21C90B/logo-128.png",
       "chainId": 137,
       "decimals": 18
     },
@@ -337,7 +337,7 @@
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "name": "Matic",
       "symbol": "MATIC",
-      "logoURI": "https://assets.smold.app/api/token/137/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE/logo-128.png",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/137/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE/logo-128.png",
       "chainId": 137,
       "decimals": 18
     },
@@ -345,7 +345,7 @@
       "address": "0xa0769f7A8fC65e47dE93797b4e21C073c117Fc80",
       "name": "Spiko EU T-Bills Money Market Fund",
       "symbol": "EUTBL",
-      "logoURI": "https://assets.smold.app/api/token/137/0xa0769f7A8fC65e47dE93797b4e21C073c117Fc80/logo-128.png",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/137/0xa0769f7A8fC65e47dE93797b4e21C073c117Fc80/logo-128.png",
       "chainId": 137,
       "decimals": 5
     },
@@ -361,7 +361,7 @@
       "address": "0xa615Df92fCa12ad40B8f642F46167B623A03d646",
       "name": "Satoshi Airline",
       "symbol": "JET",
-      "logoURI": "https://assets.smold.app/api/token/137/0xa615Df92fCa12ad40B8f642F46167B623A03d646/logo-128.png",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/137/0xa615Df92fCa12ad40B8f642F46167B623A03d646/logo-128.png",
       "chainId": 137,
       "decimals": 8
     },
@@ -385,7 +385,7 @@
       "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
       "name": "(PoS) Tether USD",
       "symbol": "USDT",
-      "logoURI": "https://assets.smold.app/api/token/137/0xc2132D05D31c914a87C6611C10748AEb04B58e8F/logo-128.png",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/137/0xc2132D05D31c914a87C6611C10748AEb04B58e8F/logo-128.png",
       "chainId": 137,
       "decimals": 6
     },
@@ -393,7 +393,7 @@
       "address": "0xc4Ce1D6F5D98D65eE25Cf85e9F2E9DcFEe6Cb5d6",
       "name": "Curve.Fi USD Stablecoin(PoS)",
       "symbol": "crvUSD",
-      "logoURI": "https://assets.smold.app/api/token/137/0xc4Ce1D6F5D98D65eE25Cf85e9F2E9DcFEe6Cb5d6/logo-128.png",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/137/0xc4Ce1D6F5D98D65eE25Cf85e9F2E9DcFEe6Cb5d6/logo-128.png",
       "chainId": 137,
       "decimals": 18
     },

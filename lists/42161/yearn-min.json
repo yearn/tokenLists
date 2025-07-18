@@ -1,10 +1,10 @@
 {
   "name": "Yearn Minimal Token List",
   "description": "",
-  "timestamp": "2025-07-13T01:27:46Z",
+  "timestamp": "2025-07-18T19:54:44Z",
   "version": {
-    "major": 9,
-    "minor": 26,
+    "major": 10,
+    "minor": 1,
     "patch": 0
   },
   "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e/logo.svg",
@@ -291,6 +291,14 @@
       "decimals": 18
     },
     {
+      "address": "0x252b965400862d94BDa35FeCF7Ee0f204a53Cc36",
+      "name": "Yearn USND",
+      "symbol": "yUSND",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x252b965400862d94BDa35FeCF7Ee0f204a53Cc36/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
       "address": "0x25d887Ce7a35172C62FeBFD67a1856F20FaEbB00",
       "name": "Pepe",
       "symbol": "PEPE",
@@ -543,6 +551,13 @@
       "name": "Lido wstETH LP (27 JUN 2024)",
       "symbol": "ysPENDLE-LPT",
       "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x4da30274267DeDc73A6A7eB233fBa81691f34Ef7/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0x4ecf61a6c2FaB8A047CEB3B3B263B401763e9D49",
+      "name": "US Nerite Dollar",
+      "symbol": "USND",
       "chainId": 42161,
       "decimals": 18
     },
@@ -845,7 +860,7 @@
       "address": "0x85968BF0f1f110C707fEF10a59f80118F349c058",
       "name": "AaveV3 USDC.e Lender",
       "symbol": "ysUSDC",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x85968BF0f1f110C707fEF10a59f80118F349c058/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0x85968BF0f1f110C707fEF10a59f80118F349c058/logo-128.png",
       "chainId": 42161,
       "decimals": 6
     },
@@ -853,7 +868,7 @@
       "address": "0x8A64111709Ce75434b9156e3878cDD5B1fBC2D13",
       "name": "Silo PT-eETH LP (25 APR 2024)",
       "symbol": "ysPENDLE-LPT",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x8A64111709Ce75434b9156e3878cDD5B1fBC2D13/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0x8A64111709Ce75434b9156e3878cDD5B1fBC2D13/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -861,7 +876,7 @@
       "address": "0x8Be4715f1DB9e8551fEA5ef8b30A2eb99398e5d2",
       "name": "Silo Finance Borrowable WETH Deposit in PT-weETH-25APR2024 Silo",
       "symbol": "sWETH-PT-weETH-25APR2024",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x8Be4715f1DB9e8551fEA5ef8b30A2eb99398e5d2/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0x8Be4715f1DB9e8551fEA5ef8b30A2eb99398e5d2/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -869,7 +884,7 @@
       "address": "0x8C8F82A3A24C3EF2DD9Cefd4A8faa8cA9807DB55",
       "name": "SY sETH-pteETHSilo",
       "symbol": "SY-sETH-pteETHSilo",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x8C8F82A3A24C3EF2DD9Cefd4A8faa8cA9807DB55/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0x8C8F82A3A24C3EF2DD9Cefd4A8faa8cA9807DB55/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -877,7 +892,7 @@
       "address": "0x8b5aa1688297BC2e4664a18Df6ad22a70c4178B8",
       "name": "Camelot PENDLE-ETH LP (27 JUN 2024)",
       "symbol": "ysPENDLE-LPT",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x8b5aa1688297BC2e4664a18Df6ad22a70c4178B8/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0x8b5aa1688297BC2e4664a18Df6ad22a70c4178B8/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -893,7 +908,7 @@
       "address": "0x8f5Ee98867f5d5CFd71eaEfE9997ea37A46dEb33",
       "name": "SY sETH-ptrsETHSilo",
       "symbol": "SY-sETH-ptrsETHSilo",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x8f5Ee98867f5d5CFd71eaEfE9997ea37A46dEb33/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0x8f5Ee98867f5d5CFd71eaEfE9997ea37A46dEb33/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -909,7 +924,7 @@
       "address": "0x92F1E6D904f21c05074952bbAD51D91fd9F8730f",
       "name": "ezETH LP (27 JUN 2024)",
       "symbol": "ysPENDLE-LPT",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x92F1E6D904f21c05074952bbAD51D91fd9F8730f/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0x92F1E6D904f21c05074952bbAD51D91fd9F8730f/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -917,7 +932,7 @@
       "address": "0x985c0271ad0bF0a45951b64EB6FC58010B050908",
       "name": "yPT-Pendle-ETH-Camelot (auto-rolling Pendle PT)",
       "symbol": "yPT-Pendle-ETH-Camelot",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x985c0271ad0bF0a45951b64EB6FC58010B050908/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0x985c0271ad0bF0a45951b64EB6FC58010B050908/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -925,7 +940,7 @@
       "address": "0x989b2A056DB791aCA934686EeBE9b0514D635a11",
       "name": "TestTokenV1-2 CBDevOps",
       "symbol": "TestTokenV1-2 CBDevOps",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x989b2A056DB791aCA934686EeBE9b0514D635a11/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0x989b2A056DB791aCA934686EeBE9b0514D635a11/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -949,7 +964,7 @@
       "address": "0x9C5fe8db1543B0C47D10BAcbd66fDE454f341D88",
       "name": "BankVault",
       "symbol": "BV",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x9C5fe8db1543B0C47D10BAcbd66fDE454f341D88/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0x9C5fe8db1543B0C47D10BAcbd66fDE454f341D88/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -957,7 +972,7 @@
       "address": "0x9Cd4A7c7e7869AA8a2a6b28dA6B4CFA1f3E2F1F0",
       "name": "Yearn-Silo USDC Vault",
       "symbol": "yvSiloUSDC",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x9Cd4A7c7e7869AA8a2a6b28dA6B4CFA1f3E2F1F0/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0x9Cd4A7c7e7869AA8a2a6b28dA6B4CFA1f3E2F1F0/logo-128.png",
       "chainId": 42161,
       "decimals": 6
     },
@@ -965,7 +980,7 @@
       "address": "0x9FA306b1F4a6a83FEC98d8eBbaBEDfF78C407f6B",
       "name": "USDC-2 yVault",
       "symbol": "yvUSDC-2",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x9FA306b1F4a6a83FEC98d8eBbaBEDfF78C407f6B/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0x9FA306b1F4a6a83FEC98d8eBbaBEDfF78C407f6B/logo-128.png",
       "chainId": 42161,
       "decimals": 6
     },
@@ -973,7 +988,7 @@
       "address": "0x9d0c7DAFE3b34B51010DB522b9F17455Fa9Cea7C",
       "name": "Silo Finance Borrowable WETH Deposit in PT-weETH-26SEP2024 Silo",
       "symbol": "sWETH-PT-weETH-26SEP2024",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x9d0c7DAFE3b34B51010DB522b9F17455Fa9Cea7C/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0x9d0c7DAFE3b34B51010DB522b9F17455Fa9Cea7C/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -988,7 +1003,7 @@
       "address": "0x9eD00a5dc4b8e96ECDa1B863975A597917948C38",
       "name": "yPT-dUSDC (auto-rolling Pendle PT)",
       "symbol": "yPT-dUSDC",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x9eD00a5dc4b8e96ECDa1B863975A597917948C38/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0x9eD00a5dc4b8e96ECDa1B863975A597917948C38/logo-128.png",
       "chainId": 42161,
       "decimals": 6
     },
@@ -996,7 +1011,7 @@
       "address": "0xA4B8873B4629c20f2167c0A2bC33B6AF8699dDc1",
       "name": "Silo Lender wstETH/USDC.e",
       "symbol": "ysUSDC",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xA4B8873B4629c20f2167c0A2bC33B6AF8699dDc1/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xA4B8873B4629c20f2167c0A2bC33B6AF8699dDc1/logo-128.png",
       "chainId": 42161,
       "decimals": 6
     },
@@ -1012,7 +1027,7 @@
       "address": "0xAce460a8e3F5F219Ea9DDB10a0764AedeE8C09e1",
       "name": "usdc-vault",
       "symbol": "usdc-stk",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xAce460a8e3F5F219Ea9DDB10a0764AedeE8C09e1/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xAce460a8e3F5F219Ea9DDB10a0764AedeE8C09e1/logo-128.png",
       "chainId": 42161,
       "decimals": 6
     },
@@ -1020,7 +1035,7 @@
       "address": "0xAebA9F4a9293213e0E3ed18A2F688BDDd7f5FB0c",
       "name": "yPT-gDAI (auto-rolling Pendle PT)",
       "symbol": "yPT-gDAI",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xAebA9F4a9293213e0E3ed18A2F688BDDd7f5FB0c/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xAebA9F4a9293213e0E3ed18A2F688BDDd7f5FB0c/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -1028,7 +1043,7 @@
       "address": "0xB2C12a6C665BB8383b1EC21DA115015e0763d4df",
       "name": "Prize gUSDC",
       "symbol": "przUSDC",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xB2C12a6C665BB8383b1EC21DA115015e0763d4df/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xB2C12a6C665BB8383b1EC21DA115015e0763d4df/logo-128.png",
       "chainId": 42161,
       "decimals": 6
     },
@@ -1068,7 +1083,7 @@
       "address": "0xC40DA6a01Ac36F39736731ee50fb3b1B8204e2D3",
       "name": "yPT-rETH (auto-rolling Pendle PT)",
       "symbol": "yPT-rETH",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xC40DA6a01Ac36F39736731ee50fb3b1B8204e2D3/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xC40DA6a01Ac36F39736731ee50fb3b1B8204e2D3/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -1076,7 +1091,7 @@
       "address": "0xC46C5DE6eCa1CA6dc3f8c5d3ce863aE326F4b2CF",
       "name": "Silo Finance Borrowable WETH Deposit in wstETH Silo",
       "symbol": "sWETH-wstETH",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xC46C5DE6eCa1CA6dc3f8c5d3ce863aE326F4b2CF/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xC46C5DE6eCa1CA6dc3f8c5d3ce863aE326F4b2CF/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -1084,7 +1099,7 @@
       "address": "0xC80e7eee121570F36c629378De42EB80dc22eCAd",
       "name": "TestToken 20250221-1 LucasiaLLC",
       "symbol": "TestToken 20250221-1 LucasiaLLC",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xC80e7eee121570F36c629378De42EB80dc22eCAd/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xC80e7eee121570F36c629378De42EB80dc22eCAd/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -1092,7 +1107,7 @@
       "address": "0xCACc53bAcCe744ac7b5C1eC7eb7e3Ab01330733b",
       "name": "USDC CompoundV3 Lender",
       "symbol": "ysUSDC",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xCACc53bAcCe744ac7b5C1eC7eb7e3Ab01330733b/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xCACc53bAcCe744ac7b5C1eC7eb7e3Ab01330733b/logo-128.png",
       "chainId": 42161,
       "decimals": 6
     },
@@ -1100,7 +1115,7 @@
       "address": "0xCB1A0a9C9cBBca82A395301267d525125cFBa557",
       "name": "Silo wstETH LP (26 DEC 2024)",
       "symbol": "ysPENDLE-LPT",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xCB1A0a9C9cBBca82A395301267d525125cFBa557/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xCB1A0a9C9cBBca82A395301267d525125cFBa557/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -1108,7 +1123,7 @@
       "address": "0xD21E503d8aC357A7C8F8897BF84a4Bfd14fEc6E1",
       "name": "yPT-USDC-Dolomite (auto-rolling Pendle PT)",
       "symbol": "yPT-USDC-Dolomite",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xD21E503d8aC357A7C8F8897BF84a4Bfd14fEc6E1/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xD21E503d8aC357A7C8F8897BF84a4Bfd14fEc6E1/logo-128.png",
       "chainId": 42161,
       "decimals": 6
     },
@@ -1124,7 +1139,7 @@
       "address": "0xDa3b69a45797DCA697Ff5bB2c10682f14373c063",
       "name": "USDC-1 yVault",
       "symbol": "yvUSDC-1",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xDa3b69a45797DCA697Ff5bB2c10682f14373c063/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xDa3b69a45797DCA697Ff5bB2c10682f14373c063/logo-128.png",
       "chainId": 42161,
       "decimals": 6
     },
@@ -1132,7 +1147,7 @@
       "address": "0xDfaa4001308F5eC4d06920cD0D2C649c6f930e2C",
       "name": "mPENDLE LP (26 SEP 2024)",
       "symbol": "ysPENDLE-LPT",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xDfaa4001308F5eC4d06920cD0D2C649c6f930e2C/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xDfaa4001308F5eC4d06920cD0D2C649c6f930e2C/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -1148,7 +1163,7 @@
       "address": "0xE6Dbfb035B44E94D07F7B3e4f6bfBf1C6e68e3d0",
       "name": "MUV001 - Flagship USDC",
       "symbol": "MUV001_USDC",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xE6Dbfb035B44E94D07F7B3e4f6bfBf1C6e68e3d0/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xE6Dbfb035B44E94D07F7B3e4f6bfBf1C6e68e3d0/logo-128.png",
       "chainId": 42161,
       "decimals": 6
     },
@@ -1156,7 +1171,7 @@
       "address": "0xE82D060687C014B280b65df24AcD94A77251C784",
       "name": "Silo Lender wBTC/USDC.e",
       "symbol": "ysUSDC",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xE82D060687C014B280b65df24AcD94A77251C784/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xE82D060687C014B280b65df24AcD94A77251C784/logo-128.png",
       "chainId": 42161,
       "decimals": 6
     },
@@ -1172,7 +1187,7 @@
       "address": "0xEa7DD7285350d1153510069Ac4b382a96E479683",
       "name": "MUV001 - Terra Vault",
       "symbol": "MUV001",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xEa7DD7285350d1153510069Ac4b382a96E479683/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xEa7DD7285350d1153510069Ac4b382a96E479683/logo-128.png",
       "chainId": 42161,
       "decimals": 6
     },
@@ -1180,7 +1195,7 @@
       "address": "0xEdC4949AdB7C6e7aeed4AE2545Cb4aeF82583Bd8",
       "name": "Lumin Finance Arbitrum USDC",
       "symbol": "lfArbUSDC",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xEdC4949AdB7C6e7aeed4AE2545Cb4aeF82583Bd8/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xEdC4949AdB7C6e7aeed4AE2545Cb4aeF82583Bd8/logo-128.png",
       "chainId": 42161,
       "decimals": 6
     },
@@ -1188,7 +1203,7 @@
       "address": "0xEde3D8D3213D8defC37E4EdEA86448D4c692bAa6",
       "name": "Silo Finance Borrowable WETH Deposit in PT-ezETH-27JUN2024 Silo",
       "symbol": "sWETH-PT-ezETH-27JUN2024",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xEde3D8D3213D8defC37E4EdEA86448D4c692bAa6/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xEde3D8D3213D8defC37E4EdEA86448D4c692bAa6/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -1203,7 +1218,7 @@
       "address": "0xFE7AebD759C6e251afa44aF17de4cc88F83FF6a4",
       "name": "Lumin Finance Arbitrum USDT",
       "symbol": "lfArbUSDT",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xFE7AebD759C6e251afa44aF17de4cc88F83FF6a4/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xFE7AebD759C6e251afa44aF17de4cc88F83FF6a4/logo-128.png",
       "chainId": 42161,
       "decimals": 6
     },
@@ -1235,7 +1250,7 @@
       "address": "0xa7FEa37aE7eb3fE0b26AB454399cf42Fe5E308A3",
       "name": "Asset Super Stakehouse",
       "symbol": "ASS",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xa7FEa37aE7eb3fE0b26AB454399cf42Fe5E308A3/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xa7FEa37aE7eb3fE0b26AB454399cf42Fe5E308A3/logo-128.png",
       "chainId": 42161,
       "decimals": 6
     },
@@ -1251,7 +1266,7 @@
       "address": "0xb119e90Beb09Fcf9ABc92c20a8D84fe8bdfcc6E3",
       "name": "Kelp rsETH LP (25 APR 2024)",
       "symbol": "ysPENDLE-LPT",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xb119e90Beb09Fcf9ABc92c20a8D84fe8bdfcc6E3/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xb119e90Beb09Fcf9ABc92c20a8D84fe8bdfcc6E3/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -1259,7 +1274,7 @@
       "address": "0xb739AE19620f7ECB4fb84727f205453aa5bc1AD2",
       "name": "Silo Lender ARB/USDC.e",
       "symbol": "ysUSDC",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xb739AE19620f7ECB4fb84727f205453aa5bc1AD2/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xb739AE19620f7ECB4fb84727f205453aa5bc1AD2/logo-128.png",
       "chainId": 42161,
       "decimals": 6
     },
@@ -1275,7 +1290,7 @@
       "address": "0xc0ba9bfED28aB46Da48d2B69316A3838698EF3f5",
       "name": "USDT-A yVault",
       "symbol": "yvUSDT-A",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xc0ba9bfED28aB46Da48d2B69316A3838698EF3f5/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xc0ba9bfED28aB46Da48d2B69316A3838698EF3f5/logo-128.png",
       "chainId": 42161,
       "decimals": 6
     },
@@ -1283,7 +1298,7 @@
       "address": "0xc49d8fdA920a46B21E1821780238f9E7A0de68df",
       "name": "SY sETH-wstEthSilo",
       "symbol": "SY-sETH-wstEthSilo",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xc49d8fdA920a46B21E1821780238f9E7A0de68df/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xc49d8fdA920a46B21E1821780238f9E7A0de68df/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -1291,7 +1306,7 @@
       "address": "0xc987809440fDd08dCEA0d0571C7A8E9a9Bbb45Cc",
       "name": "SY gUSDC",
       "symbol": "SY-gUSDC",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xc987809440fDd08dCEA0d0571C7A8E9a9Bbb45Cc/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xc987809440fDd08dCEA0d0571C7A8E9a9Bbb45Cc/logo-128.png",
       "chainId": 42161,
       "decimals": 6
     },
@@ -1299,7 +1314,7 @@
       "address": "0xd0c4351a18F40b96b6446Da3A191496DF36d60F9",
       "name": "SY sETH-pteETHSilo",
       "symbol": "SY-sETH-pteETHSilo",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xd0c4351a18F40b96b6446Da3A191496DF36d60F9/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xd0c4351a18F40b96b6446Da3A191496DF36d60F9/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -1315,7 +1330,7 @@
       "address": "0xd49Afd20AFF04F86127C4b7b2eD893aAD82F8d9b",
       "name": "TestToken 20250221-1 CBDevOps",
       "symbol": "TestToken 20250221-1 CBDevOps",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xd49Afd20AFF04F86127C4b7b2eD893aAD82F8d9b/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xd49Afd20AFF04F86127C4b7b2eD893aAD82F8d9b/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -1331,7 +1346,7 @@
       "address": "0xd89ee1E95f7728f6964CF321E2648cCd29a881f1",
       "name": "AaveV3 USDC Lender",
       "symbol": "ysUSDC",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xd89ee1E95f7728f6964CF321E2648cCd29a881f1/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xd89ee1E95f7728f6964CF321E2648cCd29a881f1/logo-128.png",
       "chainId": 42161,
       "decimals": 6
     },
@@ -1346,7 +1361,7 @@
       "address": "0xeAdB712d95f347c3223261ef0f67505579eAC159",
       "name": "USDC-1 TEST LucasiaLLC",
       "symbol": "USDC-1 Test LucasiaLLC",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xeAdB712d95f347c3223261ef0f67505579eAC159/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xeAdB712d95f347c3223261ef0f67505579eAC159/logo-128.png",
       "chainId": 42161,
       "decimals": 6
     },
@@ -1362,7 +1377,7 @@
       "address": "0xf7d015BD465BeAf7360064f451Fdf16949199848",
       "name": "Usdc Kalani",
       "symbol": "klUSDC",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xf7d015BD465BeAf7360064f451Fdf16949199848/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xf7d015BD465BeAf7360064f451Fdf16949199848/logo-128.png",
       "chainId": 42161,
       "decimals": 6
     }

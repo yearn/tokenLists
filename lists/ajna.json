@@ -1,10 +1,10 @@
 {
   "name": "Ajna",
   "description": "",
-  "timestamp": "2025-07-06T01:01:19Z",
+  "timestamp": "2025-07-18T19:57:33Z",
   "version": {
     "major": 33,
-    "minor": 27,
+    "minor": 28,
     "patch": 0
   },
   "logoURI": "https://www.ajna.finance/static/tokens/ajna.png",
@@ -2316,7 +2316,7 @@
       "address": "0x4C6B65fe93fc9DaF413498b88195FAfFF36dD960",
       "name": "Liquid staked Ether 2.0 (PoS)",
       "symbol": "stETH",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/137/0x4C6B65fe93fc9DaF413498b88195FAfFF36dD960/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/137/0x4C6B65fe93fc9DaF413498b88195FAfFF36dD960/logo-128.png",
       "chainId": 137,
       "decimals": 18
     },
@@ -3444,7 +3444,7 @@
       "address": "0xDa3a17c8cA5d23d40D59AEF4E0f9c4D9da353E76",
       "name": "Curve.fi Factory Crypto Pool: Caribbean Oatmeal",
       "symbol": "XCO-f",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/137/0xDa3a17c8cA5d23d40D59AEF4E0f9c4D9da353E76/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/137/0xDa3a17c8cA5d23d40D59AEF4E0f9c4D9da353E76/logo-128.png",
       "chainId": 137,
       "decimals": 18
     },
@@ -4315,7 +4315,7 @@
       "address": "0x4EA71A20e655794051D1eE8b6e4A3269B13ccaCc",
       "name": "Static Aave Base USDC",
       "symbol": "stataBasUSDC",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0x4EA71A20e655794051D1eE8b6e4A3269B13ccaCc/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/8453/0x4EA71A20e655794051D1eE8b6e4A3269B13ccaCc/logo-128.png",
       "chainId": 8453,
       "decimals": 6
     },
@@ -4499,7 +4499,7 @@
       "address": "0x9DE16c805A3227b9b92e39a446F9d56cf59fe640",
       "name": "Bento",
       "symbol": "BENTO",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0x9DE16c805A3227b9b92e39a446F9d56cf59fe640/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/8453/0x9DE16c805A3227b9b92e39a446F9d56cf59fe640/logo-128.png",
       "chainId": 8453,
       "decimals": 18
     },
@@ -4715,7 +4715,7 @@
       "address": "0xd75f5Bee37168F97552F843076adc2eA9A8A0935",
       "name": "LERNITAS",
       "symbol": "2192",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0xd75f5Bee37168F97552F843076adc2eA9A8A0935/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/8453/0xd75f5Bee37168F97552F843076adc2eA9A8A0935/logo-128.png",
       "chainId": 8453,
       "decimals": 18
     },
@@ -4976,10 +4976,26 @@
       "decimals": 18
     },
     {
+      "address": "0x4ecf61a6c2FaB8A047CEB3B3B263B401763e9D49",
+      "name": "US Nerite Dollar",
+      "symbol": "USND",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x4ecf61a6c2FaB8A047CEB3B3B263B401763e9D49/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
       "address": "0x539bdE0d7Dbd336b79148AA742883198BBF60342",
       "name": "MAGIC",
       "symbol": "MAGIC",
       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x539bdE0d7Dbd336b79148AA742883198BBF60342.jpg",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0x58b9cB810A68a7f3e1E4f8Cb45D1B9B3c79705E8",
+      "name": "Everclear",
+      "symbol": "CLEAR",
+      "logoURI": "https://assets.coingecko.com/coins/images/31293/large/connext.png?1692331440",
       "chainId": 42161,
       "decimals": 18
     },
@@ -5058,7 +5074,7 @@
       "address": "0x8EA5040d423410f1fdc363379Af88e1DB5eA1C34",
       "name": "PT Renzo ezETH 27JUN2024",
       "symbol": "PT-ezETH-27JUN2024",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x8EA5040d423410f1fdc363379Af88e1DB5eA1C34/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0x8EA5040d423410f1fdc363379Af88e1DB5eA1C34/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -5169,7 +5185,7 @@
       "address": "0xF12132857fb45b1F1342420EaAF818509F850468",
       "name": "CURVEBOBR",
       "symbol": "BobrCRV",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xF12132857fb45b1F1342420EaAF818509F850468/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xF12132857fb45b1F1342420EaAF818509F850468/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },

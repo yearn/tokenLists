@@ -1,9 +1,9 @@
 {
   "name": "Tokenlistooor Token List",
   "description": "A curated list of tokens from all the token lists on tokenlistooor.",
-  "timestamp": "2025-07-13T01:30:11Z",
+  "timestamp": "2025-07-18T19:57:55Z",
   "version": {
-    "major": 339,
+    "major": 340,
     "minor": 0,
     "patch": 0
   },
@@ -15,6 +15,22 @@
       "name": "YT wstETH 27JUN2024",
       "symbol": "YT-wstETH-27JUN2024",
       "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x0052B6096f8c1DCBEfB9ba381EB6b67479b5c56b/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0x026965F328c238dC3F47D5Cb479A0d3ed8bC6B04",
+      "name": "PT Staked ePENDLE 25SEP2025",
+      "symbol": "PT-stk-EPendle-25SEP2025",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x026965F328c238dC3F47D5Cb479A0d3ed8bC6B04/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0x03569CC076654F82679C4BA2124D64774781B01D",
+      "name": "BOLD Stablecoin",
+      "symbol": "BOLD",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x03569CC076654F82679C4BA2124D64774781B01D/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -115,6 +131,13 @@
       "decimals": 18
     },
     {
+      "address": "0x0C4681e6C0235179ec3D4F4fc4DF3d14FDD96017",
+      "name": "Radiant",
+      "symbol": "RDNT",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
       "address": "0x0C9d0cAf36c14F26d29a18D84b19A4c2565F5739",
       "name": "YT sETH-wstEthSilo 28MAR2024",
       "symbol": "YT-sETH-wstEthSilo-28MAR2024",
@@ -211,10 +234,26 @@
       "decimals": 18
     },
     {
+      "address": "0x0eC0AbDD2245cD94a054483cCce50A38ac93Eb1B",
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x0eC0AbDD2245cD94a054483cCce50A38ac93Eb1B/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
       "address": "0x0f2d8c1837085bE476CcA9C2Bf671438F01a7189",
       "name": "xWETH-DAI3",
       "symbol": "xWETH-DAI3",
       "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x0f2d8c1837085bE476CcA9C2Bf671438F01a7189/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0x0fb95Ec4086b3007c894AD78703bC634150A1D50",
+      "name": "YT Bedrock uniETH 25JUN2026",
+      "symbol": "YT-uniETH-25JUN2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x0fb95Ec4086b3007c894AD78703bC634150A1D50/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -339,10 +378,18 @@
       "decimals": 18
     },
     {
-      "address": "0x17FC002b466eEc40DaE837Fc4bE5c67993ddBd6F",
-      "name": "Frax",
-      "symbol": "FRAX",
-      "logoURI": "https://tokens.1inch.io/0x17fc002b466eec40dae837fc4be5c67993ddbd6f.png",
+      "address": "0x18ffB61c6d223bd91ec15acC248bb7e670aBcc48",
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x18ffB61c6d223bd91ec15acC248bb7e670aBcc48/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0x193b2f36957f7E9e498758bbF182273bc145bB92",
+      "name": "SY eigenATH",
+      "symbol": "SY-eATH",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x193b2f36957f7E9e498758bbF182273bc145bB92/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -483,6 +530,22 @@
       "decimals": 18
     },
     {
+      "address": "0x213a3822378a92BFb65B3BbfDF0197113647Df69",
+      "name": "YT rsETH 25JUN2026",
+      "symbol": "YT-rsETH-25JUN2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x213a3822378a92BFb65B3BbfDF0197113647Df69/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0x21647C54FEc3F0a7C549A4B1D1B16c6cC6FC066A",
+      "name": "PT Dolomite WBTC 18DEC2025",
+      "symbol": "PT-dWBTC-18DEC2025",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x21647C54FEc3F0a7C549A4B1D1B16c6cC6FC066A/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
       "address": "0x219feb06116039eaC17dfE4DE59C872EDdC9da48",
       "name": "Xion native asset",
       "symbol": "XION",
@@ -563,12 +626,36 @@
       "decimals": 18
     },
     {
+      "address": "0x247f150C90c9EEb7d733219bfA36D189C76D5Ec5",
+      "name": "PT gUSDC 18DEC2025",
+      "symbol": "PT-gUSDC-18DEC2025",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x247f150C90c9EEb7d733219bfA36D189C76D5Ec5/logo-128.png",
+      "chainId": 42161,
+      "decimals": 6
+    },
+    {
+      "address": "0x24F49A62BCb867639A058120aFE4053267991e08",
+      "name": "YT Dolomite USDC 18DEC2025",
+      "symbol": "YT-dUSDC-18DEC2025",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x24F49A62BCb867639A058120aFE4053267991e08/logo-128.png",
+      "chainId": 42161,
+      "decimals": 6
+    },
+    {
       "address": "0x2591bC78d50d777CAC68AedDA0e8BC928A89A538",
       "name": "YT sUSDC-ARBSilo 1FEB2024",
       "symbol": "YT-sUSDC-ARBSilo-1FEB2024",
       "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x2591bC78d50d777CAC68AedDA0e8BC928A89A538/logo-128.png",
       "chainId": 42161,
       "decimals": 6
+    },
+    {
+      "address": "0x25BdA1EDd6aF17C61399aA0eb84b93dAA3069764",
+      "name": "YT wstETH 25JUN2026",
+      "symbol": "YT-wstETH-25JUN2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x25BdA1EDd6aF17C61399aA0eb84b93dAA3069764/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
     },
     {
       "address": "0x265A0f96B61849773a7B515495c6f04B364B28D8",
@@ -625,6 +712,14 @@
       "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x2A18A490EC18b019837f6153269d21A772167292/logo-128.png",
       "chainId": 42161,
       "decimals": 18
+    },
+    {
+      "address": "0x2A780E4cD5C3705a3E400012dacf80bBf2fA2552",
+      "name": "PT Dolomite WBTC 18DEC2025",
+      "symbol": "PT-dWBTC-18DEC2025",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x2A780E4cD5C3705a3E400012dacf80bBf2fA2552/logo-128.png",
+      "chainId": 42161,
+      "decimals": 8
     },
     {
       "address": "0x2BCBDD577616357464CFe307Bc67F9e820A66e80",
@@ -699,6 +794,14 @@
       "decimals": 6
     },
     {
+      "address": "0x2eB3C394e7985bA29AF2AD4cbDe38c06088E3D47",
+      "name": "YT mPendle 25SEP2025",
+      "symbol": "YT-mPendle-25SEP2025",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x2eB3C394e7985bA29AF2AD4cbDe38c06088E3D47/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
       "address": "0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f",
       "name": "Wrapped BTC",
       "symbol": "WBTC",
@@ -719,14 +822,6 @@
       "name": "Pendle Market",
       "symbol": "PENDLE-LPT",
       "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x2fc3432C0E6a325D09D16f1Af14061eC6cf71E98/logo-128.png",
-      "chainId": 42161,
-      "decimals": 18
-    },
-    {
-      "address": "0x3082CC23568eA640225c2467653dB90e9250AaA0",
-      "name": "Radiant",
-      "symbol": "RDNT",
-      "logoURI": "https://tokens.1inch.io/0x3082cc23568ea640225c2467653db90e9250aaa0.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -779,10 +874,26 @@
       "decimals": 18
     },
     {
+      "address": "0x3362C1265a0522f321253708C9fb176F2274Fa8d",
+      "name": "PT rETH 25JUN2026",
+      "symbol": "PT-rETH-25JUN2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x3362C1265a0522f321253708C9fb176F2274Fa8d/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
       "address": "0x33985Ca762541e2412F454c6F2e7EC677645D1dF",
       "name": "xgDAI-DAI01",
       "symbol": "xgDAI-DAI01",
       "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x33985Ca762541e2412F454c6F2e7EC677645D1dF/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0x34471c8C618f520dd21FE6bcCFE58f0650c09FDA",
+      "name": "PT mPendle 25SEP2025",
+      "symbol": "PT-mPendle-25SEP2025",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x34471c8C618f520dd21FE6bcCFE58f0650c09FDA/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -855,6 +966,14 @@
       "name": "xGNS-DAI10",
       "symbol": "xGNS-DAI10",
       "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x38f81e638f9e268e8417F2Ff76C270597fa077A0/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0x3DB95E24f76C53177C4015244Af2B523A8Caa065",
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x3DB95E24f76C53177C4015244Af2B523A8Caa065/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -955,6 +1074,14 @@
       "decimals": 18
     },
     {
+      "address": "0x4137709907F3319134438fd9C1539a307eC0a1a5",
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x4137709907F3319134438fd9C1539a307eC0a1a5/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
       "address": "0x4173dd58eE78764bfD274e2Bd79fc684Cdd40397",
       "name": "YT mPendle 26JUN2025",
       "symbol": "YT-mPendle-26JUN2025",
@@ -975,6 +1102,14 @@
       "name": "GMX LP",
       "symbol": "GLP",
       "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x4277f8F2c384827B5273592FF7CeBd9f2C1ac258/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0x43864094F3E6E5D5Cc3bdc7414611248d4d56ED5",
+      "name": "YT eigenATH 11SEP2025",
+      "symbol": "YT-eATH-11SEP2025",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x43864094F3E6E5D5Cc3bdc7414611248d4d56ED5/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -1007,6 +1142,14 @@
       "name": "SY PENDLE-ETH_Camelot",
       "symbol": "SY-PENDLE-ETH_Camelot",
       "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x4665d514e82B2F9c78Fa2B984e450F33d9efc842/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0x46d62a8dEDe1bf2d0De04F2Ed863245cBBa5e538",
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x46d62a8dEDe1bf2d0De04F2Ed863245cBBa5e538/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -1067,6 +1210,14 @@
       "decimals": 18
     },
     {
+      "address": "0x4E77520688601ceB5D4bbd217763640a689956CD",
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x4E77520688601ceB5D4bbd217763640a689956CD/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
       "address": "0x4a8E64c3A66ce0830e3bf2ea7863b013Aa592114",
       "name": "YT gDAI 28MAR2024",
       "symbol": "YT-gDAI-28MAR2024",
@@ -1103,6 +1254,14 @@
       "name": "YT rsETH 26DEC2024",
       "symbol": "YT-rsETH-26DEC2024",
       "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x4b755c030b455B959246fC0f940De3a95F8E81Ec/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0x4bC4de56F1a0Fe6980c9b03A56a8a28c4Bf1fDC2",
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x4bC4de56F1a0Fe6980c9b03A56a8a28c4Bf1fDC2/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -1175,6 +1334,14 @@
       "name": "xWBTC-ETH3",
       "symbol": "xWBTC-ETH3",
       "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x52ee1FFBA696c5E9b0Bc177A9f8a3098420EA691/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0x53176cADd446700fa6b89f840357AC586D7e33Db",
+      "name": "Wrapped BTC scaled18",
+      "symbol": "WBTC-scaled18",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x53176cADd446700fa6b89f840357AC586D7e33Db/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -1289,6 +1456,14 @@
       "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x59D9356E565Ab3A36dD77763Fc0d87fEaf85508C/logo-128.png",
       "chainId": 42161,
       "decimals": 18
+    },
+    {
+      "address": "0x59e4e0FE7981E31Eb1283ff9aDc5F851FE9A216D",
+      "name": "YT gUSDC 18DEC2025",
+      "symbol": "YT-gUSDC-18DEC2025",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x59e4e0FE7981E31Eb1283ff9aDc5F851FE9A216D/logo-128.png",
+      "chainId": 42161,
+      "decimals": 6
     },
     {
       "address": "0x5A4956D9d4C362C6df3Ae442f87AC0AFcba468dA",
@@ -1515,6 +1690,14 @@
       "decimals": 18
     },
     {
+      "address": "0x71fBF40651E9D4278a74586AfC99F307f369Ce9A",
+      "name": "PT wstETH 25JUN2026",
+      "symbol": "PT-wstETH-25JUN2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x71fBF40651E9D4278a74586AfC99F307f369Ce9A/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
       "address": "0x722a6031d5976fc61fA952A02160406960969927",
       "name": "YT wstETH 28DEC2023",
       "symbol": "YT-wstETH-28DEC2023",
@@ -1667,6 +1850,14 @@
       "decimals": 18
     },
     {
+      "address": "0x7b8AEC3d1986b4bEcBf1c651FF6a953CC0117b05",
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x7b8AEC3d1986b4bEcBf1c651FF6a953CC0117b05/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
       "address": "0x7cb7DCe11bAa19Ff61EF4Da19CD62b1fAb67a972",
       "name": "xWETH-USDC05",
       "symbol": "xWETH-USDC05",
@@ -1713,6 +1904,14 @@
       "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x816F59FfA2239Fd7106F94eAbdC0a9547a892F2f/logo-128.png",
       "chainId": 42161,
       "decimals": 18
+    },
+    {
+      "address": "0x8186a7b0c9Db06fd762D719ed29604Da1f31c082",
+      "name": "YT Dolomite WBTC 18DEC2025",
+      "symbol": "YT-dWBTC-18DEC2025",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x8186a7b0c9Db06fd762D719ed29604Da1f31c082/logo-128.png",
+      "chainId": 42161,
+      "decimals": 8
     },
     {
       "address": "0x81f2c7b56f34290D2261F15883F2F80d78981b68",
@@ -1782,7 +1981,7 @@
       "address": "0x8621c587059357d6C669f72dA3Bfe1398fc0D0B5",
       "name": "Pendle Market",
       "symbol": "PENDLE-LPT",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x8621c587059357d6C669f72dA3Bfe1398fc0D0B5/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0x8621c587059357d6C669f72dA3Bfe1398fc0D0B5/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -1790,7 +1989,7 @@
       "address": "0x86AACBed3E7b3D33149d5DcfD2Def3C6d8498B8b",
       "name": "Pendle Market",
       "symbol": "PENDLE-LPT",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x86AACBed3E7b3D33149d5DcfD2Def3C6d8498B8b/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0x86AACBed3E7b3D33149d5DcfD2Def3C6d8498B8b/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -1798,7 +1997,7 @@
       "address": "0x86B81Ba336e97a4fbDBcc81F22A2363D5EE03cAB",
       "name": "xETH-GMX3",
       "symbol": "xETH-GMX3",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x86B81Ba336e97a4fbDBcc81F22A2363D5EE03cAB/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0x86B81Ba336e97a4fbDBcc81F22A2363D5EE03cAB/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -1806,7 +2005,7 @@
       "address": "0x875F154f4eC93255bEAEA9367c3AdF71Cdcb4Cc0",
       "name": "Pendle Market",
       "symbol": "PENDLE-LPT",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x875F154f4eC93255bEAEA9367c3AdF71Cdcb4Cc0/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0x875F154f4eC93255bEAEA9367c3AdF71Cdcb4Cc0/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -1814,7 +2013,7 @@
       "address": "0x877b050d26a780bB43642171859434FdF496F1aE",
       "name": "PT PENDLE-ETH_Camelot 27JUN2024",
       "symbol": "PT-PENDLE-ETH_Camelot-27JUN2024",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x877b050d26a780bB43642171859434FdF496F1aE/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0x877b050d26a780bB43642171859434FdF496F1aE/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -1822,7 +2021,7 @@
       "address": "0x879E35e9450AaB46e972b2Bc6288C007331d7185",
       "name": "YT gDAI 26DEC2024",
       "symbol": "YT-gDAI-26DEC2024",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x879E35e9450AaB46e972b2Bc6288C007331d7185/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0x879E35e9450AaB46e972b2Bc6288C007331d7185/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -1830,7 +2029,7 @@
       "address": "0x87c8D1B2ED18545594CB0417Ac2d3c2974A10912",
       "name": "Pendle Market",
       "symbol": "PENDLE-LPT",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x87c8D1B2ED18545594CB0417Ac2d3c2974A10912/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0x87c8D1B2ED18545594CB0417Ac2d3c2974A10912/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -1838,7 +2037,7 @@
       "address": "0x88ae17Af988E733943D728df745C95CE8393f238",
       "name": "xETH-GMX3",
       "symbol": "xETH-GMX3",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x88ae17Af988E733943D728df745C95CE8393f238/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0x88ae17Af988E733943D728df745C95CE8393f238/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -1854,7 +2053,7 @@
       "address": "0x89cD713a6607787F93d6743E67777Be9Ad73c54b",
       "name": "PT GLP 26SEP2024",
       "symbol": "PT-GLP-26SEP2024",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x89cD713a6607787F93d6743E67777Be9Ad73c54b/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0x89cD713a6607787F93d6743E67777Be9Ad73c54b/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -1862,7 +2061,7 @@
       "address": "0x8D0aC6c608fd4BF52FcC31DcEf30D0aE2aED2e81",
       "name": "YT Ethena USDe 28NOV2024",
       "symbol": "YT-USDe-28NOV2024",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x8D0aC6c608fd4BF52FcC31DcEf30D0aE2aED2e81/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0x8D0aC6c608fd4BF52FcC31DcEf30D0aE2aED2e81/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -1870,15 +2069,23 @@
       "address": "0x8D164E0C662C9E199baaC9E97b6A8664c75700EA",
       "name": "PT rsETH 25APR2024",
       "symbol": "PT-rsETH-25APR2024",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x8D164E0C662C9E199baaC9E97b6A8664c75700EA/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0x8D164E0C662C9E199baaC9E97b6A8664c75700EA/logo-128.png",
       "chainId": 42161,
       "decimals": 18
+    },
+    {
+      "address": "0x8D2860D69F95a529bAeC8CEeC8Be2c6e62b9874b",
+      "name": "PT Dolomite USDC 18DEC2025",
+      "symbol": "PT-dUSDC-18DEC2025",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x8D2860D69F95a529bAeC8CEeC8Be2c6e62b9874b/logo-128.png",
+      "chainId": 42161,
+      "decimals": 6
     },
     {
       "address": "0x8Db96f2FcCf7Cdd74a60e8eFf5801df043cd11dE",
       "name": "PT rsETH 26JUN2025",
       "symbol": "PT-rsETH-26JUN2025",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x8Db96f2FcCf7Cdd74a60e8eFf5801df043cd11dE/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0x8Db96f2FcCf7Cdd74a60e8eFf5801df043cd11dE/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -1886,7 +2093,7 @@
       "address": "0x8aB16e90409690098Ed94EF437A138B7cF702BD5",
       "name": "xARB-USDC05",
       "symbol": "xARB-USDC05",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x8aB16e90409690098Ed94EF437A138B7cF702BD5/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0x8aB16e90409690098Ed94EF437A138B7cF702BD5/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -1894,7 +2101,7 @@
       "address": "0x8c2aFC4eDDB23cFdcc62a8aAC14633D456A91477",
       "name": "Pendle Market",
       "symbol": "PENDLE-LPT",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x8c2aFC4eDDB23cFdcc62a8aAC14633D456A91477/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0x8c2aFC4eDDB23cFdcc62a8aAC14633D456A91477/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -1902,7 +2109,7 @@
       "address": "0x8cAB5Fd029ae2FBF28c53E965E4194C7260aDF0C",
       "name": "Pendle Market",
       "symbol": "PENDLE-LPT",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x8cAB5Fd029ae2FBF28c53E965E4194C7260aDF0C/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0x8cAB5Fd029ae2FBF28c53E965E4194C7260aDF0C/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -1910,7 +2117,7 @@
       "address": "0x8dC75ACdc362E22fEBf0A9e358E501a6414aaFA7",
       "name": "YT Aave Arbitrum USDCn 26JUN2025",
       "symbol": "YT-aArbUSDCn-26JUN2025",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x8dC75ACdc362E22fEBf0A9e358E501a6414aaFA7/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0x8dC75ACdc362E22fEBf0A9e358E501a6414aaFA7/logo-128.png",
       "chainId": 42161,
       "decimals": 6
     },
@@ -1918,7 +2125,7 @@
       "address": "0x8dbB0993C76d006896Ca2c894272580Ae561563d",
       "name": "xPENDLE-WETH3",
       "symbol": "xPENDLE-WETH3",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x8dbB0993C76d006896Ca2c894272580Ae561563d/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0x8dbB0993C76d006896Ca2c894272580Ae561563d/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -1926,7 +2133,7 @@
       "address": "0x8fEDCa9DE6c792275335B41D0ef74D3A03361733",
       "name": "YT rsETH 26JUN2025",
       "symbol": "YT-rsETH-26JUN2025",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x8fEDCa9DE6c792275335B41D0ef74D3A03361733/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0x8fEDCa9DE6c792275335B41D0ef74D3A03361733/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -1934,7 +2141,7 @@
       "address": "0x904135ac233e53fc1c1A5B061D34496b362489c3",
       "name": "xUSDC-DAI01",
       "symbol": "xUSDC-DAI01",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x904135ac233e53fc1c1A5B061D34496b362489c3/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0x904135ac233e53fc1c1A5B061D34496b362489c3/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -1942,7 +2149,7 @@
       "address": "0x9051AF977F2FE632D55D54da735181c38d58a31b",
       "name": "xMAGIC-ETH1",
       "symbol": "xMAGIC-ETH1",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x9051AF977F2FE632D55D54da735181c38d58a31b/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0x9051AF977F2FE632D55D54da735181c38d58a31b/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -1950,7 +2157,7 @@
       "address": "0x907768d03E4cCCc18D56dCf1c7A85748408a12D2",
       "name": "PT Kyber Elastic axlWstEth-wstETH 28MAR2024",
       "symbol": "PT-Kyber Elastic axlWstEth-wstETH-28MAR2024",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x907768d03E4cCCc18D56dCf1c7A85748408a12D2/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0x907768d03E4cCCc18D56dCf1c7A85748408a12D2/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -1966,7 +2173,7 @@
       "address": "0x916758e7605d0a4da4D9144e4e6fFc46E401eE67",
       "name": "YT Dolomite USDC 26SEP2024",
       "symbol": "YT-dUSDC-26SEP2024",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x916758e7605d0a4da4D9144e4e6fFc46E401eE67/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0x916758e7605d0a4da4D9144e4e6fFc46E401eE67/logo-128.png",
       "chainId": 42161,
       "decimals": 6
     },
@@ -1974,7 +2181,7 @@
       "address": "0x91Ed9458359d0C7Bc03cFE21a58C905fD64402b3",
       "name": "xUSDC-USDT01",
       "symbol": "xUSDC-USDT01",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x91Ed9458359d0C7Bc03cFE21a58C905fD64402b3/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0x91Ed9458359d0C7Bc03cFE21a58C905fD64402b3/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -1982,7 +2189,7 @@
       "address": "0x92F19fc597504Ed108aFA4bfb1051d71b7AE0Dc6",
       "name": "xUSDC-AAVE3",
       "symbol": "xUSDC-AAVE3",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x92F19fc597504Ed108aFA4bfb1051d71b7AE0Dc6/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0x92F19fc597504Ed108aFA4bfb1051d71b7AE0Dc6/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -1990,7 +2197,7 @@
       "address": "0x93ACb12ae1Effb3426220C20c6d408eEAaE59D72",
       "name": "xDAI-USDT05",
       "symbol": "xDAI-USDT05",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x93ACb12ae1Effb3426220C20c6d408eEAaE59D72/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0x93ACb12ae1Effb3426220C20c6d408eEAaE59D72/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2006,7 +2213,7 @@
       "address": "0x93f94f1aDFa5f39E7f4C92f0e35c60d66EB5C3F6",
       "name": "YT HLP 26DEC2024",
       "symbol": "YT-HLP-26DEC2024",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x93f94f1aDFa5f39E7f4C92f0e35c60d66EB5C3F6/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0x93f94f1aDFa5f39E7f4C92f0e35c60d66EB5C3F6/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2014,7 +2221,7 @@
       "address": "0x947e908EdE996664C3c4430195CE7272C1AF761e",
       "name": "PT \u003cscript\u003e\"alert(1)\u003c/script\u003e 26SEP2024",
       "symbol": "PT-\u003cscript\u003e\"alert(1)\u003c/script\u003e-26SEP2024",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x947e908EdE996664C3c4430195CE7272C1AF761e/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0x947e908EdE996664C3c4430195CE7272C1AF761e/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2030,7 +2237,7 @@
       "address": "0x95375694685E39997828Ed5B17f30f0A3eD90537",
       "name": "xARB-USDT05",
       "symbol": "xARB-USDT05",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x95375694685E39997828Ed5B17f30f0A3eD90537/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0x95375694685E39997828Ed5B17f30f0A3eD90537/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2038,7 +2245,7 @@
       "address": "0x96015D0Fb97139567a9ba675951816a0Bb719E3c",
       "name": "PT GLP 28MAR2024",
       "symbol": "PT-GLP-28MAR2024",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x96015D0Fb97139567a9ba675951816a0Bb719E3c/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0x96015D0Fb97139567a9ba675951816a0Bb719E3c/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2046,7 +2253,7 @@
       "address": "0x96B6141E35D7607bba06ADc481897403E9D4E55E",
       "name": "YT Kyber Elastic axlWstEth-wstETH 28MAR2024",
       "symbol": "YT-Kyber Elastic axlWstEth-wstETH-28MAR2024",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x96B6141E35D7607bba06ADc481897403E9D4E55E/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0x96B6141E35D7607bba06ADc481897403E9D4E55E/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2054,7 +2261,7 @@
       "address": "0x96C4A48Abdf781e9c931cfA92EC0167Ba219ad8E",
       "name": "max EQB",
       "symbol": "xEQB",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x96C4A48Abdf781e9c931cfA92EC0167Ba219ad8E/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0x96C4A48Abdf781e9c931cfA92EC0167Ba219ad8E/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2062,7 +2269,7 @@
       "address": "0x9731454C583F11f4e54f80398591C911d5C4114A",
       "name": "YT gDAI 28MAR2024",
       "symbol": "YT-gDAI-28MAR2024",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x9731454C583F11f4e54f80398591C911d5C4114A/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0x9731454C583F11f4e54f80398591C911d5C4114A/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2070,7 +2277,7 @@
       "address": "0x9741CAc1a22Ff3615FA074fD0B439975a5E137e9",
       "name": "PT wstETH 27JUN2024",
       "symbol": "PT-wstETH-27JUN2024",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x9741CAc1a22Ff3615FA074fD0B439975a5E137e9/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0x9741CAc1a22Ff3615FA074fD0B439975a5E137e9/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2078,7 +2285,7 @@
       "address": "0x97E2768e8E73511cA874545DC5Ff8067eB19B787",
       "name": "Curve.fi crv3crypto RewardGauge Deposit",
       "symbol": "crv3crypto-gauge",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x97E2768e8E73511cA874545DC5Ff8067eB19B787/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0x97E2768e8E73511cA874545DC5Ff8067eB19B787/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2086,7 +2293,7 @@
       "address": "0x983B04920F4B73eA6a772363AAc68A810d036380",
       "name": "YT sETH-ptrsETHSilo 26SEP2024",
       "symbol": "YT-sETH-ptrsETHSilo-26SEP2024",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x983B04920F4B73eA6a772363AAc68A810d036380/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0x983B04920F4B73eA6a772363AAc68A810d036380/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2094,7 +2301,7 @@
       "address": "0x98510Fbe752A97F97Abd7D971a1B3290DD62Ec4A",
       "name": "PT Dolomite WBTC 26JUN2025",
       "symbol": "PT-dWBTC-26JUN2025",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x98510Fbe752A97F97Abd7D971a1B3290DD62Ec4A/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0x98510Fbe752A97F97Abd7D971a1B3290DD62Ec4A/logo-128.png",
       "chainId": 42161,
       "decimals": 8
     },
@@ -2102,7 +2309,7 @@
       "address": "0x9869108fAb928428A5CdbF1dAB0fe4E46027bC51",
       "name": "xWETH-ENS3",
       "symbol": "xWETH-ENS3",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x9869108fAb928428A5CdbF1dAB0fe4E46027bC51/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0x9869108fAb928428A5CdbF1dAB0fe4E46027bC51/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2110,7 +2317,7 @@
       "address": "0x9902bc1eb18c5d1594DD97907F1Bb427D8A153DA",
       "name": "xWETH-rETH05",
       "symbol": "xWETH-rETH05",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x9902bc1eb18c5d1594DD97907F1Bb427D8A153DA/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0x9902bc1eb18c5d1594DD97907F1Bb427D8A153DA/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2118,7 +2325,7 @@
       "address": "0x998C07827578C83949a6b755Dd3416fDFD98a75E",
       "name": "xwstETH-WETH01",
       "symbol": "xwstETH-WETH01",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x998C07827578C83949a6b755Dd3416fDFD98a75E/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0x998C07827578C83949a6b755Dd3416fDFD98a75E/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2126,7 +2333,7 @@
       "address": "0x99D052Fbc7c5946861342e4b6b568726Be4484CE",
       "name": "xWETH-ARB05",
       "symbol": "xWETH-ARB05",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x99D052Fbc7c5946861342e4b6b568726Be4484CE/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0x99D052Fbc7c5946861342e4b6b568726Be4484CE/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2134,7 +2341,7 @@
       "address": "0x99a18b918de9C569AFc0abbd48804326E90DACFD",
       "name": "xMATIC-WETH3",
       "symbol": "xMATIC-WETH3",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x99a18b918de9C569AFc0abbd48804326E90DACFD/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0x99a18b918de9C569AFc0abbd48804326E90DACFD/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2142,7 +2349,7 @@
       "address": "0x99fAd58EEADb00BAab5F1fb7ef421C7E5a9710B7",
       "name": "xWBTC-ETH3",
       "symbol": "xWBTC-ETH3",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x99fAd58EEADb00BAab5F1fb7ef421C7E5a9710B7/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0x99fAd58EEADb00BAab5F1fb7ef421C7E5a9710B7/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2150,7 +2357,7 @@
       "address": "0x9ADDde3a8819c2eED4E5113B7aA1cecf4096BEc3",
       "name": "PT sETH-wstEthSilo 28MAR2024",
       "symbol": "PT-sETH-wstEthSilo-28MAR2024",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x9ADDde3a8819c2eED4E5113B7aA1cecf4096BEc3/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0x9ADDde3a8819c2eED4E5113B7aA1cecf4096BEc3/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2158,7 +2365,7 @@
       "address": "0x9B22113CAc4f8e17BFc72D7dFd3240ab88E843F2",
       "name": "YT I am just a little SY :) 26SEP2024",
       "symbol": "YT-StupidSY-26SEP2024",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x9B22113CAc4f8e17BFc72D7dFd3240ab88E843F2/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0x9B22113CAc4f8e17BFc72D7dFd3240ab88E843F2/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2166,7 +2373,7 @@
       "address": "0x9Bb47fF1AdE2bC22c9F0761560063bAa3Df883B5",
       "name": "YT PENDLE-ETH_Camelot 27JUN2024",
       "symbol": "YT-PENDLE-ETH_Camelot-27JUN2024",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x9Bb47fF1AdE2bC22c9F0761560063bAa3Df883B5/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0x9Bb47fF1AdE2bC22c9F0761560063bAa3Df883B5/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2174,7 +2381,7 @@
       "address": "0x9D090Ef4Aafd0ACB821113a7689d5794e50bD047",
       "name": "YT HLP 27JUN2024",
       "symbol": "YT-HLP-27JUN2024",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x9D090Ef4Aafd0ACB821113a7689d5794e50bD047/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0x9D090Ef4Aafd0ACB821113a7689d5794e50bD047/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2182,7 +2389,7 @@
       "address": "0x9D17d67dDA1256c5dF78035ce6c8795eA3136E89",
       "name": "PT Dolomite USDC 26SEP2024",
       "symbol": "PT-dUSDC-26SEP2024",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x9D17d67dDA1256c5dF78035ce6c8795eA3136E89/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0x9D17d67dDA1256c5dF78035ce6c8795eA3136E89/logo-128.png",
       "chainId": 42161,
       "decimals": 6
     },
@@ -2190,7 +2397,7 @@
       "address": "0x9D8eADeb4e7311e340A5EE39DbF62d7694F1aa85",
       "name": "PT MUXLP 26JUN2025",
       "symbol": "PT-MUXLP-26JUN2025",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x9D8eADeb4e7311e340A5EE39DbF62d7694F1aa85/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0x9D8eADeb4e7311e340A5EE39DbF62d7694F1aa85/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2198,7 +2405,7 @@
       "address": "0x9DbD1fC6D2731ebD42a5E5B8e268bFA7C68980Ae",
       "name": "YT mPendle 26SEP2024",
       "symbol": "YT-mPendle-26SEP2024",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x9DbD1fC6D2731ebD42a5E5B8e268bFA7C68980Ae/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0x9DbD1fC6D2731ebD42a5E5B8e268bFA7C68980Ae/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2206,7 +2413,7 @@
       "address": "0x9F0166a37A511d2D6647864Dd0abDc1Ef6699a0C",
       "name": "xMAGIC-WETH3",
       "symbol": "xMAGIC-WETH3",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x9F0166a37A511d2D6647864Dd0abDc1Ef6699a0C/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0x9F0166a37A511d2D6647864Dd0abDc1Ef6699a0C/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2214,7 +2421,7 @@
       "address": "0x9F460bd8355676523D3f0031395f26c64B209FEf",
       "name": "xGNS-USDC05",
       "symbol": "xGNS-USDC05",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x9F460bd8355676523D3f0031395f26c64B209FEf/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0x9F460bd8355676523D3f0031395f26c64B209FEf/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2222,7 +2429,7 @@
       "address": "0x9bC62257Ffe7D0f7c52A019E6Fc0AF3102F8F44E",
       "name": "Pendle Market",
       "symbol": "PENDLE-LPT",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x9bC62257Ffe7D0f7c52A019E6Fc0AF3102F8F44E/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0x9bC62257Ffe7D0f7c52A019E6Fc0AF3102F8F44E/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2230,7 +2437,7 @@
       "address": "0x9bEcd6b4Fb076348A455518aea23d3799361FE95",
       "name": "PT weETH 25APR2024",
       "symbol": "PT-weETH-25APR2024",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x9bEcd6b4Fb076348A455518aea23d3799361FE95/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0x9bEcd6b4Fb076348A455518aea23d3799361FE95/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2246,7 +2453,7 @@
       "address": "0x9f003Fd08d5317Dfd988Bd1EE151B27836FE6C3D",
       "name": "Pendle Market",
       "symbol": "PENDLE-LPT",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x9f003Fd08d5317Dfd988Bd1EE151B27836FE6C3D/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0x9f003Fd08d5317Dfd988Bd1EE151B27836FE6C3D/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2254,7 +2461,7 @@
       "address": "0x9fF912568eB011D719B5F4E940f8135633F4bCDc",
       "name": "Pendle Market",
       "symbol": "PENDLE-LPT",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x9fF912568eB011D719B5F4E940f8135633F4bCDc/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0x9fF912568eB011D719B5F4E940f8135633F4bCDc/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2262,7 +2469,7 @@
       "address": "0xA1c32EF8d3c4c30cB596bAb8647e11daF0FA5C94",
       "name": "YT aUSDC 27JUN2024",
       "symbol": "YT-aUSDC-27JUN2024",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xA1c32EF8d3c4c30cB596bAb8647e11daF0FA5C94/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xA1c32EF8d3c4c30cB596bAb8647e11daF0FA5C94/logo-128.png",
       "chainId": 42161,
       "decimals": 6
     },
@@ -2270,7 +2477,7 @@
       "address": "0xA3d9745Dcd138bd2ba4b039fa61c042756bfe1e8",
       "name": "xARKEN-USDC3",
       "symbol": "xARKEN-USDC3",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xA3d9745Dcd138bd2ba4b039fa61c042756bfe1e8/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xA3d9745Dcd138bd2ba4b039fa61c042756bfe1e8/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2278,7 +2485,7 @@
       "address": "0xA4f7e00eA5f67d0E126B7BB626FfdDAcD43436Af",
       "name": "PT weETH 27JUN2024",
       "symbol": "PT-weETH-27JUN2024",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xA4f7e00eA5f67d0E126B7BB626FfdDAcD43436Af/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xA4f7e00eA5f67d0E126B7BB626FfdDAcD43436Af/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2286,7 +2493,7 @@
       "address": "0xA4ffe78ba40B7Ec0C348fFE36a8dE4F9d6198d2d",
       "name": "SY Ethena USDe",
       "symbol": "SY-USDe",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xA4ffe78ba40B7Ec0C348fFE36a8dE4F9d6198d2d/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xA4ffe78ba40B7Ec0C348fFE36a8dE4F9d6198d2d/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2294,7 +2501,7 @@
       "address": "0xA5eb3401b93b859b4638f9d40868F89E200F8A44",
       "name": "xGNS-DAI10",
       "symbol": "xGNS-DAI10",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xA5eb3401b93b859b4638f9d40868F89E200F8A44/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xA5eb3401b93b859b4638f9d40868F89E200F8A44/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2302,7 +2509,7 @@
       "address": "0xA728C4d0D94A42B3E87458E55595A919f3d84b99",
       "name": "YT PENDLE-ETH_Camelot 27JUN2024",
       "symbol": "YT-PENDLE-ETH_Camelot-27JUN2024",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xA728C4d0D94A42B3E87458E55595A919f3d84b99/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xA728C4d0D94A42B3E87458E55595A919f3d84b99/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2310,7 +2517,7 @@
       "address": "0xA9104b8B6698979568852C30231871e28A482b3C",
       "name": "Pendle Market",
       "symbol": "PENDLE-LPT",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xA9104b8B6698979568852C30231871e28A482b3C/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xA9104b8B6698979568852C30231871e28A482b3C/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2318,7 +2525,7 @@
       "address": "0xA972fB7828f0bff8a22f7f8C63b17cfB971BFC0a",
       "name": "SY PENDLE-ETH_Camelot",
       "symbol": "SY-PENDLE-ETH_Camelot",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xA972fB7828f0bff8a22f7f8C63b17cfB971BFC0a/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xA972fB7828f0bff8a22f7f8C63b17cfB971BFC0a/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2326,7 +2533,7 @@
       "address": "0xAB89b1892976BfC997503FE10F85F436828f7131",
       "name": "PT PENDLE-ETH_Camelot 27JUN2024",
       "symbol": "PT-PENDLE-ETH_Camelot-27JUN2024",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xAB89b1892976BfC997503FE10F85F436828f7131/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xAB89b1892976BfC997503FE10F85F436828f7131/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2334,7 +2541,7 @@
       "address": "0xAE602e0560Fd3aDE52d4E94D1cDbe63E61019693",
       "name": "YT sETH-wstEthSilo 26DEC2024",
       "symbol": "YT-sETH-wstEthSilo-26DEC2024",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xAE602e0560Fd3aDE52d4E94D1cDbe63E61019693/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xAE602e0560Fd3aDE52d4E94D1cDbe63E61019693/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2342,7 +2549,7 @@
       "address": "0xAF699fb0D9F12Bf7B14474aE5c9Bea688888DF73",
       "name": "SY gDAI",
       "symbol": "SY-gDAI",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xAF699fb0D9F12Bf7B14474aE5c9Bea688888DF73/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xAF699fb0D9F12Bf7B14474aE5c9Bea688888DF73/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2350,7 +2557,7 @@
       "address": "0xAFD22F824D51Fb7EeD4778d303d4388AC644b026",
       "name": "PT rsETH 27JUN2024",
       "symbol": "PT-rsETH-27JUN2024",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xAFD22F824D51Fb7EeD4778d303d4388AC644b026/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xAFD22F824D51Fb7EeD4778d303d4388AC644b026/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2358,7 +2565,7 @@
       "address": "0xAa2c552279a394c9b0F4b668C288691c5B296182",
       "name": "PT sETH-pteETHSilo 25APR2024",
       "symbol": "PT-sETH-pteETHSilo-25APR2024",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xAa2c552279a394c9b0F4b668C288691c5B296182/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xAa2c552279a394c9b0F4b668C288691c5B296182/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2366,7 +2573,7 @@
       "address": "0xAcEEe1AE91bc2F9244d699aA11B8a591F88b3778",
       "name": "Pendle Market",
       "symbol": "PENDLE-LPT",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xAcEEe1AE91bc2F9244d699aA11B8a591F88b3778/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xAcEEe1AE91bc2F9244d699aA11B8a591F88b3778/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2374,7 +2581,7 @@
       "address": "0xB3eBcC844F1Eda040a3620267CDaAea6E14518A9",
       "name": "PT Bedrock uniETH 26JUN2025",
       "symbol": "PT-uniETH-26JUN2025",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xB3eBcC844F1Eda040a3620267CDaAea6E14518A9/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xB3eBcC844F1Eda040a3620267CDaAea6E14518A9/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2382,7 +2589,7 @@
       "address": "0xB5209CdbF58947B1189AB467f18365b0300570D0",
       "name": "YT Staked ePENDLE 27MAR2025",
       "symbol": "YT-stk-EPendle-27MAR2025",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xB5209CdbF58947B1189AB467f18365b0300570D0/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xB5209CdbF58947B1189AB467f18365b0300570D0/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2398,7 +2605,15 @@
       "address": "0xB7337f35dAFf97781F5C6D5BEA396d2327f70017",
       "name": "PT wstETH 26JUN2025",
       "symbol": "PT-wstETH-26JUN2025",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xB7337f35dAFf97781F5C6D5BEA396d2327f70017/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xB7337f35dAFf97781F5C6D5BEA396d2327f70017/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0xB78CAbaEc194EE67236fB3AEB919De0fB82e826D",
+      "name": "YT Staked ePENDLE 25SEP2025",
+      "symbol": "YT-stk-EPendle-25SEP2025",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xB78CAbaEc194EE67236fB3AEB919De0fB82e826D/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2406,7 +2621,7 @@
       "address": "0xBB33e51bdC598D710FF59FdF523E80ab7c882C83",
       "name": "PT wstETH 28DEC2023",
       "symbol": "PT-wstETH-28DEC2023",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xBB33e51bdC598D710FF59FdF523E80ab7c882C83/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xBB33e51bdC598D710FF59FdF523E80ab7c882C83/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2414,7 +2629,7 @@
       "address": "0xBB47aD7f407CBD385C9269ebd0d1Eb1CB634cDfa",
       "name": "PT Aave aUSDC 26DEC2024",
       "symbol": "PT-aUSDC-26DEC2024",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xBB47aD7f407CBD385C9269ebd0d1Eb1CB634cDfa/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xBB47aD7f407CBD385C9269ebd0d1Eb1CB634cDfa/logo-128.png",
       "chainId": 42161,
       "decimals": 6
     },
@@ -2422,7 +2637,7 @@
       "address": "0xBDcf887B8c8aC9FB27876C5376695008b13dbC63",
       "name": "PT Savings USDS 28AUG2025",
       "symbol": "PT-sUSDS-28AUG2025",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xBDcf887B8c8aC9FB27876C5376695008b13dbC63/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xBDcf887B8c8aC9FB27876C5376695008b13dbC63/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2430,7 +2645,7 @@
       "address": "0xBFd3A44f673f4d4dF9b1Ec126C4a5F602F0380Ad",
       "name": "PT sUSDC-ARBSilo 1FEB2024",
       "symbol": "PT-sUSDC-ARBSilo-1FEB2024",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xBFd3A44f673f4d4dF9b1Ec126C4a5F602F0380Ad/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xBFd3A44f673f4d4dF9b1Ec126C4a5F602F0380Ad/logo-128.png",
       "chainId": 42161,
       "decimals": 6
     },
@@ -2438,7 +2653,7 @@
       "address": "0xBc242Bd3e32209a4D3541D6CA322302acf4b4f47",
       "name": "PT rETH 26JUN2025",
       "symbol": "PT-rETH-26JUN2025",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xBc242Bd3e32209a4D3541D6CA322302acf4b4f47/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xBc242Bd3e32209a4D3541D6CA322302acf4b4f47/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2446,7 +2661,7 @@
       "address": "0xBdbF7dF0A96B780fbE7D8242a9ea416c1A2aff17",
       "name": "USDs-USDC05",
       "symbol": "USDs-USDC05",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xBdbF7dF0A96B780fbE7D8242a9ea416c1A2aff17/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xBdbF7dF0A96B780fbE7D8242a9ea416c1A2aff17/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2454,7 +2669,7 @@
       "address": "0xBf5E60ddf654085F80DAe9DD33Ec0E345773E1F8",
       "name": "Pendle Market",
       "symbol": "PENDLE-LPT",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xBf5E60ddf654085F80DAe9DD33Ec0E345773E1F8/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xBf5E60ddf654085F80DAe9DD33Ec0E345773E1F8/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2462,7 +2677,7 @@
       "address": "0xC0Cda2d5d4d75544Cdf01EF69B1E5e56EA366d17",
       "name": "Pendle Market",
       "symbol": "PENDLE-LPT",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xC0Cda2d5d4d75544Cdf01EF69B1E5e56EA366d17/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xC0Cda2d5d4d75544Cdf01EF69B1E5e56EA366d17/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2470,7 +2685,7 @@
       "address": "0xC15CB9274cB1F47D6854133A3B822CCF94861642",
       "name": "PT gDAI 26DEC2024",
       "symbol": "PT-gDAI-26DEC2024",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xC15CB9274cB1F47D6854133A3B822CCF94861642/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xC15CB9274cB1F47D6854133A3B822CCF94861642/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2478,7 +2693,7 @@
       "address": "0xC25cEf6061Cf5dE5eb761b50E4743c1F5D7E5407",
       "name": "GMX Market",
       "symbol": "GM",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xC25cEf6061Cf5dE5eb761b50E4743c1F5D7E5407/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xC25cEf6061Cf5dE5eb761b50E4743c1F5D7E5407/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2486,7 +2701,7 @@
       "address": "0xC595c9c28D78bb347C8177dFbB820484e2D99A66",
       "name": "PT HLP 27JUN2024",
       "symbol": "PT-HLP-27JUN2024",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xC595c9c28D78bb347C8177dFbB820484e2D99A66/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xC595c9c28D78bb347C8177dFbB820484e2D99A66/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2494,7 +2709,7 @@
       "address": "0xC5b5d60EccB76C4a53F7DBE7cE3cb5D92557EFfF",
       "name": "SY GM ARB-USDC",
       "symbol": "SY-GM-ARB-USDC",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xC5b5d60EccB76C4a53F7DBE7cE3cb5D92557EFfF/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xC5b5d60EccB76C4a53F7DBE7cE3cb5D92557EFfF/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2502,7 +2717,7 @@
       "address": "0xC8D9369809e48d03FF7B69D7979b174e2D34874C",
       "name": "YT wstETH 26JUN2025",
       "symbol": "YT-wstETH-26JUN2025",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xC8D9369809e48d03FF7B69D7979b174e2D34874C/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xC8D9369809e48d03FF7B69D7979b174e2D34874C/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2510,7 +2725,15 @@
       "address": "0xC8fD1F1E059d97ec71AE566DD6ca788DC92f36AF",
       "name": "Pendle Market",
       "symbol": "PENDLE-LPT",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xC8fD1F1E059d97ec71AE566DD6ca788DC92f36AF/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xC8fD1F1E059d97ec71AE566DD6ca788DC92f36AF/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0xC9BFC3aFD592Cc5a3305aEc09aAAA6B9BB4c12d0",
+      "name": "PT rsETH 25JUN2026",
+      "symbol": "PT-rsETH-25JUN2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xC9BFC3aFD592Cc5a3305aEc09aAAA6B9BB4c12d0/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2518,7 +2741,7 @@
       "address": "0xCAf560681233b54c996ba06C71566FD30F32C973",
       "name": "Pendle Market",
       "symbol": "PENDLE-LPT",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xCAf560681233b54c996ba06C71566FD30F32C973/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xCAf560681233b54c996ba06C71566FD30F32C973/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2526,7 +2749,7 @@
       "address": "0xCE24383f117b75B0e4b2b167aAc44A85Db3b7d85",
       "name": "xagEUR-USDC05",
       "symbol": "xagEUR-USDC05",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xCE24383f117b75B0e4b2b167aAc44A85Db3b7d85/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xCE24383f117b75B0e4b2b167aAc44A85Db3b7d85/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2534,7 +2757,7 @@
       "address": "0xCf1699A84F9eAC75e049ca8134C602cE24509Db6",
       "name": "YT weETH 26JUN2025",
       "symbol": "YT-weETH-26JUN2025",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xCf1699A84F9eAC75e049ca8134C602cE24509Db6/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xCf1699A84F9eAC75e049ca8134C602cE24509Db6/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2542,7 +2765,7 @@
       "address": "0xCf4A87e2fe4f91B09ECcCf40c757E75FD1f7ab93",
       "name": "xTBTC-WETH05",
       "symbol": "xTBTC-WETH05",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xCf4A87e2fe4f91B09ECcCf40c757E75FD1f7ab93/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xCf4A87e2fe4f91B09ECcCf40c757E75FD1f7ab93/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2550,7 +2773,7 @@
       "address": "0xCf602767e9c82194DaF58EB67a3169d60DbAaC62",
       "name": "Pendle Market",
       "symbol": "PENDLE-LPT",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xCf602767e9c82194DaF58EB67a3169d60DbAaC62/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xCf602767e9c82194DaF58EB67a3169d60DbAaC62/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2558,7 +2781,7 @@
       "address": "0xD101DF41943Ec333F64Df316A3093cee1Bf16572",
       "name": "YT MUXLP 27JUN2024",
       "symbol": "YT-MUXLP-27JUN2024",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xD101DF41943Ec333F64Df316A3093cee1Bf16572/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xD101DF41943Ec333F64Df316A3093cee1Bf16572/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2566,7 +2789,7 @@
       "address": "0xD29151dE7fBf87c068E715FAd113Bdd5EE556318",
       "name": "YT spSILO 27MAR2025",
       "symbol": "YT-spSILO-27MAR2025",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xD29151dE7fBf87c068E715FAd113Bdd5EE556318/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xD29151dE7fBf87c068E715FAd113Bdd5EE556318/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2574,7 +2797,7 @@
       "address": "0xD302d7fD2c9375a433018fDfA5613Be6Ad3f18E3",
       "name": "SY Staked ePENDLE",
       "symbol": "SY-stk-EPendle",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xD302d7fD2c9375a433018fDfA5613Be6Ad3f18E3/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xD302d7fD2c9375a433018fDfA5613Be6Ad3f18E3/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2582,7 +2805,15 @@
       "address": "0xD5AabeDA88c31858E5f60905185f8697bE185e55",
       "name": "PT sETH-wstEthSilo 26DEC2024",
       "symbol": "PT-sETH-wstEthSilo-26DEC2024",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xD5AabeDA88c31858E5f60905185f8697bE185e55/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xD5AabeDA88c31858E5f60905185f8697bE185e55/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0xD6D4648a192c5179B4175e0e431822b64aEDF6fC",
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xD6D4648a192c5179B4175e0e431822b64aEDF6fC/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2595,10 +2826,18 @@
       "decimals": 18
     },
     {
+      "address": "0xD8d5fbBAAD1e80AA0352B2029a594caEff6cF1Ec",
+      "name": "PT Bedrock uniETH 25JUN2026",
+      "symbol": "PT-uniETH-25JUN2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xD8d5fbBAAD1e80AA0352B2029a594caEff6cF1Ec/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
       "address": "0xDA002fb3601675BC6c2Ef9024Db27977cb194FC0",
       "name": "xGNS-WETH3",
       "symbol": "xGNS-WETH3",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xDA002fb3601675BC6c2Ef9024Db27977cb194FC0/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xDA002fb3601675BC6c2Ef9024Db27977cb194FC0/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2614,7 +2853,15 @@
       "address": "0xDA53c73a28dfF704Fe757b8B4f6f6359707533Da",
       "name": "YT rsETH 27JUN2024",
       "symbol": "YT-rsETH-27JUN2024",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xDA53c73a28dfF704Fe757b8B4f6f6359707533Da/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xDA53c73a28dfF704Fe757b8B4f6f6359707533Da/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0xDEc933e2392AD908263e70A386fbF34e703Ffe8F",
+      "name": "Wrapped Backed Coinbase Global",
+      "symbol": "wbCOIN",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xDEc933e2392AD908263e70A386fbF34e703Ffe8F/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2622,7 +2869,7 @@
       "address": "0xDcdC1004d5C271ADc048982d7EB900cC4F472333",
       "name": "YT weETH 27JUN2024",
       "symbol": "YT-weETH-27JUN2024",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xDcdC1004d5C271ADc048982d7EB900cC4F472333/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xDcdC1004d5C271ADc048982d7EB900cC4F472333/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2630,7 +2877,7 @@
       "address": "0xDf034121f2bfB0210553c1aE562d8D07247B6182",
       "name": "SY weETH",
       "symbol": "SY-weETH",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xDf034121f2bfB0210553c1aE562d8D07247B6182/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xDf034121f2bfB0210553c1aE562d8D07247B6182/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2638,7 +2885,7 @@
       "address": "0xE0C9B504241a757b4465DD0562e6780da75598bC",
       "name": "Pendle Market",
       "symbol": "PENDLE-LPT",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xE0C9B504241a757b4465DD0562e6780da75598bC/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xE0C9B504241a757b4465DD0562e6780da75598bC/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2646,7 +2893,7 @@
       "address": "0xE2B2D203577c7cb3D043E89cCf90b5E24d19b66f",
       "name": "PT weETH 26DEC2024",
       "symbol": "PT-weETH-26DEC2024",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xE2B2D203577c7cb3D043E89cCf90b5E24d19b66f/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xE2B2D203577c7cb3D043E89cCf90b5E24d19b66f/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2654,7 +2901,7 @@
       "address": "0xE389d95e2E8C799FDe5d37F245BDd7160bF50864",
       "name": "xETH-USDC3",
       "symbol": "xETH-USDC3",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xE389d95e2E8C799FDe5d37F245BDd7160bF50864/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xE389d95e2E8C799FDe5d37F245BDd7160bF50864/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2662,7 +2909,7 @@
       "address": "0xE58AfaA6E2abF9A9F243D5A55Bd5447628c4D811",
       "name": "YT Renzo ezETH 26SEP2024",
       "symbol": "YT-ezETH-26SEP2024",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xE58AfaA6E2abF9A9F243D5A55Bd5447628c4D811/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xE58AfaA6E2abF9A9F243D5A55Bd5447628c4D811/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2670,7 +2917,7 @@
       "address": "0xE74Cc2915081539b01ac2806Fc92F3109EF677dc",
       "name": "YT sETH-ptezETHSilo 26SEP2024",
       "symbol": "YT-sETH-ptezETHSilo-26SEP2024",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xE74Cc2915081539b01ac2806Fc92F3109EF677dc/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xE74Cc2915081539b01ac2806Fc92F3109EF677dc/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2678,7 +2925,7 @@
       "address": "0xE9BA18a9C5b93db9F971C7cE674FF2E9F613340e",
       "name": "xWETH-RNDR10",
       "symbol": "xWETH-RNDR10",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xE9BA18a9C5b93db9F971C7cE674FF2E9F613340e/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xE9BA18a9C5b93db9F971C7cE674FF2E9F613340e/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2694,7 +2941,7 @@
       "address": "0xED0dC8C074255c277BC704D6b096167D7a6E4311",
       "name": "SY GLP",
       "symbol": "SY-GLP",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xED0dC8C074255c277BC704D6b096167D7a6E4311/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xED0dC8C074255c277BC704D6b096167D7a6E4311/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2702,7 +2949,7 @@
       "address": "0xED99fC8bdB8E9e7B8240f62f69609a125A0Fbf14",
       "name": "Pendle Market",
       "symbol": "PENDLE-LPT",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xED99fC8bdB8E9e7B8240f62f69609a125A0Fbf14/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xED99fC8bdB8E9e7B8240f62f69609a125A0Fbf14/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2710,7 +2957,7 @@
       "address": "0xEa5abd5d15B8CD168e9eFf78047DB52aF079e094",
       "name": "xWETH-noiseGPT3",
       "symbol": "xWETH-noiseGPT3",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xEa5abd5d15B8CD168e9eFf78047DB52aF079e094/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xEa5abd5d15B8CD168e9eFf78047DB52aF079e094/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2718,7 +2965,7 @@
       "address": "0xEd9CEB9EB4DD78cA412A72F5D84b527F9176E87D",
       "name": "YT Kyber Position SY 26DEC2024",
       "symbol": "YT-KPSY-26DEC2024",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xEd9CEB9EB4DD78cA412A72F5D84b527F9176E87D/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xEd9CEB9EB4DD78cA412A72F5D84b527F9176E87D/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2734,7 +2981,7 @@
       "address": "0xF065e0f7AFA89DF5f2a8a109239C809f115129AE",
       "name": "YT Aave aUSDC 26DEC2024",
       "symbol": "YT-aUSDC-26DEC2024",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xF065e0f7AFA89DF5f2a8a109239C809f115129AE/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xF065e0f7AFA89DF5f2a8a109239C809f115129AE/logo-128.png",
       "chainId": 42161,
       "decimals": 6
     },
@@ -2742,7 +2989,7 @@
       "address": "0xF08BDBC590C59cb7B27A8D224E419ef058952b5f",
       "name": "xETH-GMX3",
       "symbol": "xETH-GMX3",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xF08BDBC590C59cb7B27A8D224E419ef058952b5f/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xF08BDBC590C59cb7B27A8D224E419ef058952b5f/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2750,7 +2997,7 @@
       "address": "0xF0A219e14D4c058022A828b16Af9888b143ab5aD",
       "name": "PT MUXLP 28MAR2024",
       "symbol": "PT-MUXLP-28MAR2024",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xF0A219e14D4c058022A828b16Af9888b143ab5aD/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xF0A219e14D4c058022A828b16Af9888b143ab5aD/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2758,7 +3005,7 @@
       "address": "0xF18011766Cf11D905e93ed5626838d44c7FA14B7",
       "name": "SY HLP",
       "symbol": "SY-HLP",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xF18011766Cf11D905e93ed5626838d44c7FA14B7/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xF18011766Cf11D905e93ed5626838d44c7FA14B7/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2766,7 +3013,7 @@
       "address": "0xF1De71573Ee482f13AE4DcF980e83bFAba8b233d",
       "name": "Pendle Market",
       "symbol": "PENDLE-LPT",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xF1De71573Ee482f13AE4DcF980e83bFAba8b233d/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xF1De71573Ee482f13AE4DcF980e83bFAba8b233d/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2774,7 +3021,7 @@
       "address": "0xF28Db483773E3616DA91FDfa7b5D4090Ac40cC59",
       "name": "YT weETH 25APR2024",
       "symbol": "YT-weETH-25APR2024",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xF28Db483773E3616DA91FDfa7b5D4090Ac40cC59/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xF28Db483773E3616DA91FDfa7b5D4090Ac40cC59/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2782,7 +3029,7 @@
       "address": "0xF478f7FeaeAB0DFdC91E02cDd6C63c66E30a7335",
       "name": "YT Ethena USDe 29AUG2024",
       "symbol": "YT-USDe-29AUG2024",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xF478f7FeaeAB0DFdC91E02cDd6C63c66E30a7335/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xF478f7FeaeAB0DFdC91E02cDd6C63c66E30a7335/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2790,7 +3037,7 @@
       "address": "0xF61267c3B79d6fdeB659174E0171E86cE7DC84B8",
       "name": "YT MUXLP 26DEC2024",
       "symbol": "YT-MUXLP-26DEC2024",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xF61267c3B79d6fdeB659174E0171E86cE7DC84B8/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xF61267c3B79d6fdeB659174E0171E86cE7DC84B8/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2798,7 +3045,7 @@
       "address": "0xF66DA0f517c6f5431c77f4d0525EbC4b3bb40578",
       "name": "xGNS-WETH3",
       "symbol": "xGNS-WETH3",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xF66DA0f517c6f5431c77f4d0525EbC4b3bb40578/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xF66DA0f517c6f5431c77f4d0525EbC4b3bb40578/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2806,7 +3053,7 @@
       "address": "0xF83d5F96fB4715D4E52359089fA3e4D7C7C32298",
       "name": "xGNS-USDC05",
       "symbol": "xGNS-USDC05",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xF83d5F96fB4715D4E52359089fA3e4D7C7C32298/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xF83d5F96fB4715D4E52359089fA3e4D7C7C32298/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2814,23 +3061,7 @@
       "address": "0xF89121bf3feF6CBb3a343c62D316f69f644b5775",
       "name": "xgDAI-DAI01",
       "symbol": "xgDAI-DAI01",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xF89121bf3feF6CBb3a343c62D316f69f644b5775/logo-128.png",
-      "chainId": 42161,
-      "decimals": 18
-    },
-    {
-      "address": "0xFA5Ed56A203466CbBC2430a43c66b9D8723528E7",
-      "name": "EURA (previously agEUR)",
-      "symbol": "EURA",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xFA5Ed56A203466CbBC2430a43c66b9D8723528E7/logo-128.png",
-      "chainId": 42161,
-      "decimals": 18
-    },
-    {
-      "address": "0xFEa7a6a0B346362BF88A9e4A88416B77a57D6c2A",
-      "name": "Magic Internet Money",
-      "symbol": "MIM",
-      "logoURI": "https://tokens.1inch.io/0xfea7a6a0b346362bf88a9e4a88416b77a57d6c2a.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xF89121bf3feF6CBb3a343c62D316f69f644b5775/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2838,7 +3069,7 @@
       "address": "0xFF4d6991658c5844856FAEF5da9232C252896FCa",
       "name": "Pendle Market",
       "symbol": "PENDLE-LPT",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xFF4d6991658c5844856FAEF5da9232C252896FCa/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xFF4d6991658c5844856FAEF5da9232C252896FCa/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2851,18 +3082,10 @@
       "decimals": 6
     },
     {
-      "address": "0xFa7F8980b0f1E64A2062791cc3b0871572f1F7f0",
-      "name": "Uniswap",
-      "symbol": "UNI",
-      "logoURI": "https://tokens.1inch.io/0x1f9840a85d5af5bf1d1762f925bdaddc4201f984.png",
-      "chainId": 42161,
-      "decimals": 18
-    },
-    {
       "address": "0xFafA2b178cB40Ac28E034548D9ba6085bcc5CA28",
       "name": "YT Kyber Elastic axlWstEth-wstETH 28MAR2024",
       "symbol": "YT-Kyber Elastic axlWstEth-wstETH-28MAR2024",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xFafA2b178cB40Ac28E034548D9ba6085bcc5CA28/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xFafA2b178cB40Ac28E034548D9ba6085bcc5CA28/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2870,7 +3093,7 @@
       "address": "0xFb3A24C0F289E695Ceb87B32fC18a2b8Bd896167",
       "name": "xWBTC-ETH3",
       "symbol": "xWBTC-ETH3",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xFb3A24C0F289E695Ceb87B32fC18a2b8Bd896167/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xFb3A24C0F289E695Ceb87B32fC18a2b8Bd896167/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2886,7 +3109,7 @@
       "address": "0xFe8ef0DE9E66180C8247FA3435870891B4CB2533",
       "name": "xLINK-USDT3",
       "symbol": "xLINK-USDT3",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xFe8ef0DE9E66180C8247FA3435870891B4CB2533/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xFe8ef0DE9E66180C8247FA3435870891B4CB2533/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2894,7 +3117,7 @@
       "address": "0xa0192f6567f8f5DC38C53323235FD08b318D2dcA",
       "name": "Pendle Market",
       "symbol": "PENDLE-LPT",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xa0192f6567f8f5DC38C53323235FD08b318D2dcA/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xa0192f6567f8f5DC38C53323235FD08b318D2dcA/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2902,7 +3125,7 @@
       "address": "0xa06FB6FBD9923D84D968c9436Ef4a6F26614Ef1B",
       "name": "xwUSDM-WSTETH3",
       "symbol": "xwUSDM-WSTETH3",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xa06FB6FBD9923D84D968c9436Ef4a6F26614Ef1B/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xa06FB6FBD9923D84D968c9436Ef4a6F26614Ef1B/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2910,7 +3133,15 @@
       "address": "0xa3BeDB2885Bf23E9b8f72e38Bbd9fdDD1b50E1d6",
       "name": "PT ARB-ETH_Camelot 27JUN2024",
       "symbol": "PT-ARB-ETH_Camelot-27JUN2024",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xa3BeDB2885Bf23E9b8f72e38Bbd9fdDD1b50E1d6/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xa3BeDB2885Bf23E9b8f72e38Bbd9fdDD1b50E1d6/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0xa520B3CC6431a7937EAF96E75CcdE57c2a7aA6D1",
+      "name": "PT eigenATH 11SEP2025",
+      "symbol": "PT-eATH-11SEP2025",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xa520B3CC6431a7937EAF96E75CcdE57c2a7aA6D1/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2918,7 +3149,7 @@
       "address": "0xa661223676633a701B3D1E51bd8c47e2Da07C1f6",
       "name": "YT MUXLP 26JUN2025",
       "symbol": "YT-MUXLP-26JUN2025",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xa661223676633a701B3D1E51bd8c47e2Da07C1f6/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xa661223676633a701B3D1E51bd8c47e2Da07C1f6/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2926,7 +3157,7 @@
       "address": "0xa6C895EB332E91c5b3D00B7baeEAae478cc502DA",
       "name": "SY weETH",
       "symbol": "SY-weETH",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xa6C895EB332E91c5b3D00B7baeEAae478cc502DA/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xa6C895EB332E91c5b3D00B7baeEAae478cc502DA/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2934,7 +3165,7 @@
       "address": "0xa7FCe463815f18DbE246152C5291B84db07c0bcd",
       "name": "wstETH-ETH3",
       "symbol": "wstETH-ETH3",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xa7FCe463815f18DbE246152C5291B84db07c0bcd/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xa7FCe463815f18DbE246152C5291B84db07c0bcd/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2942,7 +3173,7 @@
       "address": "0xa810ba21e65D54dE0283002dB8fB6Ea504c83234",
       "name": "YT Bedrock uniETH 26DEC2024",
       "symbol": "YT-uniETH-26DEC2024",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xa810ba21e65D54dE0283002dB8fB6Ea504c83234/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xa810ba21e65D54dE0283002dB8fB6Ea504c83234/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2950,7 +3181,7 @@
       "address": "0xa877a0E177b54A37066c1786F91a1DAb68F094AF",
       "name": "Pendle Market",
       "symbol": "PENDLE-LPT",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xa877a0E177b54A37066c1786F91a1DAb68F094AF/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xa877a0E177b54A37066c1786F91a1DAb68F094AF/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2958,7 +3189,15 @@
       "address": "0xa9Dc6aC72f219D805d620437878Af4E3845F9EbD",
       "name": "PT GLP 28MAR2024",
       "symbol": "PT-GLP-28MAR2024",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xa9Dc6aC72f219D805d620437878Af4E3845F9EbD/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xa9Dc6aC72f219D805d620437878Af4E3845F9EbD/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0xaB7F3837E6e721abBc826927B655180Af6A04388",
+      "name": "PT weETH 25JUN2026",
+      "symbol": "PT-weETH-25JUN2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xaB7F3837E6e721abBc826927B655180Af6A04388/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2966,7 +3205,7 @@
       "address": "0xaD22fCA714559Da1Eb25FB24443B0446B54246Fc",
       "name": "PT mPendle 26SEP2024",
       "symbol": "PT-mPendle-26SEP2024",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xaD22fCA714559Da1Eb25FB24443B0446B54246Fc/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xaD22fCA714559Da1Eb25FB24443B0446B54246Fc/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2974,7 +3213,7 @@
       "address": "0xad853EB4fB3Fe4a66CdFCD7b75922a0494955292",
       "name": "PT Ethena USDe 29AUG2024",
       "symbol": "PT-USDe-29AUG2024",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xad853EB4fB3Fe4a66CdFCD7b75922a0494955292/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xad853EB4fB3Fe4a66CdFCD7b75922a0494955292/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2987,10 +3226,18 @@
       "decimals": 6
     },
     {
+      "address": "0xb178DDf95eb08933583908F17BC522bb9A694bFd",
+      "name": "YT Dolomite WBTC 18DEC2025",
+      "symbol": "YT-dWBTC-18DEC2025",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xb178DDf95eb08933583908F17BC522bb9A694bFd/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
       "address": "0xb33808ea0e883138680BA29311a220A7377cdb92",
       "name": "PT weETH 26JUN2025",
       "symbol": "PT-weETH-26JUN2025",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xb33808ea0e883138680BA29311a220A7377cdb92/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xb33808ea0e883138680BA29311a220A7377cdb92/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2998,7 +3245,7 @@
       "address": "0xb344f1C68Ed753B5d1D8B1885006Fa7C05D5FfAc",
       "name": "PT sETH-pteETHSilo 26SEP2024",
       "symbol": "PT-sETH-pteETHSilo-26SEP2024",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xb344f1C68Ed753B5d1D8B1885006Fa7C05D5FfAc/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xb344f1C68Ed753B5d1D8B1885006Fa7C05D5FfAc/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -3006,7 +3253,7 @@
       "address": "0xb3C24D9dcCC2Ec5f778742389ffe448E295B84e0",
       "name": "SY Ethena USDe",
       "symbol": "SY-USDe",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xb3C24D9dcCC2Ec5f778742389ffe448E295B84e0/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xb3C24D9dcCC2Ec5f778742389ffe448E295B84e0/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -3014,7 +3261,7 @@
       "address": "0xb4781463a1261F60fca37732EFa510c22DEc5ADa",
       "name": "Pendle Market",
       "symbol": "PENDLE-LPT",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xb4781463a1261F60fca37732EFa510c22DEc5ADa/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xb4781463a1261F60fca37732EFa510c22DEc5ADa/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -3022,7 +3269,7 @@
       "address": "0xb72b988CAF33f3d8A6d816974fE8cAA199E5E86c",
       "name": "PT aUSDC 27JUN2024",
       "symbol": "PT-aUSDC-27JUN2024",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xb72b988CAF33f3d8A6d816974fE8cAA199E5E86c/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xb72b988CAF33f3d8A6d816974fE8cAA199E5E86c/logo-128.png",
       "chainId": 42161,
       "decimals": 6
     },
@@ -3030,7 +3277,7 @@
       "address": "0xb7ffe52EA584d2169Ae66e7F0423574A5E15056F",
       "name": "Pendle Market",
       "symbol": "PENDLE-LPT",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xb7ffe52EA584d2169Ae66e7F0423574A5E15056F/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xb7ffe52EA584d2169Ae66e7F0423574A5E15056F/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -3038,7 +3285,7 @@
       "address": "0xb8b0a120F6A68Dd06209619F62429fB1a8e92feC",
       "name": "PT weETH 26SEP2024",
       "symbol": "PT-weETH-26SEP2024",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xb8b0a120F6A68Dd06209619F62429fB1a8e92feC/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xb8b0a120F6A68Dd06209619F62429fB1a8e92feC/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -3046,7 +3293,7 @@
       "address": "0xbE9A9b386FdbA0de5fD76fA2495b0940102Ea1e4",
       "name": "SY Aave Arbitrum USDCn",
       "symbol": "SY-aArbUSDCn",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xbE9A9b386FdbA0de5fD76fA2495b0940102Ea1e4/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xbE9A9b386FdbA0de5fD76fA2495b0940102Ea1e4/logo-128.png",
       "chainId": 42161,
       "decimals": 6
     },
@@ -3054,7 +3301,7 @@
       "address": "0xba1F509C6E5f1f6a529Ecc0913b27658a678B4b9",
       "name": "PT PENDLE-ETH_Camelot 27JUN2024",
       "symbol": "PT-PENDLE-ETH_Camelot-27JUN2024",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xba1F509C6E5f1f6a529Ecc0913b27658a678B4b9/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xba1F509C6E5f1f6a529Ecc0913b27658a678B4b9/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -3062,7 +3309,7 @@
       "address": "0xbcFa4cfA97f74a6AbF80b9901569BBc8654F4315",
       "name": "xWETH-GRT10",
       "symbol": "xWETH-GRT10",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xbcFa4cfA97f74a6AbF80b9901569BBc8654F4315/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xbcFa4cfA97f74a6AbF80b9901569BBc8654F4315/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -3070,7 +3317,7 @@
       "address": "0xbf5C84697058CE641C8477866e031ea844554869",
       "name": "\u003cscript\u003ealert(1)\u003c/script\u003e",
       "symbol": "\u003cscript\u003ealert(1)\u003c/script\u003e",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xbf5C84697058CE641C8477866e031ea844554869/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xbf5C84697058CE641C8477866e031ea844554869/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -3078,7 +3325,7 @@
       "address": "0xc0Cf4b266bE5B3229C49590B59E67A09c15b22f4",
       "name": "SY rETH",
       "symbol": "SY-rETH",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xc0Cf4b266bE5B3229C49590B59E67A09c15b22f4/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xc0Cf4b266bE5B3229C49590B59E67A09c15b22f4/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -3086,7 +3333,7 @@
       "address": "0xc3E878fACb776B1A453fC70576c8FefB8ed39Fb1",
       "name": "xRDPX-WETH10",
       "symbol": "xRDPX-WETH10",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xc3E878fACb776B1A453fC70576c8FefB8ed39Fb1/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xc3E878fACb776B1A453fC70576c8FefB8ed39Fb1/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -3094,7 +3341,7 @@
       "address": "0xc425F3059142a5F1dd6FFFECfA99b5Ca590e3Fcf",
       "name": "xWETH-USDC05",
       "symbol": "xWETH-USDC05",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xc425F3059142a5F1dd6FFFECfA99b5Ca590e3Fcf/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xc425F3059142a5F1dd6FFFECfA99b5Ca590e3Fcf/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -3102,15 +3349,23 @@
       "address": "0xc617dAeE26F67edBEd5Bd978f4f8E02A1f8C9a6C",
       "name": "YT Dolomite USDC 26JUN2025",
       "symbol": "YT-dUSDC-26JUN2025",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xc617dAeE26F67edBEd5Bd978f4f8E02A1f8C9a6C/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xc617dAeE26F67edBEd5Bd978f4f8E02A1f8C9a6C/logo-128.png",
       "chainId": 42161,
       "decimals": 6
+    },
+    {
+      "address": "0xc76311b199EB5A84d17A906A0409E560c43d12E3",
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xc76311b199EB5A84d17A906A0409E560c43d12E3/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
     },
     {
       "address": "0xc79d8a2AA6d769138E599D4DBC30569c9870a6Ee",
       "name": "SY PENDLE-ETH_Camelot",
       "symbol": "SY-PENDLE-ETH_Camelot",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xc79d8a2AA6d769138E599D4DBC30569c9870a6Ee/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xc79d8a2AA6d769138E599D4DBC30569c9870a6Ee/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -3118,7 +3373,7 @@
       "address": "0xc7b784EEfA554b71FaaD8A3c073f474CB7175886",
       "name": "xWETH-OMNI10",
       "symbol": "xWETH-OMNI10",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xc7b784EEfA554b71FaaD8A3c073f474CB7175886/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xc7b784EEfA554b71FaaD8A3c073f474CB7175886/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -3126,7 +3381,7 @@
       "address": "0xc85910daF21367Cc293eB82876d094C31583b0B7",
       "name": "Pendle Market",
       "symbol": "PENDLE-LPT",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xc85910daF21367Cc293eB82876d094C31583b0B7/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xc85910daF21367Cc293eB82876d094C31583b0B7/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -3134,7 +3389,7 @@
       "address": "0xc913698F534eD275f28d8379F5600f333f60594D",
       "name": "SY Savings USDS",
       "symbol": "SY-sUSDS",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xc913698F534eD275f28d8379F5600f333f60594D/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xc913698F534eD275f28d8379F5600f333f60594D/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -3142,7 +3397,7 @@
       "address": "0xcA71E00e364BB033371a7F61f3F6B803b06e9fC4",
       "name": "YT wstETH 28MAR2024",
       "symbol": "YT-wstETH-28MAR2024",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xcA71E00e364BB033371a7F61f3F6B803b06e9fC4/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xcA71E00e364BB033371a7F61f3F6B803b06e9fC4/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -3150,7 +3405,7 @@
       "address": "0xcB471665BF23B2Ac6196D84D947490fd5571215f",
       "name": "Pendle Market",
       "symbol": "PENDLE-LPT",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xcB471665BF23B2Ac6196D84D947490fd5571215f/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xcB471665BF23B2Ac6196D84D947490fd5571215f/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -3158,7 +3413,7 @@
       "address": "0xcC86572Ce5a6EEe74c76c57E9ea7b08221F06bb9",
       "name": "xTBTC-WETH05",
       "symbol": "xTBTC-WETH05",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xcC86572Ce5a6EEe74c76c57E9ea7b08221F06bb9/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xcC86572Ce5a6EEe74c76c57E9ea7b08221F06bb9/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -3166,7 +3421,7 @@
       "address": "0xcEF75d0914D183c8EaDfAFAEa9Dfef688aAffcF3",
       "name": "PT PENDLE-ETH_Camelot 26JUN2025",
       "symbol": "PT-PENDLE-ETH_Camelot-26JUN2025",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xcEF75d0914D183c8EaDfAFAEa9Dfef688aAffcF3/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xcEF75d0914D183c8EaDfAFAEa9Dfef688aAffcF3/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -3174,7 +3429,7 @@
       "address": "0xcb0Be770cC1409a3705d3CA63516244f1BfA8b64",
       "name": "Pendle Market",
       "symbol": "PENDLE-LPT",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xcb0Be770cC1409a3705d3CA63516244f1BfA8b64/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xcb0Be770cC1409a3705d3CA63516244f1BfA8b64/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -3182,7 +3437,7 @@
       "address": "0xcfC8AeD301F23e2e730f783756F64449B941b80F",
       "name": "xWETH-OSAK10",
       "symbol": "xWETH-OSAK10",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xcfC8AeD301F23e2e730f783756F64449B941b80F/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xcfC8AeD301F23e2e730f783756F64449B941b80F/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -3190,7 +3445,7 @@
       "address": "0xd0FDb5EE558B3BCd9e5Bc1344B28b2249de6559C",
       "name": "Pendle Market",
       "symbol": "PENDLE-LPT",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xd0FDb5EE558B3BCd9e5Bc1344B28b2249de6559C/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xd0FDb5EE558B3BCd9e5Bc1344B28b2249de6559C/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -3198,7 +3453,7 @@
       "address": "0xd147E0bE7b8cB2104274F1Ff3962B917c6c300B1",
       "name": "xtBTC-WETH05",
       "symbol": "xtBTC-WETH05",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xd147E0bE7b8cB2104274F1Ff3962B917c6c300B1/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xd147E0bE7b8cB2104274F1Ff3962B917c6c300B1/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -3206,7 +3461,7 @@
       "address": "0xd1F7d5fec6EB532847e552269c905Ac489992Ef6",
       "name": "SY GLP",
       "symbol": "SY-GLP",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xd1F7d5fec6EB532847e552269c905Ac489992Ef6/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xd1F7d5fec6EB532847e552269c905Ac489992Ef6/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -3214,7 +3469,15 @@
       "address": "0xd6Be2DC6767DA105B73e1e78f9A61fE4eB9b03E0",
       "name": "PT mPendle 26JUN2025",
       "symbol": "PT-mPendle-26JUN2025",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xd6Be2DC6767DA105B73e1e78f9A61fE4eB9b03E0/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xd6Be2DC6767DA105B73e1e78f9A61fE4eB9b03E0/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0xd7Eac6c9109D8c3977EBCe4e7DBf0A5A9532E240",
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xd7Eac6c9109D8c3977EBCe4e7DBf0A5A9532E240/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -3222,7 +3485,7 @@
       "address": "0xd7e810aEd2988B8A7eA0187d55C939110b178521",
       "name": "PT sETH-ptezETHSilo 27JUN2024",
       "symbol": "PT-sETH-ptezETHSilo-27JUN2024",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xd7e810aEd2988B8A7eA0187d55C939110b178521/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xd7e810aEd2988B8A7eA0187d55C939110b178521/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -3230,7 +3493,7 @@
       "address": "0xd90E7b9fF165Dc10033896ea86194B4BBce070Bb",
       "name": "mPendle SY",
       "symbol": "mPendle-SY",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xd90E7b9fF165Dc10033896ea86194B4BBce070Bb/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xd90E7b9fF165Dc10033896ea86194B4BBce070Bb/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -3238,7 +3501,7 @@
       "address": "0xd9DE069f0980FED309e8885cDFbd66Bdd66CdB77",
       "name": "PT gUSDC 26DEC2024",
       "symbol": "PT-gUSDC-26DEC2024",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xd9DE069f0980FED309e8885cDFbd66Bdd66CdB77/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xd9DE069f0980FED309e8885cDFbd66Bdd66CdB77/logo-128.png",
       "chainId": 42161,
       "decimals": 6
     },
@@ -3246,7 +3509,7 @@
       "address": "0xdFE710f59416e0168cd3c86EF0999deb0acb28Ce",
       "name": "xGNS-USDC05",
       "symbol": "xGNS-USDC05",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xdFE710f59416e0168cd3c86EF0999deb0acb28Ce/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xdFE710f59416e0168cd3c86EF0999deb0acb28Ce/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -3254,7 +3517,7 @@
       "address": "0xdbD82A83eae485EB589f56A7c20F440AeC952D1d",
       "name": "xETH-USDC05",
       "symbol": "xETH-USDC05",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xdbD82A83eae485EB589f56A7c20F440AeC952D1d/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xdbD82A83eae485EB589f56A7c20F440AeC952D1d/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -3270,7 +3533,15 @@
       "address": "0xdd4C7313Fe4C92e043B9B7dFE433e239BcD05A0D",
       "name": "SY ARB-GRAIL_Camelot",
       "symbol": "SY-ARB-GRAIL_Camelot",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xdd4C7313Fe4C92e043B9B7dFE433e239BcD05A0D/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xdd4C7313Fe4C92e043B9B7dFE433e239BcD05A0D/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0xe03C236cA6F07755Ad631a42Dd5d60E293b1bf71",
+      "name": "YT rETH 25JUN2026",
+      "symbol": "YT-rETH-25JUN2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xe03C236cA6F07755Ad631a42Dd5d60E293b1bf71/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -3278,7 +3549,7 @@
       "address": "0xe281e58E99291E1CaBbc04277c1681f7D995660e",
       "name": "PT sETH-ptezETHSilo 26SEP2024",
       "symbol": "PT-sETH-ptezETHSilo-26SEP2024",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xe281e58E99291E1CaBbc04277c1681f7D995660e/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xe281e58E99291E1CaBbc04277c1681f7D995660e/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -3286,7 +3557,7 @@
       "address": "0xe41d14572d39271E368A993d50d8307A599c3E6E",
       "name": "xWBTC-USDC3",
       "symbol": "xWBTC-USDC3",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xe41d14572d39271E368A993d50d8307A599c3E6E/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xe41d14572d39271E368A993d50d8307A599c3E6E/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -3294,7 +3565,7 @@
       "address": "0xe530341f12a41c9B6C69FF378E97794589e31119",
       "name": "Pendle Market",
       "symbol": "PENDLE-LPT",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xe530341f12a41c9B6C69FF378E97794589e31119/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xe530341f12a41c9B6C69FF378E97794589e31119/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -3302,7 +3573,7 @@
       "address": "0xe59A37F7F5263aA8cb5155AF3498ba01CC2c394B",
       "name": "Pendle Market",
       "symbol": "PENDLE-LPT",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xe59A37F7F5263aA8cb5155AF3498ba01CC2c394B/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xe59A37F7F5263aA8cb5155AF3498ba01CC2c394B/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -3310,7 +3581,7 @@
       "address": "0xe7C4e31538A6610e8a452804628baA1025bb787d",
       "name": "YT sETH-ptezETHSilo 26SEP2024",
       "symbol": "YT-sETH-ptezETHSilo-26SEP2024",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xe7C4e31538A6610e8a452804628baA1025bb787d/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xe7C4e31538A6610e8a452804628baA1025bb787d/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -3318,7 +3589,7 @@
       "address": "0xe822AE44EB2466B4E263b1cbC94b4833dDEf9700",
       "name": "YT rETH 26JUN2025",
       "symbol": "YT-rETH-26JUN2025",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xe822AE44EB2466B4E263b1cbC94b4833dDEf9700/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xe822AE44EB2466B4E263b1cbC94b4833dDEf9700/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -3326,7 +3597,7 @@
       "address": "0xe9e114d1b119bbDEB7A35E1cE3C82db01622ada2",
       "name": "Pendle Market",
       "symbol": "PENDLE-LPT",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xe9e114d1b119bbDEB7A35E1cE3C82db01622ada2/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xe9e114d1b119bbDEB7A35E1cE3C82db01622ada2/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -3334,7 +3605,7 @@
       "address": "0xeb044f64aE0dFD5433726fC5418d6643897cbb6B",
       "name": "YT gUSDC 26JUN2025",
       "symbol": "YT-gUSDC-26JUN2025",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xeb044f64aE0dFD5433726fC5418d6643897cbb6B/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xeb044f64aE0dFD5433726fC5418d6643897cbb6B/logo-128.png",
       "chainId": 42161,
       "decimals": 6
     },
@@ -3342,7 +3613,7 @@
       "address": "0xf065c7A9100e7B22Fa6488aD85Ce09323b8cA8f5",
       "name": "Pendle Market",
       "symbol": "PENDLE-LPT",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xf065c7A9100e7B22Fa6488aD85Ce09323b8cA8f5/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xf065c7A9100e7B22Fa6488aD85Ce09323b8cA8f5/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -3350,7 +3621,7 @@
       "address": "0xf176fB51F4eB826136a54FDc71C50fCd2202E272",
       "name": "SY rsETH",
       "symbol": "SY-rsETH",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xf176fB51F4eB826136a54FDc71C50fCd2202E272/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xf176fB51F4eB826136a54FDc71C50fCd2202E272/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -3358,7 +3629,7 @@
       "address": "0xf21Df991cAaFeBc242C7e5BE17892d3B0453bc0F",
       "name": "xETH-rETH05",
       "symbol": "xETH-rETH05",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xf21Df991cAaFeBc242C7e5BE17892d3B0453bc0F/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xf21Df991cAaFeBc242C7e5BE17892d3B0453bc0F/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -3366,7 +3637,7 @@
       "address": "0xf2D4Fb0c2064d3dCa388FE007579295a124Ab03a",
       "name": "YT wstETH 26JUN2025",
       "symbol": "YT-wstETH-26JUN2025",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xf2D4Fb0c2064d3dCa388FE007579295a124Ab03a/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xf2D4Fb0c2064d3dCa388FE007579295a124Ab03a/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -3374,7 +3645,7 @@
       "address": "0xf31B528d724354575c0c65Ab17D6dEcde29d2900",
       "name": "YT MUXLP 28MAR2024",
       "symbol": "YT-MUXLP-28MAR2024",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xf31B528d724354575c0c65Ab17D6dEcde29d2900/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xf31B528d724354575c0c65Ab17D6dEcde29d2900/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -3382,7 +3653,7 @@
       "address": "0xf4A53f7F455Cddd37776a138930CeeAab820ad4e",
       "name": "PT \u003cscript\u003ealert(1)\u003c/script\u003e 26SEP2024",
       "symbol": "PT-\u003cscript\u003ealert(1)\u003c/script\u003e-26SEP2024",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xf4A53f7F455Cddd37776a138930CeeAab820ad4e/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xf4A53f7F455Cddd37776a138930CeeAab820ad4e/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -3390,7 +3661,15 @@
       "address": "0xf602EecD270Eb87BE1Bfcc716D27083223B35F04",
       "name": "YT mPendle 27MAR2025",
       "symbol": "YT-mPendle-27MAR2025",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xf602EecD270Eb87BE1Bfcc716D27083223B35F04/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xf602EecD270Eb87BE1Bfcc716D27083223B35F04/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0xf78452e0f5C0B95fc5dC8353B8CD1e06E53fa25B",
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xf78452e0f5C0B95fc5dC8353B8CD1e06E53fa25B/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -3398,7 +3677,7 @@
       "address": "0xf875f32648BE14d04e0Df4a977Afd4290DD92713",
       "name": "YT GLP 26SEP2024",
       "symbol": "YT-GLP-26SEP2024",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xf875f32648BE14d04e0Df4a977Afd4290DD92713/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xf875f32648BE14d04e0Df4a977Afd4290DD92713/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -3406,7 +3685,7 @@
       "address": "0xf8b645c32F660f5c997ED250f264cA4a0E7A5967",
       "name": "xUSDC-LINK05",
       "symbol": "xUSDC-LINK05",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xf8b645c32F660f5c997ED250f264cA4a0E7A5967/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xf8b645c32F660f5c997ED250f264cA4a0E7A5967/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -3414,7 +3693,7 @@
       "address": "0xf93e88b07dfC860Abf72D13A088a7092CE213190",
       "name": "PT Staked ePENDLE 26DEC2024",
       "symbol": "PT-stk-EPendle-26DEC2024",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xf93e88b07dfC860Abf72D13A088a7092CE213190/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xf93e88b07dfC860Abf72D13A088a7092CE213190/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -3430,7 +3709,7 @@
       "address": "0xf9F9779d8fF604732EBA9AD345E6A27EF5c2a9d6",
       "name": "Pendle Market",
       "symbol": "PENDLE-LPT",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xf9F9779d8fF604732EBA9AD345E6A27EF5c2a9d6/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xf9F9779d8fF604732EBA9AD345E6A27EF5c2a9d6/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -3438,7 +3717,7 @@
       "address": "0xfA392dbefd2d5ec891eF5aEB87397A89843a8260",
       "name": "xETH-LINK3",
       "symbol": "xETH-LINK3",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xfA392dbefd2d5ec891eF5aEB87397A89843a8260/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xfA392dbefd2d5ec891eF5aEB87397A89843a8260/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -3446,7 +3725,7 @@
       "address": "0xfB072eE95Fb8fdD066AC42767D7D76A65aC51c2e",
       "name": "xWETH-RPL10",
       "symbol": "xWETH-RPL10",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xfB072eE95Fb8fdD066AC42767D7D76A65aC51c2e/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xfB072eE95Fb8fdD066AC42767D7D76A65aC51c2e/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -3454,7 +3733,7 @@
       "address": "0xfB2A7AC0372C2425c273932f8d438518402A873E",
       "name": "YT weETH 26SEP2024",
       "symbol": "YT-weETH-26SEP2024",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xfB2A7AC0372C2425c273932f8d438518402A873E/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xfB2A7AC0372C2425c273932f8d438518402A873E/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -3462,7 +3741,7 @@
       "address": "0xfBE8269F3358bA95a06474fA8324ac594fD7dC9c",
       "name": "xETH-USDC05",
       "symbol": "xETH-USDC05",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xfBE8269F3358bA95a06474fA8324ac594fD7dC9c/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xfBE8269F3358bA95a06474fA8324ac594fD7dC9c/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -3470,7 +3749,15 @@
       "address": "0xfE49069d05d0d65559735FD74219460a11425bf0",
       "name": "PT MUXLP 26DEC2024",
       "symbol": "PT-MUXLP-26DEC2024",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xfE49069d05d0d65559735FD74219460a11425bf0/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xfE49069d05d0d65559735FD74219460a11425bf0/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0xfF9826C358a822D00187B487C349BC5E7F30788A",
+      "name": "YT weETH 25JUN2026",
+      "symbol": "YT-weETH-25JUN2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xfF9826C358a822D00187B487C349BC5E7F30788A/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },

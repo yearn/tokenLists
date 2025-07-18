@@ -1,10 +1,10 @@
 {
   "name": "RouteScan",
   "description": "",
-  "timestamp": "2025-07-18T15:56:27Z",
+  "timestamp": "2025-07-18T19:57:41Z",
   "version": {
     "major": 34,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   },
   "logoURI": "https://cms-cdn.avascan.com/cms2/routescan.432df9c80dd7.svg",
@@ -49,7 +49,15 @@
       "address": "0x38aD23b0902D0d86c2F3949BC505194D70B762F5",
       "name": "Burn Wrapped AJNA",
       "symbol": "bwAJNA",
-      "logoURI": "https://assets.smold.app/api/token/81457/0x38aD23b0902D0d86c2F3949BC505194D70B762F5/logo-128.png",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/81457/0x38aD23b0902D0d86c2F3949BC505194D70B762F5/logo-128.png",
+      "chainId": 81457,
+      "decimals": 18
+    },
+    {
+      "address": "0x4186BFC76E2E237523CBC30FD220FE055156b41F",
+      "name": "KelpDao Restaked ETH",
+      "symbol": "rsETH",
+      "logoURI": "https://cms-cdn.avascan.com/cms2/KelpDAO Bridged rsETH  Optimism .6bb865873483.png",
       "chainId": 81457,
       "decimals": 18
     },
@@ -113,7 +121,7 @@
       "address": "0x6d5564584B70240691bd6Ff7A834B9fab844e0D4",
       "name": "Wrapped WETH",
       "symbol": "W2ETH",
-      "logoURI": "https://assets.smold.app/api/token/81457/0x6d5564584B70240691bd6Ff7A834B9fab844e0D4/logo-128.png",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/81457/0x6d5564584B70240691bd6Ff7A834B9fab844e0D4/logo-128.png",
       "chainId": 81457,
       "decimals": 18
     },
@@ -173,6 +181,14 @@
       "decimals": 18
     },
     {
+      "address": "0x9e20461bc2c4c980f62f1B279D71734207a6A356",
+      "name": "OmniCat",
+      "symbol": "OMNI",
+      "logoURI": "https://cms-cdn.avascan.com/cms2/omnicat_32.1a6f941dc388.png",
+      "chainId": 81457,
+      "decimals": 18
+    },
+    {
       "address": "0xE070B87c4d88826D4cD1b85BAbE186fdB14CD321",
       "name": "Cyberblast Token",
       "symbol": "CBR",
@@ -192,7 +208,7 @@
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "name": "Ethereum",
       "symbol": "ETH",
-      "logoURI": "https://assets.smold.app/api/token/81457/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE/logo-128.png",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/81457/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE/logo-128.png",
       "chainId": 81457,
       "decimals": 18
     },

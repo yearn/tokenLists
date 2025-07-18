@@ -1,15 +1,23 @@
 {
   "name": "Paraswap Token List",
   "description": "",
-  "timestamp": "2025-07-18T16:08:01Z",
+  "timestamp": "2025-07-18T19:54:42Z",
   "version": {
-    "major": 40,
+    "major": 41,
     "minor": 0,
     "patch": 0
   },
   "logoURI": "https://app.paraswap.io/psp_logo.svg",
   "keywords": [],
   "tokens": [
+    {
+      "address": "0x04C0599Ae5A44757c0af6F9eC3b93da8976c150A",
+      "name": "Wrapped eETH",
+      "symbol": "weETH",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0x04C0599Ae5A44757c0af6F9eC3b93da8976c150A/logo-128.png",
+      "chainId": 8453,
+      "decimals": 18
+    },
     {
       "address": "0x0a1d576f3eFeF75b330424287a95A366e8281D54",
       "name": "Aave Base USDbC",
@@ -29,7 +37,7 @@
       "address": "0x2Ae3F1Ec7F1F5012CFEab0185bfc7aa3cf0DEc22",
       "name": "Coinbase Wrapped Staked ETH",
       "symbol": "cbETH",
-      "logoURI": "https://assets.smold.app/api/token/8453/0x2Ae3F1Ec7F1F5012CFEab0185bfc7aa3cf0DEc22/logo-128.png",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0x2Ae3F1Ec7F1F5012CFEab0185bfc7aa3cf0DEc22/logo-128.png",
       "chainId": 8453,
       "decimals": 18
     },
@@ -37,7 +45,7 @@
       "address": "0x4200000000000000000000000000000000000006",
       "name": "Wrapped Ether",
       "symbol": "WETH",
-      "logoURI": "https://assets.smold.app/api/token/8453/0x4200000000000000000000000000000000000006/logo-128.png",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0x4200000000000000000000000000000000000006/logo-128.png",
       "chainId": 8453,
       "decimals": 18
     },
@@ -68,7 +76,7 @@
       "address": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
       "name": "Dai Stablecoin",
       "symbol": "DAI",
-      "logoURI": "https://assets.smold.app/api/token/8453/0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb/logo-128.png",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb/logo-128.png",
       "chainId": 8453,
       "decimals": 18
     },
@@ -91,7 +99,7 @@
       "address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
       "name": "USD Coin",
       "symbol": "USDC",
-      "logoURI": "https://assets.smold.app/api/token/8453/0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913/logo-128.png",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913/logo-128.png",
       "chainId": 8453,
       "decimals": 6
     },
@@ -114,7 +122,7 @@
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "name": "Ethereum",
       "symbol": "ETH",
-      "logoURI": "https://assets.smold.app/api/token/8453/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE/logo-128.png",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE/logo-128.png",
       "chainId": 8453,
       "decimals": 18
     },
@@ -122,7 +130,7 @@
       "address": "0xc1CBa3fCea344f92D9239c08C0568f6F2F0ee452",
       "name": "Wrapped liquid staked Ether 2.0",
       "symbol": "wstETH",
-      "logoURI": "https://assets.smold.app/api/token/8453/0xc1CBa3fCea344f92D9239c08C0568f6F2F0ee452/logo-128.png",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0xc1CBa3fCea344f92D9239c08C0568f6F2F0ee452/logo-128.png",
       "chainId": 8453,
       "decimals": 18
     },
@@ -138,7 +146,7 @@
       "address": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
       "name": "USD Base Coin",
       "symbol": "USDbC",
-      "logoURI": "https://assets.smold.app/api/token/8453/0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA/logo-128.png",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA/logo-128.png",
       "chainId": 8453,
       "decimals": 6
     }

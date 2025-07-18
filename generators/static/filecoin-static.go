@@ -16,7 +16,7 @@ var FILECOIN_NOTICE = `
 
 var FILECOIN_STATIC = map[uint64][]TStaticElement{
 	314: {
-		{`0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE`, `https://assets.smold.app/api/token/314/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE/logo-128.png`},
+		{`0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE`, `https://token-assets-one.vercel.app/api/token/314/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE/logo-128.png`},
 		{`0x60E1773636CF5E4A227d9AC24F20fEca034ee25A`, ``},
 		{`0x690908f7fa93afC040CFbD9fE1dDd2C2668Aa0e0`, ``},
 		{`0xAaa93ac72bECfbBc9149f293466bbdAa4b5Ef68C`, ``},

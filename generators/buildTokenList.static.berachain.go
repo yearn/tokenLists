@@ -15,7 +15,7 @@ func buildBerachainStaticTokenList() {
 	tokenList := helpers.LoadTokenListFromJsonFile(`berachain-static.json`)
 	tokenList.Name = `Berachain (Static)`
 	tokenList.Description = `An EVM-identical L1 aligning security and liquidity powered by Proof Of Liquidity`
-	tokenList.LogoURI = `https://assets.smold.app/chains/80094/logo-128.png`
+	tokenList.LogoURI = `https://token-assets-one.vercel.app/chains/80094/logo-128.png`
 	tokenList.Keywords = []string{`Berachain`}
 	tokens := []models.TokenListToken{}
 	tokens = append(tokens, fetchBerachainStaticTokenList(80094)...)

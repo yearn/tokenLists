@@ -10,7 +10,7 @@ import (
 	"github.com/migratooor/tokenLists/generators/common/utils"
 )
 
-const DEFAULT_SMOL_NOT_FOUND = `https://assets.smold.app/not-found.png`
+const DEFAULT_SMOL_NOT_FOUND = `https://token-assets-one.vercel.app/not-found.png`
 const DEFAULT_PARASWAP_NOT_FOUND = `https://cdn.paraswap.io/token/token.png`
 const DEFAULT_ETHERSCAN_NOT_FOUND = `https://etherscan.io/images/main/empty-token.png`
 
@@ -49,7 +49,7 @@ func UseIcon(chainID uint64, tokenName string, tokenAddress string, fallback str
 	smolAssets := GetSmolAssetsPerChain(chainID)
 
 	if IncludesAddress(smolAssets, tokenAddress) {
-		return `https://assets.smold.app/api/token/` + strconv.FormatUint(chainID, 10) + `/` + tokenAddress + `/logo-128.png`
+		return `https://token-assets-one.vercel.app/api/token/` + strconv.FormatUint(chainID, 10) + `/` + tokenAddress + `/logo-128.png`
 	}
 
 	if shouldLogAssetError {

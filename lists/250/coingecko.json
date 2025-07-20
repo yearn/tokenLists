@@ -1,9 +1,9 @@
 {
   "name": "CoinGecko",
   "description": "",
-  "timestamp": "2025-07-18T19:51:48Z",
+  "timestamp": "2025-07-20T02:02:42Z",
   "version": {
-    "major": 132,
+    "major": 133,
     "minor": 0,
     "patch": 0
   },
@@ -121,6 +121,7 @@
       "address": "0x15b7c0c907e4C6b9AdaAaabC300C08991D6CEA05",
       "name": "Gelato Network Token",
       "symbol": "GEL",
+      "logoURI": "https://asset-images.messari.io/images/f910af24-1a83-4bb2-bd5e-aeeec31e8439/128.png",
       "chainId": 250,
       "decimals": 18
     },
@@ -255,6 +256,7 @@
       "address": "0x2F733095B80A04b38b0D10cC884524a3d09b836a",
       "name": "Bridged USDC",
       "symbol": "USDC.e",
+      "logoURI": "https://asset-images.messari.io/images/277b39e4-c776-49c8-9b06-d00fc59e5686/128.png",
       "chainId": 250,
       "decimals": 6
     },
@@ -301,6 +303,7 @@
       "address": "0x37F5dae6039C8eC4c32ad7D3e2a07aCaa55C08f9",
       "name": "CrossCurve BTC",
       "symbol": "xBTC",
+      "logoURI": "https://asset-images.messari.io/images/6d515236-5d12-4030-b0e7-c4954e4badfc/128.png",
       "chainId": 250,
       "decimals": 18
     },
@@ -316,6 +319,7 @@
       "address": "0x38aCa5484B8603373Acc6961Ecd57a6a594510A3",
       "name": "Geist WBTC",
       "symbol": "gWBTC",
+      "logoURI": "https://asset-images.messari.io/images/44e3614c-02bf-48c4-9361-3103b2c3fdf9/128.png",
       "chainId": 250,
       "decimals": 8
     },
@@ -331,6 +335,7 @@
       "address": "0x3C2fCf53f742345c5c1b3dcb2612a1949BC1F18d",
       "name": "CrossCurve ETH",
       "symbol": "xWETH",
+      "logoURI": "https://asset-images.messari.io/images/93273815-91e3-4e56-b6a6-d66c588031c4/128.png",
       "chainId": 250,
       "decimals": 18
     },
@@ -346,6 +351,7 @@
       "address": "0x3f833Ed02629545DD78AFc3D585f7F3918a3De62",
       "name": "CrossCurve Stable",
       "symbol": "xSTABLE",
+      "logoURI": "https://asset-images.messari.io/images/227e5a28-a2b1-453d-af30-f5ce6f763a6e/128.png",
       "chainId": 250,
       "decimals": 18
     },
@@ -417,6 +423,7 @@
       "address": "0x477a9D5dF9bedA06F6b021136a2efe7BE242fCC9",
       "name": "TravaFinance Token",
       "symbol": "TRAVA",
+      "logoURI": "https://asset-images.messari.io/images/24038cd0-7105-4be5-a922-def70011f008/128.png",
       "chainId": 250,
       "decimals": 18
     },
@@ -456,6 +463,7 @@
       "address": "0x5079CCe47d275E85C9f13afB656d51e3F9D41181",
       "name": "JEFE TOKEN",
       "symbol": "JEFE",
+      "logoURI": "https://assets.coingecko.com/coins/images/25336/large/JEFE_200.png?1651299561",
       "chainId": 250,
       "decimals": 9
     },
@@ -519,6 +527,7 @@
       "address": "0x5c725631FD299703D0A74C23F89a55c6B9A0C52F",
       "name": "Polter.Finance Protocol Token",
       "symbol": "POLTER",
+      "logoURI": "https://asset-images.messari.io/images/c325a54d-ca4e-4a98-87d1-080230cea06d/128.png",
       "chainId": 250,
       "decimals": 18
     },
@@ -534,6 +543,7 @@
       "address": "0x5e074C28149cC35c1e5fbC79d8A6ea688dba2314",
       "name": "LIF3",
       "symbol": "LIF3",
+      "logoURI": "https://asset-images.messari.io/images/e9ae67d8-ff46-4f89-b06b-d17ac276d60e/128.png",
       "chainId": 250,
       "decimals": 18
     },
@@ -541,6 +551,7 @@
       "address": "0x5f0456F728E2D59028b4f5B8Ad8C604100724C6A",
       "name": "L3USD",
       "symbol": "L3USD",
+      "logoURI": "https://asset-images.messari.io/images/dff93c05-3918-4bdf-83be-483cadc2e3cb/128.png",
       "chainId": 250,
       "decimals": 18
     },
@@ -548,6 +559,7 @@
       "address": "0x639A647fbe20b6c8ac19E48E2de44ea792c62c5C",
       "name": "Octo.fi",
       "symbol": "OCTO",
+      "logoURI": "https://asset-images.messari.io/images/9878db8f-3d4c-4e6e-9cd3-4bba388c5c64/128.png",
       "chainId": 250,
       "decimals": 18
     },
@@ -555,6 +567,7 @@
       "address": "0x646481DBD76264f817d6588E289bF08dA38A571e",
       "name": "BSKT",
       "symbol": "BSKT",
+      "logoURI": "https://asset-images.messari.io/images/f18cc509-c528-4347-b109-66f13698bcef/128.png",
       "chainId": 250,
       "decimals": 5
     },
@@ -570,6 +583,7 @@
       "address": "0x65c9d9d080714cDa7b5d58989Dc27f897F165179",
       "name": "TETU Reward Token",
       "symbol": "TETU",
+      "logoURI": "https://asset-images.messari.io/images/88fcb347-2869-4c03-840b-13f6cc7651e5/128.png",
       "chainId": 250,
       "decimals": 18
     },
@@ -696,6 +710,7 @@
       "address": "0x7A10F506E4c7658e6AD15Fdf0443d450B7FA80D7",
       "name": "EYWA",
       "symbol": "EYWA",
+      "logoURI": "https://asset-images.messari.io/images/87e20e1a-792f-469f-91f2-73ded8fda9c4/128.png",
       "chainId": 250,
       "decimals": 18
     },
@@ -807,6 +822,7 @@
       "address": "0x8b8407c6184f1f0Fd1082e83d6A3b8349cAcEd12",
       "name": "Circuits of Value V2",
       "symbol": "COVAL",
+      "logoURI": "https://asset-images.messari.io/images/f256d231-e115-4cf4-9988-87e7754147b3/128.png",
       "chainId": 250,
       "decimals": 8
     },
@@ -814,6 +830,7 @@
       "address": "0x8fF27b58E1d969bEFC9c8aEAE93A6EB7E2250c8f",
       "name": "LSHARE",
       "symbol": "LSHARE",
+      "logoURI": "https://asset-images.messari.io/images/c3b22715-fe6f-468b-b9ef-b60cf0fc427e/128.png",
       "chainId": 250,
       "decimals": 18
     },
@@ -821,6 +838,7 @@
       "address": "0x90152f061F6697aB623e258aA6e8FbB177041371",
       "name": "ZOO",
       "symbol": "ZOO",
+      "logoURI": "https://assets.coingecko.com/coins/images/31230/large/zooc.jpeg?1691636263",
       "chainId": 250,
       "decimals": 18
     },
@@ -828,6 +846,7 @@
       "address": "0x90b89e881961E1053AeaDdbA13217d56F747349a",
       "name": "HYVE",
       "symbol": "HYVE",
+      "logoURI": "https://asset-images.messari.io/images/02218404-507c-45ac-9889-a80e8d22a626/128.png",
       "chainId": 250,
       "decimals": 18
     },
@@ -867,6 +886,7 @@
       "address": "0x949185D3BE66775Ea648F4a306740EA9eFF9C567",
       "name": "YELToken",
       "symbol": "YEL",
+      "logoURI": "https://asset-images.messari.io/images/8800f685-b132-4145-8085-12e8e1de56a2/128.png",
       "chainId": 250,
       "decimals": 18
     },
@@ -898,6 +918,7 @@
       "address": "0xA9937092c4E2B0277C16802Cc8778D252854688A",
       "name": "OliveCash Token",
       "symbol": "fOLIVE",
+      "logoURI": "https://asset-images.messari.io/images/d9620076-16b1-4e1c-b584-6346025d68f4/128.png",
       "chainId": 250,
       "decimals": 18
     },
@@ -929,6 +950,7 @@
       "address": "0xC5e2B037D30a390e62180970B3aa4E91868764cD",
       "name": "Tarot",
       "symbol": "TAROT",
+      "logoURI": "https://asset-images.messari.io/images/cea6dac6-652a-408a-9723-14325fd58157/128.png",
       "chainId": 250,
       "decimals": 18
     },
@@ -936,6 +958,7 @@
       "address": "0xC7aE4aB742F6b0b203f6710C87677005Bc45ad01",
       "name": "Curve DAO Token",
       "symbol": "CRV",
+      "logoURI": "https://asset-images.messari.io/images/4538959d-607d-48d1-a37d-dfe09cf4a1d7/128.png",
       "chainId": 250,
       "decimals": 18
     },
@@ -951,6 +974,7 @@
       "address": "0xCfC785741Dc0e98ad4c9F6394Bb9d43Cd1eF5179",
       "name": "Ankr Staked FTM",
       "symbol": "ankrFTM",
+      "logoURI": "https://asset-images.messari.io/images/4ad18dae-a9de-4abe-991d-174ac7d96593/128.png",
       "chainId": 250,
       "decimals": 18
     },
@@ -966,6 +990,7 @@
       "address": "0xD67de0e0a0Fd7b15dC8348Bb9BE742F3c5850454",
       "name": "Binance",
       "symbol": "BNB",
+      "logoURI": "https://asset-images.messari.io/images/24c59e3e-73b0-4872-94e4-3e5959c315a6/128.png",
       "chainId": 250,
       "decimals": 18
     },
@@ -981,6 +1006,7 @@
       "address": "0xDE55B113A27Cc0c5893CAa6Ee1C020b6B46650C0",
       "name": "DEUS",
       "symbol": "DEUS",
+      "logoURI": "https://asset-images.messari.io/images/af4a1806-e46a-490d-b428-ec14d8c032a5/128.png",
       "chainId": 250,
       "decimals": 18
     },
@@ -1059,6 +1085,7 @@
       "address": "0xaa798BF5eC09B6E3bC059Ea4d36d4Ca53e063EF7",
       "name": "Curve.Fi USD Stablecoin",
       "symbol": "crvUSD",
+      "logoURI": "https://asset-images.messari.io/images/8ec8001d-1084-4df2-a29e-90fa10ac4bfa/128.png",
       "chainId": 250,
       "decimals": 18
     },
@@ -1090,6 +1117,7 @@
       "address": "0xb7C2ddB1EBAc1056231ef22c1b0A13988537a274",
       "name": "Tarot",
       "symbol": "TAROT",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/250/0xb7C2ddB1EBAc1056231ef22c1b0A13988537a274/logo-128.png",
       "chainId": 250,
       "decimals": 18
     },
@@ -1161,6 +1189,7 @@
       "address": "0xda599495d48846E5cE3C82B56842D9A277973688",
       "name": "Grimoire Finance Token",
       "symbol": "GRIM",
+      "logoURI": "https://asset-images.messari.io/images/fe48c6bc-794f-45da-b545-65fe1f1ffce2/128.png",
       "chainId": 250,
       "decimals": 18
     },
@@ -1254,6 +1283,7 @@
       "address": "0xf45B1146416F1eC2125De920324722912Fe8807f",
       "name": "TSHARE+",
       "symbol": "TSHARE+",
+      "logoURI": "https://asset-images.messari.io/images/a18611d9-fa22-49fd-8560-de8c3ff6adcd/128.png",
       "chainId": 250,
       "decimals": 18
     },

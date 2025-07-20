@@ -1,10 +1,10 @@
 {
   "name": "Messari Token List",
   "description": "",
-  "timestamp": "2025-07-18T19:18:49Z",
+  "timestamp": "2025-07-20T02:54:23Z",
   "version": {
     "major": 108,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   },
   "logoURI": "https://messari.io/images/logo_tcr-check.svg",
@@ -3528,7 +3528,7 @@
       "address": "0x4ecf61a6c2FaB8A047CEB3B3B263B401763e9D49",
       "name": "US Nerite Dollar",
       "symbol": "USND",
-      "logoURI": "https://asset-images.messari.io/images/32771d2b-ad53-4731-932c-60619842aa69/128.png",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x4ecf61a6c2FaB8A047CEB3B3B263B401763e9D49/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -8534,6 +8534,14 @@
       "name": "Autonomi",
       "symbol": "ANT",
       "logoURI": "https://asset-images.messari.io/images/e3a2cb3d-4144-45fd-923f-1760637f1f04/128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0xa891B374942cdE9061e044c1D19c5b5dE06a68e1",
+      "name": "KardiaChain",
+      "symbol": "KAI",
+      "logoURI": "https://assets.coingecko.com/coins/images/7942/large/kai.png?1647079540",
       "chainId": 42161,
       "decimals": 18
     },

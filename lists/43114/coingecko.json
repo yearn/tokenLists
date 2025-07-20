@@ -1,9 +1,9 @@
 {
   "name": "CoinGecko",
   "description": "",
-  "timestamp": "2025-07-18T15:55:58Z",
+  "timestamp": "2025-07-20T02:02:42Z",
   "version": {
-    "major": 131,
+    "major": 133,
     "minor": 0,
     "patch": 0
   },
@@ -1553,6 +1553,13 @@
       "address": "0x6E6FdF266eF8B0D979D702165373329e638aE670",
       "name": "3000",
       "symbol": "3000",
+      "chainId": 43114,
+      "decimals": 18
+    },
+    {
+      "address": "0x6EDac263561DA41aDe155a992759260FAFb87B43",
+      "name": "Vertical AI",
+      "symbol": "VERTAI",
       "chainId": 43114,
       "decimals": 18
     },
@@ -3404,6 +3411,13 @@
       "address": "0xd8B95B1987741849cA7e71e976aEB535fd2e55a2",
       "name": "Backed CSBGC3 CHF Swiss Domestic Government Bond 0-3yr",
       "symbol": "bCSBGC3",
+      "chainId": 43114,
+      "decimals": 18
+    },
+    {
+      "address": "0xdaE17b65718BC4fC306Aaa4fa64C8AD2cC4b7d97",
+      "name": "Galaxy Lab",
+      "symbol": "GAGA",
       "chainId": 43114,
       "decimals": 18
     },

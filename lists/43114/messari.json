@@ -1,10 +1,10 @@
 {
   "name": "Messari Token List",
   "description": "",
-  "timestamp": "2025-07-18T16:14:46Z",
+  "timestamp": "2025-07-20T02:54:23Z",
   "version": {
-    "major": 107,
-    "minor": 0,
+    "major": 108,
+    "minor": 1,
     "patch": 0
   },
   "logoURI": "https://messari.io/images/logo_tcr-check.svg",
@@ -287,6 +287,14 @@
       "name": "Good Fire",
       "symbol": "GF",
       "logoURI": "https://asset-images.messari.io/images/abcafeff-9b22-4419-af08-24664078e74c/128.png",
+      "chainId": 43114,
+      "decimals": 18
+    },
+    {
+      "address": "0x09Fa58228bB791ea355c90DA1e4783452b9Bd8C3",
+      "name": "SuperVerse",
+      "symbol": "SUPER",
+      "logoURI": "https://asset-images.messari.io/images/1ae14641-7365-4be1-9bb9-c86ab07715b3/128.png",
       "chainId": 43114,
       "decimals": 18
     },
@@ -5137,6 +5145,14 @@
       "decimals": 18
     },
     {
+      "address": "0xD4423795fd904D9B87554940a95FB7016f172773",
+      "name": "AI Network",
+      "symbol": "AIN",
+      "logoURI": "https://asset-images.messari.io/images/3c19bd5b-2bef-4511-b048-9c79ac4df318/128.png",
+      "chainId": 43114,
+      "decimals": 18
+    },
+    {
       "address": "0xD47E4F1ef1AA4090bc27420BDD5cB379Ced81440",
       "name": "NFTEarthOFT",
       "symbol": "NFTE",
@@ -6354,6 +6370,14 @@
       "name": "USP",
       "symbol": "USP",
       "logoURI": "https://assets.coingecko.com/coins/images/28963/large/USP_4168x4168.png?1675745232",
+      "chainId": 43114,
+      "decimals": 18
+    },
+    {
+      "address": "0xdaE17b65718BC4fC306Aaa4fa64C8AD2cC4b7d97",
+      "name": "Galaxy Lab",
+      "symbol": "GAGA",
+      "logoURI": "https://asset-images.messari.io/images/d0eefcd9-1af0-4b10-a0a0-577d5d07819c/128.png",
       "chainId": 43114,
       "decimals": 18
     },

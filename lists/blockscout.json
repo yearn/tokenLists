@@ -1,10 +1,10 @@
 {
   "name": "Blockscout",
   "description": "",
-  "timestamp": "2025-07-18T19:50:14Z",
+  "timestamp": "2025-07-20T02:42:28Z",
   "version": {
-    "major": 96,
-    "minor": 1,
+    "major": 97,
+    "minor": 0,
     "patch": 0
   },
   "logoURI": "https://2383309224-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-Lq1XoWGmy8zggj_u2fM%2Ficon%2FyFkt6mPJJvjKiSBBOppe%2FBS_logo_slack.png?alt=media",
@@ -398,14 +398,6 @@
       "decimals": 8
     },
     {
-      "address": "0xcf0C122c6b73ff809C693DB761e7BaeBe62b6a2E",
-      "name": "FLOKI",
-      "symbol": "FLOKI",
-      "logoURI": "https://tokens.1inch.io/0xcf0c122c6b73ff809c693db761e7baebe62b6a2e_1.png",
-      "chainId": 1,
-      "decimals": 9
-    },
-    {
       "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
       "name": "Tether USD",
       "symbol": "USDT",
@@ -426,6 +418,14 @@
       "name": "Injective Token",
       "symbol": "INJ",
       "logoURI": "https://tokens.1inch.io/0xe28b3b32b6c345a34ff64674606124dd5aceca30.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xf1C9acDc66974dFB6dEcB12aA385b9cD01190E38",
+      "name": "Staked ETH",
+      "symbol": "osETH",
+      "logoURI": "https://asset-images.messari.io/images/7c774e28-49ff-41c9-8aba-4bccd7b65cb8/128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -990,6 +990,14 @@
       "decimals": 18
     },
     {
+      "address": "0x532801ED6f82FFfD2DAB70A19fC2d7B2772C4f4b",
+      "name": "Swapr on xDai",
+      "symbol": "SWPR",
+      "logoURI": "https://gnosisscan.io/token/images/swaprswpr_32.png",
+      "chainId": 100,
+      "decimals": 18
+    },
+    {
       "address": "0x58b9cB810A68a7f3e1E4f8Cb45D1B9B3c79705E8",
       "name": "Everclear",
       "symbol": "CLEAR",
@@ -1217,14 +1225,6 @@
       "name": "Badger on xDai",
       "symbol": "BADGER",
       "logoURI": "https://gnosisscan.io/token/images/badgerdaogno_32.png",
-      "chainId": 100,
-      "decimals": 18
-    },
-    {
-      "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
-      "name": "Elk",
-      "symbol": "ELK",
-      "logoURI": "https://tokens.1inch.io/0xeeeeeb57642040be42185f49c52f7e9b38f8eeee.png",
       "chainId": 100,
       "decimals": 18
     },
@@ -3523,14 +3523,6 @@
       "logoURI": "https://assets.smold.app/api/token/1088/0x2834732bEfc7147ED73C192183a70Bbb165876c9/logo-128.png",
       "chainId": 1088,
       "decimals": 1
-    },
-    {
-      "address": "0x28500a96bc6b9Ec7fC9CD38A824f9104a150C9bD",
-      "name": "Smooth Dog",
-      "symbol": "$SDOG",
-      "logoURI": "https://assets.smold.app/api/token/1088/0x28500a96bc6b9Ec7fC9CD38A824f9104a150C9bD/logo-128.png",
-      "chainId": 1088,
-      "decimals": 18
     },
     {
       "address": "0x28fAf1c1715479946D799238563bEaCa1234AbF7",

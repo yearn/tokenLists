@@ -1,10 +1,10 @@
 {
   "name": "Blockscout",
   "description": "",
-  "timestamp": "2025-07-18T19:50:14Z",
+  "timestamp": "2025-07-20T02:42:28Z",
   "version": {
-    "major": 96,
-    "minor": 1,
+    "major": 97,
+    "minor": 0,
     "patch": 0
   },
   "logoURI": "https://2383309224-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-Lq1XoWGmy8zggj_u2fM%2Ficon%2FyFkt6mPJJvjKiSBBOppe%2FBS_logo_slack.png?alt=media",
@@ -162,6 +162,14 @@
       "name": "Donut on xDai",
       "symbol": "DONUT",
       "logoURI": "https://tokens.1inch.io/0xc0f9bd5fa5698b6505f643900ffa515ea5df54a9.png",
+      "chainId": 100,
+      "decimals": 18
+    },
+    {
+      "address": "0x532801ED6f82FFfD2DAB70A19fC2d7B2772C4f4b",
+      "name": "Swapr on xDai",
+      "symbol": "SWPR",
+      "logoURI": "https://gnosisscan.io/token/images/swaprswpr_32.png",
       "chainId": 100,
       "decimals": 18
     },
@@ -393,14 +401,6 @@
       "name": "Badger on xDai",
       "symbol": "BADGER",
       "logoURI": "https://gnosisscan.io/token/images/badgerdaogno_32.png",
-      "chainId": 100,
-      "decimals": 18
-    },
-    {
-      "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
-      "name": "Elk",
-      "symbol": "ELK",
-      "logoURI": "https://tokens.1inch.io/0xeeeeeb57642040be42185f49c52f7e9b38f8eeee.png",
       "chainId": 100,
       "decimals": 18
     },

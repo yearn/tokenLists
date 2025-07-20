@@ -1,10 +1,10 @@
 {
   "name": "RouteScan",
   "description": "",
-  "timestamp": "2025-07-18T19:57:41Z",
+  "timestamp": "2025-07-20T02:42:33Z",
   "version": {
-    "major": 34,
-    "minor": 1,
+    "major": 35,
+    "minor": 0,
     "patch": 0
   },
   "logoURI": "https://cms-cdn.avascan.com/cms2/routescan.432df9c80dd7.svg",
@@ -30,18 +30,18 @@
       "decimals": 18
     },
     {
-      "address": "0x1A3D9B2fa5c6522c8c071dC07125cE55dF90b253",
-      "name": "Duo USD",
-      "symbol": "DUSD",
-      "logoURI": "https://cms-cdn.avascan.com/cms2/duousd_32.1fb8847d5fb8.png",
+      "address": "0x1Dda6C57B3667434bAc92Fc2dC223D0E98091cC4",
+      "name": "Wisdomise AI",
+      "symbol": "WSDM",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/81457/0x1Dda6C57B3667434bAc92Fc2dC223D0E98091cC4/logo-128.png",
       "chainId": 81457,
-      "decimals": 18
+      "decimals": 9
     },
     {
-      "address": "0x211Cc4DD073734dA055fbF44a2b4667d5E5fE5d2",
-      "name": "Staked USDe",
-      "symbol": "sUSDe",
-      "logoURI": "https://cms-cdn.avascan.com/cms2/stakedusde_32.36eab484fc24.png",
+      "address": "0x3120779b270cF11126940FB104eFee40AAd985D9",
+      "name": "Hog Mcblasterson",
+      "symbol": "HOG",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/81457/0x3120779b270cF11126940FB104eFee40AAd985D9/logo-128.png",
       "chainId": 81457,
       "decimals": 18
     },
@@ -126,6 +126,14 @@
       "decimals": 18
     },
     {
+      "address": "0x7217124C626f0b7077bE91dF939195C9a8184ecC",
+      "name": "Finger Blast",
+      "symbol": "FINGER",
+      "logoURI": "https://cms-cdn.avascan.com/cms2/fingerblast_32.94bb324600cb.png",
+      "chainId": 81457,
+      "decimals": 18
+    },
+    {
       "address": "0x73c369F61c90f03eb0Dd172e95c90208A28dC5bc",
       "name": "OLE token powering both DistrictOne and OpenLeverage",
       "symbol": "OLE",
@@ -134,25 +142,10 @@
       "decimals": 18
     },
     {
-      "address": "0x764933fbAd8f5D04Ccd088602096655c2ED9879F",
-      "name": "Any Inu (non-ITS)",
-      "symbol": "AI",
-      "logoURI": "https://cms-cdn.avascan.com/cms2/anyinu_32.54fb64a0fb01.png",
-      "chainId": 81457,
-      "decimals": 18
-    },
-    {
       "address": "0x818a92bc81Aad0053d72ba753fb5Bc3d0C5C0923",
       "name": "Juice",
       "symbol": "JUICE",
       "logoURI": "https://cms-cdn.avascan.com/cms2/juice_finance32.c5ee37cbff45.png",
-      "chainId": 81457,
-      "decimals": 18
-    },
-    {
-      "address": "0x837fE561e9C5DFa73F607fDa679295DBC2Be5E40",
-      "name": "Monoswap USD",
-      "symbol": "MUSD",
       "chainId": 81457,
       "decimals": 18
     },
@@ -181,18 +174,10 @@
       "decimals": 18
     },
     {
-      "address": "0x9e20461bc2c4c980f62f1B279D71734207a6A356",
-      "name": "OmniCat",
-      "symbol": "OMNI",
-      "logoURI": "https://cms-cdn.avascan.com/cms2/omnicat_32.1a6f941dc388.png",
-      "chainId": 81457,
-      "decimals": 18
-    },
-    {
-      "address": "0xE070B87c4d88826D4cD1b85BAbE186fdB14CD321",
-      "name": "Cyberblast Token",
-      "symbol": "CBR",
-      "logoURI": "https://cms-cdn.avascan.com/cms2/cyberblast_32.5a90a5353890.png",
+      "address": "0xA4C7aA67189EC5623121c6C94Ec757DfeD932D4B",
+      "name": "Mia",
+      "symbol": "MIA",
+      "logoURI": "https://cms-cdn.avascan.com/cms2/mia.99a1cc8f2054.webp",
       "chainId": 81457,
       "decimals": 18
     },
@@ -219,14 +204,6 @@
       "logoURI": "https://cms-cdn.avascan.com/cms2/wbtc_32.c40a66859738.png",
       "chainId": 81457,
       "decimals": 8
-    },
-    {
-      "address": "0xaab1e605B12C70D7b3aA3e44fb21e96c7A12631c",
-      "name": "Yes USD",
-      "symbol": "yUSD",
-      "logoURI": "https://assets.smold.app/api/token/81457/0xaab1e605B12C70D7b3aA3e44fb21e96c7A12631c/logo-128.png",
-      "chainId": 81457,
-      "decimals": 18
     },
     {
       "address": "0xb1a5700fA2358173Fe465e6eA4Ff52E36e88E2ad",

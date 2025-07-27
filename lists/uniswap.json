@@ -1,10 +1,10 @@
 {
   "name": "Uniswap Labs Default",
   "description": "",
-  "timestamp": "2025-07-20T02:02:54Z",
+  "timestamp": "2025-07-27T02:43:45Z",
   "version": {
     "major": 20,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   },
   "logoURI": "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
@@ -1987,6 +1987,14 @@
       "decimals": 9
     },
     {
+      "address": "0xD33526068D116cE69F19A9ee46F0bd304F21A51f",
+      "name": "Rocket Pool Protocol",
+      "symbol": "RPL",
+      "logoURI": "https://tokens.1inch.io/0xd33526068d116ce69f19a9ee46f0bd304f21a51f.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0xD417144312DbF50465b1C641d016962017Ef6240",
       "name": "Covalent Query Token",
       "symbol": "CQT",
@@ -2049,6 +2057,14 @@
       "logoURI": "https://assets.coingecko.com/coins/images/31401/large/spx6900.jpeg?1696530217",
       "chainId": 1,
       "decimals": 8
+    },
+    {
+      "address": "0xE2AD0BF751834f2fbdC62A41014f84d67cA1de2A",
+      "name": "Caldera",
+      "symbol": "ERA",
+      "logoURI": "https://asset-images.messari.io/images/2fa43ee8-7fa0-486d-885e-ce7ba6cf0d90/128.png",
+      "chainId": 1,
+      "decimals": 18
     },
     {
       "address": "0xE41d2489571d322189246DaFA5ebDe1F4699F498",
@@ -3265,6 +3281,7 @@
       "address": "0x6985884C4392D348587B19cb9eAAf157F13271cd",
       "name": "LayerZero",
       "symbol": "ZRO",
+      "logoURI": "https://assets.coingecko.com/coins/images/28206/large/ftxG9_TJ_400x400.jpeg?1668396420",
       "chainId": 56,
       "decimals": 18
     },
@@ -5149,6 +5166,14 @@
       "decimals": 18
     },
     {
+      "address": "0x1f73EAf55d696BFFA9b0EA16fa987B93b0f4d302",
+      "name": "Rocket Pool Protocol",
+      "symbol": "RPL",
+      "logoURI": "https://ethereum-optimism.github.io/data/RPL/logo.svg",
+      "chainId": 8453,
+      "decimals": 18
+    },
+    {
       "address": "0x22e6966B799c4D5B13BE962E1D117b56327FDa66",
       "name": "Synthetix Network Token",
       "symbol": "SNX",
@@ -6650,6 +6675,14 @@
       "decimals": 18
     },
     {
+      "address": "0xB766039cc6DB368759C1E56B79AFfE831d0Cc507",
+      "name": "Rocket Pool Protocol",
+      "symbol": "RPL",
+      "logoURI": "https://assets.coingecko.com/coins/images/2090/large/rocket_pool_%28RPL%29.png?1637662441",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
       "address": "0xBD591Bd4DdB64b77B5f76Eab8f03d02519235Ae2",
       "name": "0x Protocol Token",
       "symbol": "ZRX",
@@ -7214,6 +7247,7 @@
       "address": "0x26deBD39D5eD069770406FCa10A0E4f8d2c743eB",
       "name": "GUNZ",
       "symbol": "GUN",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/55133/thumb/Ea90ZMxI_400x400.jpg?1744004695",
       "chainId": 43114,
       "decimals": 18
     },
@@ -7237,6 +7271,7 @@
       "address": "0x3Bd2B1c7ED8D396dbb98DED3aEbb41350a5b2339",
       "name": "UMA Voting Token v1",
       "symbol": "UMA.e",
+      "logoURI": "https://assets.coingecko.com/coins/images/10951/large/UMA.png?1586307916",
       "chainId": 43114,
       "decimals": 18
     },
@@ -7388,6 +7423,7 @@
       "address": "0x9eAaC1B23d935365bD7b542Fe22cEEe2922f52dc",
       "name": "yearn.finance",
       "symbol": "YFI.e",
+      "logoURI": "https://assets.coingecko.com/coins/images/11849/large/yfi-192x192.png?1598325330",
       "chainId": 43114,
       "decimals": 18
     },
@@ -7395,6 +7431,7 @@
       "address": "0xAEC8318a9a59bAEb39861d10ff6C7f7bf1F96C57",
       "name": "EURA (previously agEUR)",
       "symbol": "EURA",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/43114/0xAEC8318a9a59bAEb39861d10ff6C7f7bf1F96C57/logo-128.png",
       "chainId": 43114,
       "decimals": 18
     },

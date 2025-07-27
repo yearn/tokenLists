@@ -1,9 +1,9 @@
 {
   "name": "Blockscout",
   "description": "",
-  "timestamp": "2025-07-20T02:42:28Z",
+  "timestamp": "2025-07-27T02:43:21Z",
   "version": {
-    "major": 97,
+    "major": 98,
     "minor": 0,
     "patch": 0
   },
@@ -42,14 +42,6 @@
       "name": "Bridged FTN (OrtakSea)",
       "symbol": "FTN",
       "logoURI": "ipfs://QmcSdzBPMxqD2UqWJnqmhGQzt3nsKLVFSJcxNELWXcuJcp",
-      "chainId": 8453,
-      "decimals": 18
-    },
-    {
-      "address": "0x22e6966B799c4D5B13BE962E1D117b56327FDa66",
-      "name": "Synthetix Network Token",
-      "symbol": "SNX",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0x22e6966B799c4D5B13BE962E1D117b56327FDa66/logo-128.png",
       "chainId": 8453,
       "decimals": 18
     },
@@ -126,6 +118,14 @@
       "decimals": 18
     },
     {
+      "address": "0x3992B27dA26848C2b19CeA6Fd25ad5568B68AB98",
+      "name": "MANTRA",
+      "symbol": "OM",
+      "logoURI": "ipfs://QmScf1H1VupuEBwTFUVvNNoxUbAhrvrUQyTVfbhpobCdq6",
+      "chainId": 8453,
+      "decimals": 18
+    },
+    {
       "address": "0x3B86Ad95859b6AB773f55f8d94B4b9d443EE931f",
       "name": "Solv BTC",
       "symbol": "SolvBTC",
@@ -178,14 +178,6 @@
       "name": "Syrup Token",
       "symbol": "SYRUP",
       "logoURI": "https://assets.smold.app/api/token/8453/0x688AEe022AA544f150678B8E5720b6b96a9E9a2F/logo-128.png",
-      "chainId": 8453,
-      "decimals": 18
-    },
-    {
-      "address": "0x6985884C4392D348587B19cb9eAAf157F13271cd",
-      "name": "LayerZero",
-      "symbol": "ZRO",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0x6985884C4392D348587B19cb9eAAf157F13271cd/logo-128.png",
       "chainId": 8453,
       "decimals": 18
     },
@@ -322,6 +314,14 @@
       "name": "Liquid Staked ETH",
       "symbol": "LsETH",
       "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0xB29749498954A3A821ec37BdE86e386dF3cE30B6/logo-128.png",
+      "chainId": 8453,
+      "decimals": 18
+    },
+    {
+      "address": "0xB3e3c89B8D9c88B1fe96856E382959eE6291ebbA",
+      "name": "Rekt",
+      "symbol": "REKT",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0xB3e3c89B8D9c88B1fe96856E382959eE6291ebbA/logo-128.png",
       "chainId": 8453,
       "decimals": 18
     },

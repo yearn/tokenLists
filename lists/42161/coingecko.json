@@ -1,9 +1,9 @@
 {
   "name": "CoinGecko",
   "description": "",
-  "timestamp": "2025-07-20T02:02:42Z",
+  "timestamp": "2025-07-27T02:43:21Z",
   "version": {
-    "major": 133,
+    "major": 134,
     "minor": 0,
     "patch": 0
   },
@@ -28,6 +28,13 @@
       "logoURI": "https://arbiscan.io/token/images/rebootgg_32.png?v=2",
       "chainId": 42161,
       "decimals": 18
+    },
+    {
+      "address": "0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a",
+      "name": "AUSD",
+      "symbol": "AUSD",
+      "chainId": 42161,
+      "decimals": 6
     },
     {
       "address": "0x00000000ea00F3F4000e7Ed5Ed91965b19f1009B",
@@ -1549,6 +1556,13 @@
       "decimals": 18
     },
     {
+      "address": "0x2bcC6D6CdBbDC0a4071e48bb3B969b06B3330c07",
+      "name": "Wrapped SOL",
+      "symbol": "SOL",
+      "chainId": 42161,
+      "decimals": 9
+    },
+    {
       "address": "0x2c5d06f591D0d8cd43Ac232c2B654475a142c7DA",
       "name": "Fiat24 EUR",
       "symbol": "EUR24",
@@ -1627,6 +1641,13 @@
       "logoURI": "https://asset-images.messari.io/images/4b86d6d7-ea54-4e2e-97c8-631d4d46e728/128.png",
       "chainId": 42161,
       "decimals": 18
+    },
+    {
+      "address": "0x30a538eFFD91ACeFb1b12CE9Bc0074eD18c9dFc9",
+      "name": "Talos",
+      "symbol": "T",
+      "chainId": 42161,
+      "decimals": 9
     },
     {
       "address": "0x30dcBa0405004cF124045793E1933C798Af9E66a",
@@ -2036,14 +2057,6 @@
       "decimals": 18
     },
     {
-      "address": "0x3B6564b5DA73A41d3A66e6558a98FD0e9E1e77ad",
-      "name": "Unitus",
-      "symbol": "UTS",
-      "logoURI": "https://asset-images.messari.io/images/3e745ee8-df48-4662-b028-b468c06aec84/128.png",
-      "chainId": 42161,
-      "decimals": 18
-    },
-    {
       "address": "0x3BD2dFd03BC7c3011ed7fb8c4d0949B382726cee",
       "name": "ROOBEE",
       "symbol": "ROOBEE",
@@ -2315,6 +2328,13 @@
       "decimals": 18
     },
     {
+      "address": "0x462cD9E0247b2e63831c3189aE738E5E9a5a4b64",
+      "name": "Euler",
+      "symbol": "EUL",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
       "address": "0x463913D3a3D3D291667D53B8325c598Eb88D3B0e",
       "name": "SolidLizard dex token",
       "symbol": "SLIZ",
@@ -2334,6 +2354,7 @@
       "address": "0x46850aD61C2B7d64d08c9C754F45254596696984",
       "name": "PayPal USD",
       "symbol": "PYUSD",
+      "logoURI": "https://assets.coingecko.com/coins/images/31212/large/PYUSD_Logo_%282%29.png?1691458314",
       "chainId": 42161,
       "decimals": 6
     },
@@ -3496,6 +3517,13 @@
       "name": "Sugarverse",
       "symbol": "CNDY",
       "logoURI": "https://asset-images.messari.io/images/08cbae45-fb4e-449c-8992-78346ca74154/128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0x6bA19Ee69D5DDe3aB70185C801fA404F66feDB58",
+      "name": "Kinto",
+      "symbol": "K",
       "chainId": 42161,
       "decimals": 18
     },
@@ -5234,14 +5262,6 @@
       "decimals": 18
     },
     {
-      "address": "0xBE5ACfd64358805616b5cbD5277B9A85011d7Cf1",
-      "name": "Pichi",
-      "symbol": "PCH",
-      "logoURI": "https://asset-images.messari.io/images/5f5fb572-38f6-4ab6-ba3f-05dc5784df29/128.png",
-      "chainId": 42161,
-      "decimals": 18
-    },
-    {
       "address": "0xBE8e3f4d5BD6eE0175359982Cc91DAfa3cf72502",
       "name": "SPDR Gold Trust, SPDR Gold Shares - Dinari",
       "symbol": "GLD.d",
@@ -5437,6 +5457,13 @@
       "name": "Apple Inc. - Dinari",
       "symbol": "AAPL.d",
       "logoURI": "https://asset-images.messari.io/images/c74f53eb-2f89-415b-bc6e-5d648f4f7a56/128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0xD4423795fd904D9B87554940a95FB7016f172773",
+      "name": "AI Network",
+      "symbol": "AIN",
       "chainId": 42161,
       "decimals": 18
     },
@@ -6756,14 +6783,6 @@
       "decimals": 18
     },
     {
-      "address": "0xd08C3F25862077056cb1b710937576Af899a4959",
-      "name": "Inception Restaked stETH",
-      "symbol": "InstETH",
-      "logoURI": "https://asset-images.messari.io/images/506c63cf-a396-4854-8939-e41f43bc4467/128.png",
-      "chainId": 42161,
-      "decimals": 18
-    },
-    {
       "address": "0xd09ACb80C1E8f2291862c4978A008791c9167003",
       "name": "Treehouse ETH",
       "symbol": "tETH",
@@ -7063,6 +7082,13 @@
       "name": "Wrapped Banano",
       "symbol": "wBAN",
       "logoURI": "https://assets.coingecko.com/coins/images/32617/large/WBAN.jpg?1698749253",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0xe22865a7820823E27D6c630b15711B070CBd0D57",
+      "name": "DESK",
+      "symbol": "DESK",
       "chainId": 42161,
       "decimals": 18
     },

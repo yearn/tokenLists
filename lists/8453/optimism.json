@@ -1,10 +1,10 @@
 {
   "name": "Superchain Token List",
   "description": "",
-  "timestamp": "2025-07-20T02:42:42Z",
+  "timestamp": "2025-07-27T02:10:02Z",
   "version": {
     "major": 6,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   },
   "logoURI": "https://ethereum-optimism.github.io/optimism.svg",
@@ -1085,6 +1085,13 @@
       "name": "Rai.Finance",
       "symbol": "SOFI",
       "logoURI": "https://ethereum-optimism.github.io/data/SOFI/logo.svg",
+      "chainId": 8453,
+      "decimals": 18
+    },
+    {
+      "address": "0x7094c27f342DBAdfbbeD005b219431595E33b305",
+      "name": "QuickSwap",
+      "symbol": "QUICK",
       "chainId": 8453,
       "decimals": 18
     },

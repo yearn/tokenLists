@@ -1,11 +1,11 @@
 {
   "name": "Yearn Token List",
   "description": "",
-  "timestamp": "2025-07-20T02:02:18Z",
+  "timestamp": "2025-07-27T02:46:29Z",
   "version": {
     "major": 45,
-    "minor": 17,
-    "patch": 1
+    "minor": 18,
+    "patch": 0
   },
   "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e/logo.svg",
   "keywords": [
@@ -642,6 +642,13 @@
       "decimals": 18
     },
     {
+      "address": "0x19664d1e98767f94a3a2b79b5FC3C9852Cf17B26",
+      "name": "3994",
+      "symbol": "3994",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
       "address": "0x1A5B0aaF478bf1FDA7b934c76E7692D722982a6D",
       "name": "Buffer Token",
       "symbol": "BFR",
@@ -1234,6 +1241,14 @@
       "decimals": 6
     },
     {
+      "address": "0x2d5cbF152CdC1352b2f8aeCAA64E7c39ccBfA74E",
+      "name": "3994 Staking Vault",
+      "symbol": "pv3994",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x2d5cbF152CdC1352b2f8aeCAA64E7c39ccBfA74E/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
       "address": "0x2e48847FE29C3883c98125Cb2C44244d6602d549",
       "name": "Yearn-Silo USDC.e Vault",
       "symbol": "yvSiloUSDC.e",
@@ -1470,6 +1485,14 @@
       "name": "xUSDC-USDT01",
       "symbol": "xUSDC-USDT01",
       "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x37958Cb88cdD06Ae062e08Ce90D0B2384ae34f02/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0x37A79a52b0939d2B1A8bc168E53424d569323c36",
+      "name": "Prize wBAN",
+      "symbol": "przWBAN",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x37A79a52b0939d2B1A8bc168E53424d569323c36/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -1970,6 +1993,14 @@
       "decimals": 6
     },
     {
+      "address": "0x5159e13C5CD076E5109bc6071c3612619e7F6865",
+      "name": "poopsies",
+      "symbol": "POOPSIES",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x5159e13C5CD076E5109bc6071c3612619e7F6865/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
       "address": "0x51B902f19a56F0c8E409a34a215AD2673EDF3284",
       "name": "NFTEarthOFT",
       "symbol": "NFTE",
@@ -2253,6 +2284,14 @@
       "name": "Pendle Market",
       "symbol": "PENDLE-LPT",
       "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x5E03C94Fc5Fb2E21882000A96Df0b63d2c4312e2/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0x5Ed7F113B68D86530d97633e3c372DA6Fa15Fc1B",
+      "name": "Prize UNI-V2 - wBAN Test Vault",
+      "symbol": "przUNI-V2",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x5Ed7F113B68D86530d97633e3c372DA6Fa15Fc1B/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -3180,6 +3219,13 @@
       "name": "xPENDLE-WETH3",
       "symbol": "xPENDLE-WETH3",
       "logoURI": "https://assets.smold.app/api/token/42161/0x8dbB0993C76d006896Ca2c894272580Ae561563d/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0x8e056fB8B1895eade4f58E836E0e046F41BF13ce",
+      "name": "Uniswap V2",
+      "symbol": "UNI-V2",
       "chainId": 42161,
       "decimals": 18
     },
@@ -4846,6 +4892,14 @@
       "decimals": 6
     },
     {
+      "address": "0xc1637775C9F217FFEAe03d8D707Ee1c88363F8D6",
+      "name": "POOPSIES Staking Vault",
+      "symbol": "pvPOOPSIES",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xc1637775C9F217FFEAe03d8D707Ee1c88363F8D6/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
       "address": "0xc3E878fACb776B1A453fC70576c8FefB8ed39Fb1",
       "name": "xRDPX-WETH10",
       "symbol": "xRDPX-WETH10",
@@ -5145,6 +5199,14 @@
       "name": "YT rETH 25JUN2026",
       "symbol": "YT-rETH-25JUN2026",
       "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xe03C236cA6F07755Ad631a42Dd5d60E293b1bf71/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0xe20B9e246db5a0d21BF9209E4858Bc9A3ff7A034",
+      "name": "Wrapped Banano",
+      "symbol": "wBAN",
+      "logoURI": "https://assets.coingecko.com/coins/images/32617/large/WBAN.jpg?1698749253",
       "chainId": 42161,
       "decimals": 18
     },

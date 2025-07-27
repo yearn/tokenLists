@@ -1,9 +1,9 @@
 {
   "name": "Tokenlistooor Token List",
   "description": "A curated list of tokens from all the token lists on tokenlistooor.",
-  "timestamp": "2025-07-20T02:54:26Z",
+  "timestamp": "2025-07-27T02:46:53Z",
   "version": {
-    "major": 341,
+    "major": 342,
     "minor": 0,
     "patch": 0
   },
@@ -15,6 +15,14 @@
       "name": "1INCH Token",
       "symbol": "1INCH",
       "logoURI": "https://tokens.1inch.io/0x111111111117dc0aa78b770fa6a738034120c302.png",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "address": "0x11cd72f7A4B699c67f225ca8aBb20bC9F8DB90c7",
+      "name": "Osaka Protocol",
+      "symbol": "OSAK",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/56/0x11cd72f7A4B699c67f225ca8aBb20bC9F8DB90c7/logo-128.png",
       "chainId": 56,
       "decimals": 18
     },
@@ -47,6 +55,14 @@
       "name": "Swipe",
       "symbol": "SXP",
       "logoURI": "https://tokens.1inch.io/0x8ce9137d39326ad0cd6491fb5cc0cba0e089b6a9.png",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "address": "0x4BfAa776991E85e5f8b1255461cbbd216cFc714f",
+      "name": "Home",
+      "symbol": "HOME",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/56/0x4BfAa776991E85e5f8b1255461cbbd216cFc714f/logo-128.png",
       "chainId": 56,
       "decimals": 18
     },
@@ -107,12 +123,28 @@
       "decimals": 18
     },
     {
+      "address": "0x764A726d9ceD0433A8D7643335919dEb03a9a935",
+      "name": "Pocket Network",
+      "symbol": "POKT",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/56/0x764A726d9ceD0433A8D7643335919dEb03a9a935/logo-128.png",
+      "chainId": 56,
+      "decimals": 6
+    },
+    {
       "address": "0x7CCa7C8E9221462F634f957aa8512118953cd127",
       "name": "XION",
       "symbol": "XION",
       "logoURI": "https://token-assets-one.vercel.app/api/token/56/0x7CCa7C8E9221462F634f957aa8512118953cd127/logo-128.png",
       "chainId": 56,
       "decimals": 6
+    },
+    {
+      "address": "0x868FCEd65edBF0056c4163515dD840e9f287A4c3",
+      "name": "Sign",
+      "symbol": "SIGN",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/56/0x868FCEd65edBF0056c4163515dD840e9f287A4c3/logo-128.png",
+      "chainId": 56,
+      "decimals": 18
     },
     {
       "address": "0x8789337a176e6e7223Ff115F1CD85C993D42C25c",
@@ -131,10 +163,26 @@
       "decimals": 18
     },
     {
+      "address": "0x915424Ac489433130d92B04096F3b96c82e92a9D",
+      "name": "Prosper",
+      "symbol": "PROS",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/56/0x915424Ac489433130d92B04096F3b96c82e92a9D/logo-128.png",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
       "address": "0x947950BcC74888a40Ffa2593C5798F11Fc9124C4",
       "name": "SushiToken",
       "symbol": "SUSHI",
       "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png?1606986688",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "address": "0x9C7BEBa8F6eF6643aBd725e45a4E8387eF260649",
+      "name": "Gravity",
+      "symbol": "G",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/56/0x9C7BEBa8F6eF6643aBd725e45a4E8387eF260649/logo-128.png",
       "chainId": 56,
       "decimals": 18
     },
@@ -155,10 +203,42 @@
       "decimals": 18
     },
     {
+      "address": "0xC9d23ED2ADB0f551369946BD377f8644cE1ca5c4",
+      "name": "Hyperlane",
+      "symbol": "HYPER",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/56/0xC9d23ED2ADB0f551369946BD377f8644cE1ca5c4/logo-128.png",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "address": "0xD711D7D893de57dc13Ff465763218770Bd42DB1D",
+      "name": "ARYZE eGBP",
+      "symbol": "eGBP",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/56/0xD711D7D893de57dc13Ff465763218770Bd42DB1D/logo-128.png",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "address": "0xDBB5Cf12408a3Ac17d668037Ce289f9eA75439D7",
+      "name": "WorldMobileToken",
+      "symbol": "WMTX",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/56/0xDBB5Cf12408a3Ac17d668037Ce289f9eA75439D7/logo-128.png",
+      "chainId": 56,
+      "decimals": 6
+    },
+    {
       "address": "0xDd673Ef19CB3B0574F4FcbBFbC42AD7d9A5b1614",
       "name": "Solum Gold",
       "symbol": "sgGOLD",
       "logoURI": "https://token-assets-one.vercel.app/api/token/56/0xDd673Ef19CB3B0574F4FcbBFbC42AD7d9A5b1614/logo-128.png",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "address": "0xE231DB5F348d709239Ef1741EA30961B3B635a61",
+      "name": "ynETH MAX",
+      "symbol": "ynETHx",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/56/0xE231DB5F348d709239Ef1741EA30961B3B635a61/logo-128.png",
       "chainId": 56,
       "decimals": 18
     },
@@ -187,6 +267,14 @@
       "decimals": 18
     },
     {
+      "address": "0xa1832f7F4e534aE557f9B5AB76dE54B1873e498B",
+      "name": "CreatorBid",
+      "symbol": "BID",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/56/0xa1832f7F4e534aE557f9B5AB76dE54B1873e498B/logo-128.png",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
       "address": "0xa1faa113cbE53436Df28FF0aEe54275c13B40975",
       "name": "AlphaToken",
       "symbol": "ALPHA",
@@ -203,10 +291,26 @@
       "decimals": 18
     },
     {
+      "address": "0xa4335da338ec4C07C391Fc1A9bF75F306adadc08",
+      "name": "ARYZE eUSD",
+      "symbol": "eUSD",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/56/0xa4335da338ec4C07C391Fc1A9bF75F306adadc08/logo-128.png",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
       "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
       "name": "Wrapped BNB",
       "symbol": "WBNB",
       "logoURI": "https://tokens.1inch.io/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "address": "0xc11158c5dA9db1D553ED28f0C2BA1CbEDD42CFcb",
+      "name": "Wrapped PAW",
+      "symbol": "wPAW",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/56/0xc11158c5dA9db1D553ED28f0C2BA1CbEDD42CFcb/logo-128.png",
       "chainId": 56,
       "decimals": 18
     },

@@ -1,9 +1,9 @@
 {
   "name": "Blockscout",
   "description": "",
-  "timestamp": "2025-07-27T02:43:21Z",
+  "timestamp": "2025-08-03T02:44:18Z",
   "version": {
-    "major": 98,
+    "major": 99,
     "minor": 0,
     "patch": 0
   },
@@ -97,7 +97,7 @@
       "address": "0x3055913c90Fcc1A6CE9a358911721eEb942013A1",
       "name": "PancakeSwap Token",
       "symbol": "Cake",
-      "logoURI": "https://assets.smold.app/api/token/8453/0x3055913c90Fcc1A6CE9a358911721eEb942013A1/logo-128.png",
+      "logoURI": "ipfs://QmYJGr6sqpJBmcPdJpNCfiBNNJJoJVVPVBM4KNBPFtsNGn",
       "chainId": 8453,
       "decimals": 18
     },
@@ -294,14 +294,6 @@
       "decimals": 18
     },
     {
-      "address": "0xAC1Bd2486aAf3B5C0fc3Fd868558b082a531B2B4",
-      "name": "Toshi",
-      "symbol": "TOSHI",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0xAC1Bd2486aAf3B5C0fc3Fd868558b082a531B2B4/logo-128.png",
-      "chainId": 8453,
-      "decimals": 18
-    },
-    {
       "address": "0xB0fFa8000886e57F86dd5264b9582b2Ad87b2b91",
       "name": "Wormhole Token",
       "symbol": "W",
@@ -338,6 +330,14 @@
       "name": "Morpho Token",
       "symbol": "MORPHO",
       "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0xBAa5CC21fd487B8Fcc2F632f3F4E8D37262a0842/logo-128.png",
+      "chainId": 8453,
+      "decimals": 18
+    },
+    {
+      "address": "0xBCBAf311ceC8a4EAC0430193A528d9FF27ae38C1",
+      "name": "IoTeX Network",
+      "symbol": "IOTX",
+      "logoURI": "ipfs://QmdrKD7FGQJGvmJ5dpoM8tH4Bm4uddobXM7SpSZC4pYqok",
       "chainId": 8453,
       "decimals": 18
     },

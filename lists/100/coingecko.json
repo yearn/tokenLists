@@ -1,9 +1,9 @@
 {
   "name": "CoinGecko",
   "description": "",
-  "timestamp": "2025-07-27T02:43:21Z",
+  "timestamp": "2025-08-03T02:05:22Z",
   "version": {
-    "major": 134,
+    "major": 135,
     "minor": 0,
     "patch": 0
   },
@@ -575,6 +575,13 @@
       "name": "DefiPulse Index on xDai",
       "symbol": "DPI",
       "logoURI": "https://tokens.1inch.io/0x1494ca1f11d487c2bbe4543e90080aeba4ba3c2b.png",
+      "chainId": 100,
+      "decimals": 18
+    },
+    {
+      "address": "0xD4dD9e2F021BB459D5A5f6c24C12fE09c5D45553",
+      "name": "Frankencoin",
+      "symbol": "ZCHF",
       "chainId": 100,
       "decimals": 18
     },

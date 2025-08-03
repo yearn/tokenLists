@@ -1,9 +1,9 @@
 {
   "name": "Messari Token List",
   "description": "",
-  "timestamp": "2025-07-27T02:09:50Z",
+  "timestamp": "2025-08-03T02:54:12Z",
   "version": {
-    "major": 109,
+    "major": 110,
     "minor": 0,
     "patch": 0
   },
@@ -378,6 +378,14 @@
       "decimals": 18
     },
     {
+      "address": "0x0e16eEE9240561EBB2D2Fe2E7A86C87B492Af768",
+      "name": "EXIM",
+      "symbol": "EXIM",
+      "logoURI": "https://asset-images.messari.io/images/43c52255-1c8e-45df-9f0f-012aac5f32b3/128.png",
+      "chainId": 43114,
+      "decimals": 8
+    },
+    {
       "address": "0x0ebd9537A25f56713E34c45b38F421A1e7191469",
       "name": "OpenOcean",
       "symbol": "OOE",
@@ -557,7 +565,7 @@
       "address": "0x153374C6D6786B6ca2c4bc96f9C3A471428f2bC7",
       "name": "Wilder World",
       "symbol": "WILD",
-      "logoURI": "https://asset-images.messari.io/images/666b535c-530a-4f32-a7aa-21905cb5b9b7/128.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/15407/large/WWLogo_Gradient_Cirlce.png?1620743969",
       "chainId": 43114,
       "decimals": 18
     },
@@ -1190,6 +1198,14 @@
       "decimals": 18
     },
     {
+      "address": "0x2F0eC0ED7D746936f1AeaC5702816d38329EE9e6",
+      "name": "Degen Hours",
+      "symbol": "SLEEP",
+      "logoURI": "https://asset-images.messari.io/images/3746b683-e7db-4743-ab9e-231b5cfaaf63/128.png",
+      "chainId": 43114,
+      "decimals": 18
+    },
+    {
       "address": "0x2F123cF3F37CE3328CC9B5b8415f9EC5109b45e7",
       "name": "Backed GOVIES 0-6 months EURO investment grade",
       "symbol": "bC3M",
@@ -1679,6 +1695,14 @@
       "name": "OnX.finance",
       "symbol": "ONX",
       "logoURI": "https://assets.coingecko.com/coins/images/13445/large/onxlogo-1.png?1608629659",
+      "chainId": 43114,
+      "decimals": 18
+    },
+    {
+      "address": "0x3E5b9c8930ECab017e16c3b7a2d0cB746d8BcDcf",
+      "name": "Limbo",
+      "symbol": "LIMBO",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/52251/thumb/8eNL08VM_400x400.jpg?1732833533",
       "chainId": 43114,
       "decimals": 18
     },
@@ -2484,7 +2508,7 @@
       "address": "0x5C09A9cE08C4B332Ef1CC5f7caDB1158C32767Ce",
       "name": "Fantom Bomb",
       "symbol": "fBOMB",
-      "logoURI": "https://asset-images.messari.io/images/b2342f82-b9af-41ae-bcc9-ed7430700d05/128.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/24109/large/logo-blue.png?1646376874",
       "chainId": 43114,
       "decimals": 18
     },
@@ -2818,7 +2842,7 @@
       "address": "0x67ea3abd5CeE0b99D743155051c191B09135f93C",
       "name": "Aesyx Dollar",
       "symbol": "AXD",
-      "logoURI": "https://asset-images.messari.io/images/81913a10-7111-417e-aa8d-b6b118a090ba/128.png",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/67499/thumb/axd.jpg?1753012191",
       "chainId": 43114,
       "decimals": 18
     },
@@ -2914,7 +2938,7 @@
       "address": "0x6Aa38eDd7f32a28b7b2c2dc86fC5b0bF2aE61579",
       "name": "Super Champs",
       "symbol": "CHAMP",
-      "logoURI": "https://asset-images.messari.io/images/24e725a3-9eb7-4e4a-96d6-5edb1007e948/128.png",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/51900/thumb/CHAMP_Token_256x256.png?1732131989",
       "chainId": 43114,
       "decimals": 18
     },
@@ -3537,7 +3561,7 @@
       "address": "0x803f5E3d74E17e3bE3f2A2BFbd5D9F9B44E9488B",
       "name": "Just Woot",
       "symbol": "WOOT",
-      "logoURI": "https://asset-images.messari.io/images/098cbf6b-a2b0-4489-89bc-d05810dd76ad/128.png",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/67588/thumb/woot_%281%29.jpg?1753211634",
       "chainId": 43114,
       "decimals": 18
     },
@@ -3969,7 +3993,7 @@
       "address": "0x9209e7EbD056d72C5996220e99df6049253DeBCf",
       "name": "MEOW",
       "symbol": "MEOW",
-      "logoURI": "https://asset-images.messari.io/images/60f4fb9a-119d-4930-a108-514d2f1d0947/128.png",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/67516/thumb/meow.jpg?1753072849",
       "chainId": 43114,
       "decimals": 18
     },
@@ -4406,7 +4430,7 @@
       "address": "0x9ceeD3A7f753608372eeAb300486cc7c2F38AC68",
       "name": "Euler",
       "symbol": "EUL",
-      "logoURI": "https://asset-images.messari.io/images/afc8f771-6182-49de-a4c7-2bacf22e9b1d/128.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/26149/large/YCvKDfl8_400x400.jpeg?1656041509",
       "chainId": 43114,
       "decimals": 18
     },
@@ -5229,6 +5253,14 @@
       "name": "DEAPCOIN",
       "symbol": "DEP",
       "logoURI": "https://assets.coingecko.com/coins/images/10970/large/DEAPcoin_01.png?1586741677",
+      "chainId": 43114,
+      "decimals": 18
+    },
+    {
+      "address": "0xD4dD9e2F021BB459D5A5f6c24C12fE09c5D45553",
+      "name": "Frankencoin",
+      "symbol": "ZCHF",
+      "logoURI": "https://asset-images.messari.io/images/2a3e42ae-e6da-438d-9576-fe37743293ee/128.png",
       "chainId": 43114,
       "decimals": 18
     },
@@ -6457,7 +6489,7 @@
       "address": "0xe061Aa40Be525A13296CB4Bf69f513242349D708",
       "name": "XVGAVA",
       "symbol": "XVGAVA",
-      "logoURI": "https://asset-images.messari.io/images/3044d969-b326-4b04-acf5-fcc96f9bd17a/128.png",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/67497/thumb/xvgava-200x200.png?1752991211",
       "chainId": 43114,
       "decimals": 18
     },
@@ -6877,6 +6909,14 @@
       "decimals": 18
     },
     {
+      "address": "0xf8B22737CbfeA137f9B2737D1DAb2a8a21608ceE",
+      "name": "AgentXYZ",
+      "symbol": "TRADER",
+      "logoURI": "https://asset-images.messari.io/images/b0a3ccd3-36eb-462a-8f88-65d14453bc96/128.png",
+      "chainId": 43114,
+      "decimals": 18
+    },
+    {
       "address": "0xf8D0C6c3ddC03F43A0687847f2b34bfd6941C2A2",
       "name": "Sundae Finance",
       "symbol": "STRAW",
@@ -6952,7 +6992,7 @@
       "address": "0xfc421aD3C883Bf9E7C4f42dE845C4e4405799e73",
       "name": "Gho Token",
       "symbol": "GHO",
-      "logoURI": "https://asset-images.messari.io/images/cde8c2bd-6feb-4056-893f-7103e26ceccd/128.png",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/67500/thumb/gho.jpg?1753014736",
       "chainId": 43114,
       "decimals": 18
     },

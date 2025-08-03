@@ -1,15 +1,23 @@
 {
   "name": "Bebop",
   "description": "",
-  "timestamp": "2025-07-27T01:58:00Z",
+  "timestamp": "2025-08-03T02:56:06Z",
   "version": {
     "major": 20,
-    "minor": 29,
+    "minor": 30,
     "patch": 0
   },
   "logoURI": "https://bebop-public-images.s3.eu-west-2.amazonaws.com/bebop-logo.png",
   "keywords": null,
   "tokens": [
+    {
+      "address": "0x0c06cCF38114ddfc35e07427B9424adcca9F44F8",
+      "name": "Monerium EURe",
+      "symbol": "EURe",
+      "logoURI": "https://asset-images.messari.io/images/a5975b01-3ae2-4331-8c76-14766e2d9da3/128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
     {
       "address": "0x0c880f6761F1af8d9Aa9C466984b80DAb9a8c9e8",
       "name": "Pendle",

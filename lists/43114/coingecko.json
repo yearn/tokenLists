@@ -1,9 +1,9 @@
 {
   "name": "CoinGecko",
   "description": "",
-  "timestamp": "2025-07-27T02:43:21Z",
+  "timestamp": "2025-08-03T02:05:22Z",
   "version": {
-    "major": 134,
+    "major": 135,
     "minor": 0,
     "patch": 0
   },
@@ -229,6 +229,13 @@
       "decimals": 18
     },
     {
+      "address": "0x0e16eEE9240561EBB2D2Fe2E7A86C87B492Af768",
+      "name": "EXIM",
+      "symbol": "EXIM",
+      "chainId": 43114,
+      "decimals": 8
+    },
+    {
       "address": "0x0f577433Bf59560Ef2a79c124E9Ff99fCa258948",
       "name": "Moremoney USD",
       "symbol": "MONEY",
@@ -281,6 +288,14 @@
       "name": "AVALOX",
       "symbol": "AVALOX",
       "logoURI": "https://assets.coingecko.com/coins/images/34823/large/avalox.jpg?1706189694",
+      "chainId": 43114,
+      "decimals": 18
+    },
+    {
+      "address": "0x1263fEA931b86f3e8cE8AFBf29f66631b7be9347",
+      "name": "BNPL Pay",
+      "symbol": "BNPL",
+      "logoURI": "https://asset-images.messari.io/images/b6669ae7-dcc3-4f58-a0e8-8a98cb2823a2/128.png",
       "chainId": 43114,
       "decimals": 18
     },
@@ -344,6 +359,7 @@
       "address": "0x153374C6D6786B6ca2c4bc96f9C3A471428f2bC7",
       "name": "Wilder World",
       "symbol": "WILD",
+      "logoURI": "https://assets.coingecko.com/coins/images/15407/large/WWLogo_Gradient_Cirlce.png?1620743969",
       "chainId": 43114,
       "decimals": 18
     },
@@ -619,6 +635,13 @@
       "name": "XIO Network",
       "symbol": "XIO",
       "logoURI": "https://assets.coingecko.com/coins/images/10029/large/blockzero.jpg?1611110205",
+      "chainId": 43114,
+      "decimals": 18
+    },
+    {
+      "address": "0x2F0eC0ED7D746936f1AeaC5702816d38329EE9e6",
+      "name": "Degen Hours",
+      "symbol": "SLEEP",
       "chainId": 43114,
       "decimals": 18
     },
@@ -911,6 +934,7 @@
       "address": "0x3E5b9c8930ECab017e16c3b7a2d0cB746d8BcDcf",
       "name": "Limbo",
       "symbol": "LIMBO",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/52251/thumb/8eNL08VM_400x400.jpg?1732833533",
       "chainId": 43114,
       "decimals": 18
     },
@@ -1389,6 +1413,7 @@
       "address": "0x5C09A9cE08C4B332Ef1CC5f7caDB1158C32767Ce",
       "name": "Fantom Bomb",
       "symbol": "fBOMB",
+      "logoURI": "https://assets.coingecko.com/coins/images/24109/large/logo-blue.png?1646376874",
       "chainId": 43114,
       "decimals": 18
     },
@@ -1586,6 +1611,7 @@
       "address": "0x67ea3abd5CeE0b99D743155051c191B09135f93C",
       "name": "Aesyx Dollar",
       "symbol": "AXD",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/67499/thumb/axd.jpg?1753012191",
       "chainId": 43114,
       "decimals": 18
     },
@@ -1649,6 +1675,7 @@
       "address": "0x6Aa38eDd7f32a28b7b2c2dc86fC5b0bF2aE61579",
       "name": "Super Champs",
       "symbol": "CHAMP",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/51900/thumb/CHAMP_Token_256x256.png?1732131989",
       "chainId": 43114,
       "decimals": 18
     },
@@ -2008,6 +2035,7 @@
       "address": "0x803f5E3d74E17e3bE3f2A2BFbd5D9F9B44E9488B",
       "name": "Just Woot",
       "symbol": "WOOT",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/67588/thumb/woot_%281%29.jpg?1753211634",
       "chainId": 43114,
       "decimals": 18
     },
@@ -2287,6 +2315,7 @@
       "address": "0x9209e7EbD056d72C5996220e99df6049253DeBCf",
       "name": "MEOW",
       "symbol": "MEOW",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/67516/thumb/meow.jpg?1753072849",
       "chainId": 43114,
       "decimals": 18
     },
@@ -2516,6 +2545,7 @@
       "address": "0x9ceeD3A7f753608372eeAb300486cc7c2F38AC68",
       "name": "Euler",
       "symbol": "EUL",
+      "logoURI": "https://assets.coingecko.com/coins/images/26149/large/YCvKDfl8_400x400.jpeg?1656041509",
       "chainId": 43114,
       "decimals": 18
     },
@@ -2999,6 +3029,13 @@
       "decimals": 18
     },
     {
+      "address": "0xD4dD9e2F021BB459D5A5f6c24C12fE09c5D45553",
+      "name": "Frankencoin",
+      "symbol": "ZCHF",
+      "chainId": 43114,
+      "decimals": 18
+    },
+    {
       "address": "0xD5D053D5B769383e860d1520Da7a908E00919F36",
       "name": "JUICE",
       "symbol": "JUICE",
@@ -3178,6 +3215,7 @@
       "address": "0xF197FFC28c23E0309B5559e7a166f2c6164C80aA",
       "name": "MXNB",
       "symbol": "MXNB",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/39136/thumb/MXNB_FULL.png?1720686155",
       "chainId": 43114,
       "decimals": 6
     },
@@ -3717,6 +3755,7 @@
       "address": "0xe061Aa40Be525A13296CB4Bf69f513242349D708",
       "name": "XVGAVA",
       "symbol": "XVGAVA",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/67497/thumb/xvgava-200x200.png?1752991211",
       "chainId": 43114,
       "decimals": 18
     },
@@ -3897,6 +3936,13 @@
       "decimals": 18
     },
     {
+      "address": "0xf8B22737CbfeA137f9B2737D1DAb2a8a21608ceE",
+      "name": "AgentXYZ",
+      "symbol": "TRADER",
+      "chainId": 43114,
+      "decimals": 18
+    },
+    {
       "address": "0xfCAF13227dcBFa2dc2b1928acFcA03b85e2D25dd",
       "name": "Impossible Decentralized Incubator Access Token",
       "symbol": "IDIA",
@@ -3916,6 +3962,7 @@
       "address": "0xfc421aD3C883Bf9E7C4f42dE845C4e4405799e73",
       "name": "Gho Token",
       "symbol": "GHO",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/67500/thumb/gho.jpg?1753014736",
       "chainId": 43114,
       "decimals": 18
     },

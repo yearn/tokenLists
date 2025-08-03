@@ -1,10 +1,10 @@
 {
   "name": "Superchain Token List",
   "description": "",
-  "timestamp": "2025-07-27T02:10:02Z",
+  "timestamp": "2025-08-03T02:54:19Z",
   "version": {
     "major": 6,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   },
   "logoURI": "https://ethereum-optimism.github.io/optimism.svg",
@@ -27,6 +27,13 @@
       "name": "TrueUSD",
       "symbol": "TUSD",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x0000000000085d4780B73119b644AE5ecd22b376/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x000000Fa00b200406de700041CFc6b19BbFB4d13",
+      "name": "Towns",
+      "symbol": "TOWNS",
       "chainId": 1,
       "decimals": 18
     },

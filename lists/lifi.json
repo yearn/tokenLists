@@ -1,10 +1,10 @@
 {
   "name": "Lifi Token List",
   "description": "",
-  "timestamp": "2025-07-27T02:43:28Z",
+  "timestamp": "2025-08-03T02:02:47Z",
   "version": {
     "major": 10,
-    "minor": 3,
+    "minor": 4,
     "patch": 0
   },
   "logoURI": "https://avatars.githubusercontent.com/u/85288935?s=200\u0026v=4",
@@ -279,6 +279,14 @@
       "name": "Pepe",
       "symbol": "PEPE",
       "logoURI": "https://tokens.1inch.io/0x6982508145454ce325ddbe47a25d4ec3d2311933.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x699Ccf919C1dfdFa4C374292f42CAdC9899BF753",
+      "name": "Vision",
+      "symbol": "VSN",
+      "logoURI": "https://asset-images.messari.io/images/95aa95f5-39b6-4796-94ee-f8b794008190/128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -2552,6 +2560,14 @@
       "name": "StargateToken",
       "symbol": "STG",
       "logoURI": "https://tokens.1inch.io/0x6694340fc020c5e6b96567843da2df01b2ce1eb6.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0x6fBBbD8bFB1cd3986B1D05e7861a0f62F87DB74b",
+      "name": "Vision",
+      "symbol": "VSN",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x6fBBbD8bFB1cd3986B1D05e7861a0f62F87DB74b/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },

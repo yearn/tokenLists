@@ -1,10 +1,10 @@
 {
   "name": "Yearn Token List",
   "description": "",
-  "timestamp": "2025-08-03T02:02:38Z",
+  "timestamp": "2025-08-10T03:00:20Z",
   "version": {
     "major": 45,
-    "minor": 19,
+    "minor": 20,
     "patch": 0
   },
   "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e/logo.svg",
@@ -5313,6 +5313,14 @@
       "logoURI": "https://assets.smold.app/api/token/42161/0xf065c7A9100e7B22Fa6488aD85Ce09323b8cA8f5/logo-128.png",
       "chainId": 42161,
       "decimals": 18
+    },
+    {
+      "address": "0xf16c296c86034138f361a27641e33C1e3EE17f60",
+      "name": "Prize USDC - Morpho",
+      "symbol": "przUSDC",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xf16c296c86034138f361a27641e33C1e3EE17f60/logo-128.png",
+      "chainId": 42161,
+      "decimals": 6
     },
     {
       "address": "0xf176fB51F4eB826136a54FDc71C50fCd2202E272",

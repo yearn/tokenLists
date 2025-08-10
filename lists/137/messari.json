@@ -1,9 +1,9 @@
 {
   "name": "Messari Token List",
   "description": "",
-  "timestamp": "2025-08-03T02:54:12Z",
+  "timestamp": "2025-08-10T02:09:25Z",
   "version": {
-    "major": 110,
+    "major": 111,
     "minor": 0,
     "patch": 0
   },
@@ -1066,6 +1066,14 @@
       "name": "Zenko",
       "symbol": "ZNKO",
       "logoURI": "https://asset-images.messari.io/images/3651facf-25a7-4d29-ab63-6f3ef68c6392/128.png",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
+      "address": "0x11B37C9388420D79d48E8D531227f43C9bf1BbF1",
+      "name": "FIT Token",
+      "symbol": "FIT",
+      "logoURI": "https://asset-images.messari.io/images/0aef820b-f7df-4e95-96cd-8e4dc7021981/128.png",
       "chainId": 137,
       "decimals": 18
     },
@@ -9108,6 +9116,14 @@
       "name": "Geodnet Token",
       "symbol": "GEOD",
       "logoURI": "https://assets.coingecko.com/coins/images/31608/large/Circular_White.png?1694072309",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
+      "address": "0xAC1Cd197931810b6f115D690c72a3438990D3Ba3",
+      "name": "ORIO",
+      "symbol": "ORIO",
+      "logoURI": "https://asset-images.messari.io/images/035806d6-7669-4c87-9289-9f2ba69eaa65/128.png",
       "chainId": 137,
       "decimals": 18
     },

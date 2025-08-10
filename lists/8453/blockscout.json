@@ -1,9 +1,9 @@
 {
   "name": "Blockscout",
   "description": "",
-  "timestamp": "2025-08-03T02:44:18Z",
+  "timestamp": "2025-08-10T02:59:22Z",
   "version": {
-    "major": 99,
+    "major": 100,
     "minor": 0,
     "patch": 0
   },
@@ -42,6 +42,14 @@
       "name": "Bridged FTN (OrtakSea)",
       "symbol": "FTN",
       "logoURI": "ipfs://QmcSdzBPMxqD2UqWJnqmhGQzt3nsKLVFSJcxNELWXcuJcp",
+      "chainId": 8453,
+      "decimals": 18
+    },
+    {
+      "address": "0x1111111111166b7FE7bd91427724B487980aFc69",
+      "name": "Zora",
+      "symbol": "ZORA",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0x1111111111166b7FE7bd91427724B487980aFc69/logo-128.png",
       "chainId": 8453,
       "decimals": 18
     },
@@ -102,14 +110,6 @@
       "decimals": 18
     },
     {
-      "address": "0x35E5dB674D8e93a03d814FA0ADa70731efe8a4b9",
-      "name": "Resolv USD",
-      "symbol": "USR",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0x35E5dB674D8e93a03d814FA0ADa70731efe8a4b9/logo-128.png",
-      "chainId": 8453,
-      "decimals": 18
-    },
-    {
       "address": "0x37e0b50dDBD719A46B9660396114C7F3fC9aA076",
       "name": "Patriot on Base",
       "symbol": "PATRIOT",
@@ -166,6 +166,14 @@
       "decimals": 18
     },
     {
+      "address": "0x61E030A56D33e8260FdD81f03B162A79Fe3449Cd",
+      "name": "Fluid",
+      "symbol": "FLUID",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0x61E030A56D33e8260FdD81f03B162A79Fe3449Cd/logo-128.png",
+      "chainId": 8453,
+      "decimals": 18
+    },
+    {
       "address": "0x63706e401c06ac8513145b7687A14804d17f814b",
       "name": "Aave Token",
       "symbol": "AAVE",
@@ -177,7 +185,7 @@
       "address": "0x688AEe022AA544f150678B8E5720b6b96a9E9a2F",
       "name": "Syrup Token",
       "symbol": "SYRUP",
-      "logoURI": "https://assets.smold.app/api/token/8453/0x688AEe022AA544f150678B8E5720b6b96a9E9a2F/logo-128.png",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0x688AEe022AA544f150678B8E5720b6b96a9E9a2F/logo-128.png",
       "chainId": 8453,
       "decimals": 18
     },
@@ -212,14 +220,6 @@
       "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913/logo-128.png",
       "chainId": 8453,
       "decimals": 6
-    },
-    {
-      "address": "0x83dB73EF5192de4B6a4c92bD0141Ba1a0Dc87c65",
-      "name": "Compounding Open Dollar",
-      "symbol": "cUSDO",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0x83dB73EF5192de4B6a4c92bD0141Ba1a0Dc87c65/logo-128.png",
-      "chainId": 8453,
-      "decimals": 18
     },
     {
       "address": "0x88Fb150BDc53A65fe94Dea0c9BA0a6dAf8C6e196",
@@ -290,6 +290,14 @@
       "name": "Pendle",
       "symbol": "PENDLE",
       "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0xA99F6e6785Da0F5d6fB42495Fe424BCE029Eeb3E/logo-128.png",
+      "chainId": 8453,
+      "decimals": 18
+    },
+    {
+      "address": "0xAC1Bd2486aAf3B5C0fc3Fd868558b082a531B2B4",
+      "name": "Toshi",
+      "symbol": "TOSHI",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0xAC1Bd2486aAf3B5C0fc3Fd868558b082a531B2B4/logo-128.png",
       "chainId": 8453,
       "decimals": 18
     },
@@ -370,14 +378,6 @@
       "name": "Reserve Rights",
       "symbol": "RSR",
       "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0xaB36452DbAC151bE02b16Ca17d8919826072f64a/logo-128.png",
-      "chainId": 8453,
-      "decimals": 18
-    },
-    {
-      "address": "0xaD55aebc9b8c03FC43cd9f62260391c13c23e7c0",
-      "name": "OpenEden Open Dollar",
-      "symbol": "USDO",
-      "logoURI": "https://assets.smold.app/api/token/8453/0xaD55aebc9b8c03FC43cd9f62260391c13c23e7c0/logo-128.png",
       "chainId": 8453,
       "decimals": 18
     },

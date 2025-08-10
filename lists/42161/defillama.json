@@ -1,9 +1,9 @@
 {
   "name": "DefiLlama",
   "description": "",
-  "timestamp": "2025-08-03T02:44:58Z",
+  "timestamp": "2025-08-10T03:00:24Z",
   "version": {
-    "major": 132,
+    "major": 133,
     "minor": 0,
     "patch": 0
   },
@@ -358,6 +358,14 @@
       "name": "MOR",
       "symbol": "MOR",
       "logoURI": "https://asset-images.messari.io/images/e41210fc-cceb-4aaa-b3f1-f67f53befcc8/128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0x09D4214C03D01F49544C0448DBE3A27f768F2b34",
+      "name": "Reservoir Stablecoin",
+      "symbol": "rUSD",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/54117/thumb/rusd_bera2.png?1738311629",
       "chainId": 42161,
       "decimals": 18
     },
@@ -821,6 +829,14 @@
       "name": "ArbiDoge",
       "symbol": "ADoge",
       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/doge.jpg",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0x15F7AD22Caa786B1237B27d4324c7E4a93c5e66b",
+      "name": "aarna atv USDC",
+      "symbol": "atvUSDC",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/67894/thumb/atvusdc.png?1754196178",
       "chainId": 42161,
       "decimals": 18
     },
@@ -1832,14 +1848,6 @@
       "decimals": 18
     },
     {
-      "address": "0x352F4bF396a7353A0877f99e99757E5d294Df374",
-      "name": "Sundae Token",
-      "symbol": "SUNDAE",
-      "logoURI": "https://assets.coingecko.com/coins/images/32010/large/sundae.jpg?1696042422",
-      "chainId": 42161,
-      "decimals": 18
-    },
-    {
       "address": "0x354A6dA3fcde098F8389cad84b0182725c6C91dE",
       "name": "Compound",
       "symbol": "COMP",
@@ -2403,6 +2411,14 @@
       "name": "Dackie Token",
       "symbol": "DACKIE",
       "logoURI": "https://asset-images.messari.io/images/880c16af-ece7-474b-ae2b-545bdfdf2c5b/128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0x4809010926aec940b550D34a46A52739f996D75D",
+      "name": "Wrapped Savings rUSD",
+      "symbol": "wsrUSD",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/66163/thumb/wsrUSD.png?1748500965",
       "chainId": 42161,
       "decimals": 18
     },
@@ -4102,6 +4118,14 @@
       "decimals": 18
     },
     {
+      "address": "0x83A32F2818b6754F7d58af0e559fA9d3fA99ce13",
+      "name": "LAYERK",
+      "symbol": "LYK",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/50444/thumb/LayerK.png?1727770132",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
       "address": "0x83E60B9F7f4DB5cDb0877659b1740E73c662c55B",
       "name": "Pingu",
       "symbol": "PINGU",
@@ -4249,7 +4273,7 @@
       "address": "0x894341be568Eae3697408c420f1d0AcFCE6E55f9",
       "name": "FUSD",
       "symbol": "FUSD",
-      "logoURI": "https://coin-images.coingecko.com/coins/images/67744/thumb/photo_2025-05-01_15-48-42.jpg?1753688528",
+      "logoURI": "https://asset-images.messari.io/images/d47cb507-fc9b-444e-b4f0-479fb3b27de9/128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -4392,7 +4416,7 @@
       "address": "0x8d010bf9C26881788b4e6bf5Fd1bdC358c8F90b8",
       "name": "Polkadot Token (Relay Chain)",
       "symbol": "DOT",
-      "logoURI": "https://coin-images.coingecko.com/coins/images/54481/thumb/Polkadot_Token_Black.png?1739986069",
+      "logoURI": "https://asset-images.messari.io/images/343894b4-7e6f-4c8b-9e15-586b481e1eb0/128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -4718,6 +4742,14 @@
       "name": "Symbiosis",
       "symbol": "SIS",
       "logoURI": "https://tokens.1inch.io/0x9e758b8a98a42d612b3d38b66a22074dc03d7370.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0x9Eeab030a17528eFb2aC0F81D76fab8754e461BD",
+      "name": "EACCToken",
+      "symbol": "EACC",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/68080/thumb/eacc-200x200.png?1754718353",
       "chainId": 42161,
       "decimals": 18
     },
@@ -5489,7 +5521,7 @@
       "address": "0xD4dD9e2F021BB459D5A5f6c24C12fE09c5D45553",
       "name": "Frankencoin",
       "symbol": "ZCHF",
-      "logoURI": "https://assets.coingecko.com/coins/images/37150/large/Untitled_design_%2818%29.png?1713464171",
+      "logoURI": "https://asset-images.messari.io/images/2a3e42ae-e6da-438d-9576-fe37743293ee/128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -5704,7 +5736,7 @@
       "address": "0xE1a6BDA42FBAfAE38607598386a1050613c1a64B",
       "name": "aarna atv111",
       "symbol": "atv111",
-      "logoURI": "https://coin-images.coingecko.com/coins/images/67785/thumb/atv_111_USDC_71e76abcb6.png?1753844648",
+      "logoURI": "https://asset-images.messari.io/images/55596823-9a03-4e3f-82a0-e20190d5328e/128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -7192,6 +7224,14 @@
       "decimals": 18
     },
     {
+      "address": "0xe649e6a1F2afc63ca268C2363691ceCAF75CF47C",
+      "name": "iEx.ec Network Token",
+      "symbol": "RLC",
+      "logoURI": "https://assets.coingecko.com/coins/images/646/large/pL1VuXm.png?1604543202",
+      "chainId": 42161,
+      "decimals": 9
+    },
+    {
       "address": "0xe80772Eaf6e2E18B651F160Bc9158b2A5caFCA65",
       "name": "xUSD",
       "symbol": "xUSD",
@@ -7286,6 +7326,14 @@
       "logoURI": "https://tokens.1inch.io/0xeb8e93a0c7504bffd8a8ffa56cd754c63aaebfe8.png",
       "chainId": 42161,
       "decimals": 18
+    },
+    {
+      "address": "0xecc5f868AdD75F4ff9FD00bbBDE12C35BA2C9C89",
+      "name": "BOB",
+      "symbol": "BOB",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/50202/thumb/bob-128.png?1726277750",
+      "chainId": 42161,
+      "decimals": 8
     },
     {
       "address": "0xed7f000eE335B8199b004cCA1c6f36d188CF6cb8",
@@ -7469,6 +7517,14 @@
       "logoURI": "https://asset-images.messari.io/images/8a8cac07-990c-4fe5-9a51-3ab1b7f89323/128.png",
       "chainId": 42161,
       "decimals": 18
+    },
+    {
+      "address": "0xfDD22Ce6D1F66bc0Ec89b20BF16CcB6670F55A5a",
+      "name": "thBILL",
+      "symbol": "thBILL",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/67650/thumb/thBILL.png?1753401034",
+      "chainId": 42161,
+      "decimals": 6
     },
     {
       "address": "0xfDDDb57878eF9D6f681Ec4381DCB626b9E69AC86",

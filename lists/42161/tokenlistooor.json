@@ -1,9 +1,9 @@
 {
   "name": "Tokenlistooor Token List",
   "description": "A curated list of tokens from all the token lists on tokenlistooor.",
-  "timestamp": "2025-08-03T02:56:21Z",
+  "timestamp": "2025-08-10T03:00:55Z",
   "version": {
-    "major": 343,
+    "major": 344,
     "minor": 0,
     "patch": 0
   },
@@ -358,6 +358,14 @@
       "name": "xVELA-WETH3",
       "symbol": "xVELA-WETH3",
       "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x1787E94420Be13581ad1A58318C379a66FC520Bf/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0x178E029173417b1F9C8bC16DCeC6f697bC323746",
+      "name": "Balancer 50wstETH-50USDC",
+      "symbol": "50WSTETH-50USDC",
+      "logoURI": "https://assets.coingecko.com/coins/images/11683/large/Balancer.png?",
       "chainId": 42161,
       "decimals": 18
     },
@@ -1390,13 +1398,6 @@
       "name": "YT GLP 28MAR2024",
       "symbol": "YT-GLP-28MAR2024",
       "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x56051f8e46b67b4d286454995dBC6F5f3C433E34/logo-128.png",
-      "chainId": 42161,
-      "decimals": 18
-    },
-    {
-      "address": "0x561877b6b3DD7651313794e5F2894B2F18bE0766",
-      "name": "Matic Token",
-      "symbol": "MATIC",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2721,13 +2722,6 @@
       "decimals": 18
     },
     {
-      "address": "0xC8a4EeA31E9B6b61c406DF013DD4FEc76f21E279",
-      "name": "Render Token",
-      "symbol": "RNDR",
-      "chainId": 42161,
-      "decimals": 18
-    },
-    {
       "address": "0xC8fD1F1E059d97ec71AE566DD6ca788DC92f36AF",
       "name": "Pendle Market",
       "symbol": "PENDLE-LPT",
@@ -2740,6 +2734,14 @@
       "name": "PT rsETH 25JUN2026",
       "symbol": "PT-rsETH-25JUN2026",
       "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xC9BFC3aFD592Cc5a3305aEc09aAAA6B9BB4c12d0/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0xC9da32C3b444F15412F7FeAC6104d1E258D23B1b",
+      "name": "Camelot LP",
+      "symbol": "CMLT-LP",
+      "logoURI": "https://assets.coingecko.com/coins/images/28416/large/vj5DIMhP_400x400.jpeg?",
       "chainId": 42161,
       "decimals": 18
     },
@@ -3156,6 +3158,14 @@
       "name": "SY weETH",
       "symbol": "SY-weETH",
       "logoURI": "https://assets.smold.app/api/token/42161/0xa6C895EB332E91c5b3D00B7baeEAae478cc502DA/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0xa6c5C7D189fA4eB5Af8ba34E63dCDD3a635D433f",
+      "name": "Camelot LP",
+      "symbol": "CMLT-LP",
+      "logoURI": "https://assets.coingecko.com/coins/images/28416/large/vj5DIMhP_400x400.jpeg?",
       "chainId": 42161,
       "decimals": 18
     },
@@ -3772,13 +3782,6 @@
       "name": "OVERPOWERED",
       "symbol": "OVERPOWERED",
       "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xfe5B10F053871e66a319a57a16CF4e709f51367F/logo-128.png",
-      "chainId": 42161,
-      "decimals": 18
-    },
-    {
-      "address": "0xfeA31d704DEb0975dA8e77Bf13E04239e70d7c28",
-      "name": "Ethereum Name Service",
-      "symbol": "ENS",
       "chainId": 42161,
       "decimals": 18
     }

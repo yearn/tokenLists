@@ -1,9 +1,9 @@
 {
   "name": "Optimism",
   "description": "A curated list of popular tokens from all the token lists on tokenlistooor.",
-  "timestamp": "2025-08-03T02:56:53Z",
+  "timestamp": "2025-08-10T03:01:26Z",
   "version": {
-    "major": 86,
+    "major": 87,
     "minor": 0,
     "patch": 0
   },
@@ -46,7 +46,7 @@
       "address": "0x0994206dfE8De6Ec6920FF4D779B0d950605Fb53",
       "name": "Curve DAO Token",
       "symbol": "CRV",
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xD533a949740bb3306d119CC777fa900bA034cd52/logo.png",
+      "logoURI": "ipfs://QmcVbt1ezDs89zPw5rgaR9xy5f3bdE7dxvTz958FeFNgfQ",
       "chainId": 10,
       "decimals": 18
     },
@@ -196,7 +196,7 @@
       "address": "0x350a791Bfc2C21F9Ed5d10980Dad2e2638ffa7f6",
       "name": "ChainLink Token",
       "symbol": "LINK",
-      "logoURI": "https://tokens.1inch.io/0x350a791bfc2c21f9ed5d10980dad2e2638ffa7f6.png",
+      "logoURI": "ipfs://QmU96KikTqZ4rmV6LPim9i57fuvTLMLcV8B6HKXvkdrdcW",
       "chainId": 10,
       "decimals": 18
     },
@@ -212,6 +212,14 @@
       "name": "Tarot",
       "symbol": "TAROT",
       "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x375488F097176507e39B9653b88FDc52cDE736Bf/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x395Ae52bB17aef68C2888d941736A71dC6d4e125",
+      "name": "PoolTogether",
+      "symbol": "POOL",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x395Ae52bB17aef68C2888d941736A71dC6d4e125/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },

@@ -1,9 +1,9 @@
 {
   "name": "Blockscout",
   "description": "",
-  "timestamp": "2025-08-03T02:44:18Z",
+  "timestamp": "2025-08-10T02:59:22Z",
   "version": {
-    "major": 99,
+    "major": 100,
     "minor": 0,
     "patch": 0
   },
@@ -25,7 +25,7 @@
       "address": "0x0994206dfE8De6Ec6920FF4D779B0d950605Fb53",
       "name": "Curve DAO Token",
       "symbol": "CRV",
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xD533a949740bb3306d119CC777fa900bA034cd52/logo.png",
+      "logoURI": "ipfs://QmcVbt1ezDs89zPw5rgaR9xy5f3bdE7dxvTz958FeFNgfQ",
       "chainId": 10,
       "decimals": 18
     },
@@ -78,14 +78,6 @@
       "decimals": 6
     },
     {
-      "address": "0x2561aa2bB1d2Eb6629EDd7b0938d7679B8b49f9E",
-      "name": "Ocean Token",
-      "symbol": "OCEAN",
-      "logoURI": "ipfs://Qme1QmhnJB3HvcMX34CE6FqqrJgEBarsq7Ej72Md9E9rvD",
-      "chainId": 10,
-      "decimals": 18
-    },
-    {
       "address": "0x296F55F8Fb28E498B858d0BcDA06D955B2Cb3f97",
       "name": "StargateToken",
       "symbol": "STG",
@@ -121,7 +113,7 @@
       "address": "0x350a791Bfc2C21F9Ed5d10980Dad2e2638ffa7f6",
       "name": "ChainLink Token",
       "symbol": "LINK",
-      "logoURI": "https://tokens.1inch.io/0x350a791bfc2c21f9ed5d10980dad2e2638ffa7f6.png",
+      "logoURI": "ipfs://QmU96KikTqZ4rmV6LPim9i57fuvTLMLcV8B6HKXvkdrdcW",
       "chainId": 10,
       "decimals": 18
     },
@@ -314,6 +306,14 @@
       "name": "Curve.Fi USD Stablecoin",
       "symbol": "crvUSD",
       "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xC52D7F23a2e460248Db6eE192Cb23dD12bDDCbf6/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xEc6adef5E1006bb305bB1975333e8fc4071295bf",
+      "name": "Cartesi Token",
+      "symbol": "CTSI",
+      "logoURI": "ipfs://QmUGwJaAgBCUqg2iF3hVG3FdzTjUmUxDDP6MmaxCeMhEae",
       "chainId": 10,
       "decimals": 18
     },

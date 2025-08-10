@@ -1,9 +1,9 @@
 {
   "name": "Messari Token List",
   "description": "",
-  "timestamp": "2025-08-03T02:54:12Z",
+  "timestamp": "2025-08-10T02:09:25Z",
   "version": {
-    "major": 110,
+    "major": 111,
     "minor": 0,
     "patch": 0
   },
@@ -456,6 +456,14 @@
       "logoURI": "https://assets.coingecko.com/coins/images/7596/large/Stably-Dollar_Mark_Standard.png?1615791425",
       "chainId": 42161,
       "decimals": 6
+    },
+    {
+      "address": "0x09D4214C03D01F49544C0448DBE3A27f768F2b34",
+      "name": "Reservoir Stablecoin",
+      "symbol": "rUSD",
+      "logoURI": "https://asset-images.messari.io/images/a3a0f1eb-ddef-4287-bcb3-f925b8d9931f/128.png",
+      "chainId": 42161,
+      "decimals": 18
     },
     {
       "address": "0x09E18590E8f76b6Cf471b3cd75fE1A1a9D2B2c2b",
@@ -1068,6 +1076,14 @@
       "name": "Lumi Finance Token Option",
       "symbol": "LUAOP",
       "logoURI": "https://asset-images.messari.io/images/9e7085f4-77af-403a-aea2-3b361ff2e964/128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0x15F7AD22Caa786B1237B27d4324c7E4a93c5e66b",
+      "name": "aarna atv USDC",
+      "symbol": "atvUSDC",
+      "logoURI": "https://asset-images.messari.io/images/627a853e-f2cc-49d9-b553-12cea87d7653/128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -3259,6 +3275,14 @@
       "name": "ZAI Stablecoin",
       "symbol": "xUSDz",
       "logoURI": "https://asset-images.messari.io/images/18937865-7a6f-4a5f-843f-a48dfc43e212/128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0x4809010926aec940b550D34a46A52739f996D75D",
+      "name": "Wrapped Savings rUSD",
+      "symbol": "wsrUSD",
+      "logoURI": "https://asset-images.messari.io/images/f7635a2e-8d51-4904-8bd7-5edde1b49163/128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -5549,6 +5573,14 @@
       "decimals": 18
     },
     {
+      "address": "0x83A32F2818b6754F7d58af0e559fA9d3fA99ce13",
+      "name": "LAYERK",
+      "symbol": "LYK",
+      "logoURI": "https://asset-images.messari.io/images/f2c0296a-aa13-4159-9142-430934ba59a3/128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
       "address": "0x83E60B9F7f4DB5cDb0877659b1740E73c662c55B",
       "name": "Pingu",
       "symbol": "PINGU",
@@ -6428,6 +6460,14 @@
       "name": "DarkMeta",
       "symbol": "DMT",
       "logoURI": "https://assets.coingecko.com/coins/images/31790/large/Z08PHIfT_400x400.jpg?1695019559",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0x9Eeab030a17528eFb2aC0F81D76fab8754e461BD",
+      "name": "EACCToken",
+      "symbol": "EACC",
+      "logoURI": "https://asset-images.messari.io/images/017e89dc-a68d-4a57-bb44-57722bff8fce/128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -9994,6 +10034,14 @@
       "decimals": 18
     },
     {
+      "address": "0xe649e6a1F2afc63ca268C2363691ceCAF75CF47C",
+      "name": "iEx.ec Network Token",
+      "symbol": "RLC",
+      "logoURI": "https://asset-images.messari.io/images/d1f48a57-2c48-4512-abd6-90e8c29e5aba/128.png",
+      "chainId": 42161,
+      "decimals": 9
+    },
+    {
       "address": "0xe66998533a1992ecE9eA99cDf47686F4fc8458E0",
       "name": "Jones USDC",
       "symbol": "jUSDC",
@@ -10399,6 +10447,14 @@
       "logoURI": "https://asset-images.messari.io/images/f80c8e88-9f63-47c0-a4e9-fb6c926fcd96/128.png",
       "chainId": 42161,
       "decimals": 9
+    },
+    {
+      "address": "0xfDD22Ce6D1F66bc0Ec89b20BF16CcB6670F55A5a",
+      "name": "thBILL",
+      "symbol": "thBILL",
+      "logoURI": "https://asset-images.messari.io/images/5c2d3620-fe10-4b11-a2b2-6b10aa057329/128.png",
+      "chainId": 42161,
+      "decimals": 6
     },
     {
       "address": "0xfDDDb57878eF9D6f681Ec4381DCB626b9E69AC86",

@@ -1,9 +1,9 @@
 {
   "name": "Blockscout",
   "description": "",
-  "timestamp": "2025-08-03T02:44:18Z",
+  "timestamp": "2025-08-10T02:59:22Z",
   "version": {
-    "major": 99,
+    "major": 100,
     "minor": 0,
     "patch": 0
   },
@@ -166,6 +166,14 @@
       "decimals": 18
     },
     {
+      "address": "0x532801ED6f82FFfD2DAB70A19fC2d7B2772C4f4b",
+      "name": "Swapr on xDai",
+      "symbol": "SWPR",
+      "logoURI": "https://gnosisscan.io/token/images/swaprswpr_32.png",
+      "chainId": 100,
+      "decimals": 18
+    },
+    {
       "address": "0x58b9cB810A68a7f3e1E4f8Cb45D1B9B3c79705E8",
       "name": "Everclear",
       "symbol": "CLEAR",
@@ -297,7 +305,7 @@
       "address": "0xD4dD9e2F021BB459D5A5f6c24C12fE09c5D45553",
       "name": "Frankencoin",
       "symbol": "ZCHF",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/100/0xD4dD9e2F021BB459D5A5f6c24C12fE09c5D45553/logo-128.png",
+      "logoURI": "https://asset-images.messari.io/images/2a3e42ae-e6da-438d-9576-fe37743293ee/128.png",
       "chainId": 100,
       "decimals": 18
     },
@@ -353,14 +361,6 @@
       "name": "Savings xDAI",
       "symbol": "sDAI",
       "logoURI": "https://token-assets-one.vercel.app/api/token/100/0xaf204776c7245bF4147c2612BF6e5972Ee483701/logo-128.png",
-      "chainId": 100,
-      "decimals": 18
-    },
-    {
-      "address": "0xb90D6bec20993Be5d72A5ab353343f7a0281f158",
-      "name": "DXdao on xDai",
-      "symbol": "DXD",
-      "logoURI": "https://tokens.1inch.io/0xa1d65e8fb6e87b60feccbc582f7f97804b725521.png",
       "chainId": 100,
       "decimals": 18
     },

@@ -1,15 +1,31 @@
 {
   "name": "Bebop",
   "description": "",
-  "timestamp": "2025-08-10T02:13:41Z",
+  "timestamp": "2025-08-17T03:04:09Z",
   "version": {
     "major": 20,
-    "minor": 31,
+    "minor": 32,
     "patch": 0
   },
   "logoURI": "https://bebop-public-images.s3.eu-west-2.amazonaws.com/bebop-logo.png",
   "keywords": null,
   "tokens": [
+    {
+      "address": "0x0DF0587216a4a1bB7d5082fdc491d93d2dD4B413",
+      "name": "Cheems",
+      "symbol": "Cheems",
+      "logoURI": "https://assets.coingecko.com/coins/images/30376/large/Hg4_Lhbg_400x400.jpg?1684297200",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+      "name": "PancakeSwap Token",
+      "symbol": "Cake",
+      "logoURI": "https://tokens.1inch.io/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82.png",
+      "chainId": 56,
+      "decimals": 18
+    },
     {
       "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
       "name": "Dai Token",
@@ -51,10 +67,26 @@
       "decimals": 18
     },
     {
+      "address": "0x6bdcCe4A559076e37755a78Ce0c06214E59e4444",
+      "name": "B",
+      "symbol": "B",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/55974/thumb/T7asvmCb_400x400.jpg?1747902862",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
       "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
       "name": "BTCB Token",
       "symbol": "BTCB",
       "logoURI": "https://tokens.1inch.io/0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c.png",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "address": "0x783c3f003f172c6Ac5AC700218a357d2D66Ee2a2",
+      "name": "BSquared Token",
+      "symbol": "B2",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/55433/thumb/bsquared.jpg?1745995924",
       "chainId": 56,
       "decimals": 18
     },
@@ -71,6 +103,22 @@
       "name": "Binance Smart Chain",
       "symbol": "BNB",
       "logoURI": "https://token-assets-one.vercel.app/api/token/56/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE/logo-128.png",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "address": "0xabE8E5CabE24Cb36df9540088fD7cE1175b9bc52",
+      "name": "Solv",
+      "symbol": "SOLV",
+      "logoURI": "https://assets.coingecko.com/coins/images/27987/large/Solv-Logo5.png?1666863912",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "address": "0xb9E1Fd5A02D3A33b25a14d661414E6ED6954a721",
+      "name": "SOON Token",
+      "symbol": "SOON",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/55124/thumb/red_2.PNG?1743843131",
       "chainId": 56,
       "decimals": 18
     },

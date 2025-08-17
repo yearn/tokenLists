@@ -1,10 +1,10 @@
 {
   "name": "Bebop",
   "description": "",
-  "timestamp": "2025-08-10T02:13:41Z",
+  "timestamp": "2025-08-17T03:04:09Z",
   "version": {
     "major": 20,
-    "minor": 31,
+    "minor": 32,
     "patch": 0
   },
   "logoURI": "https://bebop-public-images.s3.eu-west-2.amazonaws.com/bebop-logo.png",
@@ -1165,6 +1165,14 @@
       "name": "Space and Time",
       "symbol": "SXT",
       "logoURI": "https://asset-images.messari.io/images/16b5e3a0-470b-4c57-be63-4689dfbbf76e/128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xE7C6BF469e97eEB0bFB74C8dbFF5BD47D4C1C98a",
+      "name": "HashKey Platform Token",
+      "symbol": "HSK",
+      "logoURI": "https://asset-images.messari.io/images/b75f55a2-01fe-4c5c-9d40-101c21441e85/128.png",
       "chainId": 1,
       "decimals": 18
     },

@@ -1,9 +1,9 @@
 {
   "name": "DefiLlama",
   "description": "",
-  "timestamp": "2025-08-10T03:00:24Z",
+  "timestamp": "2025-08-17T03:04:23Z",
   "version": {
-    "major": 133,
+    "major": 134,
     "minor": 0,
     "patch": 0
   },
@@ -242,6 +242,14 @@
       "decimals": 8
     },
     {
+      "address": "0x0f577433Bf59560Ef2a79c124E9Ff99fCa258948",
+      "name": "Moremoney USD",
+      "symbol": "MONEY",
+      "logoURI": "https://assets.coingecko.com/coins/images/24237/large/money.png?1647087223",
+      "chainId": 43114,
+      "decimals": 18
+    },
+    {
       "address": "0x0f669808d88B2b0b3D23214DCD2a1cc6A8B1B5cd",
       "name": "Blub",
       "symbol": "BLUB",
@@ -282,6 +290,14 @@
       "decimals": 18
     },
     {
+      "address": "0x111111111111ed1D73f860F57b2798b683f2d325",
+      "name": "YUSD Stablecoin",
+      "symbol": "YUSD",
+      "logoURI": "https://tokens.1inch.io/0x111111111111ed1d73f860f57b2798b683f2d325.png",
+      "chainId": 43114,
+      "decimals": 18
+    },
+    {
       "address": "0x1263fEA931b86f3e8cE8AFBf29f66631b7be9347",
       "name": "BNPL Pay",
       "symbol": "BNPL",
@@ -294,6 +310,22 @@
       "name": "Ankr Staked ETH",
       "symbol": "ankrETH",
       "logoURI": "https://assets.coingecko.com/coins/images/13403/large/aETHc.png?1625756490",
+      "chainId": 43114,
+      "decimals": 18
+    },
+    {
+      "address": "0x130966628846BFd36ff31a822705796e8cb8C18D",
+      "name": "Magic Internet Money",
+      "symbol": "MIM",
+      "logoURI": "https://assets.coingecko.com/coins/images/37658/large/mim.png?1715164970",
+      "chainId": 43114,
+      "decimals": 18
+    },
+    {
+      "address": "0x1337BedC9D22ecbe766dF105c9623922A27963EC",
+      "name": "Curve.fi avDAI/avUSDC/avUSDT",
+      "symbol": "av3CRV",
+      "logoURI": "https://assets.coingecko.com/coins/images/12124/large/Curve.png",
       "chainId": 43114,
       "decimals": 18
     },
@@ -320,6 +352,14 @@
       "logoURI": "https://asset-images.messari.io/images/5dd14f1a-306a-4165-822a-a612ea930758/128.png",
       "chainId": 43114,
       "decimals": 18
+    },
+    {
+      "address": "0x152b9d0FdC40C096757F570A51E494bd4b943E50",
+      "name": "Bitcoin",
+      "symbol": "BTC.b",
+      "logoURI": "https://assets.coingecko.com/coins/images/26115/large/btcb.png?1655921693",
+      "chainId": 43114,
+      "decimals": 8
     },
     {
       "address": "0x153374C6D6786B6ca2c4bc96f9C3A471428f2bC7",
@@ -581,6 +621,14 @@
       "decimals": 8
     },
     {
+      "address": "0x264c1383EA520f73dd837F915ef3a732e204a493",
+      "name": "Binance",
+      "symbol": "BNB",
+      "logoURI": "https://tokens.1inch.io/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png",
+      "chainId": 43114,
+      "decimals": 18
+    },
+    {
       "address": "0x26deBD39D5eD069770406FCa10A0E4f8d2c743eB",
       "name": "GUNZ",
       "symbol": "GUN",
@@ -636,6 +684,14 @@
       "decimals": 18
     },
     {
+      "address": "0x2b2C81e08f1Af8835a78Bb2A90AE924ACE0eA4bE",
+      "name": "Staked AVAX",
+      "symbol": "sAVAX",
+      "logoURI": "https://tokens.1inch.io/0x2b2c81e08f1af8835a78bb2a90ae924ace0ea4be.png",
+      "chainId": 43114,
+      "decimals": 18
+    },
+    {
       "address": "0x2cd3CdB3bd68Eea0d3BE81DA707bC0c8743D7335",
       "name": "Yield BTC.B",
       "symbol": "YBTC.B",
@@ -650,6 +706,14 @@
       "logoURI": "https://coin-images.coingecko.com/coins/images/52449/thumb/BIG_Token_Logo.png?1733387640",
       "chainId": 43114,
       "decimals": 18
+    },
+    {
+      "address": "0x2d324fD1Ca86D90f61B0965d2db2f86d22eA4B74",
+      "name": "Wrapped Aave Avalanche BTC.b",
+      "symbol": "waAvaBTC.b",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/68178/thumb/btc.png?1755003767",
+      "chainId": 43114,
+      "decimals": 8
     },
     {
       "address": "0x2d731dfE4e60D732ac7eCAED369eb106Eb1E351f",
@@ -695,6 +759,14 @@
       "name": "XANA",
       "symbol": "XETA",
       "logoURI": "https://assets.coingecko.com/coins/images/24379/large/XANA_Logo_neon_pink.png?1658197388",
+      "chainId": 43114,
+      "decimals": 18
+    },
+    {
+      "address": "0x321E7092a180BB43555132ec53AaA65a5bF84251",
+      "name": "Governance OHM",
+      "symbol": "gOHM",
+      "logoURI": "https://tokens.1inch.io/0x321e7092a180bb43555132ec53aaa65a5bf84251.png",
       "chainId": 43114,
       "decimals": 18
     },
@@ -750,6 +822,14 @@
       "name": "DizzyHavoc",
       "symbol": "DZHV",
       "logoURI": "https://assets.coingecko.com/coins/images/35575/large/dizzyhavoc_circle_3_200_200_transparentBg.png?1709194317",
+      "chainId": 43114,
+      "decimals": 18
+    },
+    {
+      "address": "0x346A59146b9b4a77100D369a3d18E8007A9F46a6",
+      "name": "AVAI",
+      "symbol": "AVAI",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12500.png",
       "chainId": 43114,
       "decimals": 18
     },
@@ -1002,6 +1082,14 @@
       "decimals": 6
     },
     {
+      "address": "0x451532F1C9eb7E4Dc2d493dB52b682C0Acf6F5EF",
+      "name": "Suzaku Token",
+      "symbol": "SUZ",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/68103/thumb/suzaku-logo-black-200.png?1754802307",
+      "chainId": 43114,
+      "decimals": 18
+    },
+    {
       "address": "0x4586AF10ecceeD4E383e3f2Ec93b6C61e26500b5",
       "name": "HUNDRED",
       "symbol": "HUNDRED",
@@ -1055,6 +1143,14 @@
       "logoURI": "https://assets.coingecko.com/coins/images/8472/large/2_vtiD3xwce9knG2COxtSMaQ.png?1597786961",
       "chainId": 43114,
       "decimals": 4
+    },
+    {
+      "address": "0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB",
+      "name": "Wrapped Ether",
+      "symbol": "WETH.e",
+      "logoURI": "https://tokens.1inch.io/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png",
+      "chainId": 43114,
+      "decimals": 18
     },
     {
       "address": "0x4A5Bb433132B7E7F75D6A9a3e4136bB85CE6E4d5",
@@ -1129,6 +1225,14 @@
       "decimals": 18
     },
     {
+      "address": "0x4fbf0429599460D327BD5F55625E30E4fC066095",
+      "name": "TSD Stablecoin",
+      "symbol": "TSD",
+      "logoURI": "https://snowtrace.io/token/images/teddy-tsd_32.png",
+      "chainId": 43114,
+      "decimals": 18
+    },
+    {
       "address": "0x502580fc390606b47FC3b741d6D49909383c28a9",
       "name": "Hatchy",
       "symbol": "HATCHY",
@@ -1143,6 +1247,14 @@
       "logoURI": "https://assets.coingecko.com/coins/images/25242/large/metaderby.png?1650974944",
       "chainId": 43114,
       "decimals": 18
+    },
+    {
+      "address": "0x50b7545627a5162F82A992c33b87aDc75187B218",
+      "name": "Wrapped BTC",
+      "symbol": "WBTC.e",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/39529/thumb/wbtc.png?1722809081",
+      "chainId": 43114,
+      "decimals": 8
     },
     {
       "address": "0x511D35c52a3C244E7b8bd92c0C297755FbD89212",
@@ -1225,6 +1337,14 @@
       "decimals": 18
     },
     {
+      "address": "0x5541D83EFaD1f281571B343977648B75d95cdAC2",
+      "name": "Grape Finance",
+      "symbol": "GRAPE",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0x5541D83EFaD1f281571B343977648B75d95cdAC2.jpg",
+      "chainId": 43114,
+      "decimals": 18
+    },
+    {
       "address": "0x564A341Df6C126f90cf3ECB92120FD7190ACb401",
       "name": "BiLira",
       "symbol": "TRYB",
@@ -1297,6 +1417,14 @@
       "decimals": 18
     },
     {
+      "address": "0x59933c571d200dc6A7Fd1CDa22495dB442082E34",
+      "name": "Wrapped Aave Avalanche USDT",
+      "symbol": "waAvaUSDT",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/68176/thumb/usdt.jpg?1755003359",
+      "chainId": 43114,
+      "decimals": 6
+    },
+    {
       "address": "0x59D9356E565Ab3A36dD77763Fc0d87fEaf85508C",
       "name": "Mountain Protocol USD",
       "symbol": "USDM",
@@ -1345,6 +1473,14 @@
       "decimals": 18
     },
     {
+      "address": "0x5E817F2AbCCB9095585D26c2a3ce234a440574Fc",
+      "name": "Frontier Stable Token",
+      "symbol": "FRNT",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/68284/thumb/FRNT_200.png?1755242496",
+      "chainId": 43114,
+      "decimals": 6
+    },
+    {
       "address": "0x5ECfeC22AA950CB5A3b4fd7249DC30B2BD160f18",
       "name": "Tarot",
       "symbol": "TAROT",
@@ -1357,6 +1493,14 @@
       "name": "Snail Trail",
       "symbol": "SLIME",
       "logoURI": "https://assets.coingecko.com/coins/images/25394/large/logo_%283%29.png?1651706562",
+      "chainId": 43114,
+      "decimals": 18
+    },
+    {
+      "address": "0x5c49b268c9841AFF1Cc3B0a418ff5c3442eE3F3b",
+      "name": "Mai Stablecoin",
+      "symbol": "MAI",
+      "logoURI": "https://assets.coingecko.com/coins/images/35541/large/mimatic-red.png?1709092837",
       "chainId": 43114,
       "decimals": 18
     },
@@ -1406,6 +1550,14 @@
       "logoURI": "https://coin-images.coingecko.com/coins/images/38727/thumb/main_green.png?1718478384",
       "chainId": 43114,
       "decimals": 18
+    },
+    {
+      "address": "0x625E7708f30cA75bfd92586e17077590C60eb4cD",
+      "name": "Aave Avalanche USDC",
+      "symbol": "aAvaUSDC",
+      "logoURI": "https://assets.coingecko.com/coins/images/12645/large/AAVE.png",
+      "chainId": 43114,
+      "decimals": 6
     },
     {
       "address": "0x62AceEA3e666C5706Ce1c61055fAc1A669d31D93",
@@ -1631,6 +1783,14 @@
       "decimals": 18
     },
     {
+      "address": "0x6ab707Aca953eDAeFBc4fD23bA73294241490620",
+      "name": "Aave Avalanche USDT",
+      "symbol": "aAvaUSDT",
+      "logoURI": "https://assets.coingecko.com/coins/images/12645/large/AAVE.png",
+      "chainId": 43114,
+      "decimals": 6
+    },
+    {
       "address": "0x6b289CCeAA8639e3831095D75A3e43520faBf552",
       "name": "Cartesi Token",
       "symbol": "CTSI",
@@ -1661,6 +1821,14 @@
       "logoURI": "https://tokens.1inch.io/0x6e7f5c0b9f4432716bdd0a77a3601291b9d9e985.png",
       "chainId": 43114,
       "decimals": 9
+    },
+    {
+      "address": "0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd",
+      "name": "JoeToken",
+      "symbol": "JOE",
+      "logoURI": "https://assets.coingecko.com/coins/images/17569/large/joe_200x200.png?1628497750",
+      "chainId": 43114,
+      "decimals": 18
     },
     {
       "address": "0x6f97D3F120fBbDaacF1c9da61a8aD126b7426861",
@@ -1847,6 +2015,14 @@
       "decimals": 18
     },
     {
+      "address": "0x7D0394F8898fBA73836Bf12bD606228887705895",
+      "name": "Wrapped Aave Avalanche SAVAX",
+      "symbol": "waAvaSAVAX",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/68197/thumb/savax.png?1755074990",
+      "chainId": 43114,
+      "decimals": 18
+    },
+    {
       "address": "0x7DC9748DA8E762e569F9269f48F69A1a9F8Ea761",
       "name": "ZeUSD",
       "symbol": "ZeUSD",
@@ -1935,10 +2111,26 @@
       "decimals": 18
     },
     {
+      "address": "0x820802Fa8a99901F52e39acD21177b0BE6EE2974",
+      "name": "EUROe Stablecoin",
+      "symbol": "EUROe",
+      "logoURI": "https://assets.coingecko.com/coins/images/28913/large/euroe-200x200-round.png?1675338103",
+      "chainId": 43114,
+      "decimals": 6
+    },
+    {
       "address": "0x822b906E74D493D07223CF6858620ccDa66b2154",
       "name": "rLoop",
       "symbol": "rloop",
       "logoURI": "https://assets.coingecko.com/coins/images/4698/large/12903040.png?1651730348",
+      "chainId": 43114,
+      "decimals": 18
+    },
+    {
+      "address": "0x82E64f49Ed5EC1bC6e43DAD4FC8Af9bb3A2312EE",
+      "name": "Aave Avalanche DAI",
+      "symbol": "aAvaDAI",
+      "logoURI": "https://assets.coingecko.com/coins/images/12645/large/AAVE.png",
       "chainId": 43114,
       "decimals": 18
     },
@@ -2151,6 +2343,14 @@
       "decimals": 18
     },
     {
+      "address": "0x8e48D9F6D73e9805Df87Dcf63f7B35AE04079713",
+      "name": "KIGU",
+      "symbol": "KIGU",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/68164/thumb/KIGU.png?1754990777",
+      "chainId": 43114,
+      "decimals": 18
+    },
+    {
       "address": "0x8eBAf22B6F053dFFeaf46f4Dd9eFA95D89ba8580",
       "name": "Uniswap",
       "symbol": "UNI.e",
@@ -2284,6 +2484,14 @@
       "symbol": "OSAK",
       "chainId": 43114,
       "decimals": 18
+    },
+    {
+      "address": "0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7",
+      "name": "TetherToken",
+      "symbol": "USDt",
+      "logoURI": "https://tokens.1inch.io/0x9702230a8ea53601f5cd2dc00fdbc13d4df4a8c7.png",
+      "chainId": 43114,
+      "decimals": 6
     },
     {
       "address": "0x97Cd1CFE2ed5712660bb6c14053C0EcB031Bff7d",
@@ -2485,12 +2693,28 @@
       "decimals": 18
     },
     {
+      "address": "0xA3D68b74bF0528fdD07263c60d6488749044914b",
+      "name": "Wrapped eETH",
+      "symbol": "weETH",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/68268/thumb/weeth.png?1755229739",
+      "chainId": 43114,
+      "decimals": 18
+    },
+    {
       "address": "0xA5aCFECA5270bC9768633FBC86caA959B85Ec8b7",
       "name": "KRW",
       "symbol": "KRW",
       "logoURI": "https://assets.coingecko.com/coins/images/16530/large/KRW_token_logo_200x200.png?1624343058",
       "chainId": 43114,
       "decimals": 18
+    },
+    {
+      "address": "0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664",
+      "name": "USD Coin",
+      "symbol": "USDC.e",
+      "logoURI": "https://tokens.1inch.io/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.png",
+      "chainId": 43114,
+      "decimals": 6
     },
     {
       "address": "0xA9ef87EB3FDc2F08EF5Ee401326F7331d4d312cf",
@@ -2605,6 +2829,14 @@
       "decimals": 6
     },
     {
+      "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+      "name": "Wrapped AVAX",
+      "symbol": "WAVAX",
+      "logoURI": "https://tokens.1inch.io/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png",
+      "chainId": 43114,
+      "decimals": 18
+    },
+    {
       "address": "0xB44B645b5058F7e393F3AE6Af58A4CEf67006196",
       "name": "STICK",
       "symbol": "STICK",
@@ -2643,6 +2875,14 @@
       "logoURI": "https://coin-images.coingecko.com/coins/images/51173/thumb/_ARENA_TokenLogo_200x200.png?1730282003",
       "chainId": 43114,
       "decimals": 18
+    },
+    {
+      "address": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "logoURI": "https://tokens.1inch.io/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.png",
+      "chainId": 43114,
+      "decimals": 6
     },
     {
       "address": "0xB9C188BC558a82a1eE9E75AE0857df443F407632",
@@ -2689,6 +2929,14 @@
       "name": "PLYR",
       "symbol": "PLYR",
       "logoURI": "https://coin-images.coingecko.com/coins/images/50507/thumb/logo_exchange.png?1728008614",
+      "chainId": 43114,
+      "decimals": 18
+    },
+    {
+      "address": "0xC0C5AA69Dbe4d6DDdfBc89c0957686ec60F24389",
+      "name": "XEN Crypto",
+      "symbol": "aXEN",
+      "logoURI": "https://assets.coingecko.com/coins/images/27713/large/Xen.jpeg?1665453190",
       "chainId": 43114,
       "decimals": 18
     },
@@ -2757,6 +3005,14 @@
       "decimals": 18
     },
     {
+      "address": "0xC891EB4cbdEFf6e073e859e987815Ed1505c2ACD",
+      "name": "Euro Coin",
+      "symbol": "EURC",
+      "logoURI": "https://tokens.1inch.io/0xc891eb4cbdeff6e073e859e987815ed1505c2acd.png",
+      "chainId": 43114,
+      "decimals": 6
+    },
+    {
       "address": "0xC99092c66d92dDDAcEd9fCdD488b246923D098EF",
       "name": "CROW",
       "symbol": "CROW",
@@ -2805,13 +3061,6 @@
       "decimals": 18
     },
     {
-      "address": "0xCEeE63fF114F8e8deBF5E78a14e770E5B905eA91",
-      "name": "METAOASIS",
-      "symbol": "AIM",
-      "chainId": 43114,
-      "decimals": 18
-    },
-    {
       "address": "0xCa8EBfB8e1460Aaac7c272CB9053B3D42412AAc2",
       "name": "GAU Token",
       "symbol": "GAU",
@@ -2824,6 +3073,22 @@
       "name": "Erol Musk",
       "symbol": "EROL",
       "logoURI": "https://coin-images.coingecko.com/coins/images/55617/thumb/LOGO_1_V2.png_1_ku%CC%88c%CC%A7u%CC%88k_200x200.png?1746859253",
+      "chainId": 43114,
+      "decimals": 18
+    },
+    {
+      "address": "0xD036414fa2BCBb802691491E323BFf1348C5F4Ba",
+      "name": "Mu Coin",
+      "symbol": "MU",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0xD036414fa2BCBb802691491E323BFf1348C5F4Ba.jpg",
+      "chainId": 43114,
+      "decimals": 18
+    },
+    {
+      "address": "0xD24C2Ad096400B6FBcd2ad8B24E7acBc21A1da64",
+      "name": "Frax",
+      "symbol": "FRAX",
+      "logoURI": "https://tokens.1inch.io/0x853d955acef822db058eb8505911ed77f175b99e.png",
       "chainId": 43114,
       "decimals": 18
     },
@@ -2864,6 +3129,14 @@
       "name": "DSLA",
       "symbol": "DSLA",
       "logoURI": "https://assets.coingecko.com/coins/images/6694/large/dsla_logo-squared_200x200.png?1569571063",
+      "chainId": 43114,
+      "decimals": 18
+    },
+    {
+      "address": "0xD7da0De6Ef4f51d6206bF2A35fCd2030F54c3F7B",
+      "name": "Wrapped Aave Avalanche WAVAX",
+      "symbol": "waAvaWAVAX",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/68179/thumb/avax.png?1755004315",
       "chainId": 43114,
       "decimals": 18
     },
@@ -3018,6 +3291,14 @@
       "logoURI": "https://assets.coingecko.com/coins/images/22881/large/USDTso_wh_small.png?1644223113",
       "chainId": 43114,
       "decimals": 6
+    },
+    {
+      "address": "0xF14f4CE569cB3679E99d5059909E23B07bd2F387",
+      "name": "NXUSD",
+      "symbol": "NXUSD",
+      "logoURI": "https://tokens.1inch.io/0xf14f4ce569cb3679e99d5059909e23b07bd2f387.png",
+      "chainId": 43114,
+      "decimals": 18
     },
     {
       "address": "0xF197FFC28c23E0309B5559e7a166f2c6164C80aA",
@@ -3298,6 +3579,14 @@
       "decimals": 9
     },
     {
+      "address": "0xb599c3590F42f8F995ECfa0f85D2980B76862fc1",
+      "name": "UST",
+      "symbol": "UST",
+      "logoURI": "https://assets.coingecko.com/coins/images/21150/large/UST_wh_small.png?1644223065",
+      "chainId": 43114,
+      "decimals": 6
+    },
+    {
       "address": "0xb5Cc2CE99B3f98a969DBe458b96a117680AE0fA1",
       "name": "Lucky Coin",
       "symbol": "LUCKY",
@@ -3417,6 +3706,14 @@
       "decimals": 18
     },
     {
+      "address": "0xc7198437980c041c805A1EDcbA50c1Ce5db95118",
+      "name": "Tether USD",
+      "symbol": "USDT.e",
+      "logoURI": "https://assets.coingecko.com/coins/images/24189/large/Usdt.e.png?1646819144",
+      "chainId": 43114,
+      "decimals": 6
+    },
+    {
       "address": "0xc7B5D72C836e718cDA8888eaf03707fAef675079",
       "name": "TrustSwap Token",
       "symbol": "SWAP.e",
@@ -3504,6 +3801,14 @@
       "decimals": 18
     },
     {
+      "address": "0xd586E7F844cEa2F87f50152665BCbc2C279D8d70",
+      "name": "Dai Stablecoin",
+      "symbol": "DAI.e",
+      "logoURI": "https://tokens.1inch.io/0x6b175474e89094c44da98b954eedeac495271d0f.png",
+      "chainId": 43114,
+      "decimals": 18
+    },
+    {
       "address": "0xd5d0A9b3f2C264b955Ae7161cfA6D38A7aEa60a7",
       "name": "abcPHAR",
       "symbol": "abcPHAR",
@@ -3558,6 +3863,14 @@
       "logoURI": "https://assets.coingecko.com/coins/images/23780/large/200x200_BAVA_LOGO_%282%29.png?1645435712",
       "chainId": 43114,
       "decimals": 18
+    },
+    {
+      "address": "0xe1bFC96d95BAdCB10Ff013Cb0C9C6c737ca07009",
+      "name": "Wrapped Aave Avalanche USDC",
+      "symbol": "waAvaUSDC",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/68177/thumb/usdc.jpg?1755003628",
+      "chainId": 43114,
+      "decimals": 6
     },
     {
       "address": "0xe3B3F75f99Da4fF26AA867ef70B48F8f6B2D4958",
@@ -3734,6 +4047,14 @@
       "logoURI": "https://assets.coingecko.com/coins/images/17803/large/IDIA.png?1629292292",
       "chainId": 43114,
       "decimals": 18
+    },
+    {
+      "address": "0xfaB550568C688d5D8A52C7d794cb93Edc26eC0eC",
+      "name": "Axelar Wrapped USDC",
+      "symbol": "axlUSDC",
+      "logoURI": "https://assets.coingecko.com/coins/images/26476/large/axlUSDC.png?1658207579",
+      "chainId": 43114,
+      "decimals": 6
     },
     {
       "address": "0xfc421aD3C883Bf9E7C4f42dE845C4e4405799e73",

@@ -1,9 +1,9 @@
 {
   "name": "Arbitrum",
   "description": "A curated list of popular tokens from all the token lists on tokenlistooor.",
-  "timestamp": "2025-08-10T03:01:26Z",
+  "timestamp": "2025-08-17T03:14:45Z",
   "version": {
-    "major": 87,
+    "major": 88,
     "minor": 0,
     "patch": 0
   },
@@ -342,6 +342,14 @@
       "logoURI": "https://assets.coingecko.com/coins/images/26115/large/btcb.png?1655921693",
       "chainId": 42161,
       "decimals": 8
+    },
+    {
+      "address": "0x2416092f143378750bb29b79eD961ab195CcEea5",
+      "name": "Renzo Restaked ETH",
+      "symbol": "ezETH",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x2416092f143378750bb29b79eD961ab195CcEea5/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
     },
     {
       "address": "0x2598c30330D5771AE9F983979209486aE26dE875",
@@ -842,14 +850,6 @@
       "decimals": 18
     },
     {
-      "address": "0x64343594Ab9b56e99087BfA6F2335Db24c2d1F17",
-      "name": "Vesta Stable",
-      "symbol": "VST",
-      "logoURI": "https://tokens.1inch.io/0x64343594ab9b56e99087bfa6f2335db24c2d1f17.png",
-      "chainId": 42161,
-      "decimals": 18
-    },
-    {
       "address": "0x643b34980E635719C15a2D4ce69571a258F940E9",
       "name": "The Standard EURO",
       "symbol": "EUROs",
@@ -1184,14 +1184,6 @@
       "decimals": 18
     },
     {
-      "address": "0x842216E0aa2ae608699F7b1063F26ce6b30c5311",
-      "name": "URD Token",
-      "symbol": "URD",
-      "logoURI": "https://assets.coingecko.com/coins/images/29970/large/UrDEXLogo.png?1682393181",
-      "chainId": 42161,
-      "decimals": 18
-    },
-    {
       "address": "0x848e0BA28B637e8490D88BaE51fA99C87116409B",
       "name": "Agave",
       "symbol": "AGVE",
@@ -1464,13 +1456,6 @@
       "name": "Ramses",
       "symbol": "RAM",
       "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xAAA6C1E32C55A7Bfa8066A6FAE9b42650F262418/logo-128.png",
-      "chainId": 42161,
-      "decimals": 18
-    },
-    {
-      "address": "0xAD4b9c1FbF4923061814dD9d5732EB703FaA53D4",
-      "name": "Wicrypt Network Token",
-      "symbol": "WNT",
       "chainId": 42161,
       "decimals": 18
     },

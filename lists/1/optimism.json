@@ -1,11 +1,11 @@
 {
   "name": "Superchain Token List",
   "description": "",
-  "timestamp": "2025-08-10T02:59:31Z",
+  "timestamp": "2025-08-17T03:06:26Z",
   "version": {
     "major": 6,
-    "minor": 3,
-    "patch": 1
+    "minor": 4,
+    "patch": 0
   },
   "logoURI": "https://ethereum-optimism.github.io/optimism.svg",
   "keywords": [
@@ -539,6 +539,14 @@
       "name": "Validator",
       "symbol": "VALX",
       "logoURI": "https://ethereum-optimism.github.io/data/VALX/logo.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x2EE7097BfdD98fCE2AC08A1896038a7cd9aaEd81",
+      "name": "Gaia Token",
+      "symbol": "GAIA",
+      "logoURI": "https://asset-images.messari.io/images/2a5a87b4-8f1a-4225-acc6-ec85887ffa5b/128.png",
       "chainId": 1,
       "decimals": 18
     },

@@ -1,11 +1,11 @@
 {
   "name": "Superchain Token List",
   "description": "",
-  "timestamp": "2025-08-10T02:59:31Z",
+  "timestamp": "2025-08-17T03:06:26Z",
   "version": {
     "major": 6,
-    "minor": 3,
-    "patch": 1
+    "minor": 4,
+    "patch": 0
   },
   "logoURI": "https://ethereum-optimism.github.io/optimism.svg",
   "keywords": [
@@ -539,6 +539,14 @@
       "name": "Validator",
       "symbol": "VALX",
       "logoURI": "https://ethereum-optimism.github.io/data/VALX/logo.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x2EE7097BfdD98fCE2AC08A1896038a7cd9aaEd81",
+      "name": "Gaia Token",
+      "symbol": "GAIA",
+      "logoURI": "https://asset-images.messari.io/images/2a5a87b4-8f1a-4225-acc6-ec85887ffa5b/128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -3024,7 +3032,7 @@
       "address": "0x0994206dfE8De6Ec6920FF4D779B0d950605Fb53",
       "name": "Curve DAO Token",
       "symbol": "CRV",
-      "logoURI": "ipfs://QmcVbt1ezDs89zPw5rgaR9xy5f3bdE7dxvTz958FeFNgfQ",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xD533a949740bb3306d119CC777fa900bA034cd52/logo.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -3218,7 +3226,7 @@
       "address": "0x350a791Bfc2C21F9Ed5d10980Dad2e2638ffa7f6",
       "name": "ChainLink Token",
       "symbol": "LINK",
-      "logoURI": "ipfs://QmU96KikTqZ4rmV6LPim9i57fuvTLMLcV8B6HKXvkdrdcW",
+      "logoURI": "https://tokens.1inch.io/0x350a791bfc2c21f9ed5d10980dad2e2638ffa7f6.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -4171,7 +4179,7 @@
       "address": "0xFE8B128bA8C78aabC59d4c64cEE7fF28e9379921",
       "name": "Balancer",
       "symbol": "BAL",
-      "logoURI": "ipfs://QmeVnk6jkW8J9ZHFxsLVamMNHpz9bigp7tsY2CJuxas297",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xba100000625a3754423978a60c9317c58a424e3D/logo.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -5540,6 +5548,13 @@
       "decimals": 18
     },
     {
+      "address": "0x6FbF03Efa4363cA0aFe0C9C3906F7D610890B683",
+      "name": "Gaia Token",
+      "symbol": "GAIA",
+      "chainId": 8453,
+      "decimals": 18
+    },
+    {
       "address": "0x6b20e045cD881EeF5853EB6C148E1c88a20ab395",
       "name": "dotmoovs",
       "symbol": "MOOV",
@@ -5652,6 +5667,14 @@
       "decimals": 18
     },
     {
+      "address": "0x7Ba6F01772924a82D9626c126347A28299E98c98",
+      "name": "Metronome Synth ETH",
+      "symbol": "msETH",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0x7Ba6F01772924a82D9626c126347A28299E98c98/logo-128.png",
+      "chainId": 8453,
+      "decimals": 18
+    },
+    {
       "address": "0x7C298664BD6582f6f264c2Cb5a4B9cC09b6E3889",
       "name": "Melon Token",
       "symbol": "MLN",
@@ -5686,6 +5709,14 @@
       "name": "Ajna",
       "symbol": "AJNA",
       "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0x7F05a7A9AF2f5a07D1e64877C8dC37a64a22508E/logo-128.png",
+      "chainId": 8453,
+      "decimals": 18
+    },
+    {
+      "address": "0x7FcD174E80f264448ebeE8c88a7C4476AAF58Ea6",
+      "name": "Wrapped Super OETH",
+      "symbol": "wsuperOETHb",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0x7FcD174E80f264448ebeE8c88a7C4476AAF58Ea6/logo-128.png",
       "chainId": 8453,
       "decimals": 18
     },
@@ -6805,6 +6836,13 @@
       "address": "0x6981F932C2eC5F9E15d44d7EF46859a133f544dD",
       "name": "Lido DAO Token (Celo native bridge)",
       "symbol": "LDO",
+      "chainId": 42220,
+      "decimals": 18
+    },
+    {
+      "address": "0x6D8aDA2df4aebb0561781775872DB1db98d9F791",
+      "name": "Ethereum Name Service (Celo native bridge)",
+      "symbol": "ENS",
       "chainId": 42220,
       "decimals": 18
     },

@@ -1,9 +1,9 @@
 {
   "name": "Popular tokens",
   "description": "A curated list of popular tokens from all the token lists on tokenlistooor.",
-  "timestamp": "2025-08-10T03:01:26Z",
+  "timestamp": "2025-08-17T03:14:45Z",
   "version": {
-    "major": 87,
+    "major": 88,
     "minor": 0,
     "patch": 0
   },
@@ -46,7 +46,7 @@
       "address": "0x0994206dfE8De6Ec6920FF4D779B0d950605Fb53",
       "name": "Curve DAO Token",
       "symbol": "CRV",
-      "logoURI": "ipfs://QmcVbt1ezDs89zPw5rgaR9xy5f3bdE7dxvTz958FeFNgfQ",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xD533a949740bb3306d119CC777fa900bA034cd52/logo.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -154,14 +154,6 @@
       "decimals": 18
     },
     {
-      "address": "0x2Dd1B4D4548aCCeA497050619965f91f78b3b532",
-      "name": "Staked FRAX",
-      "symbol": "sFRAX",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x2Dd1B4D4548aCCeA497050619965f91f78b3b532/logo-128.png",
-      "chainId": 10,
-      "decimals": 18
-    },
-    {
       "address": "0x2E3D870790dC77A83DD1d18184Acc7439A53f475",
       "name": "Frax",
       "symbol": "FRAX",
@@ -196,7 +188,7 @@
       "address": "0x350a791Bfc2C21F9Ed5d10980Dad2e2638ffa7f6",
       "name": "ChainLink Token",
       "symbol": "LINK",
-      "logoURI": "ipfs://QmU96KikTqZ4rmV6LPim9i57fuvTLMLcV8B6HKXvkdrdcW",
+      "logoURI": "https://tokens.1inch.io/0x350a791bfc2c21f9ed5d10980dad2e2638ffa7f6.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -304,6 +296,14 @@
       "decimals": 18
     },
     {
+      "address": "0x4F604735c1cF31399C6E711D5962b2B3E0225AD3",
+      "name": "Glo Dollar",
+      "symbol": "USDGLO",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x4F604735c1cF31399C6E711D5962b2B3E0225AD3/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
       "address": "0x513c7E3a9c69cA3e22550eF58AC1C0088e918FFf",
       "name": "Aave Optimism OP",
       "symbol": "aOptOP",
@@ -348,14 +348,6 @@
       "name": "Molten",
       "symbol": "MOLTEN",
       "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x66E535e8D2ebf13F49F3D49e5c50395a97C137b1/logo-128.png",
-      "chainId": 10,
-      "decimals": 18
-    },
-    {
-      "address": "0x6806411765Af15Bddd26f8f544A34cC40cb9838B",
-      "name": "Frax Ether",
-      "symbol": "frxETH",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x6806411765Af15Bddd26f8f544A34cC40cb9838B/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -414,14 +406,6 @@
       "logoURI": "https://asset-images.messari.io/images/e633b82e-634b-4612-bf0e-0c74c09a4c9c/128.png",
       "chainId": 10,
       "decimals": 8
-    },
-    {
-      "address": "0x6fd9d7AD17242c41f7131d257212c54A0e816691",
-      "name": "Uniswap",
-      "symbol": "UNI",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x6fd9d7AD17242c41f7131d257212c54A0e816691/logo-128.png",
-      "chainId": 10,
-      "decimals": 18
     },
     {
       "address": "0x724dc807b04555b71ed48a6896b6F41593b8C637",
@@ -696,14 +680,6 @@
       "decimals": 18
     },
     {
-      "address": "0xBC7B1Ff1c6989f006a1185318eD4E7b5796e66E1",
-      "name": "Pendle",
-      "symbol": "PENDLE",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xBC7B1Ff1c6989f006a1185318eD4E7b5796e66E1/logo-128.png",
-      "chainId": 10,
-      "decimals": 18
-    },
-    {
       "address": "0xC03b43d492d904406db2d7D57e67C7e8234bA752",
       "name": "Wrapped USDR",
       "symbol": "wUSDR",
@@ -795,7 +771,7 @@
       "address": "0xFE8B128bA8C78aabC59d4c64cEE7fF28e9379921",
       "name": "Balancer",
       "symbol": "BAL",
-      "logoURI": "ipfs://QmeVnk6jkW8J9ZHFxsLVamMNHpz9bigp7tsY2CJuxas297",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xba100000625a3754423978a60c9317c58a424e3D/logo.png",
       "chainId": 10,
       "decimals": 18
     },

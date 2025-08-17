@@ -1,15 +1,23 @@
 {
   "name": "Tokenlistooor Token List",
   "description": "A curated list of tokens from all the token lists on tokenlistooor.",
-  "timestamp": "2025-08-10T03:00:55Z",
+  "timestamp": "2025-08-17T03:14:12Z",
   "version": {
-    "major": 344,
+    "major": 345,
     "minor": 0,
     "patch": 0
   },
   "logoURI": "https://raw.githubusercontent.com/smoldapp/tokenLists/main/.github/tokenlistooor.svg",
   "keywords": [],
   "tokens": [
+    {
+      "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+      "name": "PancakeSwap Token",
+      "symbol": "Cake",
+      "logoURI": "https://tokens.1inch.io/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82.png",
+      "chainId": 56,
+      "decimals": 18
+    },
     {
       "address": "0x111111111117dC0aa78b770fA6A738034120C302",
       "name": "1INCH Token",

@@ -1,9 +1,9 @@
 {
   "name": "DefiLlama",
   "description": "",
-  "timestamp": "2025-08-17T03:04:23Z",
+  "timestamp": "2025-08-24T03:11:05Z",
   "version": {
-    "major": 134,
+    "major": 135,
     "minor": 0,
     "patch": 0
   },
@@ -988,6 +988,14 @@
       "decimals": 18
     },
     {
+      "address": "0x7D3Ce1265d5eA5848Dc1C96AADbf754E2baD33b1",
+      "name": "BNV",
+      "symbol": "FASH",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/39399/thumb/Fa_h_Logo_200x200.png?1721980152",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
       "address": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
       "name": "USD Coin",
       "symbol": "USDC",
@@ -1591,7 +1599,7 @@
       "address": "0xFE8B128bA8C78aabC59d4c64cEE7fF28e9379921",
       "name": "Balancer",
       "symbol": "BAL",
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xba100000625a3754423978a60c9317c58a424e3D/logo.png",
+      "logoURI": "ipfs://QmeVnk6jkW8J9ZHFxsLVamMNHpz9bigp7tsY2CJuxas297",
       "chainId": 10,
       "decimals": 18
     },

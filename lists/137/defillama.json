@@ -1,9 +1,9 @@
 {
   "name": "DefiLlama",
   "description": "",
-  "timestamp": "2025-08-17T03:04:23Z",
+  "timestamp": "2025-08-24T03:11:05Z",
   "version": {
-    "major": 134,
+    "major": 135,
     "minor": 0,
     "patch": 0
   },
@@ -2064,14 +2064,6 @@
       "name": "Deri (PoS)",
       "symbol": "DERI",
       "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x3D1D2aFd191b165D140e3E8329E634665fFB0E5e/logo.png",
-      "chainId": 137,
-      "decimals": 18
-    },
-    {
-      "address": "0x3D5EfbCf89bA18aC4cf7F7E5Db838e554D15feaD",
-      "name": "Drift Token",
-      "symbol": "DRIFT",
-      "logoURI": "https://asset-images.messari.io/images/6c20f8d0-ba96-4816-9f0d-1bfcdcbe101d/128.png",
       "chainId": 137,
       "decimals": 18
     },
@@ -7775,6 +7767,14 @@
       "decimals": 18
     },
     {
+      "address": "0xe9F1F4a18BBeff4F7726ADBA962bdC2ce3d193c1",
+      "name": "Auriax",
+      "symbol": "ARX",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/68364/thumb/logo_%282%29.png?1755510835",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
       "address": "0xe9bC9AD74CCa887Aff32ba09a121B1256fC9f052",
       "name": "Pigcoin",
       "symbol": "PIG",
@@ -8105,6 +8105,13 @@
       "name": "ZeroSwapToken",
       "symbol": "ZEE",
       "logoURI": "https://assets.coingecko.com/coins/images/12861/large/zeroswap.jpg?1603111827",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
+      "address": "0xfdcC3dd6671eaB0709A4C0f3F53De9a333d80798",
+      "name": "Stable Coin",
+      "symbol": "SBC",
       "chainId": 137,
       "decimals": 18
     },

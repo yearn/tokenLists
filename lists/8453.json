@@ -1,9 +1,9 @@
 {
   "name": "Base",
   "description": "A curated list of popular tokens from all the token lists on tokenlistooor.",
-  "timestamp": "2025-08-17T03:14:45Z",
+  "timestamp": "2025-08-24T03:21:45Z",
   "version": {
-    "major": 88,
+    "major": 89,
     "minor": 0,
     "patch": 0
   },
@@ -90,6 +90,14 @@
       "decimals": 6
     },
     {
+      "address": "0x0dE119f5790c4EcF6eEd80Aac7c25D2dCAD10f0f",
+      "name": "EURC Fluid Lender",
+      "symbol": "ysEURC",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0x0dE119f5790c4EcF6eEd80Aac7c25D2dCAD10f0f/logo-128.png",
+      "chainId": 8453,
+      "decimals": 6
+    },
+    {
       "address": "0x12e3187D6B7a0BA98A427ef9EF287Bd9960764D1",
       "name": "Aerodrome DEUS-WETH Factory yVault",
       "symbol": "yvAero-DEUS-WETH-f",
@@ -120,6 +128,14 @@
       "logoURI": "ipfs://QmUcybh2RkTK1DyhCGUigSBsiajr2GLoSuFMLcDjHSe2qr",
       "chainId": 8453,
       "decimals": 18
+    },
+    {
+      "address": "0x19f233B2953275196e6343F17b76dA098c478E21",
+      "name": "Teller USDC",
+      "symbol": "tUSDC",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0x19f233B2953275196e6343F17b76dA098c478E21/logo-128.png",
+      "chainId": 8453,
+      "decimals": 6
     },
     {
       "address": "0x1D7A8593c249ab84B2733d09A9E4a6B9E42140fe",
@@ -648,6 +664,14 @@
       "decimals": 18
     },
     {
+      "address": "0x70ffFbacB53EF74903ac074aAE769414a70970d1",
+      "name": "USDC Fluid Lender",
+      "symbol": "ysUSDC",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0x70ffFbacB53EF74903ac074aAE769414a70970d1/logo-128.png",
+      "chainId": 8453,
+      "decimals": 6
+    },
+    {
       "address": "0x723AEf6543aecE026a15662Be4D3fb3424D502A9",
       "name": "Volatile AMM - tBTC/USDbC",
       "symbol": "vAMM-tBTC/USDbC",
@@ -980,6 +1004,14 @@
       "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0xAC1Bd2486aAf3B5C0fc3Fd868558b082a531B2B4/logo-128.png",
       "chainId": 8453,
       "decimals": 18
+    },
+    {
+      "address": "0xB37e5B6E05e463c8a7dAF5969063D238c9dFb728",
+      "name": "TESTV3VAULT",
+      "symbol": "TV3V",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0xB37e5B6E05e463c8a7dAF5969063D238c9dFb728/logo-128.png",
+      "chainId": 8453,
+      "decimals": 6
     },
     {
       "address": "0xB4885Bc63399BF5518b994c1d0C153334Ee579D0",

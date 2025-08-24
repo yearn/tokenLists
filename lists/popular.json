@@ -1,9 +1,9 @@
 {
   "name": "Popular tokens",
   "description": "A curated list of popular tokens from all the token lists on tokenlistooor.",
-  "timestamp": "2025-08-17T03:14:45Z",
+  "timestamp": "2025-08-24T03:21:45Z",
   "version": {
-    "major": 88,
+    "major": 89,
     "minor": 0,
     "patch": 0
   },
@@ -9675,7 +9675,7 @@
       "address": "0xFE8B128bA8C78aabC59d4c64cEE7fF28e9379921",
       "name": "Balancer",
       "symbol": "BAL",
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xba100000625a3754423978a60c9317c58a424e3D/logo.png",
+      "logoURI": "ipfs://QmeVnk6jkW8J9ZHFxsLVamMNHpz9bigp7tsY2CJuxas297",
       "chainId": 10,
       "decimals": 18
     },
@@ -17501,6 +17501,14 @@
       "decimals": 6
     },
     {
+      "address": "0x0dE119f5790c4EcF6eEd80Aac7c25D2dCAD10f0f",
+      "name": "EURC Fluid Lender",
+      "symbol": "ysEURC",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0x0dE119f5790c4EcF6eEd80Aac7c25D2dCAD10f0f/logo-128.png",
+      "chainId": 8453,
+      "decimals": 6
+    },
+    {
       "address": "0x12e3187D6B7a0BA98A427ef9EF287Bd9960764D1",
       "name": "Aerodrome DEUS-WETH Factory yVault",
       "symbol": "yvAero-DEUS-WETH-f",
@@ -17531,6 +17539,14 @@
       "logoURI": "ipfs://QmUcybh2RkTK1DyhCGUigSBsiajr2GLoSuFMLcDjHSe2qr",
       "chainId": 8453,
       "decimals": 18
+    },
+    {
+      "address": "0x19f233B2953275196e6343F17b76dA098c478E21",
+      "name": "Teller USDC",
+      "symbol": "tUSDC",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0x19f233B2953275196e6343F17b76dA098c478E21/logo-128.png",
+      "chainId": 8453,
+      "decimals": 6
     },
     {
       "address": "0x1D7A8593c249ab84B2733d09A9E4a6B9E42140fe",
@@ -18059,6 +18075,14 @@
       "decimals": 18
     },
     {
+      "address": "0x70ffFbacB53EF74903ac074aAE769414a70970d1",
+      "name": "USDC Fluid Lender",
+      "symbol": "ysUSDC",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0x70ffFbacB53EF74903ac074aAE769414a70970d1/logo-128.png",
+      "chainId": 8453,
+      "decimals": 6
+    },
+    {
       "address": "0x723AEf6543aecE026a15662Be4D3fb3424D502A9",
       "name": "Volatile AMM - tBTC/USDbC",
       "symbol": "vAMM-tBTC/USDbC",
@@ -18391,6 +18415,14 @@
       "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0xAC1Bd2486aAf3B5C0fc3Fd868558b082a531B2B4/logo-128.png",
       "chainId": 8453,
       "decimals": 18
+    },
+    {
+      "address": "0xB37e5B6E05e463c8a7dAF5969063D238c9dFb728",
+      "name": "TESTV3VAULT",
+      "symbol": "TV3V",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0xB37e5B6E05e463c8a7dAF5969063D238c9dFb728/logo-128.png",
+      "chainId": 8453,
+      "decimals": 6
     },
     {
       "address": "0xB4885Bc63399BF5518b994c1d0C153334Ee579D0",
@@ -19719,14 +19751,6 @@
       "decimals": 18
     },
     {
-      "address": "0x6e4cc0Ab2B4d2eDAfa6723cFA1582229F1Dd1Be1",
-      "name": "Z.com USD",
-      "symbol": "ZUSD",
-      "logoURI": "https://assets.coingecko.com/coins/images/14192/large/icon_zusd_200_200.png?1614843297",
-      "chainId": 42161,
-      "decimals": 6
-    },
-    {
       "address": "0x6fD58f5a2F3468e35fEb098b5F59F04157002407",
       "name": "poor guy",
       "symbol": "pogai",
@@ -20618,14 +20642,6 @@
       "decimals": 6
     },
     {
-      "address": "0xb0eCc6ac0073c063DCFC026cCdC9039Cae2998E1",
-      "name": "Account Abstraction Incentive",
-      "symbol": "AA",
-      "logoURI": "https://assets.coingecko.com/coins/images/32133/large/A3S.jpg?1696588511",
-      "chainId": 42161,
-      "decimals": 18
-    },
-    {
       "address": "0xb1084db8D3C05CEbd5FA9335dF95EE4b8a0edc30",
       "name": "USDT+",
       "symbol": "USDT+",
@@ -20720,14 +20736,6 @@
       "decimals": 18
     },
     {
-      "address": "0xcBe94D75ec713B7ead84f55620dc3174beEb1CFe",
-      "name": "FORE Protocol",
-      "symbol": "FORE",
-      "logoURI": "https://arbiscan.io/token/images/foreprotocol_32.png",
-      "chainId": 42161,
-      "decimals": 18
-    },
-    {
       "address": "0xcF985abA4647a432E60efcEeB8054BBd64244305",
       "name": "EUROe Stablecoin",
       "symbol": "EUROe",
@@ -20740,14 +20748,6 @@
       "name": "DAO Maker",
       "symbol": "DAO",
       "logoURI": "https://assets.coingecko.com/coins/images/13915/large/4.png?1612838831",
-      "chainId": 42161,
-      "decimals": 18
-    },
-    {
-      "address": "0xd26B0c6Ef8581E921AE41C66e508C62a581B709D",
-      "name": "SEX",
-      "symbol": "SEX",
-      "logoURI": "https://assets.coingecko.com/coins/images/32135/large/IMG_20231004_163306_491.jpg?1696589011",
       "chainId": 42161,
       "decimals": 18
     },
@@ -21551,6 +21551,14 @@
       "decimals": 18
     },
     {
+      "address": "0x50b7545627a5162F82A992c33b87aDc75187B218",
+      "name": "Wrapped BTC",
+      "symbol": "WBTC.e",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/39529/thumb/wbtc.png?1722809081",
+      "chainId": 43114,
+      "decimals": 8
+    },
+    {
       "address": "0x511D35c52a3C244E7b8bd92c0C297755FbD89212",
       "name": "Beta Token",
       "symbol": "BETA",
@@ -21587,6 +21595,14 @@
       "name": "MAG Token",
       "symbol": "MAG",
       "logoURI": "https://assets.coingecko.com/coins/images/27152/large/MAG.png?1662203851",
+      "chainId": 43114,
+      "decimals": 18
+    },
+    {
+      "address": "0x53f7c5869a859F0AeC3D334ee8B4Cf01E3492f21",
+      "name": "Aave Avalanche Market WETH",
+      "symbol": "avWETH",
+      "logoURI": "https://tokens.1inch.io/0x030ba81f1c18d280636f32af80b9aad02cf0854e.png",
       "chainId": 43114,
       "decimals": 18
     },
@@ -23031,6 +23047,14 @@
       "decimals": 18
     },
     {
+      "address": "0x38cB679C82A79e57Fb5576696ed2b36696001635",
+      "name": "KRAKX",
+      "symbol": "KRAKX",
+      "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/2c0313d9434564db11ee02e655b4d7847f9b55682b99a65915933621c06dbabd.jpg",
+      "chainId": 57073,
+      "decimals": 18
+    },
+    {
       "address": "0x44c497597aa32f5F2B7eDB91522f321F04f03cD7",
       "name": "GMINKY",
       "symbol": "GMINKY",
@@ -23111,6 +23135,14 @@
       "decimals": 18
     },
     {
+      "address": "0x728592046aF99b86D70D133A890804Bf150F2CBf",
+      "name": "Jese Power",
+      "symbol": "POWER",
+      "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/a5851dc46d01fca140625f38cbb19cb530d24b9b27033faea1f868471d829401.png",
+      "chainId": 57073,
+      "decimals": 18
+    },
+    {
       "address": "0x739ec5aF87446fA8F7540CB028421139495B4E2d",
       "name": "Pepe Ink",
       "symbol": "PENK",
@@ -23155,6 +23187,14 @@
       "name": "notsofast_iota",
       "symbol": "nsfi",
       "logoURI": "https://luauiyxrqsrcixgjxhja.supabase.co/storage/v1/object/public/images/c0520e49a5827fdf7a5dee111529d6491a0447f701f72a79fac6541f0c933cc9.jpg",
+      "chainId": 57073,
+      "decimals": 18
+    },
+    {
+      "address": "0xB865C9bcB45D74bbA51DB23A69ef33D42f822FB2",
+      "name": "POPINK",
+      "symbol": "POPINK",
+      "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/ed7ac51d4344cd109a026d45638d1c08292d35b8cb84417a78e0f33eedbde4db.png",
       "chainId": 57073,
       "decimals": 18
     },
@@ -23259,14 +23299,6 @@
       "name": "LIT",
       "symbol": "LIT",
       "logoURI": "https://luauiyxrqsrcixgjxhja.supabase.co/storage/v1/object/public/images/ab732d3c63b01068dde260392d8c89683cfce440e55b9655b898a9cdde8ac524.jpeg",
-      "chainId": 57073,
-      "decimals": 18
-    },
-    {
-      "address": "0xf1B0a4DE6FFB4519a751d8B94e079F1A7C6d192A",
-      "name": "QUEEN",
-      "symbol": "QUEEN",
-      "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/96ff064a044123307818b15aa19fd7965914c5d0c349e96a8f4e23f59ab4102d.jpg",
       "chainId": 57073,
       "decimals": 18
     },
@@ -23560,6 +23592,14 @@
       "address": "0x81BE2aCB2e9291dB6400f9f6a4D0f35f24de2E77",
       "name": "Linpuss",
       "symbol": "LPUSS",
+      "chainId": 59144,
+      "decimals": 18
+    },
+    {
+      "address": "0x880A3Ae90f989030708A529ABd841589053c1dC2",
+      "name": "Beaver Coin",
+      "symbol": "BEAVER",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/59144/0x880A3Ae90f989030708A529ABd841589053c1dC2/logo-128.png",
       "chainId": 59144,
       "decimals": 18
     },
@@ -23904,6 +23944,14 @@
       "decimals": 6
     },
     {
+      "address": "0x1769111aA8EA46fee3BA23EF9B57F3CBe1873408",
+      "name": "wstETH yVault",
+      "symbol": "yvwstETH",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/747474/0x1769111aA8EA46fee3BA23EF9B57F3CBe1873408/logo-128.png",
+      "chainId": 747474,
+      "decimals": 18
+    },
+    {
       "address": "0x203A662b0BD271A6ed5a60EdFbd04bFce608FD36",
       "name": "Vault Bridge USDC",
       "symbol": "vbUSDC",
@@ -23924,6 +23972,14 @@
       "logoURI": "https://assets.smold.app/api/token/747474/0x37a79Bfb9F645F8Ed0a9ead9c722710D8f47C431/logo-128.png",
       "chainId": 747474,
       "decimals": 18
+    },
+    {
+      "address": "0x3AEee469B09Fff37aB041A34cfAAE971D84d44ef",
+      "name": "Teller vbUSDC",
+      "symbol": "tvbUSDC",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/747474/0x3AEee469B09Fff37aB041A34cfAAE971D84d44ef/logo-128.png",
+      "chainId": 747474,
+      "decimals": 6
     },
     {
       "address": "0x543CC24962b540430DD1121E83E8564770Da6810",
@@ -23963,6 +24019,13 @@
       "logoURI": "https://assets.smold.app/api/token/747474/0x78EC25FBa1bAf6b7dc097Ebb8115A390A2a4Ee12/logo-128.png",
       "chainId": 747474,
       "decimals": 6
+    },
+    {
+      "address": "0x7Fb4D0f51544F24F385a421Db6e7D4fC71Ad8e5C",
+      "name": "Wrapped liquid staked Ether 2.0",
+      "symbol": "wstETH",
+      "chainId": 747474,
+      "decimals": 18
     },
     {
       "address": "0x80c34BD3A3569E126e7055831036aa7b212cB159",

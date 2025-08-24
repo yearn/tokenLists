@@ -1,10 +1,10 @@
 {
   "name": "Yearn Minimal Token List",
   "description": "",
-  "timestamp": "2025-08-17T03:04:24Z",
+  "timestamp": "2025-08-24T01:52:10Z",
   "version": {
     "major": 10,
-    "minor": 5,
+    "minor": 6,
     "patch": 0
   },
   "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e/logo.svg",
@@ -83,6 +83,14 @@
       "decimals": 18
     },
     {
+      "address": "0x0A1a1A107E45b7Ced86833863f482BC5f4ed82EF",
+      "name": "USDai",
+      "symbol": "USDai",
+      "logoURI": "https://asset-images.messari.io/images/de722388-b7b4-4ad4-9c90-9fff9afd281d/128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
       "address": "0x0A21291A184cf36aD3B0a0def4A17C12Cbd66A14",
       "name": "Pendle Market",
       "symbol": "PENDLE-LPT",
@@ -95,6 +103,14 @@
       "name": "GLP LP (26 SEP 2024)",
       "symbol": "ysPENDLE-LPT",
       "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x0A5e1394Ba0c23D71167233A3b4b55cb8d214279/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0x0B2b2B2076d95dda7817e785989fE353fe955ef9",
+      "name": "Staked USDai",
+      "symbol": "sUSDai",
+      "logoURI": "https://asset-images.messari.io/images/aacd5b17-0463-4ff9-bcfa-6450a392ce93/128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -406,6 +422,14 @@
       "name": "Radiant",
       "symbol": "RDNT",
       "logoURI": "https://tokens.1inch.io/0x3082cc23568ea640225c2467653db90e9250aaa0.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0x30Ccf4Bbee313fCD19F3e295b3ba2920A24e2f62",
+      "name": "SY Staked USDai",
+      "symbol": "SY-sUSDai",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x30Ccf4Bbee313fCD19F3e295b3ba2920A24e2f62/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -1339,6 +1363,14 @@
       "name": "Silo Lender ARB/USDC.e",
       "symbol": "ysUSDC",
       "logoURI": "https://assets.smold.app/api/token/42161/0xb739AE19620f7ECB4fb84727f205453aa5bc1AD2/logo-128.png",
+      "chainId": 42161,
+      "decimals": 6
+    },
+    {
+      "address": "0xbE7d1b3cF19Eb05aC557bE14af24E093fadfD7c6",
+      "name": "Teller USDC",
+      "symbol": "tUSDC",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xbE7d1b3cF19Eb05aC557bE14af24E093fadfD7c6/logo-128.png",
       "chainId": 42161,
       "decimals": 6
     },

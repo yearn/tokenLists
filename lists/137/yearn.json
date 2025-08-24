@@ -1,10 +1,10 @@
 {
   "name": "Yearn Token List",
   "description": "",
-  "timestamp": "2025-08-17T03:03:28Z",
+  "timestamp": "2025-08-24T03:21:02Z",
   "version": {
     "major": 45,
-    "minor": 21,
+    "minor": 22,
     "patch": 0
   },
   "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e/logo.svg",
@@ -1611,6 +1611,14 @@
       "decimals": 6
     },
     {
+      "address": "0xD811a47cfD17355F47ac49Be02c4744A926dd16B",
+      "name": "USDC Fluid Lender",
+      "symbol": "ysUSDC",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/137/0xD811a47cfD17355F47ac49Be02c4744A926dd16B/logo-128.png",
+      "chainId": 137,
+      "decimals": 6
+    },
+    {
       "address": "0xD92A3A0aD7FbE4b8f6382e0caDa87471ef800515",
       "name": "USDC-3 RancheroDAO",
       "symbol": "rdUSDC-3",
@@ -1657,6 +1665,14 @@
       "logoURI": "missing_thumb.png",
       "chainId": 137,
       "decimals": 18
+    },
+    {
+      "address": "0xE30461F1270BA52d45DF1e773AEfE594C7E430DC",
+      "name": "USDT Fluid Lender",
+      "symbol": "ysUSDT",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/137/0xE30461F1270BA52d45DF1e773AEfE594C7E430DC/logo-128.png",
+      "chainId": 137,
+      "decimals": 6
     },
     {
       "address": "0xE389d95e2E8C799FDe5d37F245BDd7160bF50864",
@@ -1913,6 +1929,14 @@
       "logoURI": "https://token-assets-one.vercel.app/api/token/137/0xd2d0C98684050222Ec9418B21E97e3f9a70D9FB0/logo-128.png",
       "chainId": 137,
       "decimals": 18
+    },
+    {
+      "address": "0xd9b961ddf601498251AbB1ab9b926f7d7B8DAA09",
+      "name": "Teller USDC",
+      "symbol": "tUSDC",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/137/0xd9b961ddf601498251AbB1ab9b926f7d7B8DAA09/logo-128.png",
+      "chainId": 137,
+      "decimals": 6
     },
     {
       "address": "0xdB92B89Ca415c0dab40Dc96E99Fc411C08F20780",

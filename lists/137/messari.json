@@ -1,9 +1,9 @@
 {
   "name": "Messari Token List",
   "description": "",
-  "timestamp": "2025-08-17T03:13:54Z",
+  "timestamp": "2025-08-24T03:19:59Z",
   "version": {
-    "major": 112,
+    "major": 113,
     "minor": 0,
     "patch": 0
   },
@@ -5264,7 +5264,7 @@
       "address": "0x5E817F2AbCCB9095585D26c2a3ce234a440574Fc",
       "name": "Frontier Stable Token",
       "symbol": "FRNT",
-      "logoURI": "https://asset-images.messari.io/images/afc8948a-ce3f-4d69-a054-1ebd5b8a09f5/128.png",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/68284/thumb/FRNT_200.png?1755242496",
       "chainId": 137,
       "decimals": 6
     },
@@ -13511,7 +13511,7 @@
       "address": "0xe75220cB014Dfb2D354bb59be26d7458bB8d0706",
       "name": "PHT Stablecoin",
       "symbol": "PHT",
-      "logoURI": "https://asset-images.messari.io/images/b78bd977-834c-4c65-a36d-105e333c7a28/128.png",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/68174/thumb/PHT_200_x_200_logo.png?1754996743",
       "chainId": 137,
       "decimals": 18
     },
@@ -13592,6 +13592,14 @@
       "name": "A51 Finance",
       "symbol": "A51",
       "logoURI": "https://asset-images.messari.io/images/7acd51d8-5fbe-41ec-a983-431921d35217/128.png",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
+      "address": "0xe9F1F4a18BBeff4F7726ADBA962bdC2ce3d193c1",
+      "name": "Auriax",
+      "symbol": "ARX",
+      "logoURI": "https://asset-images.messari.io/images/f82bcc15-bf8a-4be1-beaf-2cc0e8ebff47/128.png",
       "chainId": 137,
       "decimals": 18
     },
@@ -14157,6 +14165,13 @@
       "name": "ZeroSwapToken",
       "symbol": "ZEE",
       "logoURI": "https://assets.coingecko.com/coins/images/12861/large/zeroswap.jpg?1603111827",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
+      "address": "0xfdcC3dd6671eaB0709A4C0f3F53De9a333d80798",
+      "name": "Stable Coin",
+      "symbol": "SBC",
       "chainId": 137,
       "decimals": 18
     },

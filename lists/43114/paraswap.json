@@ -1,10 +1,10 @@
 {
   "name": "Paraswap Token List",
   "description": "",
-  "timestamp": "2025-08-17T03:06:00Z",
+  "timestamp": "2025-08-24T01:54:45Z",
   "version": {
     "major": 42,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   },
   "logoURI": "https://app.paraswap.io/psp_logo.svg",
@@ -75,6 +75,22 @@
       "decimals": 8
     },
     {
+      "address": "0x46A51127C3ce23fb7AB1DE06226147F446e4a857",
+      "name": "Aave Avalanche Market USDC",
+      "symbol": "avUSDC",
+      "logoURI": "https://tokens.1inch.io/0xbcca60bb61934080951369a648fb03df4f96263c.png",
+      "chainId": 43114,
+      "decimals": 6
+    },
+    {
+      "address": "0x47AFa96Cdc9fAb46904A55a6ad4bf6660B53c38a",
+      "name": "Aave Avalanche Market DAI",
+      "symbol": "avDAI",
+      "logoURI": "https://tokens.1inch.io/0x028171bca77440897b824ca71d1c56cac55b68a3.png",
+      "chainId": 43114,
+      "decimals": 18
+    },
+    {
       "address": "0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB",
       "name": "Wrapped Ether",
       "symbol": "WETH.e",
@@ -103,6 +119,22 @@
       "name": "Aave Avalanche SAVAX",
       "symbol": "aAvaSAVAX",
       "logoURI": "https://assets.coingecko.com/coins/images/12645/large/AAVE.png",
+      "chainId": 43114,
+      "decimals": 18
+    },
+    {
+      "address": "0x532E6537FEA298397212F09A61e03311686f548e",
+      "name": "Aave Avalanche Market USDT",
+      "symbol": "avUSDT",
+      "logoURI": "https://cdn.paraswap.io/token/USDT.png",
+      "chainId": 43114,
+      "decimals": 6
+    },
+    {
+      "address": "0x53f7c5869a859F0AeC3D334ee8B4Cf01E3492f21",
+      "name": "Aave Avalanche Market WETH",
+      "symbol": "avWETH",
+      "logoURI": "https://tokens.1inch.io/0x030ba81f1c18d280636f32af80b9aad02cf0854e.png",
       "chainId": 43114,
       "decimals": 18
     },
@@ -153,6 +185,14 @@
       "logoURI": "https://assets.coingecko.com/coins/images/12645/large/AAVE.png?1601374110",
       "chainId": 43114,
       "decimals": 18
+    },
+    {
+      "address": "0x686bEF2417b6Dc32C50a3cBfbCC3bb60E1e9a15D",
+      "name": "Aave Avalanche Market WBTC",
+      "symbol": "avWBTC",
+      "logoURI": "https://cdn.paraswap.io/token/WBTC.png",
+      "chainId": 43114,
+      "decimals": 8
     },
     {
       "address": "0x6A02C7a974F1F13A67980C80F774eC1d2eD8f98d",

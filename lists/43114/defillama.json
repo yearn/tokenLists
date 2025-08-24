@@ -1,9 +1,9 @@
 {
   "name": "DefiLlama",
   "description": "",
-  "timestamp": "2025-08-17T03:04:23Z",
+  "timestamp": "2025-08-24T03:11:05Z",
   "version": {
-    "major": 134,
+    "major": 135,
     "minor": 0,
     "patch": 0
   },
@@ -727,14 +727,6 @@
       "address": "0x2dA8312e2C08B79104c6B18bA26Bc7065ABEC704",
       "name": "Bawls Onu",
       "symbol": "BAWLS",
-      "chainId": 43114,
-      "decimals": 18
-    },
-    {
-      "address": "0x2dC45B5377739aa47E1162F42ca591c1688BC647",
-      "name": "Yeet the Yeti",
-      "symbol": "YEET",
-      "logoURI": "https://coin-images.coingecko.com/coins/images/52519/thumb/LOGO_%281%29.png?1733501730",
       "chainId": 43114,
       "decimals": 18
     },
@@ -1500,7 +1492,7 @@
       "address": "0x5c49b268c9841AFF1Cc3B0a418ff5c3442eE3F3b",
       "name": "Mai Stablecoin",
       "symbol": "MAI",
-      "logoURI": "https://assets.coingecko.com/coins/images/35541/large/mimatic-red.png?1709092837",
+      "logoURI": "ipfs://QmaJ1parKZi5JhUHFjKxvmkxC8ArTFT5PtSXN5kW58969m",
       "chainId": 43114,
       "decimals": 18
     },
@@ -2221,6 +2213,14 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2/logo.png",
       "chainId": 43114,
       "decimals": 18
+    },
+    {
+      "address": "0x8835A2F66A7AaCCB297Cb985831A616B75e2E16c",
+      "name": "EURØP",
+      "symbol": "EUROP",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/52132/thumb/europ-symbol-rgb.jpg?1732634862",
+      "chainId": 43114,
+      "decimals": 6
     },
     {
       "address": "0x885c3a3A4998f0b5ac367A46217E68A200737A32",
@@ -3285,6 +3285,14 @@
       "decimals": 18
     },
     {
+      "address": "0xEeC951BFDEB358371a19512C6c33CdD840d47DB0",
+      "name": "MOANI",
+      "symbol": "MOANI",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/39979/thumb/MOANI_200x200.png?1724994764",
+      "chainId": 43114,
+      "decimals": 18
+    },
+    {
       "address": "0xF0FF231e3F1A50F83136717f287ADAB862f89431",
       "name": "USDT",
       "symbol": "USDT",
@@ -4037,6 +4045,14 @@
       "name": "AgentXYZ",
       "symbol": "TRADER",
       "logoURI": "https://asset-images.messari.io/images/b0a3ccd3-36eb-462a-8f88-65d14453bc96/128.png",
+      "chainId": 43114,
+      "decimals": 18
+    },
+    {
+      "address": "0xf9FB20B8E097904f0aB7d12e9DbeE88f2dcd0F16",
+      "name": "Stable Coin",
+      "symbol": "SBC",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/68416/thumb/sbc-mark.png?1755691990",
       "chainId": 43114,
       "decimals": 18
     },

@@ -1,10 +1,10 @@
 {
   "name": "Lifi Token List",
   "description": "",
-  "timestamp": "2025-08-17T03:01:55Z",
+  "timestamp": "2025-08-24T03:11:35Z",
   "version": {
     "major": 11,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   },
   "logoURI": "https://avatars.githubusercontent.com/u/85288935?s=200\u0026v=4",
@@ -86,7 +86,7 @@
       "address": "0x14cF922aa1512Adfc34409b63e18D391e4a86A2f",
       "name": "ETH Strategy",
       "symbol": "STRAT",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x14cF922aa1512Adfc34409b63e18D391e4a86A2f/logo-128.png",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/68171/thumb/logo-color.png?1754994589",
       "chainId": 1,
       "decimals": 18
     },
@@ -3134,6 +3134,14 @@
       "name": "StargateToken",
       "symbol": "STG",
       "logoURI": "https://token-assets-one.vercel.app/api/token/59144/0x808d7c71ad2ba3FA531b068a2417C63106BC0949/logo-128.png",
+      "chainId": 59144,
+      "decimals": 18
+    },
+    {
+      "address": "0x880A3Ae90f989030708A529ABd841589053c1dC2",
+      "name": "Beaver Coin",
+      "symbol": "BEAVER",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/59144/0x880A3Ae90f989030708A529ABd841589053c1dC2/logo-128.png",
       "chainId": 59144,
       "decimals": 18
     },

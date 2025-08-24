@@ -1,10 +1,10 @@
 {
   "name": "Bebop",
   "description": "",
-  "timestamp": "2025-08-17T03:04:09Z",
+  "timestamp": "2025-08-24T01:49:16Z",
   "version": {
     "major": 20,
-    "minor": 32,
+    "minor": 33,
     "patch": 0
   },
   "logoURI": "https://bebop-public-images.s3.eu-west-2.amazonaws.com/bebop-logo.png",
@@ -39,6 +39,14 @@
       "name": "Ethereum Token",
       "symbol": "ETH",
       "logoURI": "https://tokens.1inch.io/0x2170ed0880ac9a755fd29b2688956bd959f933f8.png",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "address": "0x364f210f430eC2448Fc68A49203040F6124096F0",
+      "name": "Coinbase xStock",
+      "symbol": "COINx",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/55602/thumb/Ticker_COIN__Company_Name_Coinbase__size_200x200_2x.png?1746858187",
       "chainId": 56,
       "decimals": 18
     },
@@ -127,6 +135,14 @@
       "name": "Wrapped BNB",
       "symbol": "WBNB",
       "logoURI": "https://tokens.1inch.io/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "address": "0xfEbDEd1B0986a8ee107f5AB1a1c5a813491DeCEB",
+      "name": "Circle xStock",
+      "symbol": "CRCLx",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/66918/thumb/CRCLx.png?1751052233",
       "chainId": 56,
       "decimals": 18
     }

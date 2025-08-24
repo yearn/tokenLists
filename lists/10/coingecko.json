@@ -1,9 +1,9 @@
 {
   "name": "CoinGecko",
   "description": "",
-  "timestamp": "2025-08-17T02:59:25Z",
+  "timestamp": "2025-08-24T01:48:40Z",
   "version": {
-    "major": 137,
+    "major": 138,
     "minor": 0,
     "patch": 0
   },
@@ -580,6 +580,7 @@
       "address": "0x464b808c2C7E04b07e860fDF7a91870620246148",
       "name": "Wrapped Aave Optimism WETH",
       "symbol": "waOptWETH",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/68212/thumb/eth.jpg?1755084184",
       "chainId": 10,
       "decimals": 18
     },
@@ -761,6 +762,7 @@
       "address": "0x5E817F2AbCCB9095585D26c2a3ce234a440574Fc",
       "name": "Frontier Stable Token",
       "symbol": "FRNT",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/68284/thumb/FRNT_200.png?1755242496",
       "chainId": 10,
       "decimals": 6
     },
@@ -912,6 +914,7 @@
       "address": "0x720f86f4B5b5d5d0ea3E5718EC43071d4d05134b",
       "name": "Hamilton Lane SCOPE Securitize Tokenized Feeder Fund LP",
       "symbol": "HLSCOPE",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/54810/thumb/Scope.png?1741801488",
       "chainId": 10,
       "decimals": 6
     },
@@ -984,6 +987,13 @@
       "name": "FOAM Token",
       "symbol": "FOAM",
       "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x79E6c6b6aABA4432FAbacB30cC0C879D8f3E598e/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x7D3Ce1265d5eA5848Dc1C96AADbf754E2baD33b1",
+      "name": "BNV",
+      "symbol": "FASH",
       "chainId": 10,
       "decimals": 18
     },
@@ -1559,6 +1569,7 @@
       "address": "0xF4F447E6AFa04c9D11Ef0e2fC0d7f19C24Ee55de",
       "name": "YieldFi vyUSD",
       "symbol": "vyUSD",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/68253/thumb/vyUSD_image.png?1755201198",
       "chainId": 10,
       "decimals": 18
     },
@@ -1590,7 +1601,7 @@
       "address": "0xFE8B128bA8C78aabC59d4c64cEE7fF28e9379921",
       "name": "Balancer",
       "symbol": "BAL",
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xba100000625a3754423978a60c9317c58a424e3D/logo.png",
+      "logoURI": "ipfs://QmeVnk6jkW8J9ZHFxsLVamMNHpz9bigp7tsY2CJuxas297",
       "chainId": 10,
       "decimals": 18
     },

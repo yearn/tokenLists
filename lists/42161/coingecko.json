@@ -1,9 +1,9 @@
 {
   "name": "CoinGecko",
   "description": "",
-  "timestamp": "2025-08-17T02:59:25Z",
+  "timestamp": "2025-08-24T01:48:40Z",
   "version": {
-    "major": 137,
+    "major": 138,
     "minor": 0,
     "patch": 0
   },
@@ -257,14 +257,6 @@
       "name": "Ero Copper Corp. - Dinari",
       "symbol": "ERO.d",
       "logoURI": "https://asset-images.messari.io/images/6ce42367-eb47-42f4-bb46-4784ddd849f6/128.png",
-      "chainId": 42161,
-      "decimals": 18
-    },
-    {
-      "address": "0x0721b3C9f19cfeF1d622C918DcD431960f35E060",
-      "name": "SYNTHR",
-      "symbol": "SYNTH",
-      "logoURI": "https://asset-images.messari.io/images/57f3dfda-3986-4338-9335-51d1b317993d/128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2618,6 +2610,7 @@
       "address": "0x4cE13a79f45C1Be00BdABD38B764aC28C082704E",
       "name": "Wrapped Aave Arbitrum WETH",
       "symbol": "waArbWETH",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/68175/thumb/waArbweth_64.png?1754999736",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2649,6 +2642,7 @@
       "address": "0x4ff50C17df0D1b788d021ACd85039810a1aA68A1",
       "name": "Wrapped Aave Arbitrum ezETH",
       "symbol": "waArbezETH",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/68160/thumb/waArbezeth_64.png?1754971747",
       "chainId": 42161,
       "decimals": 18
     },
@@ -3070,6 +3064,7 @@
       "address": "0x5E817F2AbCCB9095585D26c2a3ce234a440574Fc",
       "name": "Frontier Stable Token",
       "symbol": "FRNT",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/68284/thumb/FRNT_200.png?1755242496",
       "chainId": 42161,
       "decimals": 6
     },
@@ -3608,14 +3603,6 @@
       "decimals": 18
     },
     {
-      "address": "0x6e4cc0Ab2B4d2eDAfa6723cFA1582229F1Dd1Be1",
-      "name": "Z.com USD",
-      "symbol": "ZUSD",
-      "logoURI": "https://assets.coingecko.com/coins/images/14192/large/icon_zusd_200_200.png?1614843297",
-      "chainId": 42161,
-      "decimals": 6
-    },
-    {
       "address": "0x6eEd78e2780d82BE4E37d9937C27Bcf32C8DA072",
       "name": "Wrapped Goldman Sachs xStock",
       "symbol": "wGSx",
@@ -3922,6 +3909,7 @@
       "address": "0x7F6501d3B98eE91f9b9535E4b0ac710Fb0f9e0bc",
       "name": "Wrapped Aave Arbitrum USDCn",
       "symbol": "waArbUSDCn",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/68157/thumb/waArbusdcn_64.jpg?1754971358",
       "chainId": 42161,
       "decimals": 6
     },
@@ -4208,6 +4196,7 @@
       "address": "0x86856814e74456893Cfc8946BedcBb472b5fA856",
       "name": "GLDT",
       "symbol": "GLDT",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/53968/thumb/gldt_200x200.png?1737793227",
       "chainId": 42161,
       "decimals": 8
     },
@@ -4724,6 +4713,7 @@
       "address": "0x99110990B602DEF65dEB578A55f43793B4894A0a",
       "name": "IXORAPAD",
       "symbol": "IXORA",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/68243/thumb/ixora-logo.jpg?1755157880",
       "chainId": 42161,
       "decimals": 18
     },
@@ -5535,6 +5525,7 @@
       "address": "0xD089B4cb88Dacf4e27be869A00e9f7e2E3C18193",
       "name": "Wrapped Aave Arbitrum GHO",
       "symbol": "waArbGHO",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/68159/thumb/waarbgho.png?1754971526",
       "chainId": 42161,
       "decimals": 18
     },
@@ -5680,14 +5671,6 @@
       "logoURI": "https://arbiscan.io/token/images/wrappedacme_32.png",
       "chainId": 42161,
       "decimals": 8
-    },
-    {
-      "address": "0xDF7A6ce3B9087251F5859f42Ca79Ce34F4A88460",
-      "name": "MicroStrategy Inc - Dinari",
-      "symbol": "MSTR.d",
-      "logoURI": "https://asset-images.messari.io/images/08444b20-bc01-4b96-8f18-d047d72d2a0c/128.png",
-      "chainId": 42161,
-      "decimals": 18
     },
     {
       "address": "0xDFB8BE6F8c87f74295A87de951974362CedCFA30",
@@ -6036,6 +6019,7 @@
       "address": "0xF4F447E6AFa04c9D11Ef0e2fC0d7f19C24Ee55de",
       "name": "YieldFi vyUSD",
       "symbol": "vyUSD",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/68253/thumb/vyUSD_image.png?1755201198",
       "chainId": 42161,
       "decimals": 18
     },
@@ -6267,6 +6251,7 @@
       "address": "0xa6D12574eFB239FC1D2099732bd8b5dC6306897F",
       "name": "Wrapped Aave Arbitrum USDT",
       "symbol": "waArbUSDT",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/68158/thumb/waArbusdt_64.png?1754971613",
       "chainId": 42161,
       "decimals": 6
     },
@@ -6467,14 +6452,6 @@
       "name": "GammaSwap",
       "symbol": "GS",
       "logoURI": "https://asset-images.messari.io/images/d2f1b629-9c2a-4045-9540-73e5065f041e/128.png",
-      "chainId": 42161,
-      "decimals": 18
-    },
-    {
-      "address": "0xb0eCc6ac0073c063DCFC026cCdC9039Cae2998E1",
-      "name": "Account Abstraction Incentive",
-      "symbol": "AA",
-      "logoURI": "https://assets.coingecko.com/coins/images/32133/large/A3S.jpg?1696588511",
       "chainId": 42161,
       "decimals": 18
     },
@@ -6804,14 +6781,6 @@
       "decimals": 18
     },
     {
-      "address": "0xcBe94D75ec713B7ead84f55620dc3174beEb1CFe",
-      "name": "FORE Protocol",
-      "symbol": "FORE",
-      "logoURI": "https://arbiscan.io/token/images/foreprotocol_32.png",
-      "chainId": 42161,
-      "decimals": 18
-    },
-    {
       "address": "0xcC603c6626408FBfE2c1FEa3565AcB5D10c85274",
       "name": "Delta Air Lines, Inc. - Dinari",
       "symbol": "DAL.d",
@@ -6944,14 +6913,6 @@
       "name": "Virtuswap Token",
       "symbol": "VRSW",
       "logoURI": "https://asset-images.messari.io/images/cabac88d-004b-4bb7-948e-c5e873631ddb/128.png",
-      "chainId": 42161,
-      "decimals": 18
-    },
-    {
-      "address": "0xd26B0c6Ef8581E921AE41C66e508C62a581B709D",
-      "name": "SEX",
-      "symbol": "SEX",
-      "logoURI": "https://assets.coingecko.com/coins/images/32135/large/IMG_20231004_163306_491.jpg?1696589011",
       "chainId": 42161,
       "decimals": 18
     },
@@ -7158,6 +7119,7 @@
       "address": "0xdd73EA766B80417C0607A3f08E34A0C415D89D56",
       "name": "PicWe_USDC",
       "symbol": "WEUSD",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/68196/thumb/WEUSD%28200X200%29.png?1755065644",
       "chainId": 42161,
       "decimals": 6
     },
@@ -7325,6 +7287,7 @@
       "address": "0xe98fc055c99DECD8Da0c111B090885d5d15C774E",
       "name": "Wrapped Aave Arbitrum wstETH",
       "symbol": "waArbwstETH",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/68161/thumb/waArbwsteth_64.png?1754971843",
       "chainId": 42161,
       "decimals": 18
     },
@@ -7556,6 +7519,7 @@
       "address": "0xf7d4e7273E5015C96728A6b02f31C505eE184603",
       "name": "Staked ETH",
       "symbol": "osETH",
+      "logoURI": "https://assets.coingecko.com/coins/images/33117/large/Frame_27513839.png?1700732599",
       "chainId": 42161,
       "decimals": 18
     },

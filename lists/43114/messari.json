@@ -1,9 +1,9 @@
 {
   "name": "Messari Token List",
   "description": "",
-  "timestamp": "2025-08-17T03:13:54Z",
+  "timestamp": "2025-08-24T03:19:59Z",
   "version": {
-    "major": 112,
+    "major": 113,
     "minor": 0,
     "patch": 0
   },
@@ -65,6 +65,22 @@
       "logoURI": "https://asset-images.messari.io/images/6f251979-ea2b-499a-8807-976357db69e7/128.png",
       "chainId": 43114,
       "decimals": 9
+    },
+    {
+      "address": "0x025AB35fF6AbccA56d57475249baaEae08419039",
+      "name": "Arable USD",
+      "symbol": "arUSD",
+      "logoURI": "https://asset-images.messari.io/images/0514d7d7-7a27-4395-9386-3704164c2fe1/128.png",
+      "chainId": 43114,
+      "decimals": 18
+    },
+    {
+      "address": "0x026187BdbC6b751003517bcb30Ac7817D5B766f8",
+      "name": "Defrost Finance H2O",
+      "symbol": "H2O",
+      "logoURI": "https://asset-images.messari.io/images/b24eaa7e-f80e-4eb6-9e9b-c7b5cec0dd0f/128.png",
+      "chainId": 43114,
+      "decimals": 18
     },
     {
       "address": "0x027dbcA046ca156De9622cD1e2D907d375e53aa7",
@@ -1264,7 +1280,7 @@
       "address": "0x2d324fD1Ca86D90f61B0965d2db2f86d22eA4B74",
       "name": "Wrapped Aave Avalanche BTC.b",
       "symbol": "waAvaBTC.b",
-      "logoURI": "https://asset-images.messari.io/images/6f95f42a-99f9-4182-aae9-8fa272b89894/128.png",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/68178/thumb/btc.png?1755003767",
       "chainId": 43114,
       "decimals": 8
     },
@@ -1288,6 +1304,14 @@
       "name": "Yeet the Yeti",
       "symbol": "YEET",
       "logoURI": "https://coin-images.coingecko.com/coins/images/52519/thumb/LOGO_%281%29.png?1733501730",
+      "chainId": 43114,
+      "decimals": 18
+    },
+    {
+      "address": "0x2dc3Bb328000553D1D64ec1BEF00572F62B5Ec7C",
+      "name": "xWalrus",
+      "symbol": "XWLRS",
+      "logoURI": "https://asset-images.messari.io/images/9e58b53a-02a9-4dd8-9afb-c339d2263e5f/128.png",
       "chainId": 43114,
       "decimals": 18
     },
@@ -1599,6 +1623,14 @@
       "name": "Creama",
       "symbol": "CREAMA",
       "logoURI": "https://asset-images.messari.io/images/78644ad7-74d1-46b0-a728-379bbadbeaf0/128.png",
+      "chainId": 43114,
+      "decimals": 18
+    },
+    {
+      "address": "0x395908aeb53d33A9B8ac35e148E9805D34A555D3",
+      "name": "frozenwalrus.finance",
+      "symbol": "WLRS",
+      "logoURI": "https://tokens.1inch.io/0x395908aeb53d33a9b8ac35e148e9805d34a555d3.png",
       "chainId": 43114,
       "decimals": 18
     },
@@ -1926,7 +1958,7 @@
       "address": "0x451532F1C9eb7E4Dc2d493dB52b682C0Acf6F5EF",
       "name": "Suzaku Token",
       "symbol": "SUZ",
-      "logoURI": "https://asset-images.messari.io/images/2c36d439-20b2-43c9-9177-086a6e8f876e/128.png",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/68103/thumb/suzaku-logo-black-200.png?1754802307",
       "chainId": 43114,
       "decimals": 18
     },
@@ -2337,6 +2369,14 @@
       "decimals": 6
     },
     {
+      "address": "0x53f7c5869a859F0AeC3D334ee8B4Cf01E3492f21",
+      "name": "Aave Avalanche Market WETH",
+      "symbol": "avWETH",
+      "logoURI": "https://tokens.1inch.io/0x030ba81f1c18d280636f32af80b9aad02cf0854e.png",
+      "chainId": 43114,
+      "decimals": 18
+    },
+    {
       "address": "0x542245f2B93B30994a4670121541B38226f1208c",
       "name": "Balanced Token",
       "symbol": "BALN",
@@ -2468,7 +2508,7 @@
       "address": "0x59933c571d200dc6A7Fd1CDa22495dB442082E34",
       "name": "Wrapped Aave Avalanche USDT",
       "symbol": "waAvaUSDT",
-      "logoURI": "https://asset-images.messari.io/images/81509413-b19f-4ee8-b6b4-e3c53cf83eca/128.png",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/68176/thumb/usdt.jpg?1755003359",
       "chainId": 43114,
       "decimals": 6
     },
@@ -2556,7 +2596,7 @@
       "address": "0x5E817F2AbCCB9095585D26c2a3ce234a440574Fc",
       "name": "Frontier Stable Token",
       "symbol": "FRNT",
-      "logoURI": "https://asset-images.messari.io/images/afc8948a-ce3f-4d69-a054-1ebd5b8a09f5/128.png",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/68284/thumb/FRNT_200.png?1755242496",
       "chainId": 43114,
       "decimals": 6
     },
@@ -2580,7 +2620,7 @@
       "address": "0x5c49b268c9841AFF1Cc3B0a418ff5c3442eE3F3b",
       "name": "Mai Stablecoin",
       "symbol": "MAI",
-      "logoURI": "https://asset-images.messari.io/images/3dc7a1e6-5026-4d01-ba1c-2874ecae2776/128.png",
+      "logoURI": "ipfs://QmaJ1parKZi5JhUHFjKxvmkxC8ArTFT5PtSXN5kW58969m",
       "chainId": 43114,
       "decimals": 18
     },
@@ -2791,6 +2831,14 @@
       "decimals": 18
     },
     {
+      "address": "0x65069e550C5526c029DC9135eDD02F6683859Ac1",
+      "name": "POLE",
+      "symbol": "POLE",
+      "logoURI": "https://asset-images.messari.io/images/c2472509-c8b3-4a5a-add9-73ef38d315a6/128.png",
+      "chainId": 43114,
+      "decimals": 18
+    },
+    {
       "address": "0x65378b697853568dA9ff8EaB60C13E1Ee9f4a654",
       "name": "Husky",
       "symbol": "HUSKY",
@@ -2869,6 +2917,14 @@
       "logoURI": "https://asset-images.messari.io/images/beedcb80-137d-427b-a666-54daedfdb406/128.png",
       "chainId": 43114,
       "decimals": 18
+    },
+    {
+      "address": "0x686bEF2417b6Dc32C50a3cBfbCC3bb60E1e9a15D",
+      "name": "Aave Avalanche Market WBTC",
+      "symbol": "avWBTC",
+      "logoURI": "https://cdn.paraswap.io/token/WBTC.png",
+      "chainId": 43114,
+      "decimals": 8
     },
     {
       "address": "0x68EE0D0aad9e1984aF85CA224117E4D20eaF68BE",
@@ -2971,6 +3027,14 @@
       "name": "OpulousToken",
       "symbol": "OPUL",
       "logoURI": "https://assets.coingecko.com/coins/images/16548/large/opulous.PNG?1624418744",
+      "chainId": 43114,
+      "decimals": 18
+    },
+    {
+      "address": "0x6C6f910A79639dcC94b4feEF59Ff507c2E843929",
+      "name": "Ankr Reward Earning AVAX",
+      "symbol": "aAVAXb",
+      "logoURI": "https://asset-images.messari.io/images/e3c69301-acd6-4e81-b342-9ebe560308ab/128.png",
       "chainId": 43114,
       "decimals": 18
     },
@@ -3457,7 +3521,7 @@
       "address": "0x7D0394F8898fBA73836Bf12bD606228887705895",
       "name": "Wrapped Aave Avalanche SAVAX",
       "symbol": "waAvaSAVAX",
-      "logoURI": "https://asset-images.messari.io/images/bb371251-4382-432d-9eda-6c3108635b6a/128.png",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/68197/thumb/savax.png?1755074990",
       "chainId": 43114,
       "decimals": 18
     },
@@ -3750,6 +3814,14 @@
       "decimals": 18
     },
     {
+      "address": "0x8835A2F66A7AaCCB297Cb985831A616B75e2E16c",
+      "name": "EURØP",
+      "symbol": "EUROP",
+      "logoURI": "https://asset-images.messari.io/images/0c911912-5794-4c5a-a7fc-45aca48d538f/128.png",
+      "chainId": 43114,
+      "decimals": 6
+    },
+    {
       "address": "0x885c3a3A4998f0b5ac367A46217E68A200737A32",
       "name": "ALBERT",
       "symbol": "ALBERT",
@@ -3945,7 +4017,7 @@
       "address": "0x8e48D9F6D73e9805Df87Dcf63f7B35AE04079713",
       "name": "KIGU",
       "symbol": "KIGU",
-      "logoURI": "https://asset-images.messari.io/images/d33dbd2d-8d9d-4744-b13f-6eb525347e66/128.png",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/68164/thumb/KIGU.png?1754990777",
       "chainId": 43114,
       "decimals": 18
     },
@@ -4589,7 +4661,7 @@
       "address": "0xA3D68b74bF0528fdD07263c60d6488749044914b",
       "name": "Wrapped eETH",
       "symbol": "weETH",
-      "logoURI": "https://asset-images.messari.io/images/be5b854b-433b-41b5-a136-d1e5e34f56bb/128.png",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/68268/thumb/weeth.png?1755229739",
       "chainId": 43114,
       "decimals": 18
     },
@@ -4598,6 +4670,14 @@
       "name": "BUSD Token",
       "symbol": "BUSD",
       "logoURI": "https://asset-images.messari.io/images/31a06fa3-ba84-4b11-af14-6412780feefa/128.png",
+      "chainId": 43114,
+      "decimals": 18
+    },
+    {
+      "address": "0xA56F9A54880afBc30CF29bB66d2D9ADCdcaEaDD6",
+      "name": "Qi Dao Protocol",
+      "symbol": "QI",
+      "logoURI": "https://asset-images.messari.io/images/30771a12-69f4-4d67-84f0-09ffb2658669/128.png",
       "chainId": 43114,
       "decimals": 18
     },
@@ -4710,6 +4790,14 @@
       "name": "Thorus",
       "symbol": "THO",
       "logoURI": "https://assets.coingecko.com/coins/images/22297/large/THO_200x200.png?1641425001",
+      "chainId": 43114,
+      "decimals": 18
+    },
+    {
+      "address": "0xAafd2577Fb67366d3C89DB0d627C49D769ee2e5D",
+      "name": "Stabilize USD",
+      "symbol": "SUSD",
+      "logoURI": "https://asset-images.messari.io/images/8ab2492d-85a0-4345-856c-bc643d6c0aa3/128.png",
       "chainId": 43114,
       "decimals": 18
     },
@@ -5292,7 +5380,7 @@
       "address": "0xD7da0De6Ef4f51d6206bF2A35fCd2030F54c3F7B",
       "name": "Wrapped Aave Avalanche WAVAX",
       "symbol": "waAvaWAVAX",
-      "logoURI": "https://asset-images.messari.io/images/04476e2a-cc90-41e8-bd7a-b4c35047ffe2/128.png",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/68179/thumb/avax.png?1755004315",
       "chainId": 43114,
       "decimals": 18
     },
@@ -5785,6 +5873,14 @@
       "decimals": 18
     },
     {
+      "address": "0xaB05b04743E0aeAF9D2cA81E5D3b8385e4BF961e",
+      "name": "Spice USD",
+      "symbol": "USDS",
+      "logoURI": "https://assets.coingecko.com/coins/images/25697/large/USDS.png?1653440948",
+      "chainId": 43114,
+      "decimals": 18
+    },
+    {
       "address": "0xaBC9547B534519fF73921b1FBA6E672b5f58D083",
       "name": "Wootrade Network",
       "symbol": "WOO.e",
@@ -5998,6 +6094,14 @@
       "logoURI": "https://asset-images.messari.io/images/3caa617f-bf00-4f8d-9756-25c0caf3b180/128.png",
       "chainId": 43114,
       "decimals": 18
+    },
+    {
+      "address": "0xb8EF3a190b68175000B74B4160d325FD5024760e",
+      "name": "R U Generous",
+      "symbol": "RUG",
+      "logoURI": "https://asset-images.messari.io/images/12216089-f451-44ac-a8b5-0a11e35ba114/128.png",
+      "chainId": 43114,
+      "decimals": 9
     },
     {
       "address": "0xb9A98894FfBfA98c73a818B5B044E5b1C8666f56",
@@ -6335,6 +6439,14 @@
       "decimals": 18
     },
     {
+      "address": "0xd39016475200ab8957e9C772C949Ef54bDA69111",
+      "name": "Curve.fi Factory USD Metapool: deBridge-USDC",
+      "symbol": "deUSDС-3CRV-f",
+      "logoURI": "https://asset-images.messari.io/images/185b9172-3183-41a1-b6ff-7573ef88b3e0/128.png",
+      "chainId": 43114,
+      "decimals": 18
+    },
+    {
       "address": "0xd3Ac016b1B8C80EeAdDe4D186A9138C9324e4189",
       "name": "Okcash",
       "symbol": "OK",
@@ -6529,7 +6641,7 @@
       "address": "0xe1bFC96d95BAdCB10Ff013Cb0C9C6c737ca07009",
       "name": "Wrapped Aave Avalanche USDC",
       "symbol": "waAvaUSDC",
-      "logoURI": "https://asset-images.messari.io/images/8295d76f-4138-4ff7-9d3c-0a6f1e0a923f/128.png",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/68177/thumb/usdc.jpg?1755003628",
       "chainId": 43114,
       "decimals": 6
     },
@@ -6945,6 +7057,14 @@
       "name": "Fantastic Protocol Peg-AVAX (FAVAX) Token",
       "symbol": "FAVAX",
       "logoURI": "https://asset-images.messari.io/images/3cc86942-e497-46ce-92e3-a687492fc32f/128.png",
+      "chainId": 43114,
+      "decimals": 18
+    },
+    {
+      "address": "0xf9FB20B8E097904f0aB7d12e9DbeE88f2dcd0F16",
+      "name": "Stable Coin",
+      "symbol": "SBC",
+      "logoURI": "https://asset-images.messari.io/images/0d6b78d8-1760-4963-8821-84b00e9a825f/128.png",
       "chainId": 43114,
       "decimals": 18
     },

@@ -1,9 +1,9 @@
 {
   "name": "Popular tokens",
   "description": "A curated list of popular tokens from all the token lists on tokenlistooor.",
-  "timestamp": "2025-08-24T03:21:45Z",
+  "timestamp": "2025-08-31T03:09:59Z",
   "version": {
-    "major": 89,
+    "major": 90,
     "minor": 0,
     "patch": 0
   },
@@ -8963,6 +8963,22 @@
       "decimals": 6
     },
     {
+      "address": "0x10010078a54396F62c96dF8532dc2B4847d47ED3",
+      "name": "Hundred Finance",
+      "symbol": "HND",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x10010078a54396F62c96dF8532dc2B4847d47ED3/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x10398AbC267496E49106B07dd6BE13364D10dC71",
+      "name": "HAI Index Token",
+      "symbol": "HAI",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x10398AbC267496E49106B07dd6BE13364D10dC71/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
       "address": "0x14778860E937f509e651192a90589dE711Fb88a9",
       "name": "CyberConnect",
       "symbol": "CYBER",
@@ -9017,6 +9033,14 @@
       "logoURI": "ipfs://QmYJRge59EKjEcCzs4X9j6c3dsAJBCzJRRgN5XZtg9treW",
       "chainId": 10,
       "decimals": 6
+    },
+    {
+      "address": "0x2513486f18eeE1498D7b6281f668B955181Dd0D9",
+      "name": "OpenXSwap Gov Token",
+      "symbol": "xOpenX",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x2513486f18eeE1498D7b6281f668B955181Dd0D9/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
     },
     {
       "address": "0x2598c30330D5771AE9F983979209486aE26dE875",
@@ -9152,6 +9176,14 @@
       "decimals": 18
     },
     {
+      "address": "0x3Ed9AcAac7Bd974eB83a8eA6432a239e3C829D5D",
+      "name": "LERNITAS",
+      "symbol": "2192",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x3Ed9AcAac7Bd974eB83a8eA6432a239e3C829D5D/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
       "address": "0x3e7eF8f50246f725885102E8238CBba33F276747",
       "name": "BarnBridge Governance Token (Optimism)",
       "symbol": "BOND",
@@ -9208,10 +9240,26 @@
       "decimals": 18
     },
     {
+      "address": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
+      "name": "Lyra Token",
+      "symbol": "LYRA",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
       "address": "0x513c7E3a9c69cA3e22550eF58AC1C0088e918FFf",
       "name": "Aave Optimism OP",
       "symbol": "aOptOP",
       "logoURI": "https://assets.coingecko.com/coins/images/12645/large/AAVE.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x528CDc92eAB044E1E39FE43B9514bfdAB4412B98",
+      "name": "Giveth Token",
+      "symbol": "GIV",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x528CDc92eAB044E1E39FE43B9514bfdAB4412B98/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -9240,6 +9288,14 @@
       "decimals": 18
     },
     {
+      "address": "0x61BAADcF22d2565B0F471b291C475db5555e0b76",
+      "name": "Aelin Token",
+      "symbol": "AELIN",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x61BAADcF22d2565B0F471b291C475db5555e0b76/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
       "address": "0x625E7708f30cA75bfd92586e17077590C60eb4cD",
       "name": "Aave Optimism USDC",
       "symbol": "aOptUSDC",
@@ -9252,6 +9308,14 @@
       "name": "Molten",
       "symbol": "MOLTEN",
       "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x66E535e8D2ebf13F49F3D49e5c50395a97C137b1/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x6806411765Af15Bddd26f8f544A34cC40cb9838B",
+      "name": "Frax Ether",
+      "symbol": "frxETH",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x6806411765Af15Bddd26f8f544A34cC40cb9838B/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -9312,6 +9376,14 @@
       "decimals": 8
     },
     {
+      "address": "0x6fd9d7AD17242c41f7131d257212c54A0e816691",
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x6fd9d7AD17242c41f7131d257212c54A0e816691/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
       "address": "0x724dc807b04555b71ed48a6896b6F41593b8C637",
       "name": "Aave Optimism rETH",
       "symbol": "aOptrETH",
@@ -9348,6 +9420,14 @@
       "name": "Aave Token",
       "symbol": "AAVE",
       "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x76FB31fb4af56892A25e32cFC43De717950c9278/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x79E6c6b6aABA4432FAbacB30cC0C879D8f3E598e",
+      "name": "FOAM Token",
+      "symbol": "FOAM",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x79E6c6b6aABA4432FAbacB30cC0C879D8f3E598e/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -9536,6 +9616,14 @@
       "decimals": 18
     },
     {
+      "address": "0x9dAbAE7274D28A45F0B65Bf8ED201A5731492ca0",
+      "name": "Metronome Synth USD",
+      "symbol": "msUSD",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x9dAbAE7274D28A45F0B65Bf8ED201A5731492ca0/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
       "address": "0x9e1028F5F1D5eDE59748FFceE5532509976840E0",
       "name": "Perpetual",
       "symbol": "PERP",
@@ -9576,10 +9664,26 @@
       "decimals": 18
     },
     {
+      "address": "0xB25EA095997F5bBaa6cEa962c4fBf3bfc3C09776",
+      "name": "Promethios",
+      "symbol": "FIRE",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xB25EA095997F5bBaa6cEa962c4fBf3bfc3C09776/logo-128.png",
+      "chainId": 10,
+      "decimals": 9
+    },
+    {
       "address": "0xB962150760F9A3bB00e3E9Cf48297EE20AdA4A33",
       "name": "xZoomerCoin",
       "symbol": "xZOOMER",
       "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xB962150760F9A3bB00e3E9Cf48297EE20AdA4A33/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xBC7B1Ff1c6989f006a1185318eD4E7b5796e66E1",
+      "name": "Pendle",
+      "symbol": "PENDLE",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xBC7B1Ff1c6989f006a1185318eD4E7b5796e66E1/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -9752,6 +9856,14 @@
       "decimals": 18
     },
     {
+      "address": "0xb532178708814F0c174B29B991D2b355106Afbc3",
+      "name": "Astrava",
+      "symbol": "AST",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xb532178708814F0c174B29B991D2b355106Afbc3/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
       "address": "0xb829b68f57CC546dA7E5806A929e53bE32a4625D",
       "name": "Axelar Wrapped ETH",
       "symbol": "axlETH",
@@ -9764,6 +9876,14 @@
       "name": "Osaka Protocol",
       "symbol": "OSAK",
       "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xbFd5206962267c7b4b4A8B3D76AC2E1b2A5c4d5e/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xbf0c7ccB143126C1bE90a426f676f5cb313956d9",
+      "name": "Tempest",
+      "symbol": "TEM",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xbf0c7ccB143126C1bE90a426f676f5cb313956d9/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -9936,6 +10056,14 @@
       "decimals": 18
     },
     {
+      "address": "0xf467C7d5a4A9C4687fFc7986aC6aD5A4c81E1404",
+      "name": "Protocol Token",
+      "symbol": "KITE",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xf467C7d5a4A9C4687fFc7986aC6aD5A4c81E1404/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
       "address": "0xfD389Dc9533717239856190F42475d3f263a270d",
       "name": "Granary Token",
       "symbol": "GRAIN",
@@ -9964,6 +10092,14 @@
       "name": "1INCH Token",
       "symbol": "1INCH",
       "logoURI": "https://tokens.1inch.io/0x111111111117dc0aa78b770fa6a738034120c302.png",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "address": "0x11cd72f7A4B699c67f225ca8aBb20bC9F8DB90c7",
+      "name": "Osaka Protocol",
+      "symbol": "OSAK",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/56/0x11cd72f7A4B699c67f225ca8aBb20bC9F8DB90c7/logo-128.png",
       "chainId": 56,
       "decimals": 18
     },
@@ -11544,6 +11680,13 @@
       "symbol": "aGnoUSDC",
       "chainId": 100,
       "decimals": 6
+    },
+    {
+      "address": "0xc791240D1F2dEf5938E2031364Ff4ed887133C3d",
+      "name": "Rocket Pool ETH from Mainnet",
+      "symbol": "rETH",
+      "chainId": 100,
+      "decimals": 18
     },
     {
       "address": "0xcB444e90D8198415266c6a2724b7900fb12FC56E",
@@ -15798,8 +15941,8 @@
     },
     {
       "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
-      "name": "(PoS) Tether USD",
-      "symbol": "USDT",
+      "name": "USDT0",
+      "symbol": "USDT0",
       "logoURI": "https://token-assets-one.vercel.app/api/token/137/0xc2132D05D31c914a87C6611C10748AEb04B58e8F/logo-128.png",
       "chainId": 137,
       "decimals": 6
@@ -16321,6 +16464,14 @@
       "name": "Toshi Token (PoS)",
       "symbol": "TOSHI",
       "logoURI": "https://assets.smold.app/api/token/137/0xfE31a87c001c7B0FcDF4c480621222d4FE793364/logo-128.png",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
+      "address": "0xfFA188493C15DfAf2C206c97D8633377847b6a52",
+      "name": "WeFi",
+      "symbol": "WEFI",
+      "logoURI": "https://assets.coingecko.com/coins/images/30540/large/wefi.png?1684981490",
       "chainId": 137,
       "decimals": 18
     },
@@ -19370,6 +19521,14 @@
       "decimals": 18
     },
     {
+      "address": "0x4186BFC76E2E237523CBC30FD220FE055156b41F",
+      "name": "KelpDao Restaked ETH",
+      "symbol": "rsETH",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x4186BFC76E2E237523CBC30FD220FE055156b41F/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
       "address": "0x431402e8b9dE9aa016C743880e04E517074D8cEC",
       "name": "Hegic",
       "symbol": "HEGIC",
@@ -19552,6 +19711,14 @@
       "decimals": 18
     },
     {
+      "address": "0x57F5E098CaD7A3D1Eed53991D4d66C45C9AF7812",
+      "name": "Wrapped Mountain Protocol USD",
+      "symbol": "wUSDM",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x57F5E098CaD7A3D1Eed53991D4d66C45C9AF7812/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
       "address": "0x580E933D90091b9cE380740E3a4A39c67eB85B4c",
       "name": "GameSwift",
       "symbol": "GSWIFT",
@@ -19588,6 +19755,14 @@
       "name": "Mountain Protocol USD",
       "symbol": "USDM",
       "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x59D9356E565Ab3A36dD77763Fc0d87fEaf85508C/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
+      "name": "USDe",
+      "symbol": "USDe",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -21575,14 +21750,6 @@
       "decimals": 18
     },
     {
-      "address": "0x51e48670098173025C477D9AA3f0efF7BF9f7812",
-      "name": "DegenX",
-      "symbol": "DGNX",
-      "logoURI": "https://assets.coingecko.com/coins/images/27204/large/33358FE4-080B-4987-86A9-202CDEE46F06.png?1662604600",
-      "chainId": 43114,
-      "decimals": 18
-    },
-    {
       "address": "0x52d134c6DB5889FaD3542A09eAf7Aa90C0fdf9E4",
       "name": "Backed IBTA $ Treasury Bond 1-3yr",
       "symbol": "bIBTA",
@@ -23175,26 +23342,10 @@
       "decimals": 18
     },
     {
-      "address": "0x8f65E8139bdf6892bf48BA65c98Db8Cd2C3Ea68e",
-      "name": "GOOFY",
-      "symbol": "GOOFY",
-      "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/4e72adf40c622c7cec8762c7db6fb33d9e4fe1bb4aeaa7388ca8440bddb8c423.png",
-      "chainId": 57073,
-      "decimals": 18
-    },
-    {
       "address": "0xB54830013CB7A524C5e7161246266C656359ab6a",
       "name": "notsofast_iota",
       "symbol": "nsfi",
       "logoURI": "https://luauiyxrqsrcixgjxhja.supabase.co/storage/v1/object/public/images/c0520e49a5827fdf7a5dee111529d6491a0447f701f72a79fac6541f0c933cc9.jpg",
-      "chainId": 57073,
-      "decimals": 18
-    },
-    {
-      "address": "0xB865C9bcB45D74bbA51DB23A69ef33D42f822FB2",
-      "name": "POPINK",
-      "symbol": "POPINK",
-      "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/ed7ac51d4344cd109a026d45638d1c08292d35b8cb84417a78e0f33eedbde4db.png",
       "chainId": 57073,
       "decimals": 18
     },
@@ -23748,6 +23899,13 @@
       "decimals": 18
     },
     {
+      "address": "0xacA92E438df0B2401fF60dA7E4337B687a2435DA",
+      "name": "MetaMask USD",
+      "symbol": "mUSD",
+      "chainId": 59144,
+      "decimals": 6
+    },
+    {
       "address": "0xb171EF5cD8d320D52F257924A0E0d41E6f5c40D9",
       "name": "Bank Of Linea",
       "symbol": "BOL",
@@ -23786,6 +23944,13 @@
       "address": "0xd83af4fbD77f3AB65C3B1Dc4B38D7e67AEcf599A",
       "name": "Linea Voyage XP",
       "symbol": "LXP",
+      "chainId": 59144,
+      "decimals": 18
+    },
+    {
+      "address": "0xe4eEB461Ad1e4ef8b8EF71a33694CCD84Af051C4",
+      "name": "Etherex Liquid Staking Token",
+      "symbol": "REX33",
       "chainId": 59144,
       "decimals": 18
     },

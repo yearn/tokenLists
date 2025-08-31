@@ -1,11 +1,11 @@
 {
   "name": "Superchain Token List",
   "description": "",
-  "timestamp": "2025-08-24T01:46:37Z",
+  "timestamp": "2025-08-31T01:46:20Z",
   "version": {
     "major": 6,
-    "minor": 4,
-    "patch": 1
+    "minor": 5,
+    "patch": 0
   },
   "logoURI": "https://ethereum-optimism.github.io/optimism.svg",
   "keywords": [
@@ -531,6 +531,14 @@
       "name": "Yield Guild Games Token",
       "symbol": "YGG",
       "logoURI": "https://tokens.1inch.io/0x25f8087ead173b73d6e8b84329989a8eea16cf73.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x2781246fe707bB15CeE3e5ea354e2154a2877B16",
+      "name": "ELYSIA",
+      "symbol": "EL",
+      "logoURI": "https://etherscan.io/token/images/elysia_28.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -2534,6 +2542,14 @@
       "name": "Balancer",
       "symbol": "BAL",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xba100000625a3754423978a60c9317c58a424e3D/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xbe042e9d09CB588331Ff911c2B46FD833A3E5bd6",
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "logoURI": "https://assets.coingecko.com/coins/images/31482/large/photo_2023-08-25_07-54-16.jpg?1696530294",
       "chainId": 1,
       "decimals": 18
     },
@@ -6027,6 +6043,13 @@
       "name": "Pepe",
       "symbol": "PEPE",
       "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0xB4fDe59a779991bfB6a52253B51947828b982be3/logo-128.png",
+      "chainId": 8453,
+      "decimals": 18
+    },
+    {
+      "address": "0xB5068Ad7E4AD8f7fE2FcF5abe2c043ab8866569c",
+      "name": "Pepe Community",
+      "symbol": "PEPE",
       "chainId": 8453,
       "decimals": 18
     },

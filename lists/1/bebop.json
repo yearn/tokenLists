@@ -1,10 +1,10 @@
 {
   "name": "Bebop",
   "description": "",
-  "timestamp": "2025-08-24T01:49:16Z",
+  "timestamp": "2025-08-31T01:39:55Z",
   "version": {
     "major": 20,
-    "minor": 33,
+    "minor": 34,
     "patch": 0
   },
   "logoURI": "https://bebop-public-images.s3.eu-west-2.amazonaws.com/bebop-logo.png",
@@ -894,6 +894,14 @@
       "name": "Pax Dollar",
       "symbol": "USDP",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x8E870D67F660D95d5be530380D0eC0bd388289E1/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x8d0D000Ee44948FC98c9B98A4FA4921476f08B0d",
+      "name": "World Liberty Financial USD",
+      "symbol": "USD1",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x8d0D000Ee44948FC98c9B98A4FA4921476f08B0d/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },

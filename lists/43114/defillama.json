@@ -1,9 +1,9 @@
 {
   "name": "DefiLlama",
   "description": "",
-  "timestamp": "2025-08-24T03:11:05Z",
+  "timestamp": "2025-08-31T01:43:38Z",
   "version": {
-    "major": 135,
+    "major": 136,
     "minor": 0,
     "patch": 0
   },
@@ -330,6 +330,14 @@
       "decimals": 18
     },
     {
+      "address": "0x133879524DDb38582cf0b93D10aDB789601Ff397",
+      "name": "Borne",
+      "symbol": "BORNE",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/68674/thumb/borne-token.png?1756231684",
+      "chainId": 43114,
+      "decimals": 18
+    },
+    {
       "address": "0x13B1f0579bc895B2ffb835F295FD9b63fEF36dA0",
       "name": "Be For FWX",
       "symbol": "B4FWX",
@@ -342,6 +350,14 @@
       "name": "Backed Tesla Inc",
       "symbol": "bTSLA",
       "logoURI": "https://coin-images.coingecko.com/coins/images/38916/thumb/b-TSLA-200x200.png?1719474888",
+      "chainId": 43114,
+      "decimals": 18
+    },
+    {
+      "address": "0x14A84F1a61cCd7D1BE596A6cc11FE33A36Bc1646",
+      "name": "Treehouse AVAX",
+      "symbol": "tAVAX",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/68726/thumb/tAvax.png?1756370994",
       "chainId": 43114,
       "decimals": 18
     },
@@ -524,6 +540,14 @@
       "name": "Backed HIGH € High Yield Corp Bond",
       "symbol": "bHIGH",
       "logoURI": "https://assets.coingecko.com/coins/images/31868/large/b-HIGH-200x200.png?1695350464",
+      "chainId": 43114,
+      "decimals": 18
+    },
+    {
+      "address": "0x211Cc4DD073734dA055fbF44a2b4667d5E5fE5d2",
+      "name": "Staked USDe",
+      "symbol": "sUSDe",
+      "logoURI": "https://assets.coingecko.com/coins/images/33669/large/photo_2023-12-14_17-00-20.jpg?1702696035",
       "chainId": 43114,
       "decimals": 18
     },
@@ -1273,14 +1297,6 @@
       "decimals": 18
     },
     {
-      "address": "0x51e48670098173025C477D9AA3f0efF7BF9f7812",
-      "name": "DegenX",
-      "symbol": "DGNX",
-      "logoURI": "https://assets.coingecko.com/coins/images/27204/large/33358FE4-080B-4987-86A9-202CDEE46F06.png?1662604600",
-      "chainId": 43114,
-      "decimals": 18
-    },
-    {
       "address": "0x52d134c6DB5889FaD3542A09eAf7Aa90C0fdf9E4",
       "name": "Backed IBTA $ Treasury Bond 1-3yr",
       "symbol": "bIBTA",
@@ -1576,6 +1592,14 @@
       "decimals": 18
     },
     {
+      "address": "0x634608ed64c61CA9e741F8095193c0bFa0FA19Cc",
+      "name": "Solana",
+      "symbol": "SOL",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/68694/thumb/solana.jpg?1756285572",
+      "chainId": 43114,
+      "decimals": 18
+    },
+    {
       "address": "0x637afeff75ca669fF92e4570B14D6399A658902f",
       "name": "Poly-Peg COOK",
       "symbol": "COOK",
@@ -1771,6 +1795,14 @@
       "name": "LAMBO",
       "symbol": "LAMBO",
       "logoURI": "https://coin-images.coingecko.com/coins/images/66462/thumb/IMG_3249.jpeg?1749461496",
+      "chainId": 43114,
+      "decimals": 18
+    },
+    {
+      "address": "0x6F911b6B39Bcc665A463129c94B5380A4387b7eb",
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "logoURI": "https://assets.coingecko.com/coins/images/31401/large/IMG_8166.jpg?1692841631",
       "chainId": 43114,
       "decimals": 18
     },
@@ -2218,7 +2250,7 @@
       "address": "0x8835A2F66A7AaCCB297Cb985831A616B75e2E16c",
       "name": "EURØP",
       "symbol": "EUROP",
-      "logoURI": "https://coin-images.coingecko.com/coins/images/52132/thumb/europ-symbol-rgb.jpg?1732634862",
+      "logoURI": "https://asset-images.messari.io/images/0c911912-5794-4c5a-a7fc-45aca48d538f/128.png",
       "chainId": 43114,
       "decimals": 6
     },
@@ -4052,7 +4084,7 @@
       "address": "0xf9FB20B8E097904f0aB7d12e9DbeE88f2dcd0F16",
       "name": "Stable Coin",
       "symbol": "SBC",
-      "logoURI": "https://coin-images.coingecko.com/coins/images/68416/thumb/sbc-mark.png?1755691990",
+      "logoURI": "https://asset-images.messari.io/images/0d6b78d8-1760-4963-8821-84b00e9a825f/128.png",
       "chainId": 43114,
       "decimals": 18
     },

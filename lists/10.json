@@ -1,9 +1,9 @@
 {
   "name": "Optimism",
   "description": "A curated list of popular tokens from all the token lists on tokenlistooor.",
-  "timestamp": "2025-08-31T03:09:59Z",
+  "timestamp": "2025-09-07T02:12:18Z",
   "version": {
-    "major": 90,
+    "major": 91,
     "minor": 0,
     "patch": 0
   },
@@ -57,22 +57,6 @@
       "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85/logo-128.png",
       "chainId": 10,
       "decimals": 6
-    },
-    {
-      "address": "0x10010078a54396F62c96dF8532dc2B4847d47ED3",
-      "name": "Hundred Finance",
-      "symbol": "HND",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x10010078a54396F62c96dF8532dc2B4847d47ED3/logo-128.png",
-      "chainId": 10,
-      "decimals": 18
-    },
-    {
-      "address": "0x10398AbC267496E49106B07dd6BE13364D10dC71",
-      "name": "HAI Index Token",
-      "symbol": "HAI",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x10398AbC267496E49106B07dd6BE13364D10dC71/logo-128.png",
-      "chainId": 10,
-      "decimals": 18
     },
     {
       "address": "0x14778860E937f509e651192a90589dE711Fb88a9",
@@ -129,14 +113,6 @@
       "logoURI": "ipfs://QmYJRge59EKjEcCzs4X9j6c3dsAJBCzJRRgN5XZtg9treW",
       "chainId": 10,
       "decimals": 6
-    },
-    {
-      "address": "0x2513486f18eeE1498D7b6281f668B955181Dd0D9",
-      "name": "OpenXSwap Gov Token",
-      "symbol": "xOpenX",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x2513486f18eeE1498D7b6281f668B955181Dd0D9/logo-128.png",
-      "chainId": 10,
-      "decimals": 18
     },
     {
       "address": "0x2598c30330D5771AE9F983979209486aE26dE875",
@@ -272,14 +248,6 @@
       "decimals": 18
     },
     {
-      "address": "0x3Ed9AcAac7Bd974eB83a8eA6432a239e3C829D5D",
-      "name": "LERNITAS",
-      "symbol": "2192",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x3Ed9AcAac7Bd974eB83a8eA6432a239e3C829D5D/logo-128.png",
-      "chainId": 10,
-      "decimals": 18
-    },
-    {
       "address": "0x3e7eF8f50246f725885102E8238CBba33F276747",
       "name": "BarnBridge Governance Token (Optimism)",
       "symbol": "BOND",
@@ -332,14 +300,6 @@
       "name": "Glo Dollar",
       "symbol": "USDGLO",
       "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x4F604735c1cF31399C6E711D5962b2B3E0225AD3/logo-128.png",
-      "chainId": 10,
-      "decimals": 18
-    },
-    {
-      "address": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
-      "name": "Lyra Token",
-      "symbol": "LYRA",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -520,14 +480,6 @@
       "decimals": 18
     },
     {
-      "address": "0x79E6c6b6aABA4432FAbacB30cC0C879D8f3E598e",
-      "name": "FOAM Token",
-      "symbol": "FOAM",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x79E6c6b6aABA4432FAbacB30cC0C879D8f3E598e/logo-128.png",
-      "chainId": 10,
-      "decimals": 18
-    },
-    {
       "address": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
       "name": "USD Coin",
       "symbol": "USDC",
@@ -548,14 +500,6 @@
       "name": "exactly USDC.e",
       "symbol": "exaUSDC.e",
       "logoURI": "https://assets.coingecko.com/coins/images/31175/large/ExaUSDC_1.png?1691117494",
-      "chainId": 10,
-      "decimals": 6
-    },
-    {
-      "address": "0x820802Fa8a99901F52e39acD21177b0BE6EE2974",
-      "name": "EUROe Stablecoin",
-      "symbol": "EUROe",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x820802Fa8a99901F52e39acD21177b0BE6EE2974/logo-128.png",
       "chainId": 10,
       "decimals": 6
     },
@@ -712,14 +656,6 @@
       "decimals": 18
     },
     {
-      "address": "0x9dAbAE7274D28A45F0B65Bf8ED201A5731492ca0",
-      "name": "Metronome Synth USD",
-      "symbol": "msUSD",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x9dAbAE7274D28A45F0B65Bf8ED201A5731492ca0/logo-128.png",
-      "chainId": 10,
-      "decimals": 18
-    },
-    {
       "address": "0x9e1028F5F1D5eDE59748FFceE5532509976840E0",
       "name": "Perpetual",
       "symbol": "PERP",
@@ -758,14 +694,6 @@
       "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xB153FB3d196A8eB25522705560ac152eeEc57901/logo-128.png",
       "chainId": 10,
       "decimals": 18
-    },
-    {
-      "address": "0xB25EA095997F5bBaa6cEa962c4fBf3bfc3C09776",
-      "name": "Promethios",
-      "symbol": "FIRE",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xB25EA095997F5bBaa6cEa962c4fBf3bfc3C09776/logo-128.png",
-      "chainId": 10,
-      "decimals": 9
     },
     {
       "address": "0xB962150760F9A3bB00e3E9Cf48297EE20AdA4A33",
@@ -952,14 +880,6 @@
       "decimals": 18
     },
     {
-      "address": "0xb532178708814F0c174B29B991D2b355106Afbc3",
-      "name": "Astrava",
-      "symbol": "AST",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xb532178708814F0c174B29B991D2b355106Afbc3/logo-128.png",
-      "chainId": 10,
-      "decimals": 18
-    },
-    {
       "address": "0xb829b68f57CC546dA7E5806A929e53bE32a4625D",
       "name": "Axelar Wrapped ETH",
       "symbol": "axlETH",
@@ -972,14 +892,6 @@
       "name": "Osaka Protocol",
       "symbol": "OSAK",
       "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xbFd5206962267c7b4b4A8B3D76AC2E1b2A5c4d5e/logo-128.png",
-      "chainId": 10,
-      "decimals": 18
-    },
-    {
-      "address": "0xbf0c7ccB143126C1bE90a426f676f5cb313956d9",
-      "name": "Tempest",
-      "symbol": "TEM",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xbf0c7ccB143126C1bE90a426f676f5cb313956d9/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -1148,14 +1060,6 @@
       "name": "Aave Optimism AAVE",
       "symbol": "aOptAAVE",
       "logoURI": "https://assets.coingecko.com/coins/images/12645/large/AAVE.png",
-      "chainId": 10,
-      "decimals": 18
-    },
-    {
-      "address": "0xf467C7d5a4A9C4687fFc7986aC6aD5A4c81E1404",
-      "name": "Protocol Token",
-      "symbol": "KITE",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xf467C7d5a4A9C4687fFc7986aC6aD5A4c81E1404/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },

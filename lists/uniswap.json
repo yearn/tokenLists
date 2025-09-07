@@ -1,10 +1,10 @@
 {
   "name": "Uniswap Labs Default",
   "description": "",
-  "timestamp": "2025-08-31T01:39:33Z",
+  "timestamp": "2025-09-07T01:37:48Z",
   "version": {
     "major": 21,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   },
   "logoURI": "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
@@ -1572,6 +1572,14 @@
       "decimals": 18
     },
     {
+      "address": "0x8d0D000Ee44948FC98c9B98A4FA4921476f08B0d",
+      "name": "World Liberty Financial USD",
+      "symbol": "USD1",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x8d0D000Ee44948FC98c9B98A4FA4921476f08B0d/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0x8dF723295214Ea6f21026eeEb4382d475f146F9f",
       "name": "Quantoz EURQ",
       "symbol": "EURQ",
@@ -2431,6 +2439,14 @@
       "name": "Euler",
       "symbol": "EUL",
       "logoURI": "https://assets.coingecko.com/coins/images/26149/large/YCvKDfl8_400x400.jpeg?1656041509",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xdA5e1988097297dCdc1f90D4dFE7909e847CBeF6",
+      "name": "World Liberty Financial",
+      "symbol": "WLFI",
+      "logoURI": "https://asset-images.messari.io/images/173cbd8f-44d3-4b25-a12e-0379af5e9ce5/128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -5167,6 +5183,14 @@
       "decimals": 8
     },
     {
+      "address": "0x1B4617734C43F6159F3a70b7E06d883647512778",
+      "name": "AWE Network",
+      "symbol": "AWE",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0x1B4617734C43F6159F3a70b7E06d883647512778/logo-128.png",
+      "chainId": 8453,
+      "decimals": 18
+    },
+    {
       "address": "0x1C7a460413dD4e964f96D8dFC56E7223cE88CD85",
       "name": "Seamless",
       "symbol": "SEAM",
@@ -6275,6 +6299,13 @@
       "decimals": 18
     },
     {
+      "address": "0x4D1d7134B87490AE5eEbdB22A5820d7d0E1980bf",
+      "name": "World Liberty Financial",
+      "symbol": "WLFI",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
       "address": "0x4E51aC49bC5e2d87e0EF713E9e5AB2D71EF4F336",
       "name": "Celo native asset",
       "symbol": "CELO",
@@ -6868,6 +6899,13 @@
       "address": "0xE3696a02b2C9557639E29d829E9C45EFa49aD47A",
       "name": "district0x Network Token",
       "symbol": "DNT",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0xE390C0B46bd723995BE02640E6F1e1c802F620AC",
+      "name": "Morpho Token",
+      "symbol": "MORPHO",
       "chainId": 42161,
       "decimals": 18
     },

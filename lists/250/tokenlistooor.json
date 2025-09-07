@@ -1,23 +1,15 @@
 {
   "name": "Tokenlistooor Token List",
   "description": "A curated list of tokens from all the token lists on tokenlistooor.",
-  "timestamp": "2025-08-31T03:09:26Z",
+  "timestamp": "2025-09-07T02:11:46Z",
   "version": {
-    "major": 347,
+    "major": 348,
     "minor": 0,
     "patch": 0
   },
   "logoURI": "https://raw.githubusercontent.com/smoldapp/tokenLists/main/.github/tokenlistooor.svg",
   "keywords": [],
   "tokens": [
-    {
-      "address": "0x03B82e4070cA32FF63A03F2EcfC16c0165689a9d",
-      "name": "Curve AVAX yVault",
-      "symbol": "yvAVAX",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/250/0x03B82e4070cA32FF63A03F2EcfC16c0165689a9d/logo-128.png",
-      "chainId": 250,
-      "decimals": 18
-    },
     {
       "address": "0x04068DA6C83AFCFA0e13ba15A6696662335D5B75",
       "name": "USD Coin",
@@ -171,6 +163,14 @@
       "decimals": 18
     },
     {
+      "address": "0x2dd7C9371965472E5A5fD28fbE165007c61439E1",
+      "name": "Curve.fi Factory Plain Pool: 3poolV2",
+      "symbol": "3poolV2-f",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/250/0x2dd7C9371965472E5A5fD28fbE165007c61439E1/logo-128.png",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
       "address": "0x3129662808bEC728a27Ab6a6b9AFd3cBacA8A43c",
       "name": "Dola USD Stablecoin",
       "symbol": "DOLA",
@@ -231,6 +231,22 @@
       "name": "Avalanche",
       "symbol": "AVAX",
       "logoURI": "https://tokens.1inch.io/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "address": "0x58e57cA18B7A47112b877E31929798Cd3D703b0f",
+      "name": "Curve.fi USD-BTC-ETH",
+      "symbol": "crv3crypto",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/250/0x58e57cA18B7A47112b877E31929798Cd3D703b0f/logo-128.png",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "address": "0x5B5CFE992AdAC0C9D48E05854B2d91C73a003858",
+      "name": "Curve.fi WBTC/renBTC",
+      "symbol": "btcCRV",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/250/0x5B5CFE992AdAC0C9D48E05854B2d91C73a003858/logo-128.png",
       "chainId": 250,
       "decimals": 18
     },

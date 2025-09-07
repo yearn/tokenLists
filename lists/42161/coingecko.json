@@ -1,9 +1,9 @@
 {
   "name": "CoinGecko",
   "description": "",
-  "timestamp": "2025-08-31T01:43:34Z",
+  "timestamp": "2025-09-07T01:39:57Z",
   "version": {
-    "major": 139,
+    "major": 140,
     "minor": 0,
     "patch": 0
   },
@@ -1138,6 +1138,13 @@
       "decimals": 18
     },
     {
+      "address": "0x1F53B7aA6f4b36B7DfDEDb4Bc4A14747a19cf7B1",
+      "name": "Apu Apustaja",
+      "symbol": "APU",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
       "address": "0x1a4fD0E749c86eEB6f80d1047D6C25432c703D48",
       "name": "ARK Innovation ETF - Dinari",
       "symbol": "ARKK.d",
@@ -1212,6 +1219,7 @@
       "address": "0x211Cc4DD073734dA055fbF44a2b4667d5E5fE5d2",
       "name": "Staked USDe",
       "symbol": "sUSDe",
+      "logoURI": "https://assets.coingecko.com/coins/images/33669/large/photo_2023-12-14_17-00-20.jpg?1702696035",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2042,6 +2050,13 @@
       "decimals": 18
     },
     {
+      "address": "0x3A1429d50E0cBBc45c997aF600541Fe1cc3D2923",
+      "name": "Forta",
+      "symbol": "FORT",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
       "address": "0x3A18dcC9745eDcD1Ef33ecB93b0b6eBA5671e7Ca",
       "name": "Kujira native asset",
       "symbol": "KUJI",
@@ -2205,6 +2220,7 @@
       "address": "0x40BD670A58238e6E230c430BBb5cE6ec0d40df48",
       "name": "Morpho Token",
       "symbol": "MORPHO",
+      "logoURI": "https://assets.coingecko.com/coins/images/29837/large/2022-official-morpho-token.png?1681718566",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2231,6 +2247,13 @@
       "logoURI": "https://asset-images.messari.io/images/9a91313c-d4bb-49d5-abad-391ef37a6dc7/128.png",
       "chainId": 42161,
       "decimals": 18
+    },
+    {
+      "address": "0x41CA7586cC1311807B4605fBB748a3B8862b42b5",
+      "name": "Syrup USDC",
+      "symbol": "syrupUSDC",
+      "chainId": 42161,
+      "decimals": 6
     },
     {
       "address": "0x42069d11A2CC72388a2e06210921E839Cfbd3280",
@@ -2776,6 +2799,7 @@
       "address": "0x527e8D368298deA5a53be257e5300F4DBafb7a97",
       "name": "Loaded Lions",
       "symbol": "LION",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/54686/thumb/_LION_Token_Artwork.png?1741015702",
       "chainId": 42161,
       "decimals": 18
     },
@@ -3723,6 +3747,7 @@
       "address": "0x7629c1DF323c8168cf15D4576b340ca74c811207",
       "name": "Triumph",
       "symbol": "TRI",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/68760/thumb/triumpLogo.png?1756475345",
       "chainId": 42161,
       "decimals": 18
     },
@@ -6532,6 +6557,13 @@
       "decimals": 18
     },
     {
+      "address": "0xb4818BB69478730EF4e33Cc068dD94278e2766cB",
+      "name": "Satoshi Stablecoin V2",
+      "symbol": "satUSD",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
       "address": "0xb4bbfE92702730ef7F1d28e4b9E42381182F48a5",
       "name": "HOLD TOKEN",
       "symbol": "HOLD",
@@ -6831,14 +6863,6 @@
       "logoURI": "https://asset-images.messari.io/images/ca3931b5-3025-4354-afce-ea9dc1f81bc0/128.png",
       "chainId": 42161,
       "decimals": 18
-    },
-    {
-      "address": "0xcF985abA4647a432E60efcEeB8054BBd64244305",
-      "name": "EUROe Stablecoin",
-      "symbol": "EUROe",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xcF985abA4647a432E60efcEeB8054BBd64244305/logo-128.png",
-      "chainId": 42161,
-      "decimals": 6
     },
     {
       "address": "0xca7Dec8550F43a5e46e3Dfb95801f64280e75B27",

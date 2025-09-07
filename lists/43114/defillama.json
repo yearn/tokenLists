@@ -1,9 +1,9 @@
 {
   "name": "DefiLlama",
   "description": "",
-  "timestamp": "2025-08-31T01:43:38Z",
+  "timestamp": "2025-09-07T01:40:02Z",
   "version": {
-    "major": 136,
+    "major": 137,
     "minor": 0,
     "patch": 0
   },
@@ -2079,14 +2079,6 @@
       "decimals": 18
     },
     {
-      "address": "0x7a842193D291840FC38B45f991c5B8cC908f8A7C",
-      "name": "Pulsar",
-      "symbol": "PLSR",
-      "logoURI": "https://coin-images.coingecko.com/coins/images/54221/thumb/_PLSR_256x256.png?1738859327",
-      "chainId": 43114,
-      "decimals": 18
-    },
-    {
       "address": "0x7b2B702706D9b361dfE3f00bD138C0CFDA7FB2Cf",
       "name": "Pollen",
       "symbol": "PLN",
@@ -2135,14 +2127,6 @@
       "decimals": 18
     },
     {
-      "address": "0x820802Fa8a99901F52e39acD21177b0BE6EE2974",
-      "name": "EUROe Stablecoin",
-      "symbol": "EUROe",
-      "logoURI": "https://assets.coingecko.com/coins/images/28913/large/euroe-200x200-round.png?1675338103",
-      "chainId": 43114,
-      "decimals": 6
-    },
-    {
       "address": "0x822b906E74D493D07223CF6858620ccDa66b2154",
       "name": "rLoop",
       "symbol": "rloop",
@@ -2187,6 +2171,14 @@
       "name": "xSpace Token",
       "symbol": "xSPACE",
       "logoURI": "https://assets.coingecko.com/coins/images/20676/large/jYw3kgsY_400x400.png?1637550733",
+      "chainId": 43114,
+      "decimals": 18
+    },
+    {
+      "address": "0x846E52D0dd71C2FDC891538b2D37Ff84345c7B9f",
+      "name": "Binance-Peg DOGE",
+      "symbol": "DOGE",
+      "logoURI": "https://assets.coingecko.com/coins/images/15768/large/dogecoin.png?1621833687",
       "chainId": 43114,
       "decimals": 18
     },
@@ -3281,6 +3273,14 @@
       "name": "Tico",
       "symbol": "TICO",
       "logoURI": "https://assets.coingecko.com/coins/images/36946/large/tico.png?1712893728",
+      "chainId": 43114,
+      "decimals": 18
+    },
+    {
+      "address": "0xEb2729257280580694A06C499CB8C622e74215c8",
+      "name": "Mog",
+      "symbol": "MOG",
+      "logoURI": "https://assets.coingecko.com/coins/images/31059/large/mog_logo.png?1689931973",
       "chainId": 43114,
       "decimals": 18
     },

@@ -1,9 +1,9 @@
 {
   "name": "DefiLlama",
   "description": "",
-  "timestamp": "2025-08-31T01:43:38Z",
+  "timestamp": "2025-09-07T01:40:02Z",
   "version": {
-    "major": 136,
+    "major": 137,
     "minor": 0,
     "patch": 0
   },
@@ -764,6 +764,14 @@
       "decimals": 6
     },
     {
+      "address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
+      "name": "USDe",
+      "symbol": "USDe",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
       "address": "0x5dF7ABe3C51c01dcf6D1f1F9A0ab4dC3759869b9",
       "name": "SoonChain",
       "symbol": "SOONX",
@@ -1040,14 +1048,6 @@
       "name": "exactly USDC.e",
       "symbol": "exaUSDC.e",
       "logoURI": "https://assets.coingecko.com/coins/images/31175/large/ExaUSDC_1.png?1691117494",
-      "chainId": 10,
-      "decimals": 6
-    },
-    {
-      "address": "0x820802Fa8a99901F52e39acD21177b0BE6EE2974",
-      "name": "EUROe Stablecoin",
-      "symbol": "EUROe",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x820802Fa8a99901F52e39acD21177b0BE6EE2974/logo-128.png",
       "chainId": 10,
       "decimals": 6
     },
@@ -1656,6 +1656,13 @@
       "name": "Staked DUSD",
       "symbol": "sDUSD",
       "logoURI": "https://assets.coingecko.com/coins/images/37909/large/image_%281%29.png?1715934988",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xaF1d71BF947709315655514467D5158E5d3046D5",
+      "name": "Shutter Token from Mainnet",
+      "symbol": "SHU",
       "chainId": 10,
       "decimals": 18
     },

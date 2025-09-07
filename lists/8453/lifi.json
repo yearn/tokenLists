@@ -1,10 +1,10 @@
 {
   "name": "Lifi Token List",
   "description": "",
-  "timestamp": "2025-08-24T03:11:35Z",
+  "timestamp": "2025-09-07T02:07:42Z",
   "version": {
     "major": 11,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   },
   "logoURI": "https://avatars.githubusercontent.com/u/85288935?s=200\u0026v=4",
@@ -47,6 +47,14 @@
       "name": "Staked EURA",
       "symbol": "stEUR",
       "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0x004626A008B1aCdC4c74ab51644093b155e59A23/logo-128.png",
+      "chainId": 8453,
+      "decimals": 18
+    },
+    {
+      "address": "0x01fA35fDE0E813e2D6687660a74A313d8D922E48",
+      "name": "Stake PRL",
+      "symbol": "sPRL1",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0x01fA35fDE0E813e2D6687660a74A313d8D922E48/logo-128.png",
       "chainId": 8453,
       "decimals": 18
     },
@@ -442,6 +450,14 @@
       "decimals": 18
     },
     {
+      "address": "0xE868084cf08F3c3db11f4B73a95473762d9463f7",
+      "name": "Yala stablecoin",
+      "symbol": "YU",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0xE868084cf08F3c3db11f4B73a95473762d9463f7/logo-128.png",
+      "chainId": 8453,
+      "decimals": 18
+    },
+    {
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "name": "Ethereum",
       "symbol": "ETH",
@@ -454,6 +470,14 @@
       "name": "Tarot",
       "symbol": "TAROT",
       "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0xF544251D25f3d243A36B07e7E7962a678f952691/logo-128.png",
+      "chainId": 8453,
+      "decimals": 18
+    },
+    {
+      "address": "0xF970706063b7853877F39515C96932D49d5AC9Cd",
+      "name": "Yala Token",
+      "symbol": "YALA",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0xF970706063b7853877F39515C96932D49d5AC9Cd/logo-128.png",
       "chainId": 8453,
       "decimals": 18
     },

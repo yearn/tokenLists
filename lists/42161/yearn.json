@@ -1,10 +1,10 @@
 {
   "name": "Yearn Token List",
   "description": "",
-  "timestamp": "2025-08-31T01:42:04Z",
+  "timestamp": "2025-09-07T02:08:58Z",
   "version": {
     "major": 45,
-    "minor": 23,
+    "minor": 24,
     "patch": 0
   },
   "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e/logo.svg",
@@ -3781,6 +3781,14 @@
       "decimals": 18
     },
     {
+      "address": "0xA4810B1d4b2513f59939B0ee32b7681fE230eF5F",
+      "name": "YT Ethena USDe 11DEC2025",
+      "symbol": "YT-USDe-11DEC2025",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xA4810B1d4b2513f59939B0ee32b7681fE230eF5F/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
       "address": "0xA4B8873B4629c20f2167c0A2bC33B6AF8699dDc1",
       "name": "Silo Lender wstETH/USDC.e",
       "symbol": "ysUSDC",
@@ -4536,6 +4544,14 @@
       "name": "PT MUXLP 28MAR2024",
       "symbol": "PT-MUXLP-28MAR2024",
       "logoURI": "https://assets.smold.app/api/token/42161/0xF0A219e14D4c058022A828b16Af9888b143ab5aD/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0xF1700FC22BeFf50dedC9F18925aaBf55a2d2DB2B",
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xF1700FC22BeFf50dedC9F18925aaBf55a2d2DB2B/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -5519,6 +5535,14 @@
       "name": "ChainLink Token",
       "symbol": "LINK",
       "logoURI": "https://tokens.1inch.io/0x514910771af9ca656af840dff83e8264ecf986ca.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0xf9921bc1837A97b8F853C83521122c3FBF3f365F",
+      "name": "PT Ethena USDe 11DEC2025",
+      "symbol": "PT-USDe-11DEC2025",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xf9921bc1837A97b8F853C83521122c3FBF3f365F/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },

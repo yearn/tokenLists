@@ -1,10 +1,10 @@
 {
   "name": "Yearn Token List",
   "description": "",
-  "timestamp": "2025-09-07T02:08:58Z",
+  "timestamp": "2025-09-14T01:39:58Z",
   "version": {
     "major": 45,
-    "minor": 24,
+    "minor": 25,
     "patch": 0
   },
   "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e/logo.svg",
@@ -1637,6 +1637,14 @@
       "name": "PT Treehouse ETH 8JAN2026",
       "symbol": "PT-tETH-8JAN2026",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x11214aD8159A315148d98EeecE228CCdA8B1c6D8/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x112B56037552d9A5142493F44480BA98C2586805",
+      "name": "YT Wrapped stUSR 29JAN2026",
+      "symbol": "YT-wstUSR-29JAN2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x112B56037552d9A5142493F44480BA98C2586805/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -5146,6 +5154,14 @@
       "decimals": 18
     },
     {
+      "address": "0x361A152430Be7980daad61EBf3471a8171B011E7",
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x361A152430Be7980daad61EBf3471a8171B011E7/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0x365466ede498d32cF65d22405420a777c021180c",
       "name": "YT Midas mEDGE 31JUL2025",
       "symbol": "YT-mEDGE-31JUL2025",
@@ -5470,6 +5486,14 @@
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x39AA39c021dfbaE8faC545936693aC917d5E7563/logo-128.png",
       "chainId": 1,
       "decimals": 8
+    },
+    {
+      "address": "0x39C3F8e0E7C6F44Dc8F0397FEb124517ba82e26E",
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x39C3F8e0E7C6F44Dc8F0397FEb124517ba82e26E/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
     },
     {
       "address": "0x39CAF13a104FF567f71fd2A4c68C026FDB6E740B",
@@ -6245,6 +6269,14 @@
       "decimals": 18
     },
     {
+      "address": "0x416bfC56eb03435f089335f466d3C2112188521C",
+      "name": "SY Wrapped Staked USDN",
+      "symbol": "SY-wstUSDN",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x416bfC56eb03435f089335f466d3C2112188521C/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0x416ebADc07CC7efa94D9110A5B932089BBd49931",
       "name": "LINK yVault",
       "symbol": "yvLINK",
@@ -6768,6 +6800,14 @@
       "name": "Principal Token: sFRAX-1753833630",
       "symbol": "PT-sFRAX-1753833630",
       "logoURI": "https://assets.smold.app/api/token/1/0x46a338CF74fEc38B7420EB59A506FAcD9448B4e7/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x46cD4651bD9fa21092a0dc5cEb7f2cf88368C2A2",
+      "name": "SY Wrapped Staked USDN",
+      "symbol": "SY-wstUSDN",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x46cD4651bD9fa21092a0dc5cEb7f2cf88368C2A2/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -9723,6 +9763,14 @@
       "decimals": 18
     },
     {
+      "address": "0x6645aa5A6F4ff29B30D53A483A02Acc2cb85B241",
+      "name": "PT Autonomous Liquidity USD 23OCT2025",
+      "symbol": "PT-alUSD-23OCT2025",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x6645aa5A6F4ff29B30D53A483A02Acc2cb85B241/logo-128.png",
+      "chainId": 1,
+      "decimals": 6
+    },
+    {
       "address": "0x66526197a4BAf496D97e1004e43c2C374Fb7d2E7",
       "name": "PT sBold 27NOV2025",
       "symbol": "PT-sBOLD-27NOV2025",
@@ -11284,6 +11332,14 @@
       "decimals": 18
     },
     {
+      "address": "0x74c3c43f2559D1801351FaEA563763a0C9d56445",
+      "name": "Wrapped Staked USDN",
+      "symbol": "wstUSDN",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x74c3c43f2559D1801351FaEA563763a0C9d56445/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0x74c5a0D5DFcC6D4527c849F09eCC360c5345D986",
       "name": "Pendle Sophon Point Receipt Token",
       "symbol": "SPOINT-9",
@@ -11328,6 +11384,14 @@
       "name": "Pendle Market",
       "symbol": "PENDLE-LPT",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x7561C5CCfe41A26B33944B58C70D6a3CB63E881c/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x75636D1cF056D765B269E7cBACF4E0EA57300507",
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x75636D1cF056D765B269E7cBACF4E0EA57300507/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -11634,6 +11698,14 @@
       "decimals": 18
     },
     {
+      "address": "0x78728B6a081E800204d5AbaaA559a84F2404335E",
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x78728B6a081E800204d5AbaaA559a84F2404335E/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0x78F9AFeC0afD297bea08098ED01719b0b0f19aB2",
       "name": "SY pumpBTC",
       "symbol": "SY-pumpBTC",
@@ -11740,6 +11812,14 @@
       "name": "VNX Franc",
       "symbol": "VCHF",
       "logoURI": "https://assets.coingecko.com/coins/images/29547/large/VNXCHF_%282%29.png?1696528488",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x79f06a8dC564717A9aD418049d0BE9A60f2646c0",
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x79f06a8dC564717A9aD418049d0BE9A60f2646c0/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -13610,6 +13690,14 @@
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x8e595470Ed749b85C6F7669de83EAe304C2ec68F/logo-128.png",
       "chainId": 1,
       "decimals": 8
+    },
+    {
+      "address": "0x8e5e017d6b3F567623B5d4a690a2a686bF7BA515",
+      "name": "SY Autonomous Liquidity USD",
+      "symbol": "SY-alUSD",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x8e5e017d6b3F567623B5d4a690a2a686bF7BA515/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
     },
     {
       "address": "0x8eB1a6a1296F41CcAa20d13b952a7fca1b20c3e4",
@@ -17599,6 +17687,14 @@
       "decimals": 18
     },
     {
+      "address": "0xCd85AF1944fEDdA49f6DdF086ea4f746d1aA38b7",
+      "name": "YT Wrapped Staked USDN 18DEC2025",
+      "symbol": "YT-wstUSDN-18DEC2025",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xCd85AF1944fEDdA49f6DdF086ea4f746d1aA38b7/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0xCdCc3DA8fD73CEDFa8e6927864E463b4760b320d",
       "name": "FARM_PENDLE-LPT",
       "symbol": "fPENDLE-LPT",
@@ -17972,6 +18068,14 @@
       "decimals": 6
     },
     {
+      "address": "0xD69c646274e192222Cc26787Fd4B1Cf5498cF98a",
+      "name": "YT Staked ENA 27NOV2025",
+      "symbol": "YT-sENA-27NOV2025",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xD69c646274e192222Cc26787Fd4B1Cf5498cF98a/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0xD6A4180c819324A9E432CA07C689EcBF00088cd6",
       "name": "Curve EURS Factory yVault",
       "symbol": "yvCurve-EURS-f",
@@ -18280,6 +18384,14 @@
       "logoURI": "https://assets.coingecko.com/coins/images/27207/large/accumulate-logo-200x200.png?1696526255",
       "chainId": 1,
       "decimals": 8
+    },
+    {
+      "address": "0xDF6031C175feBdFb90bfF2B640De0b0D8A450e94",
+      "name": "YT Wrapped Staked USDN 18DEC2025",
+      "symbol": "YT-wstUSDN-18DEC2025",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xDF6031C175feBdFb90bfF2B640De0b0D8A450e94/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
     },
     {
       "address": "0xDFDb7f72c1F195C5951a234e8DB9806EB0635346",
@@ -21533,6 +21645,14 @@
       "decimals": 18
     },
     {
+      "address": "0xc03C7A196577AA2d0e616091c58d5e25aeE5Ff8D",
+      "name": "PT Staked ENA 27NOV2025",
+      "symbol": "PT-sENA-27NOV2025",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xc03C7A196577AA2d0e616091c58d5e25aeE5Ff8D/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0xc0CA1e345bE44Ea2c83202222E5084ae3a01e9DC",
       "name": "SY ankrETH-WETH_BalancerLP Aura",
       "symbol": "SY-ankrETH-WETH_BalancerLP Aura",
@@ -22626,6 +22746,14 @@
       "decimals": 18
     },
     {
+      "address": "0xd7c3fc198Bd7A50B99629cfe302006E9224f087b",
+      "name": "YT Autonomous Liquidity USD 23OCT2025",
+      "symbol": "YT-alUSD-23OCT2025",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xd7c3fc198Bd7A50B99629cfe302006E9224f087b/logo-128.png",
+      "chainId": 1,
+      "decimals": 6
+    },
+    {
       "address": "0xd8072F2084F5876D6EC25c423eA71eDC0469cCe5",
       "name": "Pendle Market",
       "symbol": "PENDLE-LPT",
@@ -22981,6 +23109,14 @@
       "name": "YT Karak sUSDe 26SEP2024",
       "symbol": "YT-Karak-sUSDe-26SEP2024",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xdd68f5D26Bf1182d6b241108bfC01f95C030502b/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xde17a000BA631c5d7c2Bd9FB692EFeA52D90DEE2",
+      "name": "Ultimate Synthetic Delta Neutral",
+      "symbol": "USDN",
+      "logoURI": "https://asset-images.messari.io/images/7df1993d-d4ca-4c78-8e7e-6fe8525465b5/128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -23832,6 +23968,14 @@
       "decimals": 18
     },
     {
+      "address": "0xef6C35A8d69dD1163F9d74Ea14fA3447597c8e0D",
+      "name": "PT Wrapped Staked USDN 18DEC2025",
+      "symbol": "PT-wstUSDN-18DEC2025",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xef6C35A8d69dD1163F9d74Ea14fA3447597c8e0D/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0xef8629D568AdCa04D0aC52C7388d5377872d7F61",
       "name": "SparkleX ETH Vault",
       "symbol": "spETH",
@@ -24100,6 +24244,14 @@
       "name": "SY Staked ENA",
       "symbol": "SY-sENA",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xf6193C65Cf3d1CeDDe0FF9d8Cb9781Ad21Ec980f/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xf6329725f2f8771cC79630408D9B9a853E208B55",
+      "name": "PT Wrapped Staked USDN 18DEC2025",
+      "symbol": "PT-wstUSDN-18DEC2025",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xf6329725f2f8771cC79630408D9B9a853E208B55/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -24396,6 +24548,14 @@
       "name": "PT Staked ENA 25SEP2025",
       "symbol": "PT-sENA-25SEP2025",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xfC66d247F577Bfc87df8a5267C43676C4a088B8b/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xfCeEB7586bab730fA400A5BF3FcF298d0DB4c7e7",
+      "name": "PT Wrapped stUSR 29JAN2026",
+      "symbol": "PT-wstUSR-29JAN2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xfCeEB7586bab730fA400A5BF3FcF298d0DB4c7e7/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },

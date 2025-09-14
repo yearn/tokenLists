@@ -1,9 +1,9 @@
 {
   "name": "Messari Token List",
   "description": "",
-  "timestamp": "2025-09-07T01:49:34Z",
+  "timestamp": "2025-09-14T02:22:24Z",
   "version": {
-    "major": 115,
+    "major": 116,
     "minor": 0,
     "patch": 0
   },
@@ -39,6 +39,14 @@
       "name": "Maia",
       "symbol": "MAIA",
       "logoURI": "https://asset-images.messari.io/images/74eef832-5ad2-4771-9bba-c3ae04c8ac3d/128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0x000008759C99325443735d0D1c4a871E80911111",
+      "name": "BRRR",
+      "symbol": "BRRR",
+      "logoURI": "https://asset-images.messari.io/images/3c0f71d0-b8ae-4040-aad1-0b0859bd39c2/128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -1489,7 +1497,7 @@
       "address": "0x1F53B7aA6f4b36B7DfDEDb4Bc4A14747a19cf7B1",
       "name": "Apu Apustaja",
       "symbol": "APU",
-      "logoURI": "https://asset-images.messari.io/images/23f3fa1d-61ed-4174-a553-629f1f083b63/128.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/35986/large/200x200.png?1710308147",
       "chainId": 42161,
       "decimals": 18
     },
@@ -1781,6 +1789,14 @@
       "decimals": 18
     },
     {
+      "address": "0x2492D0006411Af6C8bbb1c8afc1B0197350a79e9",
+      "name": "Resolv USD",
+      "symbol": "USR",
+      "logoURI": "https://asset-images.messari.io/images/63c6d013-9756-480f-b13a-f6e815aeb98e/128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
       "address": "0x249c48e22E95514Ca975De31f473F30c2f3C0916",
       "name": "USDFI",
       "symbol": "USDFI",
@@ -1793,6 +1809,14 @@
       "name": "Rabbit",
       "symbol": "RAB",
       "logoURI": "https://assets.coingecko.com/coins/images/29433/large/200x200.png?1678784505",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0x25118290e6A5f4139381D072181157035864099d",
+      "name": "RAIN",
+      "symbol": "RAIN",
+      "logoURI": "https://asset-images.messari.io/images/eb5649d4-2c04-4259-b4aa-2a53c894acbd/128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2528,6 +2552,14 @@
       "decimals": 18
     },
     {
+      "address": "0x35E5dB674D8e93a03d814FA0ADa70731efe8a4b9",
+      "name": "Resolv Liquidity Provider Token",
+      "symbol": "RLP",
+      "logoURI": "https://asset-images.messari.io/images/abdd2242-c980-44db-8022-e612782e8442/128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
       "address": "0x35cA1E5A9B1c09Fa542Fa18D1Ba4D61c8eDfF852",
       "name": "Schrodi",
       "symbol": "SCHRODI",
@@ -3010,7 +3042,7 @@
       "address": "0x41CA7586cC1311807B4605fBB748a3B8862b42b5",
       "name": "Syrup USDC",
       "symbol": "syrupUSDC",
-      "logoURI": "https://asset-images.messari.io/images/03572575-4bf5-4856-a544-9c93a683e1ae/128.png",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/54658/thumb/syrup_logo-_200x200.jpg?1740895597",
       "chainId": 42161,
       "decimals": 6
     },
@@ -4050,6 +4082,14 @@
       "decimals": 18
     },
     {
+      "address": "0x58538e6A46E07434d7E7375Bc268D3cb839C0133",
+      "name": "ENA",
+      "symbol": "ENA",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x58538e6A46E07434d7E7375Bc268D3cb839C0133/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
       "address": "0x589d35656641d6aB57A545F08cf473eCD9B6D5F7",
       "name": "GMO JPY",
       "symbol": "GYEN",
@@ -4533,6 +4573,14 @@
       "name": "StargateToken",
       "symbol": "STG",
       "logoURI": "https://tokens.1inch.io/0x6694340fc020c5e6b96567843da2df01b2ce1eb6.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0x66CFbD79257dC5217903A36293120282548E2254",
+      "name": "Wrapped Staked USR",
+      "symbol": "wstUSR",
+      "logoURI": "https://asset-images.messari.io/images/59bb8fd2-ac72-4f0b-86d7-700256e8f714/128.png",
       "chainId": 42161,
       "decimals": 18
     },

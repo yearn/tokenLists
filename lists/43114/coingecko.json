@@ -1,9 +1,9 @@
 {
   "name": "CoinGecko",
   "description": "",
-  "timestamp": "2025-09-07T01:39:57Z",
+  "timestamp": "2025-09-14T01:49:45Z",
   "version": {
-    "major": 140,
+    "major": 141,
     "minor": 0,
     "patch": 0
   },
@@ -1388,6 +1388,13 @@
       "decimals": 18
     },
     {
+      "address": "0x58538e6A46E07434d7E7375Bc268D3cb839C0133",
+      "name": "ENA",
+      "symbol": "ENA",
+      "chainId": 43114,
+      "decimals": 18
+    },
+    {
       "address": "0x59234B44214D88C57B7c54A6D2633334D95C5161",
       "name": "NUMINE Token",
       "symbol": "NUMI",
@@ -1512,6 +1519,13 @@
       "name": "Mai Stablecoin",
       "symbol": "MAI",
       "logoURI": "ipfs://QmaJ1parKZi5JhUHFjKxvmkxC8ArTFT5PtSXN5kW58969m",
+      "chainId": 43114,
+      "decimals": 18
+    },
+    {
+      "address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
+      "name": "USDe",
+      "symbol": "USDe",
       "chainId": 43114,
       "decimals": 18
     },
@@ -1962,14 +1976,6 @@
       "decimals": 18
     },
     {
-      "address": "0x771c01e1917B5aB5b791f7b96F0CD69E22f6dBcF",
-      "name": "NunuToken",
-      "symbol": "NNT",
-      "logoURI": "https://assets.coingecko.com/coins/images/24378/large/NNT_99cc33.png?1649120059",
-      "chainId": 43114,
-      "decimals": 18
-    },
-    {
       "address": "0x7761E2338B35bCEB6BdA6ce477EF012bde7aE611",
       "name": "chikn egg",
       "symbol": "EGG",
@@ -2181,6 +2187,7 @@
       "address": "0x846E52D0dd71C2FDC891538b2D37Ff84345c7B9f",
       "name": "Binance-Peg DOGE",
       "symbol": "DOGE",
+      "logoURI": "https://assets.coingecko.com/coins/images/15768/large/dogecoin.png?1621833687",
       "chainId": 43114,
       "decimals": 18
     },
@@ -2247,14 +2254,6 @@
       "logoURI": "https://asset-images.messari.io/images/0c911912-5794-4c5a-a7fc-45aca48d538f/128.png",
       "chainId": 43114,
       "decimals": 6
-    },
-    {
-      "address": "0x885c3a3A4998f0b5ac367A46217E68A200737A32",
-      "name": "ALBERT",
-      "symbol": "ALBERT",
-      "logoURI": "https://coin-images.coingecko.com/coins/images/54748/thumb/ALBERT_Token_Logo_1.png?1741331150",
-      "chainId": 43114,
-      "decimals": 18
     },
     {
       "address": "0x885d748C00A279B67A7749EC6b03301700dd0455",
@@ -2421,14 +2420,6 @@
       "name": "LOTOFOMOGROW",
       "symbol": "LFG",
       "logoURI": "https://assets.coingecko.com/coins/images/38050/large/lumberjack-feb-19-head.png?1716402766",
-      "chainId": 43114,
-      "decimals": 18
-    },
-    {
-      "address": "0x924157B5dbB387A823719916B25256410a4Ad470",
-      "name": "Snowtomb Lot",
-      "symbol": "SLOT",
-      "logoURI": "https://assets.coingecko.com/coins/images/23297/large/200slot.png?1643598272",
       "chainId": 43114,
       "decimals": 18
     },
@@ -2731,6 +2722,13 @@
       "name": "KRW",
       "symbol": "KRW",
       "logoURI": "https://assets.coingecko.com/coins/images/16530/large/KRW_token_logo_200x200.png?1624343058",
+      "chainId": 43114,
+      "decimals": 18
+    },
+    {
+      "address": "0xA659D083b677D6bffe1cb704E1473B896727Be6d",
+      "name": "Pepe",
+      "symbol": "PEPE",
       "chainId": 43114,
       "decimals": 18
     },
@@ -3282,6 +3280,7 @@
       "address": "0xEb2729257280580694A06C499CB8C622e74215c8",
       "name": "Mog",
       "symbol": "MOG",
+      "logoURI": "https://assets.coingecko.com/coins/images/31059/large/mog_logo.png?1689931973",
       "chainId": 43114,
       "decimals": 18
     },

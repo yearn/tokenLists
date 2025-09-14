@@ -1,15 +1,23 @@
 {
   "name": "Messari Token List",
   "description": "",
-  "timestamp": "2025-09-07T01:49:34Z",
+  "timestamp": "2025-09-14T02:22:24Z",
   "version": {
-    "major": 115,
+    "major": 116,
     "minor": 0,
     "patch": 0
   },
   "logoURI": "https://messari.io/images/logo_tcr-check.svg",
   "keywords": [],
   "tokens": [
+    {
+      "address": "0x000008759C99325443735d0D1c4a871E80911111",
+      "name": "BRRR",
+      "symbol": "BRRR",
+      "logoURI": "https://asset-images.messari.io/images/3c0f71d0-b8ae-4040-aad1-0b0859bd39c2/128.png",
+      "chainId": 100,
+      "decimals": 18
+    },
     {
       "address": "0x0000206329b97DB379d5E1Bf586BbDB969C63274",
       "name": "USDA",
@@ -587,7 +595,7 @@
       "address": "0x8CCd277Cc638E7e17F8100cE583cBcEf42007Dca",
       "name": "Shutter Token from Mainnet",
       "symbol": "SHU",
-      "logoURI": "https://asset-images.messari.io/images/da8bebb7-d046-46a2-a942-460b2ef4fe2c/128.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/35524/large/Shutter_logo.png?1709014167",
       "chainId": 100,
       "decimals": 18
     },

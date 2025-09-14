@@ -1,9 +1,9 @@
 {
   "name": "Messari Token List",
   "description": "",
-  "timestamp": "2025-09-07T01:49:34Z",
+  "timestamp": "2025-09-14T02:22:24Z",
   "version": {
-    "major": 115,
+    "major": 116,
     "minor": 0,
     "patch": 0
   },
@@ -31,6 +31,14 @@
       "name": "Infam",
       "symbol": "INF",
       "logoURI": "https://asset-images.messari.io/images/8a1bc6bb-0733-4bc7-9631-d5b2503c97f1/128.png",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
+      "address": "0x000008759C99325443735d0D1c4a871E80911111",
+      "name": "BRRR",
+      "symbol": "BRRR",
+      "logoURI": "https://asset-images.messari.io/images/3c0f71d0-b8ae-4040-aad1-0b0859bd39c2/128.png",
       "chainId": 137,
       "decimals": 18
     },
@@ -1413,7 +1421,7 @@
       "address": "0x17C7C74e0cD779F33CB5a6E8aB39De46168e9ef7",
       "name": "Crypto Factor",
       "symbol": "CFR",
-      "logoURI": "https://asset-images.messari.io/images/0d3c9698-4fc6-4534-ab42-7ddefff5f635/128.png",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/68989/thumb/token_logo_official_blue_200x200.png?1757151424",
       "chainId": 137,
       "decimals": 18
     },
@@ -7094,7 +7102,7 @@
       "address": "0x7cbCcFa8aeaf87F2269175d05FF2dA654cd2851e",
       "name": "Haven Coin",
       "symbol": "HAVENX",
-      "logoURI": "https://asset-images.messari.io/images/8c23182d-095e-4f7c-8eff-43454b315df2/128.png",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/68848/thumb/IMG_7278.jpeg?1756801994",
       "chainId": 137,
       "decimals": 9
     },
@@ -10759,6 +10767,14 @@
       "decimals": 6
     },
     {
+      "address": "0xE6800Cf598015A3Ec5DD534f328F349da239bC78",
+      "name": "Dress",
+      "symbol": "DRESS",
+      "logoURI": "https://asset-images.messari.io/images/883b4ae7-fe01-45e7-b216-ec175ef8c44c/128.png",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
       "address": "0xE6A537a407488807F0bbeb0038B79004f19DDDFb",
       "name": "BRLA Token",
       "symbol": "BRLA",
@@ -11790,6 +11806,14 @@
       "name": "NexGami",
       "symbol": "NEXG",
       "logoURI": "https://asset-images.messari.io/images/e3cae8ec-84fa-4cce-a573-1ca93d5fafb0/128.png",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
+      "address": "0xaFdE2490236bc64950def5472296aa0D9758Db0d",
+      "name": "Wilder World Token",
+      "symbol": "WILD",
+      "logoURI": "https://asset-images.messari.io/images/666b535c-530a-4f32-a7aa-21905cb5b9b7/128.png",
       "chainId": 137,
       "decimals": 18
     },
@@ -13487,7 +13511,7 @@
       "address": "0xe4F064808d11Fc46397c36eF5D6be8776515EF2A",
       "name": "TEM MARKET",
       "symbol": "TEM",
-      "logoURI": "https://asset-images.messari.io/images/f0523a1d-115a-41a6-a7e2-ebc7b0ec7370/128.png",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/68983/thumb/temlogo_off.jpg?1757141431",
       "chainId": 137,
       "decimals": 18
     },

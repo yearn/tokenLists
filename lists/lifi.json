@@ -1,10 +1,10 @@
 {
   "name": "Lifi Token List",
   "description": "",
-  "timestamp": "2025-09-07T02:07:42Z",
+  "timestamp": "2025-09-14T02:15:27Z",
   "version": {
     "major": 11,
-    "minor": 3,
+    "minor": 4,
     "patch": 0
   },
   "logoURI": "https://avatars.githubusercontent.com/u/85288935?s=200\u0026v=4",
@@ -95,6 +95,14 @@
       "name": "PancakeSwap Token",
       "symbol": "Cake",
       "logoURI": "https://etherscan.io/token/images/pancake_32.png?v=2",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x1789e0043623282D5DCc7F213d703C6D8BAfBB04",
+      "name": "Linea",
+      "symbol": "LINEA",
+      "logoURI": "https://assets.coingecko.com/coins/images/68507/large/linea-logo.jpeg?1756025484",
       "chainId": 1,
       "decimals": 18
     },
@@ -2076,6 +2084,14 @@
       "decimals": 18
     },
     {
+      "address": "0x226A2FA2556C48245E57cd1cbA4C6c9e67077DD2",
+      "name": "BIO",
+      "symbol": "BIO",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0x226A2FA2556C48245E57cd1cbA4C6c9e67077DD2/logo-128.png",
+      "chainId": 8453,
+      "decimals": 18
+    },
+    {
       "address": "0x27D2DECb4bFC9C76F0309b8E88dec3a601Fe25a8",
       "name": "Bald",
       "symbol": "BALD",
@@ -3216,6 +3232,13 @@
       "symbol": "bCOIN",
       "logoURI": "https://assets.coingecko.com/coins/images/31872/large/b-COIN-200x200.png?1695351481",
       "chainId": 43114,
+      "decimals": 18
+    },
+    {
+      "address": "0x1789e0043623282D5DCc7F213d703C6D8BAfBB04",
+      "name": "Linea",
+      "symbol": "LINEA",
+      "chainId": 59144,
       "decimals": 18
     },
     {

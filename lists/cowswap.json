@@ -1,10 +1,10 @@
 {
   "name": "CoW Swap",
   "description": "",
-  "timestamp": "2025-08-31T03:09:23Z",
+  "timestamp": "2025-09-14T01:43:32Z",
   "version": {
     "major": 2,
-    "minor": 3,
+    "minor": 4,
     "patch": 0
   },
   "logoURI": "https://raw.githubusercontent.com/cowprotocol/cowswap/c5974fb8a45d678029ecb013dab33722e152daaa/src/assets/cow-swap/cow_v2.svg",
@@ -938,6 +938,14 @@
       "decimals": 18
     },
     {
+      "address": "0xA95C5ebB86E0dE73B4fB8c47A45B792CFeA28C23",
+      "name": "stake.link",
+      "symbol": "SDL",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xA95C5ebB86E0dE73B4fB8c47A45B792CFeA28C23.jpg",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0xAa6E8127831c9DE45ae56bB1b0d4D4Da6e5665BD",
       "name": "ETH 2x Flexible Leverage Index",
       "symbol": "ETH2x-FLI",
@@ -1196,6 +1204,14 @@
       "name": "Bold Stablecoin",
       "symbol": "Bold",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xb01dd87B29d187F3E3a4Bf6cdAebfb97F3D9aB98/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xb8b295df2cd735b15BE5Eb419517Aa626fc43cD5",
+      "name": "Staked LINK",
+      "symbol": "stLINK",
+      "logoURI": "https://assets.coingecko.com/coins/images/29271/large/ST.LINK_tokenl_blue.png?1696528224",
       "chainId": 1,
       "decimals": 18
     },

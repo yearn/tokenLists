@@ -1,9 +1,9 @@
 {
   "name": "Avax",
   "description": "A curated list of popular tokens from all the token lists on tokenlistooor.",
-  "timestamp": "2025-09-07T02:12:18Z",
+  "timestamp": "2025-09-14T02:24:21Z",
   "version": {
-    "major": 91,
+    "major": 92,
     "minor": 0,
     "patch": 0
   },
@@ -33,6 +33,14 @@
       "logoURI": "https://assets.coingecko.com/coins/images/12634/large/0qgT0aMu_400x400.jpg?1639175406",
       "chainId": 43114,
       "decimals": 18
+    },
+    {
+      "address": "0x0555E30da8f98308EdB960aa94C0Db47230d2B9c",
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/67285/thumb/wbtc.jpg?1752299240",
+      "chainId": 43114,
+      "decimals": 8
     },
     {
       "address": "0x056D114fF1e01dE3BCA30F0Efa3655DF42880e5B",
@@ -122,6 +130,14 @@
       "decimals": 18
     },
     {
+      "address": "0x130966628846BFd36ff31a822705796e8cb8C18D",
+      "name": "Magic Internet Money",
+      "symbol": "MIM",
+      "logoURI": "https://assets.coingecko.com/coins/images/37658/large/mim.png?1715164970",
+      "chainId": 43114,
+      "decimals": 18
+    },
+    {
       "address": "0x1337BedC9D22ecbe766dF105c9623922A27963EC",
       "name": "Curve.fi avDAI/avUSDC/avUSDT",
       "symbol": "av3CRV",
@@ -136,6 +152,14 @@
       "logoURI": "https://asset-images.messari.io/images/5dd14f1a-306a-4165-822a-a612ea930758/128.png",
       "chainId": 43114,
       "decimals": 18
+    },
+    {
+      "address": "0x152b9d0FdC40C096757F570A51E494bd4b943E50",
+      "name": "Bitcoin",
+      "symbol": "BTC.b",
+      "logoURI": "https://assets.coingecko.com/coins/images/26115/large/btcb.png?1655921693",
+      "chainId": 43114,
+      "decimals": 8
     },
     {
       "address": "0x184ff13B3EBCB25Be44e860163A5D8391Dd568c1",
@@ -594,14 +618,6 @@
       "decimals": 18
     },
     {
-      "address": "0x53f7c5869a859F0AeC3D334ee8B4Cf01E3492f21",
-      "name": "Aave Avalanche Market WETH",
-      "symbol": "avWETH",
-      "logoURI": "https://tokens.1inch.io/0x030ba81f1c18d280636f32af80b9aad02cf0854e.png",
-      "chainId": 43114,
-      "decimals": 18
-    },
-    {
       "address": "0x544c42fBB96B39B21DF61cf322b5EDC285EE7429",
       "name": "Avalanche INSUR Token",
       "symbol": "INSUR",
@@ -658,6 +674,14 @@
       "decimals": 18
     },
     {
+      "address": "0x5c49b268c9841AFF1Cc3B0a418ff5c3442eE3F3b",
+      "name": "Mai Stablecoin",
+      "symbol": "MAI",
+      "logoURI": "ipfs://QmaJ1parKZi5JhUHFjKxvmkxC8ArTFT5PtSXN5kW58969m",
+      "chainId": 43114,
+      "decimals": 18
+    },
+    {
       "address": "0x5f018e73C185aB23647c82bD039e762813877f0e",
       "name": "Build Token",
       "symbol": "BUILD",
@@ -701,6 +725,14 @@
       "name": "Poly-Peg COOK",
       "symbol": "COOK",
       "logoURI": "https://tokens.1inch.io/0xff75ced57419bcaebe5f05254983b013b0646ef5.png",
+      "chainId": 43114,
+      "decimals": 18
+    },
+    {
+      "address": "0x63a72806098Bd3D9520cC43356dD78afe5D386D9",
+      "name": "Aave Token",
+      "symbol": "AAVE.e",
+      "logoURI": "https://assets.coingecko.com/coins/images/12645/large/AAVE.png?1601374110",
       "chainId": 43114,
       "decimals": 18
     },
@@ -768,6 +800,14 @@
       "decimals": 18
     },
     {
+      "address": "0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd",
+      "name": "JoeToken",
+      "symbol": "JOE",
+      "logoURI": "https://assets.coingecko.com/coins/images/17569/large/joe_200x200.png?1628497750",
+      "chainId": 43114,
+      "decimals": 18
+    },
+    {
       "address": "0x7086e045b78E1e72F741F25231c08d238812CF8a",
       "name": "RaceX",
       "symbol": "RACEX",
@@ -804,14 +844,6 @@
       "name": "zJoe",
       "symbol": "zJoe",
       "logoURI": "https://assets.coingecko.com/coins/images/25532/large/zJOE-200px.png?1652250895",
-      "chainId": 43114,
-      "decimals": 18
-    },
-    {
-      "address": "0x771c01e1917B5aB5b791f7b96F0CD69E22f6dBcF",
-      "name": "NunuToken",
-      "symbol": "NNT",
-      "logoURI": "https://assets.coingecko.com/coins/images/24378/large/NNT_99cc33.png?1649120059",
       "chainId": 43114,
       "decimals": 18
     },
@@ -862,6 +894,14 @@
       "logoURI": "https://assets.coingecko.com/coins/images/19947/large/sb.png?1636337110",
       "chainId": 43114,
       "decimals": 9
+    },
+    {
+      "address": "0x820802Fa8a99901F52e39acD21177b0BE6EE2974",
+      "name": "EUROe Stablecoin",
+      "symbol": "EUROe",
+      "logoURI": "https://assets.coingecko.com/coins/images/28913/large/euroe-200x200-round.png?1675338103",
+      "chainId": 43114,
+      "decimals": 6
     },
     {
       "address": "0x82E64f49Ed5EC1bC6e43DAD4FC8Af9bb3A2312EE",
@@ -924,6 +964,14 @@
       "name": "Canary",
       "symbol": "CNR",
       "logoURI": "https://assets.coingecko.com/coins/images/16764/large/logo_-_2021-06-29T113338.436.png?1624937628",
+      "chainId": 43114,
+      "decimals": 18
+    },
+    {
+      "address": "0x8Eb270e296023E9D92081fdF967dDd7878724424",
+      "name": "Aave Avalanche MAI",
+      "symbol": "aAvaMAI",
+      "logoURI": "https://assets.coingecko.com/coins/images/32917/large/mai.png?1699825303",
       "chainId": 43114,
       "decimals": 18
     },
@@ -1486,6 +1534,14 @@
       "decimals": 18
     },
     {
+      "address": "0xaB05b04743E0aeAF9D2cA81E5D3b8385e4BF961e",
+      "name": "Spice USD",
+      "symbol": "USDS",
+      "logoURI": "https://assets.coingecko.com/coins/images/25697/large/USDS.png?1653440948",
+      "chainId": 43114,
+      "decimals": 18
+    },
+    {
       "address": "0xaBC9547B534519fF73921b1FBA6E672b5f58D083",
       "name": "Wootrade Network",
       "symbol": "WOO.e",
@@ -1610,6 +1666,14 @@
       "logoURI": "https://assets.coingecko.com/coins/images/12645/large/AAVE.png",
       "chainId": 43114,
       "decimals": 18
+    },
+    {
+      "address": "0xc7198437980c041c805A1EDcbA50c1Ce5db95118",
+      "name": "Tether USD",
+      "symbol": "USDT.e",
+      "logoURI": "https://assets.coingecko.com/coins/images/24189/large/Usdt.e.png?1646819144",
+      "chainId": 43114,
+      "decimals": 6
     },
     {
       "address": "0xc7B5D72C836e718cDA8888eaf03707fAef675079",

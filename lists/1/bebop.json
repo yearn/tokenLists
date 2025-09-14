@@ -1,10 +1,10 @@
 {
   "name": "Bebop",
   "description": "",
-  "timestamp": "2025-09-07T01:40:19Z",
+  "timestamp": "2025-09-14T01:50:52Z",
   "version": {
     "major": 20,
-    "minor": 35,
+    "minor": 36,
     "patch": 0
   },
   "logoURI": "https://bebop-public-images.s3.eu-west-2.amazonaws.com/bebop-logo.png",
@@ -143,6 +143,14 @@
       "name": "Worldcoin",
       "symbol": "WLD",
       "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/1/0x163f8c2467924be0ae7b5347228cabf260318753/logo.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x1789e0043623282D5DCc7F213d703C6D8BAfBB04",
+      "name": "Linea",
+      "symbol": "LINEA",
+      "logoURI": "https://assets.coingecko.com/coins/images/68507/large/linea-logo.jpeg?1756025484",
       "chainId": 1,
       "decimals": 18
     },
@@ -1008,6 +1016,14 @@
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo-128.png",
       "chainId": 1,
       "decimals": 6
+    },
+    {
+      "address": "0xA227Cc36938f0c9E09CE0e64dfab226cad739447",
+      "name": "Open",
+      "symbol": "OPEN",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/67482/thumb/Logo_%281%29.jpg?1752926147",
+      "chainId": 1,
+      "decimals": 18
     },
     {
       "address": "0xA35923162C49cF95e6BF26623385eb431ad920D3",

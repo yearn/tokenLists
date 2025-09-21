@@ -1,10 +1,10 @@
 {
   "name": "SushiSwap Menu",
   "description": "",
-  "timestamp": "2025-09-14T01:52:31Z",
+  "timestamp": "2025-09-21T01:44:16Z",
   "version": {
-    "major": 22,
-    "minor": 1,
+    "major": 23,
+    "minor": 0,
     "patch": 0
   },
   "logoURI": "https://raw.githubusercontent.com/sushiswap/art/master/sushi/logo-256x256.png",
@@ -350,6 +350,14 @@
       "name": "Tinhatcat",
       "symbol": "THC",
       "logoURI": "https://asset-images.messari.io/images/9c5b7d6f-a290-490f-b4d2-b0c832a49ae9/128.png",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "address": "0x4A13a2cf881f5378DEF61E430139Ed26d843Df9A",
+      "name": "BelugaToken",
+      "symbol": "BELUGA",
+      "logoURI": "https://assets.coingecko.com/coins/images/13790/large/brand-logo-v2.23e5d279.png?1624906164",
       "chainId": 250,
       "decimals": 18
     },
@@ -815,6 +823,14 @@
       "name": "EverRise",
       "symbol": "RISE",
       "logoURI": "https://ftmscan.com/token/images/everrise_32.png",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "address": "0xC5e2B037D30a390e62180970B3aa4E91868764cD",
+      "name": "Tarot",
+      "symbol": "TAROT",
+      "logoURI": "https://asset-images.messari.io/images/cea6dac6-652a-408a-9723-14325fd58157/128.png",
       "chainId": 250,
       "decimals": 18
     },

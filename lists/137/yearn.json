@@ -1,10 +1,10 @@
 {
   "name": "Yearn Token List",
   "description": "",
-  "timestamp": "2025-09-14T01:39:58Z",
+  "timestamp": "2025-09-21T02:06:29Z",
   "version": {
     "major": 45,
-    "minor": 25,
+    "minor": 26,
     "patch": 0
   },
   "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e/logo.svg",
@@ -905,6 +905,14 @@
       "logoURI": "https://token-assets-one.vercel.app/api/token/137/0x598cA33b7F5FAB560ddC8E76D94A4b4AA52566d7/logo-128.png",
       "chainId": 137,
       "decimals": 18
+    },
+    {
+      "address": "0x5BFd56F9BcBDb2be985C64C620ECa7F02Fa7b439",
+      "name": "Bankr USDC Vault",
+      "symbol": "ysUSDC",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/137/0x5BFd56F9BcBDb2be985C64C620ECa7F02Fa7b439/logo-128.png",
+      "chainId": 137,
+      "decimals": 6
     },
     {
       "address": "0x5CdC18b774C6cD6F1398FAf19D4Bd4f31Bc53C57",

@@ -1,10 +1,10 @@
 {
   "name": "Yearn Token List",
   "description": "",
-  "timestamp": "2025-09-14T01:39:58Z",
+  "timestamp": "2025-09-21T02:06:29Z",
   "version": {
     "major": 45,
-    "minor": 25,
+    "minor": 26,
     "patch": 0
   },
   "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e/logo.svg",
@@ -1032,6 +1032,14 @@
       "name": "PT USDS Stablecoin 31JUL2025",
       "symbol": "PT-USDS-31JUL2025",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x099DE83315C5f84D6C8A08af020E8428D3a121E0/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x09AcE8B2f2fE2189A5B37046BBaFa29Dce31c920",
+      "name": "Curve Boosted crvUSD-sreUSD Lender",
+      "symbol": "yscrvUSD",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x09AcE8B2f2fE2189A5B37046BBaFa29Dce31c920/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -19248,6 +19256,14 @@
       "decimals": 6
     },
     {
+      "address": "0xF02B8c7FF1accD022CD78444dd9F56330cB699B9",
+      "name": "Bankr USDC Vault",
+      "symbol": "ysUSDC",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xF02B8c7FF1accD022CD78444dd9F56330cB699B9/logo-128.png",
+      "chainId": 1,
+      "decimals": 6
+    },
+    {
       "address": "0xF04f1F279C9dA038b917538D89947f0E00672487",
       "name": "YT Mellow rstETH 25JUL2024",
       "symbol": "YT-rstETH-25JUL2024",
@@ -35570,6 +35586,14 @@
       "decimals": 18
     },
     {
+      "address": "0x5BFd56F9BcBDb2be985C64C620ECa7F02Fa7b439",
+      "name": "Bankr USDC Vault",
+      "symbol": "ysUSDC",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/137/0x5BFd56F9BcBDb2be985C64C620ECa7F02Fa7b439/logo-128.png",
+      "chainId": 137,
+      "decimals": 6
+    },
+    {
       "address": "0x5CdC18b774C6cD6F1398FAf19D4Bd4f31Bc53C57",
       "name": "aVEXT-USDT",
       "symbol": "aVEXT-USDT",
@@ -37424,6 +37448,14 @@
       "decimals": 18
     },
     {
+      "address": "0x385aD1A645ACd91dafca552488eD3B9a3ebd7df6",
+      "name": "swypeVault USDC",
+      "symbol": "swypeUSDC",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0x385aD1A645ACd91dafca552488eD3B9a3ebd7df6/logo-128.png",
+      "chainId": 8453,
+      "decimals": 6
+    },
+    {
       "address": "0x391E5dc227CDcf3cCA012E5278798121236b1861",
       "name": "Aerodrome WELL-WETH Factory yVault",
       "symbol": "yvAero-WELL-WETH-f",
@@ -38131,6 +38163,14 @@
       "name": "USDC MkDedz",
       "symbol": "mdUSDC",
       "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0xCAd1719469bC67341EEC1a29a07684Fe075596DA/logo-128.png",
+      "chainId": 8453,
+      "decimals": 6
+    },
+    {
+      "address": "0xCb2f26898C0893c0bDd5cF76417CF9b2258AF0ed",
+      "name": "Chimi USDC Vault",
+      "symbol": "chimiUSDC",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0xCb2f26898C0893c0bDd5cF76417CF9b2258AF0ed/logo-128.png",
       "chainId": 8453,
       "decimals": 6
     },
@@ -39464,7 +39504,7 @@
       "address": "0x2492D0006411Af6C8bbb1c8afc1B0197350a79e9",
       "name": "Resolv USD",
       "symbol": "USR",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x2492D0006411Af6C8bbb1c8afc1B0197350a79e9/logo-128.png",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/40008/thumb/USR_LOGO.png?1725222638",
       "chainId": 42161,
       "decimals": 18
     },
@@ -39920,7 +39960,7 @@
       "address": "0x35E5dB674D8e93a03d814FA0ADa70731efe8a4b9",
       "name": "Resolv Liquidity Provider Token",
       "symbol": "RLP",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x35E5dB674D8e93a03d814FA0ADa70731efe8a4b9/logo-128.png",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/40017/thumb/orangeLogo..png?1725344586",
       "chainId": 42161,
       "decimals": 18
     },
@@ -40313,6 +40353,14 @@
       "name": "SY PENDLE-ETH_Camelot",
       "symbol": "SY-PENDLE-ETH_Camelot",
       "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x4665d514e82B2F9c78Fa2B984e450F33d9efc842/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0x46A979f0F8e24E0e85e6C3A7dEeb4C5Abd355bA2",
+      "name": "Prize USND - Yearn",
+      "symbol": "przUSND",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x46A979f0F8e24E0e85e6C3A7dEeb4C5Abd355bA2/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -41023,7 +41071,7 @@
       "address": "0x66CFbD79257dC5217903A36293120282548E2254",
       "name": "Wrapped Staked USR",
       "symbol": "wstUSR",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x66CFbD79257dC5217903A36293120282548E2254/logo-128.png",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/51880/thumb/USR_LOGO.png?1732098841",
       "chainId": 42161,
       "decimals": 18
     },

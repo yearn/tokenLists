@@ -1,10 +1,10 @@
 {
   "name": "Superchain Token List",
   "description": "",
-  "timestamp": "2025-09-07T02:06:09Z",
+  "timestamp": "2025-09-21T01:44:54Z",
   "version": {
-    "major": 6,
-    "minor": 6,
+    "major": 7,
+    "minor": 0,
     "patch": 0
   },
   "logoURI": "https://ethereum-optimism.github.io/optimism.svg",
@@ -38,6 +38,13 @@
       "decimals": 18
     },
     {
+      "address": "0x000006c2A22ff4A44ff1f5d0F2ed65F781F55555",
+      "name": "ZK Coin",
+      "symbol": "ZKC",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0x0001A500A6B18995B03f44bb040A5fFc28E45CB0",
       "name": "Autonolas",
       "symbol": "OLAS",
@@ -50,6 +57,14 @@
       "name": "Alchemix ETH",
       "symbol": "alETH",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x0100546F2cD4C9D97f798fFC9755E47865FF7Ee6/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x01995A697752266d8E748738aAa3F06464B8350B",
+      "name": "CANA Holdings California Carbon Credits",
+      "symbol": "CANA",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x01995A697752266d8E748738aAa3F06464B8350B/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -2912,6 +2927,22 @@
       "decimals": 18
     },
     {
+      "address": "0xf04a8ac553FceDB5BA99A64799155826C136b0Be",
+      "name": "Flixx",
+      "symbol": "FLIXX",
+      "logoURI": "https://token-assets-one.vercel.app/not-found.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xf0610eb7d8EE12D59412DA32625d5e273E78FF0b",
+      "name": "MasterDEX Token",
+      "symbol": "MDEX",
+      "logoURI": "https://assets.coingecko.com/coins/images/32311/large/MASTERDEX_logo-02_%282%29.png?1697188983",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0xf134519cBE2042B06Ee7cE20Df51d09b55559896",
       "name": "Mochi",
       "symbol": "MOCHI",
@@ -4085,6 +4116,13 @@
       "name": "Chi USD",
       "symbol": "CHI",
       "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xCa0E54b636DB823847B29F506BFFEE743F57729D/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xCa0EAc34408E4B5906D3E161C73BB4611FF22CA1",
+      "name": "CANA Holdings California Carbon Credits",
+      "symbol": "CANA",
       "chainId": 10,
       "decimals": 18
     },
@@ -5849,6 +5887,13 @@
       "decimals": 18
     },
     {
+      "address": "0x88a3548e2a662936268bFD4366e48D38183E3958",
+      "name": "CANA Holdings California Carbon Credits",
+      "symbol": "CANA",
+      "chainId": 8453,
+      "decimals": 18
+    },
+    {
       "address": "0x8E5E9DF4F0EA39aE5270e79bbABFCc34203A3470",
       "name": "Revenue Generating USD",
       "symbol": "rgUSD",
@@ -6039,6 +6084,13 @@
       "name": "Sustainable Growth",
       "symbol": "SUS",
       "logoURI": "https://ethereum-optimism.github.io/data/SUS/logo.png",
+      "chainId": 8453,
+      "decimals": 18
+    },
+    {
+      "address": "0xAA61bB7777bD01B684347961918f1E07fBbCe7CF",
+      "name": "ZK Coin",
+      "symbol": "ZKC",
       "chainId": 8453,
       "decimals": 18
     },
@@ -6465,6 +6517,13 @@
       "decimals": 18
     },
     {
+      "address": "0xaBc5915cAD6b54f48B2a8CD516055f378861c237",
+      "name": "MasterDEX Token",
+      "symbol": "MDEX",
+      "chainId": 8453,
+      "decimals": 18
+    },
+    {
       "address": "0xaC27fa800955849d6D17cC8952Ba9dD6EAA66187",
       "name": "UnlockProtocolToken",
       "symbol": "UP",
@@ -6616,6 +6675,13 @@
       "name": "Legend",
       "symbol": "LEGEND",
       "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0xc7837BE3d71E00fcbE76D77602BCf353Df859664/logo-128.png",
+      "chainId": 8453,
+      "decimals": 18
+    },
+    {
+      "address": "0xc8F8A8140df44Af075d66BC50717653CFEBb860C",
+      "name": "Flixx",
+      "symbol": "FLIXX",
       "chainId": 8453,
       "decimals": 18
     },
@@ -6864,167 +6930,6 @@
       "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0xfde4C96c8593536E31F229EA8f37b2ADa2699bb2/logo-128.png",
       "chainId": 8453,
       "decimals": 6
-    },
-    {
-      "address": "0x28ba8D26F5F6710F42170EE545A0c953ca4997B9",
-      "name": "1INCH Token (Celo native bridge)",
-      "symbol": "1INCH",
-      "chainId": 42220,
-      "decimals": 18
-    },
-    {
-      "address": "0x31F01af056B7e829bD41E59e8Ba3D2313d2B0Ff3",
-      "name": "Dola USD Stablecoin (Celo native bridge)",
-      "symbol": "DOLA",
-      "chainId": 42220,
-      "decimals": 18
-    },
-    {
-      "address": "0x3776228836BFCFc87CaC36c28830b67759C02707",
-      "name": "Tether Gold (Celo native bridge)",
-      "symbol": "XAUt",
-      "chainId": 42220,
-      "decimals": 6
-    },
-    {
-      "address": "0x3a05ef6467309F388f90BcC3D79A522E6C39Fabb",
-      "name": "Across Protocol Token (Celo native bridge)",
-      "symbol": "ACX",
-      "chainId": 42220,
-      "decimals": 18
-    },
-    {
-      "address": "0x4672ECbD03a1f93Dd67310cAEcd3a8eF6397E72A",
-      "name": "UMA Voting Token v1 (Celo native bridge)",
-      "symbol": "UMA",
-      "chainId": 42220,
-      "decimals": 18
-    },
-    {
-      "address": "0x4C430944d20410A16D5cEC69B0cb66541b00A817",
-      "name": "Savings Dai (Celo native bridge)",
-      "symbol": "sDAI",
-      "chainId": 42220,
-      "decimals": 18
-    },
-    {
-      "address": "0x55f3d16e6bd2b8B8E6599df6eF4593Ce9Dcae9ed",
-      "name": "Rocket Pool ETH (Celo native bridge)",
-      "symbol": "rETH",
-      "chainId": 42220,
-      "decimals": 18
-    },
-    {
-      "address": "0x6981F932C2eC5F9E15d44d7EF46859a133f544dD",
-      "name": "Lido DAO Token (Celo native bridge)",
-      "symbol": "LDO",
-      "chainId": 42220,
-      "decimals": 18
-    },
-    {
-      "address": "0x6D8aDA2df4aebb0561781775872DB1db98d9F791",
-      "name": "Ethereum Name Service (Celo native bridge)",
-      "symbol": "ENS",
-      "chainId": 42220,
-      "decimals": 18
-    },
-    {
-      "address": "0x73A363ED1526F5e02Be99F51c59400A2C508312c",
-      "name": "Rocket Pool Protocol (Celo native bridge)",
-      "symbol": "RPL",
-      "chainId": 42220,
-      "decimals": 18
-    },
-    {
-      "address": "0x75184c282e55a7393053f0b8F4F3E7BeAE067fdC",
-      "name": "Curve DAO Token (Celo native bridge)",
-      "symbol": "CRV",
-      "chainId": 42220,
-      "decimals": 18
-    },
-    {
-      "address": "0x88c400d871829E381b53b55eEE79145B4287461a",
-      "name": "Worldcoin (Celo native bridge)",
-      "symbol": "WLD",
-      "chainId": 42220,
-      "decimals": 18
-    },
-    {
-      "address": "0x8aC2901Dd8A1F17a1A4768A6bA4C3751e3995B2D",
-      "name": "Wrapped BTC (Celo native bridge)",
-      "symbol": "WBTC",
-      "chainId": 42220,
-      "decimals": 8
-    },
-    {
-      "address": "0x918b13745DE61380d5D3eFddf51244c369f101d5",
-      "name": "Maker (Celo native bridge)",
-      "symbol": "MKR",
-      "chainId": 42220,
-      "decimals": 18
-    },
-    {
-      "address": "0x9efD56A126A0e3a8782dB5Fd5AdB23a8dd9023C6",
-      "name": "Curve.Fi USD Stablecoin (Celo native bridge)",
-      "symbol": "crvUSD",
-      "chainId": 42220,
-      "decimals": 18
-    },
-    {
-      "address": "0xA80e318DC786c58b8BCB692579764F56F89Ab27e",
-      "name": "Gitcoin (Celo native bridge)",
-      "symbol": "GTC",
-      "chainId": 42220,
-      "decimals": 18
-    },
-    {
-      "address": "0xAC177dE2439bd0c7659c61F373Dbf247d1f41ABE",
-      "name": "Dai Stablecoin (Celo native bridge)",
-      "symbol": "DAI",
-      "chainId": 42220,
-      "decimals": 18
-    },
-    {
-      "address": "0xD221812de1BD094f35587EE8E174B07B6167D9Af",
-      "name": "Wrapped Ether (Celo native bridge)",
-      "symbol": "WETH",
-      "chainId": 42220,
-      "decimals": 18
-    },
-    {
-      "address": "0xEf6379Fa3090310862a42f6c732dBa2F20880F0A",
-      "name": "LUSD Stablecoin (Celo native bridge)",
-      "symbol": "LUSD",
-      "chainId": 42220,
-      "decimals": 18
-    },
-    {
-      "address": "0xF630876008a4eD9249FB4cAC978BA16827F52E91",
-      "name": "ChainLink Token (Celo native bridge)",
-      "symbol": "LINK",
-      "chainId": 42220,
-      "decimals": 18
-    },
-    {
-      "address": "0xF6A54aff8c97f7AF3CC86dbaeE88aF6a7AaB6288",
-      "name": "Aave Token (Celo native bridge)",
-      "symbol": "AAVE",
-      "chainId": 42220,
-      "decimals": 18
-    },
-    {
-      "address": "0xe00892B8636F0c7450177F89717539D656D870Fb",
-      "name": "PoolTogether (Celo native bridge)",
-      "symbol": "POOL",
-      "chainId": 42220,
-      "decimals": 18
-    },
-    {
-      "address": "0xeE571697998ec64e32B57D754D700c4dda2f2a0e",
-      "name": "Uniswap (Celo native bridge)",
-      "symbol": "UNI",
-      "chainId": 42220,
-      "decimals": 18
     },
     {
       "address": "0x0200C29006150606B650577BBE7B6248F58470c1",

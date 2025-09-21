@@ -1,10 +1,10 @@
 {
   "name": "SushiSwap Menu",
   "description": "",
-  "timestamp": "2025-09-14T01:52:31Z",
+  "timestamp": "2025-09-21T01:44:16Z",
   "version": {
-    "major": 22,
-    "minor": 1,
+    "major": 23,
+    "minor": 0,
     "patch": 0
   },
   "logoURI": "https://raw.githubusercontent.com/sushiswap/art/master/sushi/logo-256x256.png",
@@ -1173,6 +1173,7 @@
       "address": "0x25118290e6A5f4139381D072181157035864099d",
       "name": "RAIN",
       "symbol": "RAIN",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/69134/thumb/Rain_Logo_200_200.png?1757586453",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2267,7 +2268,7 @@
       "address": "0x4E200fE2f3eFb977d5fd9c430A41531FB04d97B8",
       "name": "Orderly Network",
       "symbol": "ORDER",
-      "logoURI": "https://asset-images.messari.io/images/0576a898-d635-4e3d-868a-024f2773dedf/128.png",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x4E200fE2f3eFb977d5fd9c430A41531FB04d97B8/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -4043,6 +4044,14 @@
       "name": "GOAT",
       "symbol": "GOA",
       "logoURI": "https://asset-images.messari.io/images/05e1b2ef-7936-499a-8537-15c15da08c8b/128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0x8d010bf9C26881788b4e6bf5Fd1bdC358c8F90b8",
+      "name": "Polkadot Token (Relay Chain)",
+      "symbol": "DOT",
+      "logoURI": "https://asset-images.messari.io/images/343894b4-7e6f-4c8b-9e15-586b481e1eb0/128.png",
       "chainId": 42161,
       "decimals": 18
     },

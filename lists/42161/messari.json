@@ -1,9 +1,9 @@
 {
   "name": "Messari Token List",
   "description": "",
-  "timestamp": "2025-09-21T02:16:36Z",
+  "timestamp": "2025-09-28T02:14:51Z",
   "version": {
-    "major": 117,
+    "major": 118,
     "minor": 0,
     "patch": 0
   },
@@ -5476,6 +5476,14 @@
       "decimals": 18
     },
     {
+      "address": "0x7FF7Fa94b8b66Ef313f7970d4EEbd2CB3103a2C0",
+      "name": "Vana",
+      "symbol": "VANA",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x7FF7Fa94b8b66Ef313f7970d4EEbd2CB3103a2C0/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
       "address": "0x7a2AbF0543674Ba1bB618B1E88118E8a4fefab48",
       "name": "abrdn Physical Palladium Shares ETF - Dinari",
       "symbol": "PALL.d",
@@ -7196,6 +7204,14 @@
       "decimals": 9
     },
     {
+      "address": "0xB1Fe27b32fFb5CE54E272C096547F1e86c19e72F",
+      "name": "rswETH",
+      "symbol": "rswETH",
+      "logoURI": "https://asset-images.messari.io/images/fc1cc39f-436c-44e0-ac6e-cb0a7c8b98d9/128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
       "address": "0xB1bC21f748AE2bE95674876710bc6D78235480e0",
       "name": "HORD Token [via ChainPort.io]",
       "symbol": "HORD",
@@ -8821,6 +8837,14 @@
       "name": "Autonomi",
       "symbol": "ANT",
       "logoURI": "https://asset-images.messari.io/images/e3a2cb3d-4144-45fd-923f-1760637f1f04/128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0xa88A1ED0Bac18727a615299CE5F557B8220A33d7",
+      "name": "WCrotch",
+      "symbol": "WCROTCH",
+      "logoURI": "https://asset-images.messari.io/images/9e0a1a7a-8a80-4947-abf5-cb86aba5b000/128.png",
       "chainId": 42161,
       "decimals": 18
     },

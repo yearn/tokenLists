@@ -1,9 +1,9 @@
 {
   "name": "DefiLlama",
   "description": "",
-  "timestamp": "2025-09-21T02:09:21Z",
+  "timestamp": "2025-09-28T02:19:02Z",
   "version": {
-    "major": 139,
+    "major": 140,
     "minor": 0,
     "patch": 0
   },
@@ -656,7 +656,7 @@
       "address": "0x4e107a0000DB66f0E9Fd2039288Bf811dD1f9c74",
       "name": "Velora",
       "symbol": "VLR",
-      "logoURI": "https://coin-images.coingecko.com/coins/images/55593/thumb/PNG_Round.png?1746809175",
+      "logoURI": "https://asset-images.messari.io/images/7fbda0d3-ae75-4cc9-958b-4ec2ed760e02/128.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -1044,6 +1044,14 @@
       "decimals": 18
     },
     {
+      "address": "0x7FF7Fa94b8b66Ef313f7970d4EEbd2CB3103a2C0",
+      "name": "Vana",
+      "symbol": "VANA",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x7FF7Fa94b8b66Ef313f7970d4EEbd2CB3103a2C0/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
       "address": "0x7a1263eC3Bf0a19e25C553B8A2C312e903262C5E",
       "name": "SAIL Token",
       "symbol": "SAIL",
@@ -1394,14 +1402,6 @@
       "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xBC7B1Ff1c6989f006a1185318eD4E7b5796e66E1/logo-128.png",
       "chainId": 10,
       "decimals": 18
-    },
-    {
-      "address": "0xC03b43d492d904406db2d7D57e67C7e8234bA752",
-      "name": "Wrapped USDR",
-      "symbol": "wUSDR",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xC03b43d492d904406db2d7D57e67C7e8234bA752/logo-128.png",
-      "chainId": 10,
-      "decimals": 9
     },
     {
       "address": "0xC26921B5b9ee80773774d36C84328ccb22c3a819",

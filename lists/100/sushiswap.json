@@ -1,10 +1,10 @@
 {
   "name": "SushiSwap Menu",
   "description": "",
-  "timestamp": "2025-09-21T01:44:16Z",
+  "timestamp": "2025-09-28T01:46:36Z",
   "version": {
     "major": 23,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   },
   "logoURI": "https://raw.githubusercontent.com/sushiswap/art/master/sushi/logo-256x256.png",
@@ -415,6 +415,14 @@
       "name": "DefiPulse Index on xDai",
       "symbol": "DPI",
       "logoURI": "https://tokens.1inch.io/0x1494ca1f11d487c2bbe4543e90080aeba4ba3c2b.png",
+      "chainId": 100,
+      "decimals": 18
+    },
+    {
+      "address": "0xD4dD9e2F021BB459D5A5f6c24C12fE09c5D45553",
+      "name": "Frankencoin",
+      "symbol": "ZCHF",
+      "logoURI": "https://asset-images.messari.io/images/2a3e42ae-e6da-438d-9576-fe37743293ee/128.png",
       "chainId": 100,
       "decimals": 18
     },

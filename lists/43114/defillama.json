@@ -1,9 +1,9 @@
 {
   "name": "DefiLlama",
   "description": "",
-  "timestamp": "2025-09-14T01:47:45Z",
+  "timestamp": "2025-09-28T02:19:02Z",
   "version": {
-    "major": 138,
+    "major": 140,
     "minor": 0,
     "patch": 0
   },
@@ -94,7 +94,7 @@
       "address": "0x0555E30da8f98308EdB960aa94C0Db47230d2B9c",
       "name": "Wrapped BTC",
       "symbol": "WBTC",
-      "logoURI": "https://coin-images.coingecko.com/coins/images/67285/thumb/wbtc.jpg?1752299240",
+      "logoURI": "https://assets.coingecko.com/coins/images/7598/large/wrapped_bitcoin_wbtc.png?1548822744",
       "chainId": 43114,
       "decimals": 8
     },
@@ -237,7 +237,7 @@
       "address": "0x0e16eEE9240561EBB2D2Fe2E7A86C87B492Af768",
       "name": "EXIM",
       "symbol": "EXIM",
-      "logoURI": "https://asset-images.messari.io/images/43c52255-1c8e-45df-9f0f-012aac5f32b3/128.png",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/67859/thumb/exim_logo.jpg?1754074422",
       "chainId": 43114,
       "decimals": 8
     },
@@ -301,7 +301,7 @@
       "address": "0x1263fEA931b86f3e8cE8AFBf29f66631b7be9347",
       "name": "BNPL Pay",
       "symbol": "BNPL",
-      "logoURI": "https://asset-images.messari.io/images/b6669ae7-dcc3-4f58-a0e8-8a98cb2823a2/128.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/18543/large/BNPL_Logo_200.png?1632361895",
       "chainId": 43114,
       "decimals": 18
     },
@@ -656,7 +656,7 @@
       "address": "0x26deBD39D5eD069770406FCa10A0E4f8d2c743eB",
       "name": "GUNZ",
       "symbol": "GUN",
-      "logoURI": "https://coin-images.coingecko.com/coins/images/55133/thumb/Ea90ZMxI_400x400.jpg?1744004695",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/55027/thumb/gunz.jpg?1743262298",
       "chainId": 43114,
       "decimals": 18
     },
@@ -672,7 +672,7 @@
       "address": "0x2F0eC0ED7D746936f1AeaC5702816d38329EE9e6",
       "name": "Degen Hours",
       "symbol": "SLEEP",
-      "logoURI": "https://asset-images.messari.io/images/3746b683-e7db-4743-ab9e-231b5cfaaf63/128.png",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/67719/thumb/200_x_200_sleep_pfp.png?1753620465",
       "chainId": 43114,
       "decimals": 18
     },
@@ -1217,6 +1217,14 @@
       "decimals": 18
     },
     {
+      "address": "0x4E200fE2f3eFb977d5fd9c430A41531FB04d97B8",
+      "name": "Orderly Network",
+      "symbol": "ORDER",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/38501/thumb/Orderly_Network_Coingecko_200*200.png?1717751359",
+      "chainId": 43114,
+      "decimals": 18
+    },
+    {
       "address": "0x4F94b8AEF08c92fEfe416af073F1Df1E284438EC",
       "name": "Landwolf",
       "symbol": "WOLF",
@@ -1301,14 +1309,6 @@
       "name": "Backed IBTA $ Treasury Bond 1-3yr",
       "symbol": "bIBTA",
       "logoURI": "https://assets.coingecko.com/coins/images/31880/large/b-IBTA-200x200.png?1695366147",
-      "chainId": 43114,
-      "decimals": 18
-    },
-    {
-      "address": "0x53B22d356F34e977e48921e07381DE0f8200b8e6",
-      "name": "MAG Token",
-      "symbol": "MAG",
-      "logoURI": "https://assets.coingecko.com/coins/images/27152/large/MAG.png?1662203851",
       "chainId": 43114,
       "decimals": 18
     },
@@ -1516,7 +1516,7 @@
       "address": "0x5c49b268c9841AFF1Cc3B0a418ff5c3442eE3F3b",
       "name": "Mai Stablecoin",
       "symbol": "MAI",
-      "logoURI": "ipfs://QmaJ1parKZi5JhUHFjKxvmkxC8ArTFT5PtSXN5kW58969m",
+      "logoURI": "https://assets.coingecko.com/coins/images/35541/large/mimatic-red.png?1709092837",
       "chainId": 43114,
       "decimals": 18
     },
@@ -2026,7 +2026,7 @@
       "address": "0x79bbF4508B1391af3A0F4B30bb5FC4aa9ab0E07C",
       "name": "HeyAnon",
       "symbol": "Anon",
-      "logoURI": "https://asset-images.messari.io/images/f7efe763-6d21-4c09-b337-a1f8bc87c00d/128.png",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/52961/thumb/ICON.png?1734862960",
       "chainId": 43114,
       "decimals": 18
     },
@@ -2250,7 +2250,7 @@
       "address": "0x8835A2F66A7AaCCB297Cb985831A616B75e2E16c",
       "name": "EURØP",
       "symbol": "EUROP",
-      "logoURI": "https://asset-images.messari.io/images/0c911912-5794-4c5a-a7fc-45aca48d538f/128.png",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/52132/thumb/europ-symbol-rgb.jpg?1732634862",
       "chainId": 43114,
       "decimals": 6
     },
@@ -2712,7 +2712,7 @@
       "address": "0xA3D68b74bF0528fdD07263c60d6488749044914b",
       "name": "Wrapped eETH",
       "symbol": "weETH",
-      "logoURI": "https://coin-images.coingecko.com/coins/images/68268/thumb/weeth.png?1755229739",
+      "logoURI": "missing_thumb.png",
       "chainId": 43114,
       "decimals": 18
     },
@@ -2913,14 +2913,6 @@
       "name": "GreatestOfAVAXTrenches",
       "symbol": "GOAT",
       "logoURI": "https://coin-images.coingecko.com/coins/images/66148/thumb/goat_coin.png?1748466241",
-      "chainId": 43114,
-      "decimals": 18
-    },
-    {
-      "address": "0xBD100d061E120b2c67A24453CF6368E63f1Be056",
-      "name": "iDeFiYieldProtocol",
-      "symbol": "iDYP",
-      "logoURI": "https://tokens.1inch.io/0xbd100d061e120b2c67a24453cf6368e63f1be056.png",
       "chainId": 43114,
       "decimals": 18
     },
@@ -3136,7 +3128,7 @@
       "address": "0xD4dD9e2F021BB459D5A5f6c24C12fE09c5D45553",
       "name": "Frankencoin",
       "symbol": "ZCHF",
-      "logoURI": "https://asset-images.messari.io/images/2a3e42ae-e6da-438d-9576-fe37743293ee/128.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/37150/large/Untitled_design_%2818%29.png?1713464171",
       "chainId": 43114,
       "decimals": 18
     },
@@ -3208,7 +3200,7 @@
       "address": "0xE08b4c1005603427420e64252a8b120cacE4D122",
       "name": "Franklin OnChain U.S. Government Money Fund",
       "symbol": "BENJI",
-      "logoURI": "https://coin-images.coingecko.com/coins/images/39660/thumb/FOBXX.jpg?1723523072",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/66409/thumb/Benji_Logo.png?1749371083",
       "chainId": 43114,
       "decimals": 18
     },
@@ -3786,6 +3778,14 @@
       "decimals": 18
     },
     {
+      "address": "0xca2671Dcd031a72359f456C212F62A9bDa737cD7",
+      "name": "YUSD",
+      "symbol": "YUSD",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/55085/thumb/Figma_Group_2087326928.png?1743664857",
+      "chainId": 43114,
+      "decimals": 18
+    },
+    {
       "address": "0xcaF5191fc480F43e4DF80106c7695ECA56E48B18",
       "name": "Akita Inu",
       "symbol": "AKITA",
@@ -4076,7 +4076,7 @@
       "address": "0xf8B22737CbfeA137f9B2737D1DAb2a8a21608ceE",
       "name": "AgentXYZ",
       "symbol": "TRADER",
-      "logoURI": "https://asset-images.messari.io/images/b0a3ccd3-36eb-462a-8f88-65d14453bc96/128.png",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/55473/thumb/AgentXYZ_Token_logo.png?1746211467",
       "chainId": 43114,
       "decimals": 18
     },
@@ -4084,7 +4084,7 @@
       "address": "0xf9FB20B8E097904f0aB7d12e9DbeE88f2dcd0F16",
       "name": "Stable Coin",
       "symbol": "SBC",
-      "logoURI": "https://asset-images.messari.io/images/0d6b78d8-1760-4963-8821-84b00e9a825f/128.png",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/68416/thumb/sbc-mark.png?1755691990",
       "chainId": 43114,
       "decimals": 18
     },

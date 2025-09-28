@@ -1,9 +1,9 @@
 {
   "name": "Messari Token List",
   "description": "",
-  "timestamp": "2025-09-21T02:16:36Z",
+  "timestamp": "2025-09-28T02:14:51Z",
   "version": {
-    "major": 117,
+    "major": 118,
     "minor": 0,
     "patch": 0
   },
@@ -1223,6 +1223,14 @@
       "name": "Rai Reflex Index",
       "symbol": "RAI",
       "logoURI": "https://tokens.1inch.io/0x7fb688ccf682d58f86d7e38e03f9d22e7705448b.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x7FF7Fa94b8b66Ef313f7970d4EEbd2CB3103a2C0",
+      "name": "Vana",
+      "symbol": "VANA",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x7FF7Fa94b8b66Ef313f7970d4EEbd2CB3103a2C0/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },

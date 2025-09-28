@@ -1,10 +1,10 @@
 {
   "name": "Yearn Token List",
   "description": "",
-  "timestamp": "2025-09-21T02:06:29Z",
+  "timestamp": "2025-09-28T02:18:47Z",
   "version": {
     "major": 45,
-    "minor": 26,
+    "minor": 27,
     "patch": 0
   },
   "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e/logo.svg",
@@ -1345,6 +1345,14 @@
       "decimals": 18
     },
     {
+      "address": "0x2dBE53408613BEF23597Be94c1Fd453Ac0147575",
+      "name": "PT mPendle 26MAR2026",
+      "symbol": "PT-mPendle-26MAR2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x2dBE53408613BEF23597Be94c1Fd453Ac0147575/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
       "address": "0x2e48847FE29C3883c98125Cb2C44244d6602d549",
       "name": "Yearn-Silo USDC.e Vault",
       "symbol": "yvSiloUSDC.e",
@@ -1877,6 +1885,14 @@
       "name": "PT gDAI 26SEP2024",
       "symbol": "PT-gDAI-26SEP2024",
       "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x4439FE47139be8B9b13635C142569c3e60D71259/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0x44688047C0a8BAb55BF0B19f9d47D567b2C3319F",
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x44688047C0a8BAb55BF0B19f9d47D567b2C3319F/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -3621,6 +3637,14 @@
       "decimals": 18
     },
     {
+      "address": "0x93De1A69319972412B956DE5fc18128cF82C6BD7",
+      "name": "PT Staked ePENDLE 26MAR2026",
+      "symbol": "PT-stk-EPendle-26MAR2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x93De1A69319972412B956DE5fc18128cF82C6BD7/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
       "address": "0x93b346b6BC2548dA6A1E7d98E9a421B42541425b",
       "name": "LUSD Stablecoin",
       "symbol": "LUSD",
@@ -5027,6 +5051,14 @@
       "decimals": 18
     },
     {
+      "address": "0xa71eDfC2554B93c8F2303440be37248b6b909D3A",
+      "name": "YT mPendle 26MAR2026",
+      "symbol": "YT-mPendle-26MAR2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xa71eDfC2554B93c8F2303440be37248b6b909D3A/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
       "address": "0xa7FCe463815f18DbE246152C5291B84db07c0bcd",
       "name": "wstETH-ETH3",
       "symbol": "wstETH-ETH3",
@@ -5271,6 +5303,22 @@
       "name": "POOPSIES Staking Vault",
       "symbol": "pvPOOPSIES",
       "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xc1637775C9F217FFEAe03d8D707Ee1c88363F8D6/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0xc24FFEBd4FDBA787df94F5089F0FaBC252116ab7",
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xc24FFEBd4FDBA787df94F5089F0FaBC252116ab7/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0xc2E67813E097eae987B837f6FeA8CfbfC6834fa8",
+      "name": "YT Staked ePENDLE 26MAR2026",
+      "symbol": "YT-stk-EPendle-26MAR2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xc2E67813E097eae987B837f6FeA8CfbfC6834fa8/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },

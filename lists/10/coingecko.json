@@ -1,9 +1,9 @@
 {
   "name": "CoinGecko",
   "description": "",
-  "timestamp": "2025-09-28T01:41:49Z",
+  "timestamp": "2025-10-05T02:14:25Z",
   "version": {
-    "major": 143,
+    "major": 144,
     "minor": 0,
     "patch": 0
   },
@@ -2049,6 +2049,14 @@
       "name": "RadioShack Token",
       "symbol": "RADIO",
       "logoURI": "https://optimistic.etherscan.io/token/images/radio_32.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xfD28f108e95f4D41daAE9dbfFf707D677985998E",
+      "name": "Parallel Governance Token",
+      "symbol": "PRL",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xfD28f108e95f4D41daAE9dbfFf707D677985998E/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },

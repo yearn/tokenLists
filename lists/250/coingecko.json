@@ -1,9 +1,9 @@
 {
   "name": "CoinGecko",
   "description": "",
-  "timestamp": "2025-09-28T01:41:49Z",
+  "timestamp": "2025-10-05T02:14:25Z",
   "version": {
-    "major": 143,
+    "major": 144,
     "minor": 0,
     "patch": 0
   },
@@ -140,6 +140,14 @@
       "logoURI": "https://ftmscan.com/token/images/axlusdc_32.png",
       "chainId": 250,
       "decimals": 6
+    },
+    {
+      "address": "0x1D1764F04DE29da6b90ffBef372D1A45596C4855",
+      "name": "MIMO Parallel Governance Token",
+      "symbol": "MIMO",
+      "logoURI": "https://tokens.1inch.io/0x1d1764f04de29da6b90ffbef372d1a45596c4855.png",
+      "chainId": 250,
+      "decimals": 18
     },
     {
       "address": "0x1E4F97b9f9F913c46F1632781732927B9019C68b",

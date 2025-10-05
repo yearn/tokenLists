@@ -1,10 +1,10 @@
 {
   "name": "Yearn Minimal Token List",
   "description": "",
-  "timestamp": "2025-09-28T01:43:23Z",
+  "timestamp": "2025-10-05T01:44:20Z",
   "version": {
     "major": 10,
-    "minor": 11,
+    "minor": 12,
     "patch": 0
   },
   "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e/logo.svg",
@@ -831,6 +831,14 @@
       "decimals": 18
     },
     {
+      "address": "0x12fd502e2052CaFB41eccC5B596023d9978057d6",
+      "name": "Staked Stream BTC",
+      "symbol": "xBTC",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x12fd502e2052CaFB41eccC5B596023d9978057d6/logo-128.png",
+      "chainId": 1,
+      "decimals": 8
+    },
+    {
       "address": "0x13120b7599DdF33782c748A847cc1d3c96387Ecd",
       "name": "YFI/upYFI",
       "symbol": "upYFI",
@@ -1654,6 +1662,14 @@
       "decimals": 18
     },
     {
+      "address": "0x27f9d358C50612B3E6b5Ca1260b0BE4B8E4F877D",
+      "name": "POINTS Staking Vault",
+      "symbol": "pvPOINTS",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x27f9d358C50612B3E6b5Ca1260b0BE4B8E4F877D/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0x27ffA71dBB25A7C52A3Da74C6eED8C94c9A43E0d",
       "name": "Aave V3 crvUSD Lender",
       "symbol": "yscrvUSD",
@@ -2143,6 +2159,14 @@
       "address": "0x326f5834d73a2dc02b3c492E9ef1b24399d430b3",
       "name": "StargateToken",
       "symbol": "STG",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x332142140F3791ca7726e4CfC184Fb737F43918C",
+      "name": "Curve sfrxUSD2 Factory yVault",
+      "symbol": "yvCurve-sfrxUSD2-f",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x332142140F3791ca7726e4CfC184Fb737F43918C/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -4228,6 +4252,7 @@
       "address": "0x64273624eb57c5cA961d366CBF3968e760Bf0452",
       "name": "DOLA/wstUSR",
       "symbol": "DOLAwstUSR",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x64273624eb57c5cA961d366CBF3968e760Bf0452/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -6688,6 +6713,14 @@
       "decimals": 18
     },
     {
+      "address": "0x9F30507C264Cc6EB5bE35b18ff9AD7B4539Aa920",
+      "name": "SY Staked infiniFi USD",
+      "symbol": "SY-siUSD",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x9F30507C264Cc6EB5bE35b18ff9AD7B4539Aa920/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0x9F4330700a36B29952869fac9b33f45EEdd8A3d8",
       "name": "Yearn BOLD",
       "symbol": "yBOLD",
@@ -7696,6 +7729,14 @@
       "decimals": 18
     },
     {
+      "address": "0xC87D2D5a2117A495e0F04EF9304dA603a86B7Ad5",
+      "name": "SY Aladdin sdPENDLE",
+      "symbol": "SY-asdPENDLE",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xC87D2D5a2117A495e0F04EF9304dA603a86B7Ad5/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0xC8BE5E2aE51c3F75FcfBD900505Ec63Ce7dE320c",
       "name": "Balancer stETH Factory yVault",
       "symbol": "yvBal-stETH-f",
@@ -8535,6 +8576,13 @@
       "name": "slvlUSD/lvlUSD",
       "symbol": "s/lvlUSD",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xF244324FBB57f09F0606FF088bC894b051d632Eb/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xF292eB6c5dcb693Eaaf392D0562a01C3710E5978",
+      "name": "sfrxUSD/frxUSD",
+      "symbol": "sfrxUSD2",
       "chainId": 1,
       "decimals": 18
     },
@@ -10075,6 +10123,14 @@
       "name": "Curve T-ETH Factory yVault",
       "symbol": "yvCurve-T-ETH-f",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xd6b2f4F0586BCfc9B1bf5cD8E22546aDD7B81a64/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xd7C1EB0fe4A30d3B2a846C04aa6300888f087A5F",
+      "name": "POINTS",
+      "symbol": "POINTS",
+      "logoURI": "https://assets.coingecko.com/coins/images/33666/large/blank.png?1702698679",
       "chainId": 1,
       "decimals": 18
     },

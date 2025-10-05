@@ -1,10 +1,10 @@
 {
   "name": "Bebop",
   "description": "",
-  "timestamp": "2025-09-28T01:43:36Z",
+  "timestamp": "2025-10-05T01:44:26Z",
   "version": {
-    "major": 21,
-    "minor": 1,
+    "major": 22,
+    "minor": 0,
     "patch": 0
   },
   "logoURI": "https://bebop-public-images.s3.eu-west-2.amazonaws.com/bebop-logo.png",
@@ -338,6 +338,14 @@
       "decimals": 18
     },
     {
+      "address": "0x39b8B6385416f4cA36a20319F70D28621895279D",
+      "name": "Monerium EURe",
+      "symbol": "EURe",
+      "logoURI": "https://asset-images.messari.io/images/a5975b01-3ae2-4331-8c76-14766e2d9da3/128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0x39fBBABf11738317a448031930706cd3e612e1B9",
       "name": "Wrapped XRP",
       "symbol": "WXRP",
@@ -518,6 +526,14 @@
       "name": "Blur",
       "symbol": "BLUR",
       "logoURI": "https://assets.coingecko.com/coins/images/28453/large/blur.png?1670745921",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x52A8845DF664D76C69d2EEa607CD793565aF42B8",
+      "name": "ApeX Token",
+      "symbol": "APEX",
+      "logoURI": "https://etherscan.io/token/images/apex_32.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -1337,6 +1353,14 @@
       "decimals": 18
     },
     {
+      "address": "0xFA1C09fC8B491B6A4d3Ff53A10CAd29381b3F949",
+      "name": "Falcon Finance",
+      "symbol": "FF",
+      "logoURI": "https://assets.coingecko.com/coins/images/69121/large/ff.png?1757573403",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0xFDFfB411C4A70AA7C95D5C981a6Fb4Da867e1111",
       "name": "Sahara AI",
       "symbol": "SAHARA",
@@ -1673,186 +1697,10 @@
       "decimals": 18
     },
     {
-      "address": "0x000Ae314E2A2172a039B26378814C252734f556A",
-      "name": "Aster",
-      "symbol": "ASTER",
-      "logoURI": "https://assets.coingecko.com/coins/images/69040/large/_ASTER.png?1757326782",
-      "chainId": 56,
-      "decimals": 18
-    },
-    {
-      "address": "0x0DF0587216a4a1bB7d5082fdc491d93d2dD4B413",
-      "name": "Cheems",
-      "symbol": "Cheems",
-      "logoURI": "https://assets.coingecko.com/coins/images/30376/large/Hg4_Lhbg_400x400.jpg?1696529270",
-      "chainId": 56,
-      "decimals": 18
-    },
-    {
-      "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
-      "name": "PancakeSwap Token",
-      "symbol": "Cake",
-      "logoURI": "https://tokens.1inch.io/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82.png",
-      "chainId": 56,
-      "decimals": 18
-    },
-    {
-      "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
-      "name": "Dai Token",
-      "symbol": "DAI",
-      "logoURI": "https://tokens.1inch.io/0x6b175474e89094c44da98b954eedeac495271d0f.png",
-      "chainId": 56,
-      "decimals": 18
-    },
-    {
-      "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
-      "name": "Ethereum Token",
-      "symbol": "ETH",
-      "logoURI": "https://tokens.1inch.io/0x2170ed0880ac9a755fd29b2688956bd959f933f8.png",
-      "chainId": 56,
-      "decimals": 18
-    },
-    {
-      "address": "0x364f210f430eC2448Fc68A49203040F6124096F0",
-      "name": "Coinbase xStock",
-      "symbol": "COINx",
-      "logoURI": "https://assets.coingecko.com/coins/images/55602/large/Ticker_COIN__Company_Name_Coinbase__size_200x200_2x.png?1746858187",
-      "chainId": 56,
-      "decimals": 18
-    },
-    {
-      "address": "0x405FBc9004D857903bFD6b3357792D71a50726b0",
-      "name": "Plasma",
-      "symbol": "XPL",
-      "logoURI": "https://assets.coingecko.com/coins/images/69509/large/plasma.png?1758805469",
-      "chainId": 56,
-      "decimals": 18
-    },
-    {
-      "address": "0x40af3827F39D0EAcBF4A168f8D4ee67c121D11c9",
-      "name": "TrueUSD",
-      "symbol": "TUSD",
-      "logoURI": "https://tokens.1inch.io/0x40af3827f39d0eacbf4a168f8d4ee67c121d11c9.png",
-      "chainId": 56,
-      "decimals": 18
-    },
-    {
-      "address": "0x47474747477b199288bF72a1D702f7Fe0Fb1DEeA",
-      "name": "World Liberty Financial",
-      "symbol": "WLFI",
-      "logoURI": "https://assets.coingecko.com/coins/images/50767/large/wlfi.png?1756438915",
-      "chainId": 56,
-      "decimals": 18
-    },
-    {
-      "address": "0x55d398326f99059fF775485246999027B3197955",
-      "name": "Tether USD",
-      "symbol": "USDT",
-      "logoURI": "https://tokens.1inch.io/0xdac17f958d2ee523a2206206994597c13d831ec7.png",
-      "chainId": 56,
-      "decimals": 18
-    },
-    {
-      "address": "0x6894CDe390a3f51155ea41Ed24a33A4827d3063D",
-      "name": "Simons Cat",
-      "symbol": "CAT",
-      "logoURI": "https://assets.coingecko.com/coins/images/39765/large/Simon's_Cat_Logo.png?1724017505",
-      "chainId": 56,
-      "decimals": 18
-    },
-    {
-      "address": "0x6bdcCe4A559076e37755a78Ce0c06214E59e4444",
-      "name": "B",
-      "symbol": "B",
-      "logoURI": "https://assets.coingecko.com/coins/images/55974/large/T7asvmCb_400x400.jpg?1747902862",
-      "chainId": 56,
-      "decimals": 18
-    },
-    {
-      "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
-      "name": "BTCB Token",
-      "symbol": "BTCB",
-      "logoURI": "https://tokens.1inch.io/0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c.png",
-      "chainId": 56,
-      "decimals": 18
-    },
-    {
-      "address": "0x783c3f003f172c6Ac5AC700218a357d2D66Ee2a2",
-      "name": "BSquared Token",
-      "symbol": "B2",
-      "logoURI": "https://assets.coingecko.com/coins/images/55433/large/bsquared.jpg?1745995924",
-      "chainId": 56,
-      "decimals": 18
-    },
-    {
-      "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
-      "name": "USD Coin",
-      "symbol": "USDC",
-      "logoURI": "https://tokens.1inch.io/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.png",
-      "chainId": 56,
-      "decimals": 18
-    },
-    {
-      "address": "0x8d0D000Ee44948FC98c9B98A4FA4921476f08B0d",
-      "name": "World Liberty Financial USD",
-      "symbol": "USD1",
-      "logoURI": "https://assets.coingecko.com/coins/images/54977/large/USD1_1000x1000_transparent.png?1749297002",
-      "chainId": 56,
-      "decimals": 18
-    },
-    {
-      "address": "0x8dEdf84656fa932157e27C060D8613824e7979e3",
-      "name": "STBL_Token - STBL Governance Token",
-      "symbol": "STBL",
-      "logoURI": "https://assets.coingecko.com/coins/images/69277/large/stbl.png?1758022676",
-      "chainId": 56,
-      "decimals": 18
-    },
-    {
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "name": "Binance Smart Chain",
       "symbol": "BNB",
       "logoURI": "https://token-assets-one.vercel.app/api/token/56/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE/logo-128.png",
-      "chainId": 56,
-      "decimals": 18
-    },
-    {
-      "address": "0xF4C8E32EaDEC4BFe97E0F595AdD0f4450a863a11",
-      "name": "THENA",
-      "symbol": "THE",
-      "logoURI": "https://tokens.1inch.io/0xf4c8e32eadec4bfe97e0f595add0f4450a863a11.png",
-      "chainId": 56,
-      "decimals": 18
-    },
-    {
-      "address": "0xabE8E5CabE24Cb36df9540088fD7cE1175b9bc52",
-      "name": "Solv",
-      "symbol": "SOLV",
-      "logoURI": "https://assets.coingecko.com/coins/images/27987/large/solv.jpg?1736852670",
-      "chainId": 56,
-      "decimals": 18
-    },
-    {
-      "address": "0xb9E1Fd5A02D3A33b25a14d661414E6ED6954a721",
-      "name": "SOON Token",
-      "symbol": "SOON",
-      "logoURI": "https://assets.coingecko.com/coins/images/55124/large/red_2.PNG?1743843131",
-      "chainId": 56,
-      "decimals": 18
-    },
-    {
-      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
-      "name": "Wrapped BNB",
-      "symbol": "WBNB",
-      "logoURI": "https://tokens.1inch.io/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png",
-      "chainId": 56,
-      "decimals": 18
-    },
-    {
-      "address": "0xfEbDEd1B0986a8ee107f5AB1a1c5a813491DeCEB",
-      "name": "Circle xStock",
-      "symbol": "CRCLx",
-      "logoURI": "https://assets.coingecko.com/coins/images/66918/large/CRCLx.png?1751052233",
       "chainId": 56,
       "decimals": 18
     },

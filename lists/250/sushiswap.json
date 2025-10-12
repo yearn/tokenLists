@@ -1,10 +1,10 @@
 {
   "name": "SushiSwap Menu",
   "description": "",
-  "timestamp": "2025-10-05T01:43:29Z",
+  "timestamp": "2025-10-12T01:34:38Z",
   "version": {
     "major": 24,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   },
   "logoURI": "https://raw.githubusercontent.com/sushiswap/art/master/sushi/logo-256x256.png",
@@ -236,6 +236,14 @@
       "logoURI": "https://token-assets-one.vercel.app/api/token/250/0x321162Cd933E2Be498Cd2267a90534A804051b11/logo-128.png",
       "chainId": 250,
       "decimals": 8
+    },
+    {
+      "address": "0x33333ee26a7d02e41c33828B42Fb1E0889143477",
+      "name": "LIQR",
+      "symbol": "LIQR",
+      "logoURI": "https://tokens.1inch.io/0x33333ee26a7d02e41c33828b42fb1e0889143477.png",
+      "chainId": 250,
+      "decimals": 18
     },
     {
       "address": "0x39551b1c26ce03714E4661833B0FA730174bd7e9",

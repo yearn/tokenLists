@@ -1,9 +1,9 @@
 {
   "name": "CoinGecko",
   "description": "",
-  "timestamp": "2025-10-05T02:14:25Z",
+  "timestamp": "2025-10-12T01:34:45Z",
   "version": {
-    "major": 144,
+    "major": 145,
     "minor": 0,
     "patch": 0
   },
@@ -753,6 +753,7 @@
       "address": "0x139450C2dCeF827C9A2a0Bb1CB5506260940c9fd",
       "name": "sSuperUSD boring vault",
       "symbol": "sSuperUSD",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/67821/thumb/sSuperUSD_200x200.png?1753943152",
       "chainId": 42161,
       "decimals": 6
     },
@@ -2245,6 +2246,7 @@
       "address": "0x40461291347e1eCbb09499F3371D3f17f10d7159",
       "name": "XAUt0",
       "symbol": "XAUt0",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/66560/thumb/XAUt0_Token_Icon_Gold.png?1749747942",
       "chainId": 42161,
       "decimals": 6
     },
@@ -2468,6 +2470,13 @@
       "name": "Wrapped Merck xStock",
       "symbol": "wMRKx",
       "logoURI": "https://asset-images.messari.io/images/25d58ee1-873f-467b-acc6-1ac1887a9e4c/128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0x476ef9ac6D8673E220d0E8BC0a810C2Dc6A2AA84",
+      "name": "United States Permissionless Dollar",
+      "symbol": "USPD",
       "chainId": 42161,
       "decimals": 18
     },
@@ -3322,6 +3331,13 @@
       "decimals": 18
     },
     {
+      "address": "0x64445f0aecC51E94aD52d8AC56b7190e764E561a",
+      "name": "Wrapped Frax",
+      "symbol": "WFRAX",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
       "address": "0x6468cD2aA21A87b4E52D89B8Dd123FbB5db101ed",
       "name": "Roblox Corporation - Dinari",
       "symbol": "RBLX.d",
@@ -4155,6 +4171,14 @@
       "name": "McDonald's xStock",
       "symbol": "MCDx",
       "logoURI": "https://asset-images.messari.io/images/e3f028bf-ddad-440c-94cb-0aa7cb16b855/128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0x80Eede496655FB9047dd39d9f418d5483ED600df",
+      "name": "Frax USD",
+      "symbol": "frxUSD",
+      "logoURI": "https://asset-images.messari.io/images/4e911f82-0423-485c-9298-bd1b1d56d936/128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -5831,6 +5855,13 @@
       "decimals": 18
     },
     {
+      "address": "0xE2B1dc2D4A3b4E59FDF0c47B71A7A86391a8B35a",
+      "name": "RWA Inc",
+      "symbol": "RWA",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
       "address": "0xE333e7754a2DC1E020a162Ecab019254b9DaB653",
       "name": "XSGD",
       "symbol": "XSGD",
@@ -5954,14 +5985,6 @@
       "name": "O3 Swap Token",
       "symbol": "O3",
       "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0xEe9801669C6138E84bD50dEB500827b776777d28/logo.png",
-      "chainId": 42161,
-      "decimals": 18
-    },
-    {
-      "address": "0xEf04804E1e474D3F9B73184D7ef5D786F3Fce930",
-      "name": "Wall Street Games",
-      "symbol": "WSG",
-      "logoURI": "https://assets.coingecko.com/coins/images/36483/large/wsg.jpeg?1711539007",
       "chainId": 42161,
       "decimals": 18
     },
@@ -6767,14 +6790,6 @@
       "address": "0xc3aBC47863524ced8DAf3ef98d74dd881E131C38",
       "name": "Lumi Finance Token",
       "symbol": "LUA",
-      "chainId": 42161,
-      "decimals": 18
-    },
-    {
-      "address": "0xc4CBd54ffA7A6a142fd73554cC6C23DD95CD8E01",
-      "name": "GAME",
-      "symbol": "GAME",
-      "logoURI": "https://asset-images.messari.io/images/c57800bf-ebba-4d69-a748-054b8019b7be/128.png",
       "chainId": 42161,
       "decimals": 18
     },

@@ -1,10 +1,10 @@
 {
   "name": "SmolAssets",
   "description": "A list of tokens supported by Smoldapp Token Assets repository",
-  "timestamp": "2025-10-05T02:15:26Z",
+  "timestamp": "2025-10-12T01:32:52Z",
   "version": {
     "major": 23,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   },
   "logoURI": "https://raw.githubusercontent.com/smoldapp/tokenLists/main/.github/tokenlistooor.svg",
@@ -450,6 +450,14 @@
       "name": "Backed NVIDIA Corp",
       "symbol": "bNVDA",
       "logoURI": "https://token-assets-one.vercel.app/api/token/137/0xA34C5e0AbE843E10461E2C9586Ea03E55Dbcc495/logo-128.png",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
+      "address": "0xB7b926A5be3A70E86DDcb395024a875b5b6ac1B6",
+      "name": "CANA Holdings California Carbon Credits(PoS)",
+      "symbol": "CANA",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/137/0xB7b926A5be3A70E86DDcb395024a875b5b6ac1B6/logo-128.png",
       "chainId": 137,
       "decimals": 18
     },

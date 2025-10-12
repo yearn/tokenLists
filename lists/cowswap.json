@@ -1,11 +1,11 @@
 {
   "name": "CoW Swap",
   "description": "",
-  "timestamp": "2025-10-05T01:44:28Z",
+  "timestamp": "2025-10-12T02:10:57Z",
   "version": {
     "major": 4,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   },
   "logoURI": "https://raw.githubusercontent.com/cowprotocol/cowswap/c5974fb8a45d678029ecb013dab33722e152daaa/src/assets/cow-swap/cow_v2.svg",
   "keywords": [
@@ -256,6 +256,7 @@
       "address": "0x1e33E98aF620F1D563fcD3cfd3C75acE841204ef",
       "name": "Dialectic USD",
       "symbol": "DUSD",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/69692/thumb/DUSD_RED_200.png?1759315938",
       "chainId": 1,
       "decimals": 18
     },
@@ -836,6 +837,7 @@
       "address": "0x871aB8E36CaE9AF35c6A3488B049965233DeB7ed",
       "name": "Dialectic ETH",
       "symbol": "DETH",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/69693/thumb/DETH_RED_200.png?1759316017",
       "chainId": 1,
       "decimals": 18
     },
@@ -899,6 +901,7 @@
       "address": "0x972966bCC17f7d818De4F27Dc146Ef539c231BdF",
       "name": "Dialectic BTC",
       "symbol": "DBIT",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/69694/thumb/DBIT_RED_200.png?1759316107",
       "chainId": 1,
       "decimals": 18
     },

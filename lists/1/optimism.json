@@ -1,10 +1,10 @@
 {
   "name": "Superchain Token List",
   "description": "",
-  "timestamp": "2025-10-05T01:52:47Z",
+  "timestamp": "2025-10-12T02:10:40Z",
   "version": {
     "major": 8,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   },
   "logoURI": "https://ethereum-optimism.github.io/optimism.svg",
@@ -1598,6 +1598,13 @@
       "name": "Ambire Wallet",
       "symbol": "WALLET",
       "logoURI": "https://assets.coingecko.com/coins/images/23154/large/wallet.PNG?1696522445",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x88888888a98Cb1525A98c354F17EFc8d73EF07A6",
+      "name": "MVP Token V2",
+      "symbol": "MVP",
       "chainId": 1,
       "decimals": 18
     },

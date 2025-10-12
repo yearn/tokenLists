@@ -1,10 +1,10 @@
 {
   "name": "Yearn Token List",
   "description": "",
-  "timestamp": "2025-10-05T01:54:03Z",
+  "timestamp": "2025-10-12T01:36:33Z",
   "version": {
     "major": 45,
-    "minor": 28,
+    "minor": 29,
     "patch": 0
   },
   "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e/logo.svg",
@@ -705,6 +705,14 @@
       "decimals": 18
     },
     {
+      "address": "0x1B0dbE96a5338D6D4735DbA3c16B49BB12cEBA81",
+      "name": "PILLAR",
+      "symbol": "PLR",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x1B0dbE96a5338D6D4735DbA3c16B49BB12cEBA81/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
       "address": "0x1B33c8D479Ce5596fF9756a3010E70a7412938E2",
       "name": "YT GM ARB-USDC 28MAR2024",
       "symbol": "YT-GM-ARB-USDC-28MAR2024",
@@ -1149,6 +1157,14 @@
       "name": "xCRV-WETH3",
       "symbol": "xCRV-WETH3",
       "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x267A8CC852006E550AdE03673D4aF31E47dd7Af9/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0x26d5aD1E6b0ACA199EEdc1f56869825E365a120A",
+      "name": "PLR Staking Vault",
+      "symbol": "pvPLR",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x26d5aD1E6b0ACA199EEdc1f56869825E365a120A/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },

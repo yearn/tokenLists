@@ -1,10 +1,10 @@
 {
   "name": "Fantom",
   "description": "A curated list of popular tokens from all the token lists on tokenlistooor.",
-  "timestamp": "2025-10-12T02:22:28Z",
+  "timestamp": "2025-10-19T02:35:40Z",
   "version": {
-    "major": 95,
-    "minor": 1,
+    "major": 96,
+    "minor": 0,
     "patch": 0
   },
   "logoURI": "https://token-assets-one.vercel.app/chains/250/logo-128.png",
@@ -688,6 +688,14 @@
       "decimals": 18
     },
     {
+      "address": "0x9879aBDea01a879644185341F7aF7d8343556B7a",
+      "name": "TrueUSD",
+      "symbol": "TUSD",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/250/0x9879aBDea01a879644185341F7aF7d8343556B7a/logo-128.png",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
       "address": "0x9E73F99EE061C8807F69f9c6CCc44ea3d8c373ee",
       "name": "Frax Ether",
       "symbol": "frxETH",
@@ -923,6 +931,13 @@
       "name": "Nord Token",
       "symbol": "NORD",
       "logoURI": "https://assets.coingecko.com/coins/images/13630/large/nord.jpg?1610465136",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "address": "0xf16e81dce15B08F326220742020379B855B87DF9",
+      "name": "IceToken",
+      "symbol": "ICE",
       "chainId": 250,
       "decimals": 18
     },

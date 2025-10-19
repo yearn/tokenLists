@@ -1,10 +1,10 @@
 {
   "name": "Yearn Token List",
   "description": "",
-  "timestamp": "2025-10-12T01:36:33Z",
+  "timestamp": "2025-10-19T02:04:21Z",
   "version": {
-    "major": 45,
-    "minor": 29,
+    "major": 46,
+    "minor": 0,
     "patch": 0
   },
   "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e/logo.svg",
@@ -3354,6 +3354,14 @@
       "decimals": 18
     },
     {
+      "address": "0x233062C1de76a38a4f41aB7c32E7bdB80A1dfc02",
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x233062C1de76a38a4f41aB7c32E7bdB80A1dfc02/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0x23346B04a7f55b8760E5860AA5A77383D63491cD",
       "name": "Staked yBOLD",
       "symbol": "ysyBOLD",
@@ -3534,6 +3542,14 @@
       "name": "Spectra ERC4626 Wrapper: Universal ETH",
       "symbol": "sw-uniETH",
       "logoURI": "https://assets.smold.app/api/token/1/0x248f43B622cE2F35A14dB3FC528284730b619cD5/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x24A3D725C37A8D1a66Eb87f0E5D07fE67c120035",
+      "name": "Eden Token",
+      "symbol": "EDEN",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/68283/thumb/eden.png?1755242478",
       "chainId": 1,
       "decimals": 18
     },
@@ -3790,14 +3806,6 @@
       "name": "YT Karak sUSDe 30JAN2025",
       "symbol": "YT-Karak-sUSDe-30JAN2025",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x27f6F2f5e87A383471C79296c64E4e82269877f7/logo-128.png",
-      "chainId": 1,
-      "decimals": 18
-    },
-    {
-      "address": "0x27f9d358C50612B3E6b5Ca1260b0BE4B8E4F877D",
-      "name": "POINTS Staking Vault",
-      "symbol": "pvPOINTS",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x27f9d358C50612B3E6b5Ca1260b0BE4B8E4F877D/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -4892,8 +4900,8 @@
     },
     {
       "address": "0x332142140F3791ca7726e4CfC184Fb737F43918C",
-      "name": "Curve sfrxUSD2 Factory yVault",
-      "symbol": "yvCurve-sfrxUSD2-f",
+      "name": "Curve sfrxUSD-frxUSD Factory yVault",
+      "symbol": "yvCurve-sfrxUSD-frxUSD-f",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x332142140F3791ca7726e4CfC184Fb737F43918C/logo-128.png",
       "chainId": 1,
       "decimals": 18
@@ -6437,6 +6445,14 @@
       "decimals": 18
     },
     {
+      "address": "0x41d49208a7E61EEd06b3504262C54E7C5fF04bFc",
+      "name": "PT Bitcoin MEV Capital 25DEC2025",
+      "symbol": "PT-mevBTC-25DEC2025",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x41d49208a7E61EEd06b3504262C54E7C5fF04bFc/logo-128.png",
+      "chainId": 1,
+      "decimals": 8
+    },
+    {
       "address": "0x4213458C69c19E6792510E1153cb0c5834665fdC",
       "name": "Balancer Boosted Aave USD Pool yVault",
       "symbol": "yvBalancer-BoostedAaveUSD",
@@ -6457,6 +6473,14 @@
       "name": "sDAI/USDM Rebase Enjoyer Pool",
       "symbol": "sdai-usdm",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x425BfB93370F14fF525aDb6EaEAcfE1f4e3b5802/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x425a570e503365a75ca1f55468FB56Dee41A4537",
+      "name": "PT SparkleX ETH Vault 8JAN2026",
+      "symbol": "PT-spETH-8JAN2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x425a570e503365a75ca1f55468FB56Dee41A4537/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -9155,6 +9179,14 @@
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x5b2384D566D2E4a0b29B8eccB642C63199cd393c/logo-128.png",
       "chainId": 1,
       "decimals": 18
+    },
+    {
+      "address": "0x5b2E2AaF4ccA1d987B03efA76c0C156aF14838a7",
+      "name": "YT Bitcoin MEV Capital 25DEC2025",
+      "symbol": "YT-mevBTC-25DEC2025",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x5b2E2AaF4ccA1d987B03efA76c0C156aF14838a7/logo-128.png",
+      "chainId": 1,
+      "decimals": 8
     },
     {
       "address": "0x5b6C539b224014A09B3388e51CaAA8e354c959C8",
@@ -13474,8 +13506,8 @@
     },
     {
       "address": "0x8A5f20dA6B393fE25aCF1522C828166D22eF8321",
-      "name": "Curve DOLAwstUSR Factory yVault",
-      "symbol": "yvCurve-DOLAwstUSR-f",
+      "name": "Curve DOLA-wstUSR Factory yVault",
+      "symbol": "yvCurve-DOLA-wstUSR-f",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x8A5f20dA6B393fE25aCF1522C828166D22eF8321/logo-128.png",
       "chainId": 1,
       "decimals": 18
@@ -16500,6 +16532,14 @@
       "decimals": 18
     },
     {
+      "address": "0xAf1e3473EF58DC991d622E83397335C926f05286",
+      "name": "YT SparkleX ETH Vault 8JAN2026",
+      "symbol": "YT-spETH-8JAN2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xAf1e3473EF58DC991d622E83397335C926f05286/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0xAf322a2eDf31490250fdEb0D712621484b09aBB6",
       "name": "USDT yVault",
       "symbol": "yvUSDT",
@@ -16928,6 +16968,14 @@
       "name": "PT xUSD 18DEC2025",
       "symbol": "PT-xUSD-18DEC2025",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xBA1EDF4A4C7eB8Cb0DaE0594326179f9c7D909D2/logo-128.png",
+      "chainId": 1,
+      "decimals": 6
+    },
+    {
+      "address": "0xBA31C7c0189E9B6ab6CF6b27CD3D1A4D6d3d0Fd6",
+      "name": "YT Autonomous Liquidity USD 11DEC2025",
+      "symbol": "YT-alUSD-11DEC2025",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xBA31C7c0189E9B6ab6CF6b27CD3D1A4D6d3d0Fd6/logo-128.png",
       "chainId": 1,
       "decimals": 6
     },
@@ -18771,8 +18819,8 @@
     },
     {
       "address": "0xDa764e05bdeb2CAfA8DE7FdB5bEa414C0F419197",
-      "name": "Curve JUSD USDC Factory yVault",
-      "symbol": "yvCurve-JUSD USDC-f",
+      "name": "Curve JUSD-USDC Factory yVault",
+      "symbol": "yvCurve-JUSD-USDC-f",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xDa764e05bdeb2CAfA8DE7FdB5bEa414C0F419197/logo-128.png",
       "chainId": 1,
       "decimals": 18
@@ -19038,6 +19086,14 @@
       "name": "SY King Karak LRT",
       "symbol": "SY-weETHk",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xE2796707590384430d887f15bDf97c660d95894a/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xE2AD97033E8C0844655f27dC0cC5f21028FE48Ba",
+      "name": "SY Bitcoin MEV Capital",
+      "symbol": "SY-mevBTC",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xE2AD97033E8C0844655f27dC0cC5f21028FE48Ba/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -20145,6 +20201,14 @@
       "name": "mkUSD-USDC",
       "symbol": "mkUSDUSDC",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xF980B4A4194694913Af231De69AB4593f5E0fCDc/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xFA1C09fC8B491B6A4d3Ff53A10CAd29381b3F949",
+      "name": "Falcon Finance",
+      "symbol": "FF",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/69121/thumb/ff.png?1757573403",
       "chainId": 1,
       "decimals": 18
     },
@@ -21262,6 +21326,14 @@
       "decimals": 18
     },
     {
+      "address": "0xb1f73a26C8992FC6E6f7a0788E6e7DFB7a0a8f90",
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xb1f73a26C8992FC6E6f7a0788E6e7DFB7a0a8f90/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0xb2155fFA9807B2dECb4A411f7330da5BB6e46C31",
       "name": "yPT-sfrxETH (auto-rolling Pendle PT)",
       "symbol": "yPT-sfrxETH",
@@ -21490,6 +21562,14 @@
       "name": "Curve ynETH Factory yVault",
       "symbol": "yvCurve-ynETH-f",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xb6246cB8c98A59A753A94c8E16ac54eADb392E40/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xb64C014307622eB15046C66fF71D04258F5963DC",
+      "name": "Bitcoin MEV Capital",
+      "symbol": "mevBTC",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/69114/thumb/mevBTC_icon.png?1757526825",
       "chainId": 1,
       "decimals": 18
     },
@@ -22996,6 +23076,14 @@
       "decimals": 18
     },
     {
+      "address": "0xd2E230f71CA8DB211067BC4070A94D268b313fA3",
+      "name": "PT Autonomous Liquidity USD 11DEC2025",
+      "symbol": "PT-alUSD-11DEC2025",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xd2E230f71CA8DB211067BC4070A94D268b313fA3/logo-128.png",
+      "chainId": 1,
+      "decimals": 6
+    },
+    {
       "address": "0xd2b9f0587e89A508e5786525c82ae494389f2ddA",
       "name": "PT ether.fi EIGEN 27MAR2025",
       "symbol": "PT-eEIGEN-27MAR2025",
@@ -23174,14 +23262,6 @@
       "name": "SY Berachain STONE",
       "symbol": "SY-beraSTONE",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xd7B2a47aC9236d9685B573a2428f72Ec45E97C45/logo-128.png",
-      "chainId": 1,
-      "decimals": 18
-    },
-    {
-      "address": "0xd7C1EB0fe4A30d3B2a846C04aa6300888f087A5F",
-      "name": "POINTS",
-      "symbol": "POINTS",
-      "logoURI": "https://assets.coingecko.com/coins/images/33666/large/blank.png?1702698679",
       "chainId": 1,
       "decimals": 18
     },
@@ -23542,6 +23622,14 @@
       "name": "yPT-rswETH-L2 (auto-rolling Pendle PT)",
       "symbol": "yPT-rswETH-L2",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xdc0B53cC326B692a4D89e5F4CadC29a6B7265749/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xdc4EF8ED77f975519777DF3A6e36cEBACc978962",
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xdc4EF8ED77f975519777DF3A6e36cEBACc978962/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },

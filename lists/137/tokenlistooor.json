@@ -1,9 +1,9 @@
 {
   "name": "Tokenlistooor Token List",
   "description": "A curated list of tokens from all the token lists on tokenlistooor.",
-  "timestamp": "2025-10-12T02:21:33Z",
+  "timestamp": "2025-10-19T02:34:39Z",
   "version": {
-    "major": 353,
+    "major": 354,
     "minor": 0,
     "patch": 0
   },
@@ -167,6 +167,14 @@
       "name": "Bitfinex LEO Token (PoS)",
       "symbol": "LEO",
       "logoURI": "https://assets.coingecko.com/coins/images/8418/large/leo-token.png?1558326215",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
+      "address": "0x06eD7C67755344548FAFe1822bEE365C4208a57F",
+      "name": "yearn-V3-Stargate-DAI",
+      "symbol": "ysDAI",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/137/0x06eD7C67755344548FAFe1822bEE365C4208a57F/logo-128.png",
       "chainId": 137,
       "decimals": 18
     },
@@ -539,10 +547,26 @@
       "decimals": 9
     },
     {
+      "address": "0x1250304F66404cd153fA39388DDCDAec7E0f1707",
+      "name": "USDp",
+      "symbol": "USDp",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/137/0x1250304F66404cd153fA39388DDCDAec7E0f1707/logo-128.png",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
       "address": "0x1298B1DA33c1d091A2E1340AE1C7983ebE91Da8D",
       "name": "aWMATIC-NINJAZ",
       "symbol": "aWMATIC-NINJAZ",
       "logoURI": "https://token-assets-one.vercel.app/api/token/137/0x1298B1DA33c1d091A2E1340AE1C7983ebE91Da8D/logo-128.png",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
+      "address": "0x12c3Ad898e8eB1C0ec0Bb74f9748F36C46593F68",
+      "name": "Aave V3 WMATIC Lender",
+      "symbol": "ysWPOL",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/137/0x12c3Ad898e8eB1C0ec0Bb74f9748F36C46593F68/logo-128.png",
       "chainId": 137,
       "decimals": 18
     },
@@ -995,6 +1019,14 @@
       "decimals": 18
     },
     {
+      "address": "0x28F53bA70E5c8ce8D03b1FaD41E9dF11Bb646c36",
+      "name": "WMATIC yVault-A",
+      "symbol": "yvWMATIC-A",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/137/0x28F53bA70E5c8ce8D03b1FaD41E9dF11Bb646c36/logo-128.png",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
       "address": "0x2Ab4f9aC80F33071211729e45Cfc346C1f8446d5",
       "name": "ChainGuardians Governance Token (PoS)",
       "symbol": "CGG",
@@ -1091,6 +1123,14 @@
       "decimals": 18
     },
     {
+      "address": "0x2a42A69F48EfffDF2d4Fb079Af60D98D3e34D49C",
+      "name": "CompV3 WMATIC Lender USDC Borrower",
+      "symbol": "ysWPOL",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/137/0x2a42A69F48EfffDF2d4Fb079Af60D98D3e34D49C/logo-128.png",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
       "address": "0x2a82437475A60BebD53e33997636fadE77604fc2",
       "name": "Cirus (PoS)",
       "symbol": "CIRUS",
@@ -1153,6 +1193,14 @@
       "logoURI": "https://assets.smold.app/api/token/137/0x2c14C84D08b35a8135f57338816f5FcBEac08d35/logo-128.png",
       "chainId": 137,
       "decimals": 8
+    },
+    {
+      "address": "0x2c5d0c3DB75D2f8A4957c74BE09194a9271Cf28D",
+      "name": "yearn-V3-Stargate-USDT",
+      "symbol": "ysUSDT0",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/137/0x2c5d0c3DB75D2f8A4957c74BE09194a9271Cf28D/logo-128.png",
+      "chainId": 137,
+      "decimals": 6
     },
     {
       "address": "0x2c9d233914f46B88e9ae08326fA60e40Ea3FaA12",
@@ -1255,6 +1303,14 @@
       "name": "Exeedme (PoS)",
       "symbol": "XED",
       "logoURI": "https://assets.coingecko.com/coins/images/13518/large/exeedme.png?1610669597",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
+      "address": "0x305F25377d0a39091e99B975558b1bdfC3975654",
+      "name": "WETH yVault-A",
+      "symbol": "yvWETH-A",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/137/0x305F25377d0a39091e99B975558b1bdfC3975654/logo-128.png",
       "chainId": 137,
       "decimals": 18
     },
@@ -1586,6 +1642,14 @@
       "decimals": 18
     },
     {
+      "address": "0x3bd8C987286D8Ad00c05fdb2Ae3E8C9a0f054734",
+      "name": "AaveV3 USDT Lender",
+      "symbol": "ysUSDT0",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/137/0x3bd8C987286D8Ad00c05fdb2Ae3E8C9a0f054734/logo-128.png",
+      "chainId": 137,
+      "decimals": 6
+    },
+    {
       "address": "0x3c499c542cEF5E3811e1192ce70d8cC03d5c3359",
       "name": "USD Coin",
       "symbol": "USDC",
@@ -1621,6 +1685,14 @@
       "address": "0x3e121107F6F22DA4911079845a470757aF4e1A1b",
       "name": "Frax Share (PoS)",
       "symbol": "FXS",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
+      "address": "0x3f35705479d9d77c619b2aAC9dd7a64e57151506",
+      "name": "aWBTC-USDC",
+      "symbol": "aWBTC-USDC",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/137/0x3f35705479d9d77c619b2aAC9dd7a64e57151506/logo-128.png",
       "chainId": 137,
       "decimals": 18
     },
@@ -1841,6 +1913,14 @@
       "decimals": 18
     },
     {
+      "address": "0x4987d1856F93DFf29e08aa605A805FaF43dC3103",
+      "name": "yvAjnaUSDC-compounder",
+      "symbol": "ysyvAjnaUSDC",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/137/0x4987d1856F93DFf29e08aa605A805FaF43dC3103/logo-128.png",
+      "chainId": 137,
+      "decimals": 6
+    },
+    {
       "address": "0x49DcC56354A5A4875fB5d8bD7e7073c4f8868618",
       "name": "aUSDC-MATICX",
       "symbol": "aUSDC-MATICX",
@@ -1861,6 +1941,14 @@
       "name": "awMATIC-USDC",
       "symbol": "awMATIC-USDC",
       "logoURI": "https://token-assets-one.vercel.app/api/token/137/0x4A83253e88e77E8d518638974530d0cBbbF3b675/logo-128.png",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
+      "address": "0x4B9e26a02121a1C541403a611b542965Bd4b68Ce",
+      "name": "aWBTC-WETH",
+      "symbol": "aWBTC-WETH",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/137/0x4B9e26a02121a1C541403a611b542965Bd4b68Ce/logo-128.png",
       "chainId": 137,
       "decimals": 18
     },
@@ -1977,12 +2065,28 @@
       "decimals": 18
     },
     {
+      "address": "0x5136c2F7aB13E202eD42bc1AE82Dd63475919653",
+      "name": "CompV3 WETH Lender USDC Borrower",
+      "symbol": "ysWETH",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/137/0x5136c2F7aB13E202eD42bc1AE82Dd63475919653/logo-128.png",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
       "address": "0x521CddC0CBa84F14c69C1E99249F781AA73Ee0BC",
       "name": "Holyheld (PoS)",
       "symbol": "HH",
       "logoURI": "https://assets.coingecko.com/coins/images/13719/large/hh.png?1611137626",
       "chainId": 137,
       "decimals": 18
+    },
+    {
+      "address": "0x52367C8E381EDFb068E9fBa1e7E9B2C847042897",
+      "name": "Aave V3 USDC Lender",
+      "symbol": "ysUSDC",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/137/0x52367C8E381EDFb068E9fBa1e7E9B2C847042897/logo-128.png",
+      "chainId": 137,
+      "decimals": 6
     },
     {
       "address": "0x52eDe6bbA83B7b4Ba1D738Df0dF713D6A2036B71",
@@ -2345,6 +2449,14 @@
       "decimals": 18
     },
     {
+      "address": "0x6077177d4c41E114780D9901C9b5c784841C523f",
+      "name": "aUSDC-WETH",
+      "symbol": "aUSDC-WETH",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/137/0x6077177d4c41E114780D9901C9b5c784841C523f/logo-128.png",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
       "address": "0x60Ea918FC64360269Da4efBDA11d8fC6514617C6",
       "name": "SUKU (PoS)",
       "symbol": "SUKU",
@@ -2665,6 +2777,14 @@
       "decimals": 18
     },
     {
+      "address": "0x6Ed737EF2Ef74e04005dC9810366De5ad38Cf7D6",
+      "name": "yearn-V3-LST",
+      "symbol": "ysWPOL",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/137/0x6Ed737EF2Ef74e04005dC9810366De5ad38Cf7D6/logo-128.png",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
       "address": "0x6F3B3286fd86d8b47EC737CEB3D0D354cc657B3e",
       "name": "Paxos Standard (PoS)",
       "symbol": "PAX",
@@ -2825,6 +2945,14 @@
       "decimals": 18
     },
     {
+      "address": "0x7486325A843590b84c98563c6962C58655569EcA",
+      "name": "yearn-V3-LST-WSTETH",
+      "symbol": "ysWETH",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/137/0x7486325A843590b84c98563c6962C58655569EcA/logo-128.png",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
       "address": "0x74Ac7664ABb1C8fa152D41bb60e311a663a41C7E",
       "name": "MOONEY (PoS)",
       "symbol": "MOONEY",
@@ -2909,6 +3037,14 @@
       "name": "aWMATIC-USDC",
       "symbol": "aWMATIC-USDC",
       "logoURI": "https://token-assets-one.vercel.app/api/token/137/0x7922591f6F9b047eBda320a12B6e3CA4d0f1435F/logo-128.png",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
+      "address": "0x795f8c9B0A0Da9Cd8dea65Fc10f9B57AbC532E58",
+      "name": "aUSDC-USDT",
+      "symbol": "aUSDC-USDT",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/137/0x795f8c9B0A0Da9Cd8dea65Fc10f9B57AbC532E58/logo-128.png",
       "chainId": 137,
       "decimals": 18
     },
@@ -3081,6 +3217,14 @@
       "decimals": 18
     },
     {
+      "address": "0x81Cec323BF8C4164c66ec066F53cc053A535f03D",
+      "name": "awMATIC-WETH",
+      "symbol": "awMATIC-WETH",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/137/0x81Cec323BF8C4164c66ec066F53cc053A535f03D/logo-128.png",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
       "address": "0x82617aA52dddf5Ed9Bb7B370ED777b3182A30fd1",
       "name": "Yield Guild Games Token (PoS)",
       "symbol": "YGG",
@@ -3141,6 +3285,14 @@
       "name": "LGCY Network (PoS)",
       "symbol": "LGCY",
       "logoURI": "https://assets.smold.app/api/token/137/0x834dfb4Df4425BDeC02F2A1CAFdf0cc39c3c0A59/logo-128.png",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
+      "address": "0x83f31af747189c2FA9E5DeB253200c505eff6ed2",
+      "name": "ZCash (Universal)",
+      "symbol": "uZEC",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/137/0x83f31af747189c2FA9E5DeB253200c505eff6ed2/logo-128.png",
       "chainId": 137,
       "decimals": 18
     },
@@ -3256,6 +3408,14 @@
       "decimals": 18
     },
     {
+      "address": "0x8BBa7AFd0f9B1b664C161EC31d812a8Ec15f7e1a",
+      "name": "yearn-V3-Stargate-USDC",
+      "symbol": "ysUSDC",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/137/0x8BBa7AFd0f9B1b664C161EC31d812a8Ec15f7e1a/logo-128.png",
+      "chainId": 137,
+      "decimals": 6
+    },
+    {
       "address": "0x8Bb9247c8eFf487F7A13AB7E704F50904e91430D",
       "name": "aWOMBAT-USDC",
       "symbol": "aWOMBAT-USDC",
@@ -3355,6 +3515,14 @@
       "name": "PolkastarterToken (PoS)",
       "symbol": "POLS",
       "logoURI": "https://assets.smold.app/api/token/137/0x8dc302e2141DA59c934d900886DbF1518Fd92cd4/logo-128.png",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
+      "address": "0x8dd3BF71eF18dd88869d128BDE058C9d8c270176",
+      "name": "aWMATIC-MATICX",
+      "symbol": "aWMATIC-MATICX",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/137/0x8dd3BF71eF18dd88869d128BDE058C9d8c270176/logo-128.png",
       "chainId": 137,
       "decimals": 18
     },
@@ -3651,6 +3819,14 @@
       "name": "IDEX Token (PoS)",
       "symbol": "IDEX",
       "logoURI": "https://assets.coingecko.com/coins/images/2565/large/logomark-purple-286x286.png?1638362736",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
+      "address": "0x9E31214Db6931727B7d63a0D2b6236DB455c0965",
+      "name": "aUSDC-DAI",
+      "symbol": "aUSDC-DAI",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/137/0x9E31214Db6931727B7d63a0D2b6236DB455c0965/logo-128.png",
       "chainId": 137,
       "decimals": 18
     },
@@ -4005,6 +4181,14 @@
       "logoURI": "https://assets.smold.app/api/token/137/0xBB812fd66b98A38f2bF6A22759462f0993C1DBBE/logo-128.png",
       "chainId": 137,
       "decimals": 9
+    },
+    {
+      "address": "0xBEDA9A5300393e00229dc15cC54D5185E7646c56",
+      "name": "AaveV3 WETH Lender",
+      "symbol": "ysWETH",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/137/0xBEDA9A5300393e00229dc15cC54D5185E7646c56/logo-128.png",
+      "chainId": 137,
+      "decimals": 18
     },
     {
       "address": "0xBbba073C31bF03b8ACf7c28EF0738DeCF3695683",
@@ -4575,6 +4759,14 @@
       "decimals": 18
     },
     {
+      "address": "0xF54a15F6da443041Bb075959EA66EE47655DDFcA",
+      "name": "Yearn-Ajna USDC Vault ",
+      "symbol": "yvAjnaUSDC",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/137/0xF54a15F6da443041Bb075959EA66EE47655DDFcA/logo-128.png",
+      "chainId": 137,
+      "decimals": 6
+    },
+    {
       "address": "0xF689E85988d3a7921E852867CE49F53388985E6d",
       "name": "MobiFi (PoS)",
       "symbol": "MoFi",
@@ -4901,6 +5093,14 @@
       "logoURI": "https://assets.coingecko.com/coins/images/14432/large/eland.png?1616044253",
       "chainId": 137,
       "decimals": 18
+    },
+    {
+      "address": "0xb1403908F772E4374BB151F7C67E88761a0Eb4f1",
+      "name": "Compound V3 USDC Lender",
+      "symbol": "ysUSDC",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/137/0xb1403908F772E4374BB151F7C67E88761a0Eb4f1/logo-128.png",
+      "chainId": 137,
+      "decimals": 6
     },
     {
       "address": "0xb33EaAd8d922B1083446DC23f610c2567fB5180f",
@@ -5310,6 +5510,14 @@
       "decimals": 18
     },
     {
+      "address": "0xdB92B89Ca415c0dab40Dc96E99Fc411C08F20780",
+      "name": "Aave V3 USDC Lender",
+      "symbol": "ysUSDC",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/137/0xdB92B89Ca415c0dab40Dc96E99Fc411C08F20780/logo-128.png",
+      "chainId": 137,
+      "decimals": 6
+    },
+    {
       "address": "0xdD4959cd915AE74DCD3F51e11e40Fe112aC7AA69",
       "name": "RFOX (PoS)",
       "symbol": "RFOX",
@@ -5618,6 +5826,14 @@
       "name": "GoBlank Token (PoS)",
       "symbol": "BLANK",
       "logoURI": "https://tokens.1inch.io/0xf4c83080e80ae530d6f8180572cbbf1ac9d5d435.png",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
+      "address": "0xf4F9d5697341B4C9B0Cc8151413e05A90f7dc24F",
+      "name": "AaveV3 DAI Lender",
+      "symbol": "ysDAI",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/137/0xf4F9d5697341B4C9B0Cc8151413e05A90f7dc24F/logo-128.png",
       "chainId": 137,
       "decimals": 18
     },

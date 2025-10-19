@@ -1,10 +1,10 @@
 {
   "name": "Bebop",
   "description": "",
-  "timestamp": "2025-09-28T01:43:36Z",
+  "timestamp": "2025-10-19T02:01:11Z",
   "version": {
-    "major": 21,
-    "minor": 1,
+    "major": 22,
+    "minor": 2,
     "patch": 0
   },
   "logoURI": "https://bebop-public-images.s3.eu-west-2.amazonaws.com/bebop-logo.png",
@@ -15,6 +15,22 @@
       "name": "Aster",
       "symbol": "ASTER",
       "logoURI": "https://assets.coingecko.com/coins/images/69040/large/_ASTER.png?1757326782",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "address": "0x0A43fC31a73013089DF59194872Ecae4cAe14444",
+      "name": "4",
+      "symbol": "4",
+      "logoURI": "https://assets.coingecko.com/coins/images/69728/large/4-logo.jpg?1759403604",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "address": "0x0A8D6C86e1bcE73fE4D0bD531e1a567306836EA5",
+      "name": "ChainOpera AI",
+      "symbol": "COAI",
+      "logoURI": "https://assets.coingecko.com/coins/images/69447/large/coai.png?1758625501",
       "chainId": 56,
       "decimals": 18
     },
@@ -39,6 +55,14 @@
       "name": "Dai Token",
       "symbol": "DAI",
       "logoURI": "https://tokens.1inch.io/0x6b175474e89094c44da98b954eedeac495271d0f.png",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "address": "0x20d6015660b3fe52e6690a889b5C51F69902cE0e",
+      "name": "Giggle Fund",
+      "symbol": "GIGGLE",
+      "logoURI": "https://assets.coingecko.com/coins/images/69414/large/giggle-fund.jpg?1758541887",
       "chainId": 56,
       "decimals": 18
     },
@@ -83,10 +107,34 @@
       "decimals": 18
     },
     {
+      "address": "0x4B948d64dE1F71fCd12fB586f4c776421a35b3eE",
+      "name": "0G",
+      "symbol": "0G",
+      "logoURI": "https://assets.coingecko.com/coins/images/69096/large/0G_1024x1024_Circular_Outlined.png?1758637574",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
       "address": "0x55d398326f99059fF775485246999027B3197955",
       "name": "Tether USD",
       "symbol": "USDT",
       "logoURI": "https://tokens.1inch.io/0xdac17f958d2ee523a2206206994597c13d831ec7.png",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "address": "0x5b73A93b4E5e4f1FD27D8b3F8C97D69908b5E284",
+      "name": "FORM Token",
+      "symbol": "FORM",
+      "logoURI": "https://assets.coingecko.com/coins/images/54912/large/four.jpg?1742461445",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "address": "0x5fFD0EAdc186AF9512542d0d5e5eAFC65d5aFc5B",
+      "name": "Hemi",
+      "symbol": "HEMI",
+      "logoURI": "https://assets.coingecko.com/coins/images/68469/large/hemi.png?1755838145",
       "chainId": 56,
       "decimals": 18
     },
@@ -123,6 +171,14 @@
       "decimals": 18
     },
     {
+      "address": "0x7C8217517ed4711fe2DECCdFefFE8d906b9Ae11F",
+      "name": "Bless Token",
+      "symbol": "BLESS",
+      "logoURI": "https://assets.coingecko.com/coins/images/69339/large/Layer_1_%284%29.png?1758523043",
+      "chainId": 56,
+      "decimals": 9
+    },
+    {
       "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
       "name": "USD Coin",
       "symbol": "USDC",
@@ -147,12 +203,28 @@
       "decimals": 18
     },
     {
+      "address": "0x9123400446a56176Eb1B6BE9ee5CF703e409F492",
+      "name": "TRADOOR",
+      "symbol": "TRADOOR",
+      "logoURI": "https://assets.coingecko.com/coins/images/68862/large/tradoor.png?1756809006",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "name": "Binance Smart Chain",
       "symbol": "BNB",
       "logoURI": "https://token-assets-one.vercel.app/api/token/56/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE/logo-128.png",
       "chainId": 56,
       "decimals": 18
+    },
+    {
+      "address": "0xF3d5b4c34Ed623478cc5141861776E6cf7AE3A1E",
+      "name": "KGEN",
+      "symbol": "KGEN",
+      "logoURI": "https://assets.coingecko.com/coins/images/69816/large/kgen.png?1759733785",
+      "chainId": 56,
+      "decimals": 8
     },
     {
       "address": "0xF4C8E32EaDEC4BFe97E0F595AdD0f4450a863a11",
@@ -179,10 +251,26 @@
       "decimals": 18
     },
     {
+      "address": "0xbA2aE424d960c26247Dd6c32edC70B295c744C43",
+      "name": "Dogecoin",
+      "symbol": "DOGE",
+      "logoURI": "https://tokens.1inch.io/0xba2ae424d960c26247dd6c32edc70b295c744c43.png",
+      "chainId": 56,
+      "decimals": 8
+    },
+    {
       "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
       "name": "Wrapped BNB",
       "symbol": "WBNB",
       "logoURI": "https://tokens.1inch.io/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "address": "0xd23A186A78c0B3B805505E5f8ea4083295ef9f3a",
+      "name": "Lombard",
+      "symbol": "BARD",
+      "logoURI": "https://assets.coingecko.com/coins/images/68404/large/bard.png?1755657543",
       "chainId": 56,
       "decimals": 18
     },

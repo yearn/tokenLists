@@ -1,9 +1,9 @@
 {
   "name": "Lifi Token List",
   "description": "",
-  "timestamp": "2025-09-28T01:42:39Z",
+  "timestamp": "2025-10-19T01:59:59Z",
   "version": {
-    "major": 12,
+    "major": 13,
     "minor": 1,
     "patch": 0
   },
@@ -183,6 +183,14 @@
       "name": "BetSwirl v2",
       "symbol": "BETS",
       "logoURI": "https://assets.coingecko.com/coins/images/26618/large/icon_200.png?1659073275",
+      "chainId": 43114,
+      "decimals": 18
+    },
+    {
+      "address": "0x9D92c21205383651610f90722131655A5B8ED3E0",
+      "name": "Staked USDp",
+      "symbol": "sUSDp",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/43114/0x9D92c21205383651610f90722131655A5B8ED3E0/logo-128.png",
       "chainId": 43114,
       "decimals": 18
     },

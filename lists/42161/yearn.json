@@ -1,10 +1,10 @@
 {
   "name": "Yearn Token List",
   "description": "",
-  "timestamp": "2025-10-12T01:36:33Z",
+  "timestamp": "2025-10-19T02:04:21Z",
   "version": {
-    "major": 45,
-    "minor": 29,
+    "major": 46,
+    "minor": 0,
     "patch": 0
   },
   "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e/logo.svg",
@@ -705,14 +705,6 @@
       "decimals": 18
     },
     {
-      "address": "0x1B0dbE96a5338D6D4735DbA3c16B49BB12cEBA81",
-      "name": "PILLAR",
-      "symbol": "PLR",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x1B0dbE96a5338D6D4735DbA3c16B49BB12cEBA81/logo-128.png",
-      "chainId": 42161,
-      "decimals": 18
-    },
-    {
       "address": "0x1B33c8D479Ce5596fF9756a3010E70a7412938E2",
       "name": "YT GM ARB-USDC 28MAR2024",
       "symbol": "YT-GM-ARB-USDC-28MAR2024",
@@ -1161,14 +1153,6 @@
       "decimals": 18
     },
     {
-      "address": "0x26d5aD1E6b0ACA199EEdc1f56869825E365a120A",
-      "name": "PLR Staking Vault",
-      "symbol": "pvPLR",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x26d5aD1E6b0ACA199EEdc1f56869825E365a120A/logo-128.png",
-      "chainId": 42161,
-      "decimals": 18
-    },
-    {
       "address": "0x26f10da086519da50C9AF663aADCBdD96E2B308b",
       "name": "Pendle Market",
       "symbol": "PENDLE-LPT",
@@ -1345,6 +1329,14 @@
       "decimals": 18
     },
     {
+      "address": "0x2c28c7d3B482E9BCEceff1a57F9ccEa490E9Daa1",
+      "name": "USDC Fluid Lender",
+      "symbol": "ysUSDC",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x2c28c7d3B482E9BCEceff1a57F9ccEa490E9Daa1/logo-128.png",
+      "chainId": 42161,
+      "decimals": 6
+    },
+    {
       "address": "0x2d25Ce68AAd6Ffef1585ff05bC621db1F9F2E499",
       "name": "Silo Lender wBTC/USDC.e",
       "symbol": "ysUSDC",
@@ -1383,6 +1375,14 @@
       "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x2eB3C394e7985bA29AF2AD4cbDe38c06088E3D47/logo-128.png",
       "chainId": 42161,
       "decimals": 18
+    },
+    {
+      "address": "0x2eF26b0e34Ea0dba2068BC8Df7c4c2a7a9620A80",
+      "name": "USDT Fluid Lender",
+      "symbol": "ysUSD₮0",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x2eF26b0e34Ea0dba2068BC8Df7c4c2a7a9620A80/logo-128.png",
+      "chainId": 42161,
+      "decimals": 6
     },
     {
       "address": "0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f",

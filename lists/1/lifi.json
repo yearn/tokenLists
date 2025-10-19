@@ -1,10 +1,10 @@
 {
   "name": "Lifi Token List",
   "description": "",
-  "timestamp": "2025-10-05T01:54:35Z",
+  "timestamp": "2025-10-19T01:59:59Z",
   "version": {
     "major": 13,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   },
   "logoURI": "https://avatars.githubusercontent.com/u/85288935?s=200\u0026v=4",
@@ -71,6 +71,14 @@
       "name": "Staked USDp",
       "symbol": "sUSDp",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x0d45b129dc868963025Db79A9074EA9c9e32Cae4/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x14862c03A0cACcC1aB328B062E64e31B2a1afcd7",
+      "name": "SEDA",
+      "symbol": "SEDA",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x14862c03A0cACcC1aB328B062E64e31B2a1afcd7/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -704,6 +712,14 @@
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xc9B53AB2679f573e480d01e0f49e2B5CFB7a3EAb/logo-128.png",
       "chainId": 1,
       "decimals": 18
+    },
+    {
+      "address": "0xcb69E5750f8dC3b69647B9d8B1f45466ace0A027",
+      "name": "XiaoBai",
+      "symbol": "XIAOBAI",
+      "logoURI": "https://asset-images.messari.io/images/6d49c1b9-39f2-4475-9d24-779cd84063c9/128.png",
+      "chainId": 1,
+      "decimals": 9
     },
     {
       "address": "0xd8Fa690304D2B2824D918C0c7376e2823704557A",

@@ -1,10 +1,10 @@
 {
   "name": "Bebop",
   "description": "",
-  "timestamp": "2025-10-19T02:01:11Z",
+  "timestamp": "2025-10-26T02:21:20Z",
   "version": {
     "major": 22,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   },
   "logoURI": "https://bebop-public-images.s3.eu-west-2.amazonaws.com/bebop-logo.png",
@@ -662,6 +662,14 @@
       "name": "Syrup Token",
       "symbol": "SYRUP",
       "logoURI": "https://coin-images.coingecko.com/coins/images/51232/thumb/Syrup_Logo.png?1730445056",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x66fD8de541c0594b4DccdFc13Bf3a390E50d3Afd",
+      "name": "Turtle",
+      "symbol": "TURTLE",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/69595/thumb/OUDzqTkE_400x400.png?1759166194",
       "chainId": 1,
       "decimals": 18
     },
@@ -1477,6 +1485,14 @@
       "name": "Balancer",
       "symbol": "BAL",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xba100000625a3754423978a60c9317c58a424e3D/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xbdF43ecAdC5ceF51B7D1772F722E40596BC1788B",
+      "name": "SEI",
+      "symbol": "SEI",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xbdF43ecAdC5ceF51B7D1772F722E40596BC1788B/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },

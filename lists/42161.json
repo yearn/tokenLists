@@ -1,9 +1,9 @@
 {
   "name": "Arbitrum",
   "description": "A curated list of popular tokens from all the token lists on tokenlistooor.",
-  "timestamp": "2025-10-19T02:35:40Z",
+  "timestamp": "2025-10-26T02:34:23Z",
   "version": {
-    "major": 96,
+    "major": 97,
     "minor": 0,
     "patch": 0
   },
@@ -1154,6 +1154,14 @@
       "decimals": 18
     },
     {
+      "address": "0x77b7787a09818502305C95d68A2571F090abb135",
+      "name": "Derive",
+      "symbol": "DRV",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x77b7787a09818502305C95d68A2571F090abb135/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
       "address": "0x7B5EB3940021Ec0e8e463D5dBB4B7B09a89DDF96",
       "name": "Wombat Token",
       "symbol": "WOM",
@@ -2103,6 +2111,14 @@
       "name": "DAO Maker",
       "symbol": "DAO",
       "logoURI": "https://assets.coingecko.com/coins/images/13915/large/4.png?1612838831",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0xcb8b5CD20BdCaea9a010aC1F8d835824F5C87A04",
+      "name": "CoW Protocol Token",
+      "symbol": "COW",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xcb8b5CD20BdCaea9a010aC1F8d835824F5C87A04/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },

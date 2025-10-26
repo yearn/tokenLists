@@ -1,9 +1,9 @@
 {
   "name": "Tokenlistooor Token List",
   "description": "A curated list of tokens from all the token lists on tokenlistooor.",
-  "timestamp": "2025-10-19T02:34:39Z",
+  "timestamp": "2025-10-26T02:33:21Z",
   "version": {
-    "major": 354,
+    "major": 355,
     "minor": 0,
     "patch": 0
   },
@@ -51,6 +51,14 @@
       "decimals": 6
     },
     {
+      "address": "0x58ea2Bb193B1429Cb90D24195E6ac4Ccb0B27a12",
+      "name": "vTAO",
+      "symbol": "vTAO",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/100/0x58ea2Bb193B1429Cb90D24195E6ac4Ccb0B27a12/logo-128.png",
+      "chainId": 100,
+      "decimals": 18
+    },
+    {
       "address": "0x6A023CCd1ff6F2045C3309768eAd9E68F978f6e1",
       "name": "Wrapped Ether on xDai",
       "symbol": "WETH",
@@ -63,14 +71,6 @@
       "name": "Gnosis Token on xDai",
       "symbol": "GNO",
       "logoURI": "https://token-assets-one.vercel.app/api/token/100/0x9C58BAcC331c9aa871AFD802DB6379a98e80CEdb/logo-128.png",
-      "chainId": 100,
-      "decimals": 18
-    },
-    {
-      "address": "0x9eE1963f05553eF838604Dd39403be21ceF26AA4",
-      "name": "USDp",
-      "symbol": "USDp",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/100/0x9eE1963f05553eF838604Dd39403be21ceF26AA4/logo-128.png",
       "chainId": 100,
       "decimals": 18
     },

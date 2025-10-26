@@ -1,10 +1,10 @@
 {
   "name": "Yearn Token List",
   "description": "",
-  "timestamp": "2025-10-19T02:04:21Z",
+  "timestamp": "2025-10-26T01:47:07Z",
   "version": {
     "major": 46,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   },
   "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e/logo.svg",
@@ -213,6 +213,14 @@
       "name": "Lyra Token",
       "symbol": "LYRA",
       "logoURI": "https://tokens.1inch.io/0x01ba67aac7f75f647d94220cc98fb30fcc5105bf.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x01Ba69727E2860b37bc1a2bd56999c1aFb4C15D8",
+      "name": "YieldNest RWA MAX",
+      "symbol": "ynRWAx",
+      "logoURI": "https://asset-images.messari.io/images/3248c338-8dc4-44ee-9cce-309d9db8640d/128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -2739,6 +2747,14 @@
       "decimals": 18
     },
     {
+      "address": "0x1F84a51296691320478c98b8d77f2Bbd17D34350",
+      "name": "PT Ethena USDe 5FEB2026",
+      "symbol": "PT-USDe-5FEB2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x1F84a51296691320478c98b8d77f2Bbd17D34350/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0x1F8ad2cec4a2595Ff3cdA9e8a39C0b1BE1A02014",
       "name": "DAI-crosschain yVault",
       "symbol": "yvDAIcc",
@@ -2847,6 +2863,14 @@
       "name": "Prize Lonser",
       "symbol": "przLonser",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x1b1C0E0f08afe4ED06C3C5e64ca748F7fB2cCd40/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x1b35bA95514AB28dD16253Be92F58E0748261abB",
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x1b35bA95514AB28dD16253Be92F58E0748261abB/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -3314,12 +3338,28 @@
       "decimals": 8
     },
     {
+      "address": "0x2263fDEc108939ae8Fd0AB41901fA9755203B232",
+      "name": "YT YieldNest RWA MAX 15OCT2026",
+      "symbol": "YT-ynRWAx-15OCT2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x2263fDEc108939ae8Fd0AB41901fA9755203B232/logo-128.png",
+      "chainId": 1,
+      "decimals": 6
+    },
+    {
       "address": "0x22CF19EB64226e0E1A79c69b345b31466fD273A7",
       "name": "Curve.fi Factory Crypto Pool: ibGBP/USDC",
       "symbol": "ibGBPUSDC-f",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x22CF19EB64226e0E1A79c69b345b31466fD273A7/logo-128.png",
       "chainId": 1,
       "decimals": 18
+    },
+    {
+      "address": "0x22Dc5bF8c830f0DA8D178347548Fa5dCeb3DeED3",
+      "name": "PT ynUSD Max 30APR2026",
+      "symbol": "PT-ynUSDx-30APR2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x22Dc5bF8c830f0DA8D178347548Fa5dCeb3DeED3/logo-128.png",
+      "chainId": 1,
+      "decimals": 6
     },
     {
       "address": "0x22E12A50e3ca49FB183074235cB1db84Fe4C716D",
@@ -3506,6 +3546,14 @@
       "decimals": 18
     },
     {
+      "address": "0x24124ACC7c41208f9A5f8017470b241482fCd84F",
+      "name": "PT Wrapped Staked Obol 22JAN2026",
+      "symbol": "PT-wstOBOL-22JAN2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x24124ACC7c41208f9A5f8017470b241482fCd84F/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0x241AdD131B9aaa7527132b752252b99420937ADc",
       "name": "Curve USDT-crvUSD Factory yVault",
       "symbol": "yvCurve-USDT-crvUSD-f",
@@ -3664,6 +3712,14 @@
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x25979A994e72ff0116323677CD818C3D4Ec4F568/logo-128.png",
       "chainId": 1,
       "decimals": 6
+    },
+    {
+      "address": "0x261b252546C7B54cC82BEe9b69615EbEfcC22Ed9",
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x261b252546C7B54cC82BEe9b69615EbEfcC22Ed9/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
     },
     {
       "address": "0x261fce0Ad922bfDA890760EEe49042E43Bbe2c82",
@@ -4471,6 +4527,14 @@
       "decimals": 18
     },
     {
+      "address": "0x2c543181871718C05bB191B8CE8F2A6538D72762",
+      "name": "PT Midas MEV 29JAN2026",
+      "symbol": "PT-mMEV-29JAN2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x2c543181871718C05bB191B8CE8F2A6538D72762/logo-128.png",
+      "chainId": 1,
+      "decimals": 6
+    },
+    {
       "address": "0x2c683fAd51da2cd17793219CC86439C1875c353e",
       "name": "ETH+/ETH",
       "symbol": "ETH+ETH",
@@ -4979,6 +5043,14 @@
       "decimals": 18
     },
     {
+      "address": "0x33e4A7D15de9923C680542CB10d76ea4868123fc",
+      "name": "Wrapped Staked Obol",
+      "symbol": "wstOBOL",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x33e4A7D15de9923C680542CB10d76ea4868123fc/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0x33e88943B00e699FC5B6597c5F8BcB0872AF8bee",
       "name": "SY Strata Pre-deposit Receipt Token",
       "symbol": "SY-pUSDe",
@@ -5374,6 +5446,14 @@
       "name": "Curve rgUSD-DOLA Factory yVault",
       "symbol": "yvCurve-rgUSD-DOLA-f",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x379984a6Afb7CBE73EFae3B414D8E3474eDfF7B2/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x37B21efbE2896A823825Df9a78B815Ba8beF3c94",
+      "name": "SY Wrapped Staked Obol",
+      "symbol": "SY-wstOBOL",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x37B21efbE2896A823825Df9a78B815Ba8beF3c94/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -5787,6 +5867,14 @@
       "name": "Pendle Market",
       "symbol": "PENDLE-LPT",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x3DAF20E46708E556570159Eaf98eeE53A1A5b8A4/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x3DB228FE836D99Ccb25Ec4dfdC80ED6d2CDdCB4b",
+      "name": "ynUSD Max",
+      "symbol": "ynUSDx",
+      "logoURI": "https://asset-images.messari.io/images/84e7611d-6b3f-4b65-a8ba-caeefcfe53b8/128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -6441,6 +6529,14 @@
       "name": "Inverse DAO",
       "symbol": "INV",
       "logoURI": "https://tokens.1inch.io/0x41d5d79431a913c4ae7d69a668ecdfe5ff9dfb68.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x41b5236DF40C4718A76d4342e83153556373C072",
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x41b5236DF40C4718A76d4342e83153556373C072/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -7260,6 +7356,14 @@
       "decimals": 18
     },
     {
+      "address": "0x49Df40aB3D83f2A224708118C6A2c8D29E99E921",
+      "name": "PT SY Midas mEDGE 29JAN2026",
+      "symbol": "PT-SY-mEDGE-29JAN2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x49Df40aB3D83f2A224708118C6A2c8D29E99E921/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0x49b3E44e54b6220aF892DbA48ae45F1Ea6bC4aE9",
       "name": "TUSD yVault",
       "symbol": "yvTUSD",
@@ -7944,6 +8048,14 @@
       "decimals": 18
     },
     {
+      "address": "0x50CBf8837791aB3D8dcfB3cE3d1B0d128e1105d4",
+      "name": "SY Ethena sUSDE",
+      "symbol": "SY-sUSDE",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x50CBf8837791aB3D8dcfB3cE3d1B0d128e1105d4/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0x50D2C7992b802Eef16c04FeADAB310f31866a545",
       "name": "PT Ethereal eUSDE 29MAY2025",
       "symbol": "PT-eUSDE-29MAY2025",
@@ -8092,6 +8204,14 @@
       "name": "Curve.fi Factory Crypto Pool: OHM/FRAXBP",
       "symbol": "OHMFRAXBP-f",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x5271045F7B73c17825A7A7aee6917eE46b0B7520/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x5271Be3516a36316465ee50C4288ce91e58F7759",
+      "name": "SY YieldNest RWA MAX",
+      "symbol": "SY-ynRWAx",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x5271Be3516a36316465ee50C4288ce91e58F7759/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -8332,6 +8452,14 @@
       "name": "YT Karak WEETH 26SEP2024",
       "symbol": "YT-Karak-WEETH-26SEP2024",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x5439c3Ef0072e4A19C44478CDF947F5d957e66C7/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x544E8D1B94A3bE7e32F6F0345bFe0bf55B61272F",
+      "name": "SY ynUSD Max",
+      "symbol": "SY-ynUSDx",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x544E8D1B94A3bE7e32F6F0345bFe0bf55B61272F/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -8902,6 +9030,14 @@
       "decimals": 18
     },
     {
+      "address": "0x5AA4AfE7359d5a68D193f03E013d553DEb7DbD1f",
+      "name": "PT Wrapped Savings rUSD 26FEB2026",
+      "symbol": "PT-wsrUSD-26FEB2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x5AA4AfE7359d5a68D193f03E013d553DEb7DbD1f/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0x5AB64C599FcC59f0f2726A300b03166A395578Da",
       "name": "Curve 3EUR Pool yVault",
       "symbol": "yvCurve-3EUR",
@@ -9069,6 +9205,14 @@
       "decimals": 18
     },
     {
+      "address": "0x5E8FCd00942de523958637a62B7EF3a2D54f57F3",
+      "name": "SY SY Midas mEDGE",
+      "symbol": "SY-SY-mEDGE",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x5E8FCd00942de523958637a62B7EF3a2D54f57F3/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0x5E9Aaf3b0b09C78C8651968dd1A4d0Ed0D0B55e9",
       "name": "PT ankrETH-WETH_BalancerLP Aura 26SEP2024",
       "symbol": "PT-ankrETH-WETH_BalancerLP Aura-26SEP2024",
@@ -9129,6 +9273,14 @@
       "name": "PT Resolv USD 4SEP2025",
       "symbol": "PT-USR-4SEP2025",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x5a5b93F762739fa94F3EcC0b34Af2e56702E7f70/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x5a62AE8118536CF2De315E2c42f9Af035d8129f2",
+      "name": "YT Ethena USDe 5FEB2026",
+      "symbol": "YT-USDe-5FEB2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x5a62AE8118536CF2De315E2c42f9Af035d8129f2/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -9496,6 +9648,14 @@
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x60a6e581E47105F0CF523017D9Fcc8d572BDA620/logo-128.png",
       "chainId": 1,
       "decimals": 18
+    },
+    {
+      "address": "0x60d6e7209a62c3ad6b10ce82e48e2334c7A20F30",
+      "name": "YT ynUSD Max 30APR2026",
+      "symbol": "YT-ynUSDx-30APR2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x60d6e7209a62c3ad6b10ce82e48e2334c7A20F30/logo-128.png",
+      "chainId": 1,
+      "decimals": 6
     },
     {
       "address": "0x610E01895cB39078890e3Fe5239b78A51c07892F",
@@ -11882,6 +12042,14 @@
       "decimals": 18
     },
     {
+      "address": "0x77B50ef8D55b8d6F9a632468e417bE21d5712A2E",
+      "name": "YT Wrapped Savings rUSD 26FEB2026",
+      "symbol": "YT-wsrUSD-26FEB2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x77B50ef8D55b8d6F9a632468e417bE21d5712A2E/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0x77DE4Be22Ecc633416D79371eF8e861Fb1d2cC39",
       "name": "YT Resolv USD 29MAY2025",
       "symbol": "YT-USR-29MAY2025",
@@ -11904,6 +12072,14 @@
       "logoURI": "https://tokens.1inch.io/0x77fba179c79de5b7653f68b5039af940ada60ce0.png",
       "chainId": 1,
       "decimals": 18
+    },
+    {
+      "address": "0x77db49Ac43107F0cEF6f65837aA55EE8Ae4Cd9fA",
+      "name": "PT YieldNest RWA MAX 15OCT2026",
+      "symbol": "PT-ynRWAx-15OCT2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x77db49Ac43107F0cEF6f65837aA55EE8Ae4Cd9fA/logo-128.png",
+      "chainId": 1,
+      "decimals": 6
     },
     {
       "address": "0x77e829FFF18C14AD9bb88963acB0010A0506de88",
@@ -11950,6 +12126,14 @@
       "name": "Pendle Market",
       "symbol": "PENDLE-LPT",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x78728B6a081E800204d5AbaaA559a84F2404335E/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x78954A6A2c2a08455f92e47C4e587feb7467BF37",
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x78954A6A2c2a08455f92e47C4e587feb7467BF37/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -12501,6 +12685,14 @@
       "decimals": 18
     },
     {
+      "address": "0x7e4E45EAEcef6431D216e41e927613e36945cccE",
+      "name": "YT Wrapped Staked Obol 22JAN2026",
+      "symbol": "YT-wstOBOL-22JAN2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x7e4E45EAEcef6431D216e41e927613e36945cccE/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0x7eE351aA702C8fC735D77Fb229b7676AC15D7c79",
       "name": "Compound V3 USD Lender",
       "symbol": "ysUSDC",
@@ -12919,6 +13111,14 @@
       "name": "Aave V3 USDS Lender",
       "symbol": "ysUSDS",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x832c30802054F60f0CeDb5BE1F9A0e3da2a0Cab4/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x8355ac36211623655588acA5c4f5C5356942e625",
+      "name": "YT SY Midas mEDGE 29JAN2026",
+      "symbol": "YT-SY-mEDGE-29JAN2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x8355ac36211623655588acA5c4f5C5356942e625/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -14408,6 +14608,14 @@
       "decimals": 18
     },
     {
+      "address": "0x939c19be91A9B8e2fb3fd568910dc41CF40CC4E4",
+      "name": "YT Midas mEDGE 29JAN2026",
+      "symbol": "YT-mEDGE-29JAN2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x939c19be91A9B8e2fb3fd568910dc41CF40CC4E4/logo-128.png",
+      "chainId": 1,
+      "decimals": 6
+    },
+    {
       "address": "0x93ACb12ae1Effb3426220C20c6d408eEAaE59D72",
       "name": "xOHM-FDT1%",
       "symbol": "xOHM-FDT1%",
@@ -15107,6 +15315,14 @@
       "decimals": 18
     },
     {
+      "address": "0x9999046b885E6E1aE5cd07Ac8EadBc0Ed21d8223",
+      "name": "PT SY Midas MEV 29JAN2026",
+      "symbol": "PT-SY-mMEV-29JAN2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x9999046b885E6E1aE5cd07Ac8EadBc0Ed21d8223/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0x999A3847707511E06E6Df03029D7EDB04F9099C8",
       "name": "YT Bedrock UniETH 26JUN2025",
       "symbol": "YT-uniETH-26JUN2025",
@@ -15481,6 +15697,14 @@
       "decimals": 18
     },
     {
+      "address": "0x9a34eB848C06d438d8747060A383dd13cFf33317",
+      "name": "PT Midas mEDGE 29JAN2026",
+      "symbol": "PT-mEDGE-29JAN2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x9a34eB848C06d438d8747060A383dd13cFf33317/logo-128.png",
+      "chainId": 1,
+      "decimals": 6
+    },
+    {
       "address": "0x9a68bbA8074f78727a7B129e30175388E02a5b9D",
       "name": "SY Upshift USDC",
       "symbol": "SY-upUSDC",
@@ -15763,6 +15987,14 @@
       "name": "SY Resolv Liquidity Provider Token",
       "symbol": "SY-RLP",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xA004dD9439c2CF00794786C9662267beE6d9F723/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xA00f596e9D03fe90c5d22C15B468e8Dce4d24dE0",
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xA00f596e9D03fe90c5d22C15B468e8Dce4d24dE0/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -16228,6 +16460,14 @@
       "decimals": 18
     },
     {
+      "address": "0xAADBC004DAcF10e1fdbd87ca1a40ecAF77CC5B02",
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xAADBC004DAcF10e1fdbd87ca1a40ecAF77CC5B02/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0xAAcAE34960CaC6F32826f81E15F855f8e8c7f39e",
       "name": "PT Fluid Gho Token 31JUL2025",
       "symbol": "PT-fGHO-31JUL2025",
@@ -16552,6 +16792,14 @@
       "name": "StargateToken",
       "symbol": "STG",
       "logoURI": "https://tokens.1inch.io/0xaf5191b0de278c7286d6c7cc6ab6bb8a73ba2cd6.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xAf5669E4ed9a999667cd2b810878022cF54866d1",
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xAf5669E4ed9a999667cd2b810878022cF54866d1/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -18906,6 +19154,14 @@
       "decimals": 18
     },
     {
+      "address": "0xDd4fFa11C7042852c37B81ec884c6f6E32D12f59",
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xDd4fFa11C7042852c37B81ec884c6f6E32D12f59/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0xDdb166C6CB38CEDe52d12c405b6e906c1fB6f9d7",
       "name": "crvRenWSBTC yVault",
       "symbol": "yvcrvRenWSBTC",
@@ -19349,6 +19605,14 @@
       "name": "Curve.fi Factory Crypto Pool: dYFI/ETH",
       "symbol": "dYFIETH-f",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xE8449F1495012eE18dB7Aa18cD5706b47e69627c/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xE8483517077afa11A9B07f849cee2552f040d7b2",
+      "name": "PT Ethena sUSDE 5FEB2026",
+      "symbol": "PT-sUSDE-5FEB2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xE8483517077afa11A9B07f849cee2552f040d7b2/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -20325,6 +20589,14 @@
       "decimals": 8
     },
     {
+      "address": "0xFE8ACf962F9a67D67B858819aCEE296dfDa878Dd",
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xFE8ACf962F9a67D67B858819aCEE296dfDa878Dd/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0xFEEf77d3f69374f66429C91d732A244f074bdf74",
       "name": "Convex FXS",
       "symbol": "cvxFXS",
@@ -20736,6 +21008,14 @@
       "name": "Wrapped UST Token",
       "symbol": "UST",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xa47c8bf37f92aBed4A126BDA807A7b7498661acD/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xa48A1bf059F2A1bC67727a5C99E538B54CaaA770",
+      "name": "YT SY Midas MEV 29JAN2026",
+      "symbol": "YT-SY-mMEV-29JAN2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xa48A1bf059F2A1bC67727a5C99E538B54CaaA770/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -22836,6 +23116,14 @@
       "decimals": 6
     },
     {
+      "address": "0xcaF570bAF39f94cD94854EF422a463355975eEa4",
+      "name": "SY SY Midas MEV",
+      "symbol": "SY-SY-mMEV",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xcaF570bAF39f94cD94854EF422a463355975eEa4/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0xcb166f0148Ae815313039d735E28FCeC617B21Fe",
       "name": "SY Stader Staking ETHx",
       "symbol": "SY-ETHx",
@@ -23185,6 +23473,14 @@
       "symbol": "yG-yvUSDS-1",
       "chainId": 1,
       "decimals": 18
+    },
+    {
+      "address": "0xd5e057c3dfeAeaB75bB48781c302CdD0934E0052",
+      "name": "YT Midas MEV 29JAN2026",
+      "symbol": "YT-mMEV-29JAN2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xd5e057c3dfeAeaB75bB48781c302CdD0934E0052/logo-128.png",
+      "chainId": 1,
+      "decimals": 6
     },
     {
       "address": "0xd614FE385663110D3D4fcAe270E88d4d76C58b8E",
@@ -24000,6 +24296,14 @@
       "decimals": 18
     },
     {
+      "address": "0xe36c6c271779C080Ba2e68E1E68410291a1b3F7A",
+      "name": "YT Ethena sUSDE 5FEB2026",
+      "symbol": "YT-sUSDE-5FEB2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xe36c6c271779C080Ba2e68E1E68410291a1b3F7A/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0xe3Bf2D04cd3B6e74613D36368c7D21B2d6C26d72",
       "name": "Curve USDaf-scrvUSD Factory yVault",
       "symbol": "yvCurve-USDaf-scrvUSD-f",
@@ -24344,6 +24648,14 @@
       "decimals": 18
     },
     {
+      "address": "0xeEAa924eB3667F30Be02Db9C55d87566a3F4dF7A",
+      "name": "PT Reservoir Protocol RUSD 26FEB2026",
+      "symbol": "PT-RUSD-26FEB2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xeEAa924eB3667F30Be02Db9C55d87566a3F4dF7A/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0xeEB6Be70fF212238419cD638FAB17910CF61CBE7",
       "name": "Morpho Gauntlet WETH Prime Compounder",
       "symbol": "ysWETH",
@@ -24484,6 +24796,14 @@
       "name": "reUSD/sfrxUSD",
       "symbol": "reusdsfrx",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xed785Af60bEd688baa8990cD5c4166221599A441/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xed81f8bA2941C3979de2265C295748a6b6956567",
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xed81f8bA2941C3979de2265C295748a6b6956567/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -24816,6 +25136,14 @@
       "decimals": 18
     },
     {
+      "address": "0xf63bdb49Ab15eb8F85d5e200D4fa9E242cc4e853",
+      "name": "YT Reservoir Protocol RUSD 26FEB2026",
+      "symbol": "YT-RUSD-26FEB2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xf63bdb49Ab15eb8F85d5e200D4fa9E242cc4e853/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0xf650494E751878b6b2B4006D2e0618ef3e9E2579",
       "name": "YT USD0++ 27FEB2025",
       "symbol": "YT-USD0++-27FEB2025",
@@ -25108,6 +25436,14 @@
       "name": "PT Staked ENA 25SEP2025",
       "symbol": "PT-sENA-25SEP2025",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xfC66d247F577Bfc87df8a5267C43676C4a088B8b/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xfCe3F966A131c46A51B896CEea3917BC4c302577",
+      "name": "Pendle Market",
+      "symbol": "PENDLE-LPT",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xfCe3F966A131c46A51B896CEea3917BC4c302577/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },

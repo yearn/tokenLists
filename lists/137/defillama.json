@@ -1,9 +1,9 @@
 {
   "name": "DefiLlama",
   "description": "",
-  "timestamp": "2025-10-19T02:02:01Z",
+  "timestamp": "2025-10-26T02:19:11Z",
   "version": {
-    "major": 143,
+    "major": 144,
     "minor": 0,
     "patch": 0
   },
@@ -993,6 +993,14 @@
       "name": "Kyber Network Crystal v2 (PoS)",
       "symbol": "KNC",
       "logoURI": "https://tokens.1inch.io/0x1c954e8fe737f99f68fa1ccda3e51ebdb291948c.png",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
+      "address": "0x1CCA311B786Dd7906c07414095FA719Eabfd070f",
+      "name": "PLAY",
+      "symbol": "PLAY",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/70170/thumb/token-logo-200.png?1760865359",
       "chainId": 137,
       "decimals": 18
     },
@@ -2055,6 +2063,14 @@
       "name": "Deri (PoS)",
       "symbol": "DERI",
       "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x3D1D2aFd191b165D140e3E8329E634665fFB0E5e/logo.png",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
+      "address": "0x3E12b9d6A4D12cd9b4a6d613872d0Eb32f68b380",
+      "name": "Flower",
+      "symbol": "FLOWER",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/55689/thumb/flower_200.png?1747034605",
       "chainId": 137,
       "decimals": 18
     },
@@ -4825,14 +4841,6 @@
       "decimals": 18
     },
     {
-      "address": "0x981AeCC6EB4d382b96A02B75E931900705e95A31",
-      "name": "SAVAGE Token",
-      "symbol": "SAVG",
-      "logoURI": "https://assets.coingecko.com/coins/images/22750/large/savg_logo.jpg?1642562253",
-      "chainId": 137,
-      "decimals": 18
-    },
-    {
       "address": "0x98965474EcBeC2F532F1f780ee37b0b05F77Ca55",
       "name": "SUPER TRUST",
       "symbol": "SUT",
@@ -7126,14 +7134,6 @@
       "decimals": 18
     },
     {
-      "address": "0xc53ac24320E3A54C7211e4993c8095078a0Cb3Cf",
-      "name": "Wild Goat Coin",
-      "symbol": "WGC",
-      "logoURI": "https://asset-images.messari.io/images/27d4c5e5-e161-4c5e-bdcf-0ff33f5d5f6e/128.png",
-      "chainId": 137,
-      "decimals": 6
-    },
-    {
       "address": "0xc553a5A789f1BB56a72847b3FDA1DE3E16e6763f",
       "name": "CygnusDAO",
       "symbol": "CYG",
@@ -8011,14 +8011,6 @@
       "logoURI": "https://assets.coingecko.com/coins/images/12729/large/index.png?1634894321",
       "chainId": 137,
       "decimals": 18
-    },
-    {
-      "address": "0xfCB54Da3F4193435184F3F647467e12b50754575",
-      "name": "Smell Token",
-      "symbol": "SML",
-      "logoURI": "https://assets.coingecko.com/coins/images/32191/large/SML.jpg?1696744491",
-      "chainId": 137,
-      "decimals": 8
     },
     {
       "address": "0xfFA188493C15DfAf2C206c97D8633377847b6a52",

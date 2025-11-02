@@ -1,10 +1,10 @@
 {
   "name": "CoW Swap",
   "description": "",
-  "timestamp": "2025-10-19T02:01:51Z",
+  "timestamp": "2025-11-02T02:14:09Z",
   "version": {
     "major": 4,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   },
   "logoURI": "https://raw.githubusercontent.com/cowprotocol/cowswap/c5974fb8a45d678029ecb013dab33722e152daaa/src/assets/cow-swap/cow_v2.svg",
@@ -1316,6 +1316,14 @@
       "name": "Tribe",
       "symbol": "TRIBE",
       "logoURI": "https://tokens.1inch.io/0xc7283b66eb1eb5fb86327f08e1b5816b0720212b.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xcCcc62962d17b8914c62D74FfB843d73B2a3cccC",
+      "name": "cap USD",
+      "symbol": "cUSD",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/68272/thumb/cUSD_ab_500%C3%97500.png?1755232868",
       "chainId": 1,
       "decimals": 18
     },

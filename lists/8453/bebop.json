@@ -1,10 +1,10 @@
 {
   "name": "Bebop",
   "description": "",
-  "timestamp": "2025-10-26T02:21:20Z",
+  "timestamp": "2025-11-02T02:15:05Z",
   "version": {
     "major": 22,
-    "minor": 3,
+    "minor": 4,
     "patch": 0
   },
   "logoURI": "https://bebop-public-images.s3.eu-west-2.amazonaws.com/bebop-logo.png",
@@ -23,6 +23,14 @@
       "name": "Zora",
       "symbol": "ZORA",
       "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0x1111111111166b7FE7bd91427724B487980aFc69/logo-128.png",
+      "chainId": 8453,
+      "decimals": 18
+    },
+    {
+      "address": "0x1bc0c42215582d5A085795f4baDbaC3ff36d1Bcb",
+      "name": "tokenbot",
+      "symbol": "CLANKER",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0x1bc0c42215582d5A085795f4baDbaC3ff36d1Bcb/logo-128.png",
       "chainId": 8453,
       "decimals": 18
     },

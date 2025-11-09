@@ -1,9 +1,9 @@
 {
   "name": "CoinGecko",
   "description": "",
-  "timestamp": "2025-11-02T02:15:57Z",
+  "timestamp": "2025-11-09T01:46:37Z",
   "version": {
-    "major": 148,
+    "major": 149,
     "minor": 0,
     "patch": 0
   },
@@ -105,7 +105,7 @@
       "address": "0x0994206dfE8De6Ec6920FF4D779B0d950605Fb53",
       "name": "Curve DAO Token",
       "symbol": "CRV",
-      "logoURI": "ipfs://QmcVbt1ezDs89zPw5rgaR9xy5f3bdE7dxvTz958FeFNgfQ",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xD533a949740bb3306d119CC777fa900bA034cd52/logo.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -387,14 +387,6 @@
       "decimals": 18
     },
     {
-      "address": "0x2Dd1B4D4548aCCeA497050619965f91f78b3b532",
-      "name": "Staked FRAX",
-      "symbol": "sFRAX",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x2Dd1B4D4548aCCeA497050619965f91f78b3b532/logo-128.png",
-      "chainId": 10,
-      "decimals": 18
-    },
-    {
       "address": "0x2E3D870790dC77A83DD1d18184Acc7439A53f475",
       "name": "Frax",
       "symbol": "FRAX",
@@ -432,14 +424,6 @@
       "logoURI": "https://assets.coingecko.com/coins/images/2807/large/krl.png?1547036979",
       "chainId": 10,
       "decimals": 18
-    },
-    {
-      "address": "0x323665443CEf804A3b5206103304BD4872EA4253",
-      "name": "USDV",
-      "symbol": "USDV",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x323665443CEf804A3b5206103304BD4872EA4253/logo-128.png",
-      "chainId": 10,
-      "decimals": 6
     },
     {
       "address": "0x33800De7E817A70A694F31476313A7c572BBa100",
@@ -638,6 +622,13 @@
       "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x484c2D6e3cDd945a8B2DF735e079178C1036578c/logo-128.png",
       "chainId": 10,
       "decimals": 18
+    },
+    {
+      "address": "0x4933A85b5b5466Fbaf179F72D3DE273c287EC2c2",
+      "name": "AllUnity EUR",
+      "symbol": "EURAU",
+      "chainId": 10,
+      "decimals": 6
     },
     {
       "address": "0x4E200fE2f3eFb977d5fd9c430A41531FB04d97B8",
@@ -1634,7 +1625,7 @@
       "address": "0xFE8B128bA8C78aabC59d4c64cEE7fF28e9379921",
       "name": "Balancer",
       "symbol": "BAL",
-      "logoURI": "ipfs://QmeVnk6jkW8J9ZHFxsLVamMNHpz9bigp7tsY2CJuxas297",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xba100000625a3754423978a60c9317c58a424e3D/logo.png",
       "chainId": 10,
       "decimals": 18
     },

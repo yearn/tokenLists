@@ -1,9 +1,9 @@
 {
   "name": "DefiLlama",
   "description": "",
-  "timestamp": "2025-11-02T01:52:17Z",
+  "timestamp": "2025-11-09T01:47:02Z",
   "version": {
-    "major": 145,
+    "major": 146,
     "minor": 0,
     "patch": 0
   },
@@ -811,13 +811,6 @@
       "decimals": 18
     },
     {
-      "address": "0x323665443CEf804A3b5206103304BD4872EA4253",
-      "name": "USDV",
-      "symbol": "USDV",
-      "chainId": 43114,
-      "decimals": 6
-    },
-    {
       "address": "0x333000333b26eE30214B4af6419D9ab07a450400",
       "name": "Meld",
       "symbol": "MELD",
@@ -846,14 +839,6 @@
       "name": "DeltaPrime",
       "symbol": "PRIME",
       "logoURI": "https://coin-images.coingecko.com/coins/images/39234/thumb/PRIME.jpg?1721240215",
-      "chainId": 43114,
-      "decimals": 18
-    },
-    {
-      "address": "0x3405E88af759992937b84E58F2Fe691EF0EeA320",
-      "name": "Staked FRAX",
-      "symbol": "sFRAX",
-      "logoURI": "https://assets.coingecko.com/coins/images/35383/large/sfrax.png?1708445569",
       "chainId": 43114,
       "decimals": 18
     },
@@ -2027,14 +2012,6 @@
       "name": "WABBIT",
       "symbol": "WABBIT",
       "logoURI": "https://coin-images.coingecko.com/coins/images/52688/thumb/4D205EBC-C245-44B7-9F24-9E439B4D5B42.png?1734032292",
-      "chainId": 43114,
-      "decimals": 18
-    },
-    {
-      "address": "0x78Ea3fef1c1f07348199Bf44f45b803b9B0Dbe28",
-      "name": "FLY",
-      "symbol": "FLY",
-      "logoURI": "https://assets.coingecko.com/coins/images/24296/large/FLY.png?1647266279",
       "chainId": 43114,
       "decimals": 18
     },
@@ -3531,6 +3508,14 @@
       "logoURI": "https://assets.coingecko.com/coins/images/30546/large/infra-token-square.png?1684989653",
       "chainId": 43114,
       "decimals": 18
+    },
+    {
+      "address": "0xa5d465251fBCc907f5Dd6bB2145488DFC6a2627b",
+      "name": "Janus Henderson Anemoy Treasury Fund Token",
+      "symbol": "JTRSY",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/70445/thumb/JTRSY.png?1762078582",
+      "chainId": 43114,
+      "decimals": 6
     },
     {
       "address": "0xa77d05fd853af120cD4dB48e73498E0cAbD3F628",

@@ -1,10 +1,10 @@
 {
   "name": "Uniswap Labs Default",
   "description": "",
-  "timestamp": "2025-11-02T01:53:02Z",
+  "timestamp": "2025-11-09T01:45:49Z",
   "version": {
     "major": 23,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   },
   "logoURI": "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
@@ -2391,6 +2391,14 @@
       "name": "Gods Unchained",
       "symbol": "GODS",
       "logoURI": "https://assets.coingecko.com/coins/images/17139/large/10631.png?1635718182",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xcccCCCcCCC33D538DBC2EE4fEab0a7A1FF4e8A94",
+      "name": "Centrifuge",
+      "symbol": "CFG",
+      "logoURI": "https://asset-images.messari.io/images/6191feda-46ba-4bd0-951b-d9947151c893/128.png",
       "chainId": 1,
       "decimals": 18
     },

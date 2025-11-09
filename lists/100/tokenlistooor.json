@@ -1,9 +1,9 @@
 {
   "name": "Tokenlistooor Token List",
   "description": "A curated list of tokens from all the token lists on tokenlistooor.",
-  "timestamp": "2025-11-02T02:16:40Z",
+  "timestamp": "2025-11-09T02:03:23Z",
   "version": {
-    "major": 356,
+    "major": 357,
     "minor": 0,
     "patch": 0
   },
@@ -71,6 +71,14 @@
       "name": "Gnosis Token on xDai",
       "symbol": "GNO",
       "logoURI": "https://token-assets-one.vercel.app/api/token/100/0x9C58BAcC331c9aa871AFD802DB6379a98e80CEdb/logo-128.png",
+      "chainId": 100,
+      "decimals": 18
+    },
+    {
+      "address": "0x9eE1963f05553eF838604Dd39403be21ceF26AA4",
+      "name": "USDp",
+      "symbol": "USDp",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/100/0x9eE1963f05553eF838604Dd39403be21ceF26AA4/logo-128.png",
       "chainId": 100,
       "decimals": 18
     },

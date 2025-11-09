@@ -1,10 +1,10 @@
 {
   "name": "Lifi Token List",
   "description": "",
-  "timestamp": "2025-11-02T02:16:38Z",
+  "timestamp": "2025-11-09T01:47:08Z",
   "version": {
     "major": 13,
-    "minor": 3,
+    "minor": 4,
     "patch": 0
   },
   "logoURI": "https://avatars.githubusercontent.com/u/85288935?s=200\u0026v=4",
@@ -419,6 +419,14 @@
       "decimals": 18
     },
     {
+      "address": "0x83915DE0d525Bb57a38cD97D9F508CABEAD6a0d5",
+      "name": "Wrapped XOC",
+      "symbol": "WXOC",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/69310/thumb/xone.png?1758162745",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0x83e817E1574e2201a005EC0f7e700ED5606F555E",
       "name": "mPendleOFT",
       "symbol": "mPendleOFT",
@@ -597,7 +605,7 @@
       "address": "0xE7C3D8C9a439feDe00D2600032D5dB0Be71C3c29",
       "name": "JPY Coin",
       "symbol": "JPYC",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xE7C3D8C9a439feDe00D2600032D5dB0Be71C3c29/logo-128.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/70314/large/JPYC_400x400.jpg?1761556080",
       "chainId": 1,
       "decimals": 18
     },
@@ -632,6 +640,14 @@
       "logoURI": "https://assets.coingecko.com/coins/images/67498/large/yala.jpg?1752994443",
       "chainId": 1,
       "decimals": 18
+    },
+    {
+      "address": "0xFF7F8F301F7A706E3CfD3D2275f5dc0b9EE8009B",
+      "name": "Folks Finance",
+      "symbol": "FOLKS",
+      "logoURI": "https://assets.coingecko.com/coins/images/70268/large/1000331462.png?1761335326",
+      "chainId": 1,
+      "decimals": 6
     },
     {
       "address": "0xa10bf0aBa0C7953F279c4Cb8192d3B5dE5eA56E8",

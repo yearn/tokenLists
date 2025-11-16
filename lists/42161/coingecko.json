@@ -1,9 +1,9 @@
 {
   "name": "CoinGecko",
   "description": "",
-  "timestamp": "2025-11-09T01:46:37Z",
+  "timestamp": "2025-11-16T01:50:13Z",
   "version": {
-    "major": 149,
+    "major": 150,
     "minor": 0,
     "patch": 0
   },
@@ -96,7 +96,7 @@
     {
       "address": "0x026FdF3024953cb2e8982bc11c67d336F37A5044",
       "name": "Fidelity Wise Origin Bitcoin Fund - Dinari",
-      "symbol": "FBTC.d",
+      "symbol": "FBTC",
       "logoURI": "https://asset-images.messari.io/images/eaa740e9-37bf-4e34-a285-cd815654aa77/128.png",
       "chainId": 42161,
       "decimals": 18
@@ -248,7 +248,7 @@
     {
       "address": "0x071e1Fd14FbAcb2B856867043Eb12ACE1EE3cb52",
       "name": "Ero Copper Corp. - Dinari",
-      "symbol": "ERO.d",
+      "symbol": "ERO",
       "logoURI": "https://asset-images.messari.io/images/6ce42367-eb47-42f4-bb46-4784ddd849f6/128.png",
       "chainId": 42161,
       "decimals": 18
@@ -256,7 +256,7 @@
     {
       "address": "0x0753d920A5E37b0BF2114A7b4A71D46f66Ce4B30",
       "name": "Robinhood Markets, Inc. Class A Common Stock - Dinari",
-      "symbol": "HOOD.d",
+      "symbol": "HOOD",
       "logoURI": "https://asset-images.messari.io/images/e6df5ca1-eecf-438b-b12f-01c45bce00cb/128.png",
       "chainId": 42161,
       "decimals": 18
@@ -384,7 +384,7 @@
     {
       "address": "0x0A2919147b871a0Fc90f04944e31FAd56d9AF666",
       "name": "VanEck Steel ETF - Dinari",
-      "symbol": "SLX.d",
+      "symbol": "SLX",
       "logoURI": "https://asset-images.messari.io/images/ad836ce1-8030-449a-b743-37614b07ad60/128.png",
       "chainId": 42161,
       "decimals": 18
@@ -440,7 +440,7 @@
     {
       "address": "0x0B5ac0d7DCf6964609a12aF4f6c6f3C257070193",
       "name": "Riot Platforms, Inc. Common Stock - Dinari",
-      "symbol": "RIOT.d",
+      "symbol": "RIOT",
       "logoURI": "https://asset-images.messari.io/images/b3c6c46c-d79b-4fa8-a3d7-260ef1a4007a/128.png",
       "chainId": 42161,
       "decimals": 18
@@ -528,7 +528,7 @@
     {
       "address": "0x0c29891dC5060618c779E2A45fbE4808Aa5aE6aD",
       "name": "McDonald's Corporation - Dinari",
-      "symbol": "MCD.d",
+      "symbol": "MCD",
       "logoURI": "https://asset-images.messari.io/images/5a2bb4cd-2b1a-4122-bb68-71680f19d4d6/128.png",
       "chainId": 42161,
       "decimals": 18
@@ -544,7 +544,7 @@
     {
       "address": "0x0c59F6b96d3CaC58240429c7659eC107f8b1efA7",
       "name": "VanEck Bitcoin Trust - Dinari",
-      "symbol": "HODL.d",
+      "symbol": "HODL",
       "logoURI": "https://asset-images.messari.io/images/59664847-21dc-43e2-bfd8-16927fd63f5a/128.png",
       "chainId": 42161,
       "decimals": 18
@@ -592,7 +592,7 @@
     {
       "address": "0x0e929101c4fA7c91EAA64d7216161ba3eeE387FE",
       "name": "Chevron Corporation - Dinari",
-      "symbol": "CVX.d",
+      "symbol": "CVX",
       "logoURI": "https://asset-images.messari.io/images/74d19325-80ac-4e61-9294-dac9f4ebef6d/128.png",
       "chainId": 42161,
       "decimals": 18
@@ -632,7 +632,7 @@
     {
       "address": "0x10DDF4850c43DE1bCAb504f53bEcdCd66A53d5C4",
       "name": "ARK Space Exploration \u0026 Innovation ETF - Dinari",
-      "symbol": "ARKX.d",
+      "symbol": "ARKX",
       "logoURI": "https://asset-images.messari.io/images/54c2e677-637c-48df-b477-b589d32b50be/128.png",
       "chainId": 42161,
       "decimals": 18
@@ -664,7 +664,7 @@
     {
       "address": "0x118346C2bb9d24412ed58C53bF9BB6f61A20d7Ec",
       "name": "PROLOGIS, INC. - Dinari",
-      "symbol": "PLD.d",
+      "symbol": "PLD",
       "logoURI": "https://asset-images.messari.io/images/3be97276-ec93-473b-be48-55535f16c81b/128.png",
       "chainId": 42161,
       "decimals": 18
@@ -767,7 +767,7 @@
     {
       "address": "0x13F950EE286A5be0254065D4B66420fC0E57adfC",
       "name": "iShares Global Timber \u0026 Forestry ETF - Dinari",
-      "symbol": "WOOD.d",
+      "symbol": "WOOD",
       "logoURI": "https://asset-images.messari.io/images/252e2cc9-8b6e-46d8-b176-00bbf8646c5f/128.png",
       "chainId": 42161,
       "decimals": 18
@@ -783,7 +783,7 @@
     {
       "address": "0x14297BE295ab922458277BE046e89f73382bDF8e",
       "name": "Annaly Capital Management. Inc. - Dinari",
-      "symbol": "NLY.d",
+      "symbol": "NLY",
       "logoURI": "https://asset-images.messari.io/images/313f16e8-c65a-4b97-8aee-59850b9e3c0d/128.png",
       "chainId": 42161,
       "decimals": 18
@@ -887,7 +887,7 @@
     {
       "address": "0x1795EeACbF98f08E7eE5AF0a8913d5a54c24Bb40",
       "name": "SP Funds S\u0026P Global Technology ETF - Dinari",
-      "symbol": "SPTE.d",
+      "symbol": "SPTE",
       "logoURI": "https://asset-images.messari.io/images/a216d06a-29d0-442e-8519-a0244dfebc3d/128.png",
       "chainId": 42161,
       "decimals": 18
@@ -1006,7 +1006,7 @@
     {
       "address": "0x1AdEDD1fe0237858d151Ec043B218fE6D2b9Bf2a",
       "name": "abrdn Physical Silver Shares ETF - Dinari",
-      "symbol": "SIVR.d",
+      "symbol": "SIVR",
       "logoURI": "https://asset-images.messari.io/images/1751243d-9c46-43c6-89f6-003d602be841/128.png",
       "chainId": 42161,
       "decimals": 18
@@ -1038,7 +1038,7 @@
     {
       "address": "0x1BED98B79F8A5E32031b0d735022Fc006DB47D37",
       "name": "Vanguard FTSE Emerging Markets ETF - Dinari",
-      "symbol": "VWO.d",
+      "symbol": "VWO",
       "logoURI": "https://asset-images.messari.io/images/bd12f02c-ee4a-4fda-add0-11eec21d18c3/128.png",
       "chainId": 42161,
       "decimals": 18
@@ -1117,7 +1117,7 @@
     {
       "address": "0x1a4fD0E749c86eEB6f80d1047D6C25432c703D48",
       "name": "ARK Innovation ETF - Dinari",
-      "symbol": "ARKK.d",
+      "symbol": "ARKK",
       "logoURI": "https://asset-images.messari.io/images/e2328414-f856-4d2a-a220-2050ef56c14d/128.png",
       "chainId": 42161,
       "decimals": 18
@@ -1125,7 +1125,7 @@
     {
       "address": "0x1aE31840D492993A58baF558180B5Ee83ce2F8cE",
       "name": "Snowflake Inc. - Dinari",
-      "symbol": "SNOW.d",
+      "symbol": "SNOW",
       "logoURI": "https://asset-images.messari.io/images/1bcf70ea-a736-4396-9b83-0515d74b3f74/128.png",
       "chainId": 42161,
       "decimals": 18
@@ -1268,7 +1268,7 @@
     {
       "address": "0x23F318840a200Fa488627849a369A138F66B3577",
       "name": "Bank of America Corporation - Dinari",
-      "symbol": "BAC.d",
+      "symbol": "BAC",
       "logoURI": "https://asset-images.messari.io/images/49760353-6d05-43dc-ae73-98cbfff43038/128.png",
       "chainId": 42161,
       "decimals": 18
@@ -1332,7 +1332,7 @@
     {
       "address": "0x2594A6392832b341b76B60e8B00F42094e30B1b3",
       "name": "SP Funds S\u0026P 500 Sharia  ETF - Dinari",
-      "symbol": "SPUS.d",
+      "symbol": "SPUS",
       "logoURI": "https://asset-images.messari.io/images/b09e6289-9e51-4fa8-a716-217648fd43c1/128.png",
       "chainId": 42161,
       "decimals": 18
@@ -1410,7 +1410,7 @@
     {
       "address": "0x2824eFE5CeDB3BC8730E412981997daC7C7640C2",
       "name": "Invesco Galaxy Bitcoin ETF - Dinari",
-      "symbol": "BTCO.d",
+      "symbol": "BTCO",
       "logoURI": "https://asset-images.messari.io/images/3caf5817-9570-4203-8e44-083528464d22/128.png",
       "chainId": 42161,
       "decimals": 18
@@ -1425,7 +1425,7 @@
     {
       "address": "0x289594B223aB31832726eB99871FA99AdaC583e5",
       "name": "Adobe Inc. - Dinari",
-      "symbol": "ADBE.d",
+      "symbol": "ADBE",
       "logoURI": "https://asset-images.messari.io/images/550c1c54-aeec-4172-a885-25965c26b7be/128.png",
       "chainId": 42161,
       "decimals": 18
@@ -1441,7 +1441,7 @@
     {
       "address": "0x28bF1c9Ee2eB746a2d61a0bEc97A344028171d6C",
       "name": "AMC ENTERTAINMENT HOLDINGS, INC. - Dinari",
-      "symbol": "AMC.d",
+      "symbol": "AMC",
       "logoURI": "https://asset-images.messari.io/images/12f0c550-c560-4061-8500-cb6c54684a06/128.png",
       "chainId": 42161,
       "decimals": 18
@@ -1497,7 +1497,7 @@
     {
       "address": "0x2B7c643b42409F352B936BF07e0538ba20979Bff",
       "name": "Valkyrie Bitcoin Fund - Dinari",
-      "symbol": "BRRR.d",
+      "symbol": "BRRR",
       "logoURI": "https://asset-images.messari.io/images/e9b1b290-f6f5-4fd7-bd66-581015cbb874/128.png",
       "chainId": 42161,
       "decimals": 18
@@ -1695,7 +1695,7 @@
     {
       "address": "0x315A2dca4B1B633d3A707C71D96243534c02F7c4",
       "name": "Exxon Mobil Corporation - Dinari",
-      "symbol": "XOM.d",
+      "symbol": "XOM",
       "logoURI": "https://asset-images.messari.io/images/8b563429-c0b8-476a-8a0f-27b00772cb61/128.png",
       "chainId": 42161,
       "decimals": 18
@@ -1791,7 +1791,7 @@
     {
       "address": "0x337842843512192b798a5592053ce8E2245651f8",
       "name": "Cisco Systems, Inc. Common Stock (DE) - Dinari",
-      "symbol": "CSCO.d",
+      "symbol": "CSCO",
       "logoURI": "https://asset-images.messari.io/images/376c30e3-0cdc-4bfd-a94d-5d65c8bf9569/128.png",
       "chainId": 42161,
       "decimals": 18
@@ -1911,7 +1911,7 @@
     {
       "address": "0x3619ca1e96c629f7D71C1b03dc0Ee56479356228",
       "name": "ARK 21Shares Bitcoin ETF - Dinari",
-      "symbol": "ARKB.d",
+      "symbol": "ARKB",
       "logoURI": "https://asset-images.messari.io/images/043c99a7-9283-4d24-a677-7ce7a2bfe57e/128.png",
       "chainId": 42161,
       "decimals": 18
@@ -1951,7 +1951,7 @@
     {
       "address": "0x36d37B6cbCA364Cf1D843efF8C2f6824491bcF81",
       "name": "Tesla, Inc. - Dinari",
-      "symbol": "TSLA.d",
+      "symbol": "TSLA",
       "logoURI": "https://asset-images.messari.io/images/86163ef1-b732-4070-b6dd-fa7e4388e31b/128.png",
       "chainId": 42161,
       "decimals": 18
@@ -1983,7 +1983,7 @@
     {
       "address": "0x3774a2E7C66BC9371424c3edC67503CADd7C882B",
       "name": "abrdn Physical Platinum Shares ETF - Dinari",
-      "symbol": "PPLT.d",
+      "symbol": "PPLT",
       "logoURI": "https://asset-images.messari.io/images/7b6ade89-d790-40ba-864d-13d2b54fbfb1/128.png",
       "chainId": 42161,
       "decimals": 18
@@ -2031,7 +2031,7 @@
     {
       "address": "0x39Bce681d72720F80424914800A78c63FdfaF645",
       "name": "iShares Gold Trust - Dinari",
-      "symbol": "IAU.d",
+      "symbol": "IAU",
       "logoURI": "https://asset-images.messari.io/images/d52d2bfd-8796-400f-920d-22212c4603ea/128.png",
       "chainId": 42161,
       "decimals": 18
@@ -2054,7 +2054,7 @@
     {
       "address": "0x3AD63B3C0eA6d7A093ff98fdE040baddc389EcDc",
       "name": "Netflix, Inc. - Dinari",
-      "symbol": "NFLX.d",
+      "symbol": "NFLX",
       "logoURI": "https://asset-images.messari.io/images/7c3de132-9cc4-4ea2-97b0-996b85415f60/128.png",
       "chainId": 42161,
       "decimals": 18
@@ -2110,7 +2110,7 @@
     {
       "address": "0x3F29fDA039ee80f7D30FA5EB4e3B40691329F020",
       "name": "Procure Space ETF - Dinari",
-      "symbol": "UFO.d",
+      "symbol": "UFO",
       "logoURI": "https://asset-images.messari.io/images/43742b89-e8ce-4ee1-b475-5e01525e02c6/128.png",
       "chainId": 42161,
       "decimals": 18
@@ -2158,7 +2158,7 @@
     {
       "address": "0x3c9f23dB4DDC5655f7be636358D319A3De1Ff0c4",
       "name": "Walt Disney Company - Dinari",
-      "symbol": "DIS.d",
+      "symbol": "DIS",
       "logoURI": "https://asset-images.messari.io/images/d9bae106-7061-4c3c-a980-c8ff606b1a92/128.png",
       "chainId": 42161,
       "decimals": 18
@@ -2222,7 +2222,7 @@
     {
       "address": "0x40914f6007da3FceE3C8A6DB211b5797848F8882",
       "name": "iPath Series B S\u0026P 500 VIX Short-Term Futures ETN - Dinari",
-      "symbol": "VXX.d",
+      "symbol": "VXX",
       "logoURI": "https://asset-images.messari.io/images/63deb595-d0bb-4bb6-a10e-eaa5206bc003/128.png",
       "chainId": 42161,
       "decimals": 18
@@ -2254,7 +2254,7 @@
     {
       "address": "0x41C9954FF544c2376385Afc15d11D9bCFaC777aB",
       "name": "Mercado Libre, Inc - Dinari",
-      "symbol": "MELI.d",
+      "symbol": "MELI",
       "logoURI": "https://asset-images.messari.io/images/9a91313c-d4bb-49d5-abad-391ef37a6dc7/128.png",
       "chainId": 42161,
       "decimals": 18
@@ -2285,7 +2285,7 @@
     {
       "address": "0x42BA3aC0c2D9B611623e1e48f51757606a105d9e",
       "name": "Coca-Cola Company - Dinari",
-      "symbol": "KO.d",
+      "symbol": "KO",
       "logoURI": "https://asset-images.messari.io/images/00584ab2-4c9e-4863-bb2e-7f92f94ab0ac/128.png",
       "chainId": 42161,
       "decimals": 18
@@ -2349,7 +2349,7 @@
     {
       "address": "0x44966Bf47A494B36dFb407AfB334A9226CdF90bc",
       "name": "AstraZeneca PLC - Dinari",
-      "symbol": "AZN.d",
+      "symbol": "AZN",
       "logoURI": "https://asset-images.messari.io/images/853ff6de-b9b9-4c5e-a1f1-90172e023907/128.png",
       "chainId": 42161,
       "decimals": 18
@@ -2413,7 +2413,7 @@
     {
       "address": "0x46b979440AC257151EE5a5bC9597B76386907FA1",
       "name": "Coinbase Global, Inc. Class A Common Stock - Dinari",
-      "symbol": "COIN.d",
+      "symbol": "COIN",
       "logoURI": "https://asset-images.messari.io/images/fd5f8495-d69a-4484-b341-baa18d699467/128.png",
       "chainId": 42161,
       "decimals": 18
@@ -2446,6 +2446,7 @@
       "address": "0x475E1cC57af3e40c80570220b1CE079B219605C4",
       "name": "Ostrich",
       "symbol": "RICH",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/70457/thumb/photo_2025-10-31_20-26-03.jpg?1762082551",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2554,7 +2555,7 @@
     {
       "address": "0x4Cb894D1A5Fc353eC18Ba50cB087b88F6f73121f",
       "name": "Grayscale Ethereum Trust (ETH) - Dinari",
-      "symbol": "ETHE.d",
+      "symbol": "ETHE",
       "logoURI": "https://asset-images.messari.io/images/b962d1e8-b140-4b8c-99f8-4dd61ba45651/128.png",
       "chainId": 42161,
       "decimals": 18
@@ -2594,7 +2595,7 @@
     {
       "address": "0x4DaFFfDDEa93DdF1e0e7B61E844331455053Ce5c",
       "name": "NVIDIA Corporation - Dinari",
-      "symbol": "NVDA.d",
+      "symbol": "NVDA",
       "logoURI": "https://asset-images.messari.io/images/d9a33aa6-8510-4ab2-9c4c-809854570d4f/128.png",
       "chainId": 42161,
       "decimals": 18
@@ -2649,7 +2650,7 @@
     {
       "address": "0x4b72De2DA8BE112CAd87773B47537cf550676ffa",
       "name": "Starbucks Corp - Dinari",
-      "symbol": "SBUX.d",
+      "symbol": "SBUX",
       "logoURI": "https://asset-images.messari.io/images/03573b88-64a2-47b8-b190-db66c03a5149/128.png",
       "chainId": 42161,
       "decimals": 18
@@ -2729,7 +2730,7 @@
     {
       "address": "0x50e2B96f958133cbda56d1A62D156E812FE97828",
       "name": "Johnson \u0026 Johnson - Dinari",
-      "symbol": "JNJ.d",
+      "symbol": "JNJ",
       "logoURI": "https://asset-images.messari.io/images/d74f12bb-f9b8-4b5f-bd65-b0d156564150/128.png",
       "chainId": 42161,
       "decimals": 18
@@ -2737,7 +2738,7 @@
     {
       "address": "0x50f7b76a0b888E5D7196F1a472D2E567D425C761",
       "name": "TJX Companies, Inc. (The) - Dinari",
-      "symbol": "TJX.d",
+      "symbol": "TJX",
       "logoURI": "https://asset-images.messari.io/images/b865f8c9-c603-4840-9823-df58bf590071/128.png",
       "chainId": 42161,
       "decimals": 18
@@ -2777,7 +2778,7 @@
     {
       "address": "0x519062155B0591627C8A0C0958110A8C5639DcA6",
       "name": "Meta Platforms, Inc. - Dinari",
-      "symbol": "META.d",
+      "symbol": "META",
       "logoURI": "https://asset-images.messari.io/images/055aec34-b646-4247-bb6a-bab1b18d4f55/128.png",
       "chainId": 42161,
       "decimals": 18
@@ -2871,14 +2872,6 @@
       "decimals": 18
     },
     {
-      "address": "0x5429706887FCb58a595677B73E9B0441C25d993D",
-      "name": "Unidex",
-      "symbol": "UNIDX",
-      "logoURI": "https://assets.coingecko.com/coins/images/13178/large/unidx.png?1634888975",
-      "chainId": 42161,
-      "decimals": 18
-    },
-    {
       "address": "0x5441695f4445E40900b4c4B0Fb3eD2B9E51601A6",
       "name": "ARTH Valuecoin",
       "symbol": "ARTH",
@@ -2952,7 +2945,7 @@
     {
       "address": "0x5644fe2F365397A0313ee323DA3EaD314405c09A",
       "name": "Sony Group Corporation American Depositary Shares (Each Representing One Share of Dollar Validated Common Stock) - Dinari",
-      "symbol": "SONY.d",
+      "symbol": "SONY",
       "logoURI": "https://asset-images.messari.io/images/79ca4e12-9ed2-4418-98cb-a9ff392911be/128.png",
       "chainId": 42161,
       "decimals": 18
@@ -3088,7 +3081,7 @@
     {
       "address": "0x5B6424769823e82A1829B0A8bcAf501bFFD90d25",
       "name": "PayPal Holdings, Inc. - Dinari",
-      "symbol": "PYPL.d",
+      "symbol": "PYPL",
       "logoURI": "https://asset-images.messari.io/images/9fcd9b66-76da-4156-a91e-f490acf4fc46/128.png",
       "chainId": 42161,
       "decimals": 18
@@ -3152,7 +3145,7 @@
     {
       "address": "0x5b041a4E76b08C5AfC1e0B9A789cbfab5EBEC993",
       "name": "iShares MSCI Emerging Markets ETF - Dinari",
-      "symbol": "EEM.d",
+      "symbol": "EEM",
       "logoURI": "https://asset-images.messari.io/images/5bcae815-acc5-4035-8df9-53435116c509/128.png",
       "chainId": 42161,
       "decimals": 18
@@ -3271,7 +3264,7 @@
     {
       "address": "0x63aD78A6E2Db3322D16943Fc65e71A0010571521",
       "name": "ProShares  UltraPro QQQ - Dinari",
-      "symbol": "TQQQ.d",
+      "symbol": "TQQQ",
       "logoURI": "https://asset-images.messari.io/images/d645a985-9d27-4e5c-a047-2b0b9634dee5/128.png",
       "chainId": 42161,
       "decimals": 18
@@ -3311,7 +3304,7 @@
     {
       "address": "0x6468cD2aA21A87b4E52D89B8Dd123FbB5db101ed",
       "name": "Roblox Corporation - Dinari",
-      "symbol": "RBLX.d",
+      "symbol": "RBLX",
       "logoURI": "https://asset-images.messari.io/images/c73253b5-15cf-4ab5-9f24-2a1fbd1b2f79/128.png",
       "chainId": 42161,
       "decimals": 18
@@ -3423,7 +3416,7 @@
     {
       "address": "0x67BaD479F77488f0f427584e267e66086a7Da43A",
       "name": "Arm Holdings plc American Depositary Shares - Dinari",
-      "symbol": "ARM.d",
+      "symbol": "ARM",
       "logoURI": "https://asset-images.messari.io/images/0b7acffb-4810-4546-8448-8d9dce04fc21/128.png",
       "chainId": 42161,
       "decimals": 18
@@ -3511,7 +3504,7 @@
     {
       "address": "0x6B8Ba11c987795FE11Fe23f15e1F3d0F3E4E0bBA",
       "name": "Boeing Company - Dinari",
-      "symbol": "BA.d",
+      "symbol": "BA",
       "logoURI": "https://asset-images.messari.io/images/c89e5e18-792a-41e9-ba47-a1f97d5d41c9/128.png",
       "chainId": 42161,
       "decimals": 18
@@ -3798,7 +3791,7 @@
     {
       "address": "0x769fF50fD49900a6c53b2aF049eACB83dAD52Bdf",
       "name": "Bitwise Bitcoin ETF - Dinari",
-      "symbol": "BITB.d",
+      "symbol": "BITB",
       "logoURI": "https://asset-images.messari.io/images/19cc015a-696f-456d-841b-968c34f8b158/128.png",
       "chainId": 42161,
       "decimals": 18
@@ -3838,7 +3831,7 @@
     {
       "address": "0x77308F8B63A99b24b262D930E0218ED2f49F8475",
       "name": "Microsoft Corporation - Dinari",
-      "symbol": "MSFT.d",
+      "symbol": "MSFT",
       "logoURI": "https://asset-images.messari.io/images/9cca3de4-2e23-4b01-b191-9a0cb1c80ca5/128.png",
       "chainId": 42161,
       "decimals": 18
@@ -4021,7 +4014,7 @@
     {
       "address": "0x7a2AbF0543674Ba1bB618B1E88118E8a4fefab48",
       "name": "abrdn Physical Palladium Shares ETF - Dinari",
-      "symbol": "PALL.d",
+      "symbol": "PALL",
       "logoURI": "https://asset-images.messari.io/images/158ce65d-4b56-42b7-ad7c-b8afa0b96029/128.png",
       "chainId": 42161,
       "decimals": 18
@@ -4037,7 +4030,7 @@
     {
       "address": "0x7aF89514Dadd0a39b5e87F013b0F3fd2ed591c88",
       "name": "Ford Motor Company - Dinari",
-      "symbol": "F.d",
+      "symbol": "F",
       "logoURI": "https://asset-images.messari.io/images/dd61441a-200f-4d24-a6af-5e3754437b95/128.png",
       "chainId": 42161,
       "decimals": 18
@@ -4061,7 +4054,7 @@
     {
       "address": "0x7c5fed5E0f8D05748cc12ffe1cA400b07dE0F983",
       "name": "Broadcom Inc. Common Stock - Dinari",
-      "symbol": "AVGO.d",
+      "symbol": "AVGO",
       "logoURI": "https://asset-images.messari.io/images/81eedadc-fec5-47a4-8fd9-70453043b590/128.png",
       "chainId": 42161,
       "decimals": 18
@@ -4140,7 +4133,7 @@
     {
       "address": "0x808167eA744E02C6Fec3f56636d19f3448b72981",
       "name": "Hut 8 Corp. Common Stock - Dinari",
-      "symbol": "HUT.d",
+      "symbol": "HUT",
       "logoURI": "https://asset-images.messari.io/images/8aa16f96-a728-49cf-a1d5-77d7b8842a8f/128.png",
       "chainId": 42161,
       "decimals": 18
@@ -4188,7 +4181,7 @@
     {
       "address": "0x8240aFFe697CdE618AD05c3c8963f5Bfe152650b",
       "name": "Amazon.com, Inc. - Dinari",
-      "symbol": "AMZN.d",
+      "symbol": "AMZN",
       "logoURI": "https://asset-images.messari.io/images/09d3112b-e139-4602-8489-4e24c8f0e0ce/128.png",
       "chainId": 42161,
       "decimals": 18
@@ -4372,7 +4365,7 @@
     {
       "address": "0x893fF58CD1E34eac0c8Ce4fA92B30aDEe4E14986",
       "name": "Lockheed Martin Corp. - Dinari",
-      "symbol": "LMT.d",
+      "symbol": "LMT",
       "logoURI": "https://asset-images.messari.io/images/341aa42a-e1ae-42b6-ba9f-0054d675cda4/128.png",
       "chainId": 42161,
       "decimals": 18
@@ -4475,7 +4468,7 @@
     {
       "address": "0x8E50D11a54CFF859b202b7Fe5225353bE0646410",
       "name": "Alphabet Inc. Class A - Dinari",
-      "symbol": "GOOGL.d",
+      "symbol": "GOOGL",
       "logoURI": "https://asset-images.messari.io/images/b5afabbf-de22-4adb-99cf-4fe4b80425c5/128.png",
       "chainId": 42161,
       "decimals": 18
@@ -4545,14 +4538,6 @@
       "decimals": 18
     },
     {
-      "address": "0x8e4d81CbCbb0cc7FdA2b709259dfD28ADae7e000",
-      "name": "RIFPRO",
-      "symbol": "RIFPRO",
-      "logoURI": "https://asset-images.messari.io/images/64c4cd75-9187-4249-bbf0-6792f1521418/128.png",
-      "chainId": 42161,
-      "decimals": 18
-    },
-    {
       "address": "0x8f5c1A99b1df736Ad685006Cb6ADCA7B7Ae4b514",
       "name": "Melon Token",
       "symbol": "MLN",
@@ -4602,7 +4587,7 @@
     {
       "address": "0x92b81204DD07B14fF8664092897Ab660ce3ab323",
       "name": "MEGAWATT LITHM\u0026BATT MTLS - Dinari",
-      "symbol": "WALRF.d",
+      "symbol": "WALRF",
       "logoURI": "https://asset-images.messari.io/images/d5297ef9-1b76-4e92-b26a-82e0809e22f5/128.png",
       "chainId": 42161,
       "decimals": 18
@@ -4769,7 +4754,7 @@
     {
       "address": "0x96e1951C8FCeCc43E7366261f7E342A06047dA8e",
       "name": "VISA Inc. - Dinari",
-      "symbol": "V.d",
+      "symbol": "V",
       "logoURI": "https://asset-images.messari.io/images/c49ce448-b804-4c5d-a970-1a6c0989eb5a/128.png",
       "chainId": 42161,
       "decimals": 18
@@ -4777,7 +4762,7 @@
     {
       "address": "0x97Ec5DAdA8262BD922BfFd54a93F5A11EfE0B136",
       "name": "Reddit, Inc. - Dinari",
-      "symbol": "RDDT.d",
+      "symbol": "RDDT",
       "logoURI": "https://asset-images.messari.io/images/fb81722f-3de5-40f7-8ad4-bd40204ddfc0/128.png",
       "chainId": 42161,
       "decimals": 18
@@ -4786,6 +4771,7 @@
       "address": "0x97e66D3C4d5bCd7c64e3e55Af28544C9ADdf9281",
       "name": "Capx",
       "symbol": "CAPX",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/70528/thumb/capx_logo_icon_-_circle.png?1762334471",
       "chainId": 42161,
       "decimals": 18
     },
@@ -4832,7 +4818,7 @@
     {
       "address": "0x9C46e1B70d447B770Dbfc8D450543a431aF6DF3A",
       "name": "WisdomTree Floating Rate Treasury Fund - Dinari",
-      "symbol": "USFR.d",
+      "symbol": "USFR",
       "logoURI": "https://asset-images.messari.io/images/f19700ed-c109-4ca5-ad57-6891d66d31d7/128.png",
       "chainId": 42161,
       "decimals": 18
@@ -4887,7 +4873,7 @@
     {
       "address": "0x9FE6002C876972D8D84124ec25000a6FA14c88ec",
       "name": "Direxion Daily Semiconductor Bull 3X Shares - Dinari",
-      "symbol": "SOXL.d",
+      "symbol": "SOXL",
       "logoURI": "https://asset-images.messari.io/images/4e9c323e-0c13-4fd9-aa75-0a35d78ccd41/128.png",
       "chainId": 42161,
       "decimals": 18
@@ -4967,7 +4953,7 @@
     {
       "address": "0x9dA913f4DCa9B210a232d588113047685a4ed4B1",
       "name": "Berkshire Hathaway Inc. - Dinari",
-      "symbol": "BRK.A.d",
+      "symbol": "BRK.A",
       "logoURI": "https://asset-images.messari.io/images/4f564ae6-c01b-42a0-af66-379b8cc94210/128.png",
       "chainId": 42161,
       "decimals": 18
@@ -5016,14 +5002,6 @@
       "name": "Wrapped UnitedHealth xStock",
       "symbol": "wUNHx",
       "logoURI": "https://asset-images.messari.io/images/2a21439a-c48d-49b9-b4f3-4188801d41c8/128.png",
-      "chainId": 42161,
-      "decimals": 18
-    },
-    {
-      "address": "0xA06D505EC28FD9756a200D2B503A66103dB98d09",
-      "name": "KEI finance",
-      "symbol": "KEI",
-      "logoURI": "https://asset-images.messari.io/images/a9898cf2-fe88-42db-8edf-da4bfe09a3de/128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -5109,7 +5087,7 @@
     {
       "address": "0xA81323F79c4f3887e18cc2702B31635A56eC606E",
       "name": "Carnival Corporation - Dinari",
-      "symbol": "CCL.d",
+      "symbol": "CCL",
       "logoURI": "https://asset-images.messari.io/images/f46f317a-7c5b-40fb-a973-de4e64ef36b9/128.png",
       "chainId": 42161,
       "decimals": 18
@@ -5141,7 +5119,7 @@
     {
       "address": "0xAD6a646C1B262586eF3A8B6C6304E7C9218EcAC4",
       "name": "Invesco Water Resources ETF - Dinari",
-      "symbol": "PHO.d",
+      "symbol": "PHO",
       "logoURI": "https://asset-images.messari.io/images/bc047e0b-ffc7-4675-a31e-06b07bb08129/128.png",
       "chainId": 42161,
       "decimals": 18
@@ -5237,7 +5215,7 @@
     {
       "address": "0xB1284F6b3E487E3F773e9Ad40F337C3B3cdA5c69",
       "name": "Grayscale Bitcoin Trust (BTC) - Dinari",
-      "symbol": "GBTC.d",
+      "symbol": "GBTC",
       "logoURI": "https://asset-images.messari.io/images/b7163c4f-d373-4f33-b342-b13e0e8cb82b/128.png",
       "chainId": 42161,
       "decimals": 18
@@ -5389,7 +5367,7 @@
     {
       "address": "0xBE8e3f4d5BD6eE0175359982Cc91DAfa3cf72502",
       "name": "SPDR Gold Trust, SPDR Gold Shares - Dinari",
-      "symbol": "GLD.d",
+      "symbol": "GLD",
       "logoURI": "https://asset-images.messari.io/images/93ae11da-eaed-486a-a0b2-574944abe11a/128.png",
       "chainId": 42161,
       "decimals": 18
@@ -5401,14 +5379,6 @@
       "logoURI": "https://asset-images.messari.io/images/6a9c2b60-3b76-4440-be43-a16a477fc761/128.png",
       "chainId": 42161,
       "decimals": 6
-    },
-    {
-      "address": "0xBcc9C1763d54427bDF5EfB6e9EB9494E5a1fbAbf",
-      "name": "HonorWorld Token",
-      "symbol": "HWT",
-      "logoURI": "https://arbiscan.io/token/images/honorworldtoken_32.png",
-      "chainId": 42161,
-      "decimals": 18
     },
     {
       "address": "0xBd1B73b2E89967e83507B500D798998200A53380",
@@ -5486,6 +5456,7 @@
       "address": "0xC8Fb643D18F1e53698CFDa5c8Fdf0cdC03C1dBec",
       "name": "Pleasing USD",
       "symbol": "PUSD",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/70448/thumb/%E7%BE%8E%E5%85%83_%281%29.png?1762079129",
       "chainId": 42161,
       "decimals": 18
     },
@@ -5579,7 +5550,7 @@
     {
       "address": "0xCcF43c38fE53c633425e14F6AbA50a98E5aB1408",
       "name": "SP Funds S\u0026P World (ex-US) ETF - Dinari",
-      "symbol": "SPWO.d",
+      "symbol": "SPWO",
       "logoURI": "https://asset-images.messari.io/images/f05fa7e9-51d5-437a-8d4a-3cea7681d1cb/128.png",
       "chainId": 42161,
       "decimals": 18
@@ -5587,7 +5558,7 @@
     {
       "address": "0xCe38e140fC3982a6bCEbc37b040913EF2Cd6C5a7",
       "name": "Apple Inc. - Dinari",
-      "symbol": "AAPL.d",
+      "symbol": "AAPL",
       "logoURI": "https://asset-images.messari.io/images/c74f53eb-2f89-415b-bc6e-5d648f4f7a56/128.png",
       "chainId": 42161,
       "decimals": 18
@@ -5712,14 +5683,6 @@
       "decimals": 6
     },
     {
-      "address": "0xDC8184ba488e949815d4AAfb35B3c56ad03B4179",
-      "name": "Roseon",
-      "symbol": "ROSX",
-      "logoURI": "https://assets.coingecko.com/coins/images/29698/large/roseon.png?1680736074",
-      "chainId": 42161,
-      "decimals": 18
-    },
-    {
       "address": "0xDCbf4CB83d27C408B30dD7F39bfcabD7176B1Ba3",
       "name": "OpenOcean",
       "symbol": "OOE",
@@ -5730,7 +5693,7 @@
     {
       "address": "0xDD92f0723a7318e684A88532CAC2421E3cC9968e",
       "name": "Hashdex Bitcoin Futures ETF - Dinari",
-      "symbol": "DEFI.d",
+      "symbol": "DEFI",
       "logoURI": "https://asset-images.messari.io/images/dd305cbf-c24b-4ddf-b7fd-27bf780280fa/128.png",
       "chainId": 42161,
       "decimals": 18
@@ -5866,7 +5829,7 @@
     {
       "address": "0xE3B82cfBFedA73dC6870D76090061bC3C97D25ac",
       "name": "Rocket Lab USA, Inc. Common Stock - Dinari",
-      "symbol": "RKLB.d",
+      "symbol": "RKLB",
       "logoURI": "https://asset-images.messari.io/images/31e49425-2abd-4098-b251-4d2ac6745b48/128.png",
       "chainId": 42161,
       "decimals": 18
@@ -5953,7 +5916,7 @@
     {
       "address": "0xEb32d26ab45B5c6CFe6C924ADF00F8d5953DaDF3",
       "name": "iShares Broad USD High Yield Corporate Bond ETF - Dinari",
-      "symbol": "USHY.d",
+      "symbol": "USHY",
       "logoURI": "https://asset-images.messari.io/images/be2b9526-687a-46b8-a640-7ffdb748f336/128.png",
       "chainId": 42161,
       "decimals": 18
@@ -6025,7 +5988,7 @@
     {
       "address": "0xF1f18F765F118c3598cC54dCaC1D0e12066263Fe",
       "name": "Pfizer, Inc. - Dinari",
-      "symbol": "PFE.d",
+      "symbol": "PFE",
       "logoURI": "https://asset-images.messari.io/images/76ea010f-d283-4b9f-b815-5c01a4d5c6c3/128.png",
       "chainId": 42161,
       "decimals": 18
@@ -6033,7 +5996,7 @@
     {
       "address": "0xF1f313Acc8C65dc2E7EebeB166C7C30be634eb38",
       "name": "iShares U.S. Aerospace \u0026 Defense ETF - Dinari",
-      "symbol": "ITA.d",
+      "symbol": "ITA",
       "logoURI": "https://asset-images.messari.io/images/3e11878d-ab4b-49fd-b175-1b55c5818e09/128.png",
       "chainId": 42161,
       "decimals": 18
@@ -6049,7 +6012,7 @@
     {
       "address": "0xF2f26EEe8b40447F664F20aD3513E894153fE09E",
       "name": "Blackrock, Inc. - Dinari",
-      "symbol": "BLK.d",
+      "symbol": "BLK",
       "logoURI": "https://asset-images.messari.io/images/efcfdbe9-8cfa-4d96-83fc-9d770b37411b/128.png",
       "chainId": 42161,
       "decimals": 18
@@ -6073,7 +6036,7 @@
     {
       "address": "0xF4BD09B048248876E39Fcf2e0CDF1aee1240a9D2",
       "name": "SPDR S\u0026P 500 ETF Trust - Dinari",
-      "symbol": "SPY.d",
+      "symbol": "SPY",
       "logoURI": "https://asset-images.messari.io/images/ab89d4a4-d3d4-4411-bd34-e4cbfb6ba0de/128.png",
       "chainId": 42161,
       "decimals": 18
@@ -6241,7 +6204,7 @@
     {
       "address": "0xa213072a726062aca3c07839B7E531F101740C5c",
       "name": "SP Funds Dow Jones Global Sukuk ETF - Dinari",
-      "symbol": "SPSK.d",
+      "symbol": "SPSK",
       "logoURI": "https://asset-images.messari.io/images/4c19549b-c50a-418a-9f01-29ff7cb49c81/128.png",
       "chainId": 42161,
       "decimals": 18
@@ -6337,7 +6300,7 @@
     {
       "address": "0xa6F344aBc6e2501b2B303fCbbA99CD89F136b5FB",
       "name": "Franklin Bitcoin ETF - Dinari",
-      "symbol": "EZBC.d",
+      "symbol": "EZBC",
       "logoURI": "https://asset-images.messari.io/images/340fde59-f327-4e09-8fed-32e4152479dd/128.png",
       "chainId": 42161,
       "decimals": 18
@@ -6577,7 +6540,7 @@
     {
       "address": "0xb415998A7bb6F11dC589e0eb20adf586BA32f12a",
       "name": "GameStop Corp. Class A - Dinari",
-      "symbol": "GME.d",
+      "symbol": "GME",
       "logoURI": "https://asset-images.messari.io/images/b6369576-5fec-4968-bcf0-224b84df5654/128.png",
       "chainId": 42161,
       "decimals": 18
@@ -6607,14 +6570,6 @@
       "decimals": 18
     },
     {
-      "address": "0xb52BD62eE0Cf462Fa9CCbDA4bf27Fe84D9ab6Cf7",
-      "name": "SAIL Token",
-      "symbol": "SAIL",
-      "logoURI": "https://asset-images.messari.io/images/3ece5bf0-d9b1-49d6-a244-1a09f4116359/128.png",
-      "chainId": 42161,
-      "decimals": 18
-    },
-    {
       "address": "0xb829b68f57CC546dA7E5806A929e53bE32a4625D",
       "name": "Axelar Wrapped ETH",
       "symbol": "axlETH",
@@ -6625,7 +6580,7 @@
     {
       "address": "0xb90E1EE5F4194388E71c11DC2a4Eea16da391ce4",
       "name": "Procter \u0026 Gamble Company - Dinari",
-      "symbol": "PG.d",
+      "symbol": "PG",
       "logoURI": "https://asset-images.messari.io/images/d165eec3-2898-4f31-8b94-1bb022f4ca21/128.png",
       "chainId": 42161,
       "decimals": 18
@@ -6735,7 +6690,7 @@
     {
       "address": "0xc0cE7221Db1508529752339C3BD5dCF01fa1B0cA",
       "name": "MARA Holdings, Inc. Common Stock - Dinari",
-      "symbol": "MARA.d",
+      "symbol": "MARA",
       "logoURI": "https://asset-images.messari.io/images/ff0a499d-e78b-433b-b298-608a2912a92e/128.png",
       "chainId": 42161,
       "decimals": 18
@@ -6751,7 +6706,7 @@
     {
       "address": "0xc1Ba16AFDcb3A41242944C9FaaCCD9fb6f2B428C",
       "name": "iShares Bitcoin Trust iShares Bitcoin Trust - Dinari",
-      "symbol": "IBIT.d",
+      "symbol": "IBIT",
       "logoURI": "https://asset-images.messari.io/images/ad0bf26d-5cc3-48ed-b099-2ddcdbbecac1/128.png",
       "chainId": 42161,
       "decimals": 18
@@ -6767,7 +6722,7 @@
     {
       "address": "0xc20770116f2821d550574C2B9CE1b4bAA7012377",
       "name": "Teucrium Wheat Fund - Dinari",
-      "symbol": "WEAT.d",
+      "symbol": "WEAT",
       "logoURI": "https://asset-images.messari.io/images/ad09de8e-9464-4973-95d7-00ffdc418647/128.png",
       "chainId": 42161,
       "decimals": 18
@@ -6806,7 +6761,7 @@
     {
       "address": "0xc52915Fe75dc8db9fb6306f43AAef1344E0837AB",
       "name": "WisdomTree Bitcoin Fund - Dinari",
-      "symbol": "BTCW.d",
+      "symbol": "BTCW",
       "logoURI": "https://asset-images.messari.io/images/70245e41-607f-4eb8-9d81-5e3ded3f9d69/128.png",
       "chainId": 42161,
       "decimals": 18
@@ -6862,7 +6817,7 @@
     {
       "address": "0xcC603c6626408FBfE2c1FEa3565AcB5D10c85274",
       "name": "Delta Air Lines, Inc. - Dinari",
-      "symbol": "DAL.d",
+      "symbol": "DAL",
       "logoURI": "https://asset-images.messari.io/images/bfa07f32-0c3c-4c0b-bdb7-164438c84269/128.png",
       "chainId": 42161,
       "decimals": 18
@@ -6926,7 +6881,7 @@
     {
       "address": "0xcd3246F6173217DBECF63FfAB83D477b266679dA",
       "name": "Alpha Architect 1-3 Month Box ETF - Dinari",
-      "symbol": "BOXX.d",
+      "symbol": "BOXX",
       "logoURI": "https://asset-images.messari.io/images/79d3b48b-82f5-4f70-871f-c3daab40bdef/128.png",
       "chainId": 42161,
       "decimals": 18
@@ -6966,7 +6921,7 @@
     {
       "address": "0xd17AFf8FCF7698aaBfB5f8bE90Aa2692774fa810",
       "name": "Costco Wholesale Corp - Dinari",
-      "symbol": "COST.d",
+      "symbol": "COST",
       "logoURI": "https://asset-images.messari.io/images/85fc6a3a-4795-4362-b842-e27ae739916b/128.png",
       "chainId": 42161,
       "decimals": 18
@@ -7070,7 +7025,7 @@
     {
       "address": "0xd883bcF80b2b085FA40CC3e2416b4AB1CBCA649E",
       "name": "Block, Inc. - Dinari",
-      "symbol": "XYZ.d",
+      "symbol": "XYZ",
       "logoURI": "https://asset-images.messari.io/images/56464bd7-ac6e-49cb-b6a5-42a8cfcc5d45/128.png",
       "chainId": 42161,
       "decimals": 18
@@ -7086,7 +7041,7 @@
     {
       "address": "0xd8F728AdB72a46Ae2c92234AE8870D04907786C5",
       "name": "Advanced Micro Devices - Dinari",
-      "symbol": "AMD.d",
+      "symbol": "AMD",
       "logoURI": "https://asset-images.messari.io/images/79698f75-492c-4cff-b924-dec8b4afa45b/128.png",
       "chainId": 42161,
       "decimals": 18
@@ -7214,7 +7169,7 @@
     {
       "address": "0xe15602ceEB794Feb4163b049Fe82A1F8432781b2",
       "name": "JPMorgan Chase \u0026 Co. - Dinari",
-      "symbol": "JPM.d",
+      "symbol": "JPM",
       "logoURI": "https://asset-images.messari.io/images/db4a9158-1e1d-43c4-97a4-ebfc50232564/128.png",
       "chainId": 42161,
       "decimals": 18
@@ -7286,7 +7241,7 @@
     {
       "address": "0xe649980d1B911756F217E4b61de76A7d2a3B108a",
       "name": "Caterpillar Inc. - Dinari",
-      "symbol": "CAT.d",
+      "symbol": "CAT",
       "logoURI": "https://asset-images.messari.io/images/1f1bb0b6-2c61-4dea-93fb-8853bcd1e7ae/128.png",
       "chainId": 42161,
       "decimals": 18
@@ -7390,7 +7345,7 @@
     {
       "address": "0xeb0D1360A14c3b162f2974DAA5d218E0c1090146",
       "name": "Yum! Brands, Inc. - Dinari",
-      "symbol": "YUM.d",
+      "symbol": "YUM",
       "logoURI": "https://asset-images.messari.io/images/989592e3-2e64-42e4-9b45-16a6d2fad9e1/128.png",
       "chainId": 42161,
       "decimals": 18
@@ -7438,7 +7393,7 @@
     {
       "address": "0xef5713f65e32332B604E1096E68a6d78A0E927cF",
       "name": "SPDR Nuveen Bloomberg High Yield Municipal Bond ETF - Dinari",
-      "symbol": "HYMB.d",
+      "symbol": "HYMB",
       "logoURI": "https://asset-images.messari.io/images/42ed2a99-878f-4e8a-bb5e-e16e697ed79c/128.png",
       "chainId": 42161,
       "decimals": 18

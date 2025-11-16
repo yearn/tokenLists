@@ -1,10 +1,10 @@
 {
   "name": "CoW Swap",
   "description": "",
-  "timestamp": "2025-11-09T02:01:22Z",
+  "timestamp": "2025-11-16T01:51:40Z",
   "version": {
-    "major": 4,
-    "minor": 3,
+    "major": 5,
+    "minor": 0,
     "patch": 0
   },
   "logoURI": "https://raw.githubusercontent.com/cowprotocol/cowswap/c5974fb8a45d678029ecb013dab33722e152daaa/src/assets/cow-swap/cow_v2.svg",
@@ -1038,6 +1038,14 @@
       "name": "Aura",
       "symbol": "AURA",
       "logoURI": "https://tokens.1inch.io/0xc0c293ce456ff0ed870add98a0828dd4d2903dbf.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xC139190F447e929f090Edeb554D95AbB8b18aC1C",
+      "name": "USDtb",
+      "symbol": "USDtb",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xC139190F447e929f090Edeb554D95AbB8b18aC1C/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },

@@ -1,10 +1,10 @@
 {
   "name": "Ajna",
   "description": "",
-  "timestamp": "2025-11-16T02:04:12Z",
+  "timestamp": "2025-11-23T01:58:00Z",
   "version": {
     "major": 34,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   },
   "logoURI": "https://www.ajna.finance/static/tokens/ajna.png",
@@ -56,6 +56,14 @@
       "address": "0x103cc17C2B1586e5Cd9BaD308690bCd0BBe54D5e",
       "name": "vETH Pool",
       "symbol": "vETH",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x13239C268BEDDd88aD0Cb02050D3ff6a9d00de6D",
+      "name": "BitcoinOS Token",
+      "symbol": "BOS",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x13239C268BEDDd88aD0Cb02050D3ff6a9d00de6D/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -918,6 +926,14 @@
       "name": "R1CHD Stable",
       "symbol": "R1S",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xE0Bf046aeC34eED9cb40bCe942BA8A3843F7e4f2/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xE575cC6EC0B5d176127ac61aD2D3d9d19d1aa4a0",
+      "name": "Staked $WALLET",
+      "symbol": "stkWALLET",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xE575cC6EC0B5d176127ac61aD2D3d9d19d1aa4a0/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -4832,6 +4848,14 @@
       "decimals": 18
     },
     {
+      "address": "0x0aE1da313B6433Ac8eE7f66e77a830b5A2ABAF9E",
+      "name": "USDhb Het Bun",
+      "symbol": "USDhb",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0x0aE1da313B6433Ac8eE7f66e77a830b5A2ABAF9E/logo-128.png",
+      "chainId": 8453,
+      "decimals": 18
+    },
+    {
       "address": "0x0b3e328455c4059EEb9e3f84b5543F74E24e7E1b",
       "name": "Virtual Protocol",
       "symbol": "VIRTUAL",
@@ -4936,6 +4960,14 @@
       "decimals": 18
     },
     {
+      "address": "0x23ee2343B892b1BB63503a4FAbc840E0e2C6810f",
+      "name": "Axelar",
+      "symbol": "AXL",
+      "logoURI": "ipfs://QmafBj28FMG1VfpRLQaDSDenALYAybfpK8i4YLRpeZF1hq",
+      "chainId": 8453,
+      "decimals": 6
+    },
+    {
       "address": "0x2416092f143378750bb29b79eD961ab195CcEea5",
       "name": "Renzo Restaked ETH",
       "symbol": "ezETH",
@@ -4996,6 +5028,14 @@
       "name": "Wrapped Ether",
       "symbol": "WETH",
       "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0x4200000000000000000000000000000000000006/logo-128.png",
+      "chainId": 8453,
+      "decimals": 18
+    },
+    {
+      "address": "0x42069BAbe14fB1802C5CB0F50BB9D2Ad6FEf55e2",
+      "name": "frok.ai",
+      "symbol": "FROK",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0x42069BAbe14fB1802C5CB0F50BB9D2Ad6FEf55e2/logo-128.png",
       "chainId": 8453,
       "decimals": 18
     },
@@ -5092,6 +5132,14 @@
       "name": "You are fired",
       "symbol": "FIRED",
       "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0x56B0c620DAa19d4781f3C6BC1fDaFce338e00E1a/logo-128.png",
+      "chainId": 8453,
+      "decimals": 18
+    },
+    {
+      "address": "0x58f0A87Ae6BEE65E9419C01cB9a78CF7BBE77242",
+      "name": "Don’t know",
+      "symbol": "DKC",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0x58f0A87Ae6BEE65E9419C01cB9a78CF7BBE77242/logo-128.png",
       "chainId": 8453,
       "decimals": 18
     },
@@ -5390,6 +5438,14 @@
       "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0xE07aDC4bAd16Be3E4F6f7511a3E0b0219C73672B/logo-128.png",
       "chainId": 8453,
       "decimals": 8
+    },
+    {
+      "address": "0xE46982AeEf3b1EC305899f3E2426E4E4439FD4a6",
+      "name": "Tino",
+      "symbol": "TINO",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0xE46982AeEf3b1EC305899f3E2426E4E4439FD4a6/logo-128.png",
+      "chainId": 8453,
+      "decimals": 18
     },
     {
       "address": "0xE78B2ff44A17E91a1e5991c5D821cBEA6837A413",

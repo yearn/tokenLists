@@ -1,9 +1,9 @@
 {
   "name": "Tokenlistooor Token List",
   "description": "A curated list of tokens from all the token lists on tokenlistooor.",
-  "timestamp": "2025-11-09T02:03:23Z",
+  "timestamp": "2025-11-23T02:04:25Z",
   "version": {
-    "major": 357,
+    "major": 359,
     "minor": 0,
     "patch": 0
   },
@@ -57,6 +57,14 @@
       "logoURI": "https://token-assets-one.vercel.app/api/token/56/0x2dD087589ce9C5b2D1b42e20d2519B3c8cF022b7/logo-128.png",
       "chainId": 56,
       "decimals": 6
+    },
+    {
+      "address": "0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47",
+      "name": "Cardano Token",
+      "symbol": "ADA",
+      "logoURI": "https://tokens.1inch.io/0x3ee2200efb3400fabb9aacf31297cbdd1d435d47.png",
+      "chainId": 56,
+      "decimals": 18
     },
     {
       "address": "0x47BEAd2563dCBf3bF2c9407fEa4dC236fAbA485A",
@@ -143,6 +151,14 @@
       "name": "USD Coin",
       "symbol": "USDC",
       "logoURI": "https://tokens.1inch.io/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.png",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "address": "0x8fF795a6F4D97E7887C79beA79aba5cc76444aDf",
+      "name": "Bitcoin Cash Token",
+      "symbol": "BCH",
+      "logoURI": "https://tokens.1inch.io/0x8ff795a6f4d97e7887c79bea79aba5cc76444adf.png",
       "chainId": 56,
       "decimals": 18
     },

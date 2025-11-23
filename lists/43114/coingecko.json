@@ -1,9 +1,9 @@
 {
   "name": "CoinGecko",
   "description": "",
-  "timestamp": "2025-11-09T01:46:37Z",
+  "timestamp": "2025-11-23T01:58:29Z",
   "version": {
-    "major": 149,
+    "major": 151,
     "minor": 0,
     "patch": 0
   },
@@ -49,7 +49,6 @@
       "address": "0x0256B279D973C8d687264AC3eB36bE09232D4474",
       "name": "MyStandard",
       "symbol": "MYST",
-      "logoURI": "https://coin-images.coingecko.com/coins/images/52890/thumb/FUndable_myst_logo.png?1734604348",
       "chainId": 43114,
       "decimals": 18
     },
@@ -203,14 +202,6 @@
       "logoURI": "https://coin-images.coingecko.com/coins/images/55524/thumb/SecureChainAI.jpg?1746500907",
       "chainId": 43114,
       "decimals": 18
-    },
-    {
-      "address": "0x0a2f2eFdB1233C0DA050fB47F19f98851753718f",
-      "name": "AlaunchAI",
-      "symbol": "ALAI",
-      "logoURI": "https://coin-images.coingecko.com/coins/images/54511/thumb/Alaunch_avt.png?1740069312",
-      "chainId": 43114,
-      "decimals": 6
     },
     {
       "address": "0x0cBD6fAdcF8096cC9A43d90B45F65826102e3eCE",
@@ -593,13 +584,6 @@
       "logoURI": "https://asset-images.messari.io/images/5d2534b7-31f3-410d-bb93-6c2d45189bb9/128.png",
       "chainId": 43114,
       "decimals": 18
-    },
-    {
-      "address": "0x22897Cf0DA31e1F118649D9f6aD1809CABd84948",
-      "name": "BabyCoq",
-      "symbol": "BabyCoq",
-      "chainId": 43114,
-      "decimals": 9
     },
     {
       "address": "0x228a48df6819CCc2eCa01e2192ebAFfFdAD56c19",
@@ -1192,7 +1176,6 @@
       "address": "0x4A5Bb433132B7E7F75D6A9a3e4136bB85CE6E4d5",
       "name": "Booty",
       "symbol": "BOOTY",
-      "logoURI": "https://coin-images.coingecko.com/coins/images/50639/thumb/_BOOTY_token.png?1728548269",
       "chainId": 43114,
       "decimals": 18
     },
@@ -1344,7 +1327,6 @@
       "address": "0x53c44c368A11f54B8Dc496915Dd71BD42Bd64a91",
       "name": "ƎԀƎԀ",
       "symbol": "ƎԀƎԀ",
-      "logoURI": "https://assets.coingecko.com/coins/images/31948/large/photo_2023-09-25_14-05-49.jpg?1695726196",
       "chainId": 43114,
       "decimals": 9
     },
@@ -1440,7 +1422,6 @@
       "address": "0x595c8481c48894771CE8FaDE54ac6Bf59093F9E8",
       "name": "PolyGaj Token",
       "symbol": "GAJ",
-      "logoURI": "https://assets.coingecko.com/coins/images/15257/large/logo200x200.png?1629887093",
       "chainId": 43114,
       "decimals": 18
     },
@@ -1670,7 +1651,6 @@
       "address": "0x64445f0aecC51E94aD52d8AC56b7190e764E561a",
       "name": "Wrapped Frax",
       "symbol": "WFRAX",
-      "logoURI": "https://coin-images.coingecko.com/coins/images/55432/thumb/wfrax_64.png?1745993624",
       "chainId": 43114,
       "decimals": 18
     },
@@ -1870,7 +1850,6 @@
       "address": "0x6c14c1898C843FF66cA51e87244690bBc28DF215",
       "name": "Orange",
       "symbol": "ORNG",
-      "logoURI": "https://coin-images.coingecko.com/coins/images/38945/thumb/Orange-Icon-_200x200_.png?1719590431",
       "chainId": 43114,
       "decimals": 18
     },
@@ -2198,7 +2177,6 @@
       "address": "0x840B20fA3D48Ac709fD841fcd878c3E8aaBd7087",
       "name": "GLUE",
       "symbol": "GLUE",
-      "logoURI": "https://coin-images.coingecko.com/coins/images/54538/thumb/GlueLogo200px.png?1740215317",
       "chainId": 43114,
       "decimals": 18
     },
@@ -2302,7 +2280,6 @@
       "address": "0x88F89BE3E9b1dc1C5F208696fb9cABfcc684bD5F",
       "name": "Fold",
       "symbol": "FLD",
-      "logoURI": "https://assets.coingecko.com/coins/images/33541/large/FLD_200x.png?1702379502",
       "chainId": 43114,
       "decimals": 18
     },
@@ -2358,7 +2335,6 @@
       "address": "0x8aD25B0083C9879942A64f00F20a70D3278f6187",
       "name": "MeowCat",
       "symbol": "MEOW",
-      "logoURI": "https://assets.coingecko.com/coins/images/36042/large/meow.png?1710400599",
       "chainId": 43114,
       "decimals": 18
     },
@@ -2609,18 +2585,9 @@
       "decimals": 18
     },
     {
-      "address": "0x9A8E0217cD870783c3f2317985C57Bf570969153",
-      "name": "Magic",
-      "symbol": "MAGIC",
-      "logoURI": "https://assets.coingecko.com/coins/images/19313/large/13037.png?1635025843",
-      "chainId": 43114,
-      "decimals": 18
-    },
-    {
       "address": "0x9B3A8159e119eb09822115AE08Ee1526849e1116",
       "name": "Meme Alliance",
       "symbol": "MMA",
-      "logoURI": "https://assets.coingecko.com/coins/images/33765/large/MA_CircleLogo_200x200.png?1702967936",
       "chainId": 43114,
       "decimals": 18
     },
@@ -2668,7 +2635,6 @@
       "address": "0x9Fda7cEeC4c18008096C2fE2B85F05dc300F94d0",
       "name": "MarginSwap",
       "symbol": "MFI",
-      "logoURI": "https://assets.coingecko.com/coins/images/13899/large/marginswap_logo.png?1612756590",
       "chainId": 43114,
       "decimals": 18
     },
@@ -2708,7 +2674,6 @@
       "address": "0x9eE1963f05553eF838604Dd39403be21ceF26AA4",
       "name": "USDp",
       "symbol": "USDp",
-      "logoURI": "https://coin-images.coingecko.com/coins/images/69613/thumb/usdp.png?1759221769",
       "chainId": 43114,
       "decimals": 18
     },
@@ -2796,7 +2761,6 @@
       "address": "0xAAAB9D12A30504559b0C5a9A5977fEE4A6081c6b",
       "name": "PHARAOH",
       "symbol": "PHAR",
-      "logoURI": "https://assets.coingecko.com/coins/images/34686/large/PHAROAH.jpg?1705842746",
       "chainId": 43114,
       "decimals": 18
     },
@@ -3084,7 +3048,6 @@
       "address": "0xC99092c66d92dDDAcEd9fCdD488b246923D098EF",
       "name": "CROW",
       "symbol": "CROW",
-      "logoURI": "https://assets.coingecko.com/coins/images/35968/large/Crow.png?1710265161",
       "chainId": 43114,
       "decimals": 18
     },
@@ -3188,7 +3151,6 @@
       "address": "0xD5D053D5B769383e860d1520Da7a908E00919F36",
       "name": "JUICE",
       "symbol": "JUICE",
-      "logoURI": "https://assets.coingecko.com/coins/images/37367/large/juice200.png?1714116899",
       "chainId": 43114,
       "decimals": 18
     },
@@ -3284,7 +3246,6 @@
       "address": "0xE46b44179DB3AF934da552B35FF8869E98DC6Af5",
       "name": "predict",
       "symbol": "predict",
-      "logoURI": "https://coin-images.coingecko.com/coins/images/52347/thumb/Icon_1.png?1733159610",
       "chainId": 43114,
       "decimals": 18
     },
@@ -3396,7 +3357,6 @@
       "address": "0xF197FFC28c23E0309B5559e7a166f2c6164C80aA",
       "name": "MXNB",
       "symbol": "MXNB",
-      "logoURI": "https://coin-images.coingecko.com/coins/images/39136/thumb/MXNB_FULL.png?1720686155",
       "chainId": 43114,
       "decimals": 6
     },
@@ -3516,6 +3476,7 @@
       "address": "0xa5d465251fBCc907f5Dd6bB2145488DFC6a2627b",
       "name": "Janus Henderson Anemoy Treasury Fund Token",
       "symbol": "JTRSY",
+      "logoURI": "https://asset-images.messari.io/images/8ff556fb-d39b-40a9-a7e8-df8bef912819/128.png",
       "chainId": 43114,
       "decimals": 6
     },
@@ -3667,13 +3628,6 @@
       "name": "ROCO",
       "symbol": "ROCO",
       "logoURI": "https://tokens.1inch.io/0xb2a85c5ecea99187a977ac34303b80acbddfa208.png",
-      "chainId": 43114,
-      "decimals": 18
-    },
-    {
-      "address": "0xb36FAF341c7817D681F23BceDbd3d85467E5aD9F",
-      "name": "Red Pepe",
-      "symbol": "RPEPE",
       "chainId": 43114,
       "decimals": 18
     },
@@ -3916,14 +3870,6 @@
       "decimals": 18
     },
     {
-      "address": "0xd5d0A9b3f2C264b955Ae7161cfA6D38A7aEa60a7",
-      "name": "abcPHAR",
-      "symbol": "abcPHAR",
-      "logoURI": "https://coin-images.coingecko.com/coins/images/39493/thumb/abcPHAR-black.png?1722492271",
-      "chainId": 43114,
-      "decimals": 18
-    },
-    {
       "address": "0xd8B95B1987741849cA7e71e976aEB535fd2e55a2",
       "name": "Backed CSBGC3 CHF Swiss Domestic Government Bond 0-3yr",
       "symbol": "bCSBGC3",
@@ -4039,7 +3985,6 @@
       "address": "0xeD0d09ee0F32f7b5AFaE6f2d728189C5E355b52a",
       "name": "LIZARD",
       "symbol": "LIZARD",
-      "logoURI": "https://assets.coingecko.com/coins/images/34663/large/LIZARD_LOGO_Final_3_BLK_BG_%281%29.png?1705652961",
       "chainId": 43114,
       "decimals": 18
     },

@@ -1,9 +1,9 @@
 {
   "name": "Tokenlistooor Token List",
   "description": "A curated list of tokens from all the token lists on tokenlistooor.",
-  "timestamp": "2025-11-16T02:04:47Z",
+  "timestamp": "2025-11-23T02:04:25Z",
   "version": {
-    "major": 358,
+    "major": 359,
     "minor": 0,
     "patch": 0
   },
@@ -19,10 +19,26 @@
       "decimals": 18
     },
     {
+      "address": "0x00Cb8E36A9C40491A39e8bF2864Ed30C1B579860",
+      "name": "Velodrome v2 tBTC-WBTC Factory yVault",
+      "symbol": "yvVelo-tBTC-WBTC-f",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x00Cb8E36A9C40491A39e8bF2864Ed30C1B579860/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
       "address": "0x00DF002A3994a56D539d184c15d1C18aB32EA2df",
       "name": "VolatileV2 AMM - OP/Bike",
       "symbol": "vAMMV2-OP/Bike",
       "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x00DF002A3994a56D539d184c15d1C18aB32EA2df/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x00a2faF97CC2b985B29a0a0eAa6E0D8033Dc0eA1",
+      "name": "Velodrome v2 tBTC-WETH Factory yVault",
+      "symbol": "yvVelo-tBTC-WETH-f",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x00a2faF97CC2b985B29a0a0eAa6E0D8033Dc0eA1/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -39,6 +55,14 @@
       "name": "VolatileV2 AMM - VELO/MAI",
       "symbol": "vAMMV2-VELO/MAI",
       "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x011b7e0918c79e92681964bD19eD2b4EDA21190B/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x01c77E8a099e97B7b0Dca2F987d9bd1911CdDE50",
+      "name": "Velodrome v2 SNX-USDC.e Factory yVault",
+      "symbol": "yvVelo-SNX-USDC.e-f",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x01c77E8a099e97B7b0Dca2F987d9bd1911CdDE50/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -155,6 +179,14 @@
       "decimals": 18
     },
     {
+      "address": "0x0493Bf8b6DBB159Ce2Db2E0E8403E753Abd1235b",
+      "name": "VolatileV2 AMM - WETH/USDC",
+      "symbol": "vAMMV2-WETH/USDC",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x0493Bf8b6DBB159Ce2Db2E0E8403E753Abd1235b/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
       "address": "0x049E044Fd3D728F4C571438dB52AC550E66c6E12",
       "name": "VolatileV2 AMM - yvOP/LSD",
       "symbol": "vAMMV2-yvOP/LSD",
@@ -211,14 +243,6 @@
       "decimals": 18
     },
     {
-      "address": "0x05B0f53D5aa6Ba7Be05268d35a76bAA58952fD95",
-      "name": "Prize sAMMV2-WBTC/tBTC - Yearn",
-      "symbol": "przsAMMV2-WBTC/tBTC",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x05B0f53D5aa6Ba7Be05268d35a76bAA58952fD95/logo-128.png",
-      "chainId": 10,
-      "decimals": 18
-    },
-    {
       "address": "0x05F41004983EED324d60AeDc8a83bDd98C045506",
       "name": "OmmletteT",
       "symbol": "OMMT",
@@ -239,6 +263,14 @@
       "name": "VolatileV2 AMM - USDT/TT",
       "symbol": "vAMMV2-USDT/TT",
       "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x05cc7Ed70F745D20Ef399f6eCa2358562a5cCbaF/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x061b87122Ed14b9526A813209C8a59a633257bAb",
+      "name": "Curve.fi Factory USD Metapool: sUSD Synthetix",
+      "symbol": "sUSD3CRV-f",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x061b87122Ed14b9526A813209C8a59a633257bAb/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -411,6 +443,14 @@
       "decimals": 18
     },
     {
+      "address": "0x0a2f234Ad2e5e9047067904A9D37D0Cd02b80D12",
+      "name": "WBTC yVault",
+      "symbol": "yvWBTC",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x0a2f234Ad2e5e9047067904A9D37D0Cd02b80D12/logo-128.png",
+      "chainId": 10,
+      "decimals": 8
+    },
+    {
       "address": "0x0a53F5EDe53f4d75a5dF9D8f1E3C23E2672ebDA7",
       "name": "VolatileV2 AMM - PEPE/WETH",
       "symbol": "vAMMV2-PEPE/WETH",
@@ -439,6 +479,14 @@
       "name": "VolatileV2 AMM - fBOMB/VELO",
       "symbol": "vAMMV2-fBOMB/VELO",
       "logoURI": "https://assets.coingecko.com/coins/images/25783/large/velo.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x0b28C2e41058EDc7D66c516c617b664Ea86eeC5d",
+      "name": "StableV2 AMM - USD+/DOLA",
+      "symbol": "sAMMV2-USD+/DOLA",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x0b28C2e41058EDc7D66c516c617b664Ea86eeC5d/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -559,14 +607,6 @@
       "name": "StableV2 AMM - msOP/USDC",
       "symbol": "sAMMV2-msOP/USDC",
       "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x112bdff900541D163ac7d54707ecb3BFaf32C10E/logo-128.png",
-      "chainId": 10,
-      "decimals": 18
-    },
-    {
-      "address": "0x112d7a717a617C25a91b1C261708CCe6831474B4",
-      "name": "StableV2 AMM - pxETH/WETH",
-      "symbol": "sAMMV2-pxETH/WETH",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x112d7a717a617C25a91b1C261708CCe6831474B4/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -891,6 +931,22 @@
       "decimals": 18
     },
     {
+      "address": "0x1AD06Ca54de04DBe9e2817F4C13eCB406DCbeAf0",
+      "name": "StableV2 AMM - alETH/frxETH",
+      "symbol": "sAMMV2-alETH/frxETH",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x1AD06Ca54de04DBe9e2817F4C13eCB406DCbeAf0/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x1B1d2EfB6045851F8ccdE24369003e0fF157980b",
+      "name": "Velodrome v2 sUSD-USDC.e Factory yVault",
+      "symbol": "yvVelo-sUSD-USDC.e-f",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x1B1d2EfB6045851F8ccdE24369003e0fF157980b/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
       "address": "0x1B3ACAA361C4293bCF342528A1C8dE2256496036",
       "name": "StableV2 AMM - FXS/DINERO",
       "symbol": "sAMMV2-FXS/DINERO",
@@ -995,14 +1051,6 @@
       "decimals": 18
     },
     {
-      "address": "0x1c09aEA795DD79E201fA552b108b4b30E90CEd4f",
-      "name": "Velodrome v2 sUSD-USDC Factory yVault",
-      "symbol": "yvVelo-sUSD-USDC-f",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x1c09aEA795DD79E201fA552b108b4b30E90CEd4f/logo-128.png",
-      "chainId": 10,
-      "decimals": 18
-    },
-    {
       "address": "0x1c8d7fc2eAa85af18188f7619b99f939Db34836d",
       "name": "VolatileV2 AMM - QI/USDC",
       "symbol": "vAMMV2-QI/USDC",
@@ -1087,6 +1135,14 @@
       "name": "StableV2 AMM - USDC/USDT",
       "symbol": "sAMMV2-USDC/USDT",
       "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x1f80b1E3C538Aa5E83BBD60E04386d4e2B4Fa8FC/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x1f8b46abe1EAbF5A60CbBB5Fb2e4a6A46fA0b6e6",
+      "name": "StableV2 AMM - FRAX/DOLA",
+      "symbol": "sAMMV2-FRAX/DOLA",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x1f8b46abe1EAbF5A60CbBB5Fb2e4a6A46fA0b6e6/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -1187,25 +1243,10 @@
       "decimals": 18
     },
     {
-      "address": "0x2297aEbD383787A160DD0d9F71508148769342E3",
-      "name": "Bitcoin",
-      "symbol": "BTC.b",
-      "chainId": 10,
-      "decimals": 8
-    },
-    {
       "address": "0x22a21137056db41d0f04fa02f7f88Bf6A318228C",
       "name": "StableV2 AMM - USDGLO/USDC",
       "symbol": "sAMMV2-USDGLO/USDC",
       "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x22a21137056db41d0f04fa02f7f88Bf6A318228C/logo-128.png",
-      "chainId": 10,
-      "decimals": 18
-    },
-    {
-      "address": "0x233dc79F924c35AcB4524BaC4A883c8CE11A75B2",
-      "name": "Bridge",
-      "symbol": "BRIDGE",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x233dc79F924c35AcB4524BaC4A883c8CE11A75B2/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -1498,6 +1539,14 @@
       "decimals": 18
     },
     {
+      "address": "0x2E931De1fcB2681Dc98601e0b513308DA9C5cEae",
+      "name": "VolatileV2 AMM - TAROT/USDC",
+      "symbol": "vAMMV2-TAROT/USDC",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x2E931De1fcB2681Dc98601e0b513308DA9C5cEae/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
       "address": "0x2EaF7B9aAA67c70B8770f20502BAb66CFb9861fF",
       "name": "VolatileV2 AMM - TAROT/LSD",
       "symbol": "vAMMV2-TAROT/LSD",
@@ -1534,6 +1583,14 @@
       "name": "StableV2 AMM - USDC/USX",
       "symbol": "sAMMV2-USDC/USX",
       "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x2F748Ee75538CcEe11Ec5F523084E810023D8c21/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x2a90F479002DAae9934c3a70EBB6e8DbeB46292b",
+      "name": "sUSD yVault",
+      "symbol": "yvsUSD",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x2a90F479002DAae9934c3a70EBB6e8DbeB46292b/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -1704,14 +1761,6 @@
       "logoURI": "https://assets.coingecko.com/coins/images/25783/large/velo.png",
       "chainId": 10,
       "decimals": 18
-    },
-    {
-      "address": "0x31515cfC4550d9C83E2d86E8a352886d1364E2D9",
-      "name": "PoolTogether Prize USD Coin",
-      "symbol": "PTUSDC",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x31515cfC4550d9C83E2d86E8a352886d1364E2D9/logo-128.png",
-      "chainId": 10,
-      "decimals": 6
     },
     {
       "address": "0x31a56BC24B24F5E570a9a01b315A31fd43cb9c4A",
@@ -1898,6 +1947,14 @@
       "decimals": 18
     },
     {
+      "address": "0x36E4c18B2B43CC989085B4a7306915b115058abF",
+      "name": "Velodrome v2 DAI-USDC.e Factory yVault",
+      "symbol": "yvVelo-DAI-USDC.e-f",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x36E4c18B2B43CC989085B4a7306915b115058abF/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
       "address": "0x36bAF52bc8A2dB4450500c1a6c78f10F6d0E1C3B",
       "name": "Velodrome v2 TAROT-USDC.e Factory yVault",
       "symbol": "yvVelo-TAROT-USDC.e-f",
@@ -1954,14 +2011,6 @@
       "decimals": 18
     },
     {
-      "address": "0x385719545Ef34d457A88e723504544A53F0Ad9BC",
-      "name": "MUMMY",
-      "symbol": "MMY",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x385719545Ef34d457A88e723504544A53F0Ad9BC/logo-128.png",
-      "chainId": 10,
-      "decimals": 18
-    },
-    {
       "address": "0x387854f1885c08CEa896EB75f08917E45c6B3C5F",
       "name": "xETH-USDT05",
       "symbol": "xETH-USDT05",
@@ -2002,6 +2051,14 @@
       "decimals": 18
     },
     {
+      "address": "0x39F60710a27a87332d10E3333c2eFF41EeC911Ee",
+      "name": "Velodrome v2 DOLA-USDC.e Factory yVault",
+      "symbol": "yvVelo-DOLA-USDC.e-f",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x39F60710a27a87332d10E3333c2eFF41EeC911Ee/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
       "address": "0x39FBeef6f094e366DE326B5de87829DEeF57ddd6",
       "name": "VolatileV2 AMM - WETH/L2DAO",
       "symbol": "vAMMV2-WETH/L2DAO",
@@ -2014,6 +2071,22 @@
       "name": "Oath Token",
       "symbol": "OATH",
       "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x39FdE572a18448F8139b7788099F0a0740f51205/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x3AD9566b15AACDd26d8a220cA8635F925EA7a3f6",
+      "name": "Velodrome v2 OP-USDC.e Factory yVault",
+      "symbol": "yvVelo-OP-USDC.e-f",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x3AD9566b15AACDd26d8a220cA8635F925EA7a3f6/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x3B141BD7d6E1d67e2101A08E4dd849a8408d91aa",
+      "name": "Velodrome v2 alUSD-USDC.e Factory yVault",
+      "symbol": "yvVelo-alUSD-USDC.e-f",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x3B141BD7d6E1d67e2101A08E4dd849a8408d91aa/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -2090,6 +2163,14 @@
       "decimals": 18
     },
     {
+      "address": "0x3Eb398fEc5F7327C6b15099a9681d9568ded2e82",
+      "name": "TokenDao",
+      "symbol": "TKN",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x3Eb398fEc5F7327C6b15099a9681d9568ded2e82/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
       "address": "0x3Ebb31CB2888e0Acbb81cBE2FeC65AEE24be3BD4",
       "name": "AVT",
       "symbol": "AVT",
@@ -2118,14 +2199,6 @@
       "name": "ARYZE eUSD",
       "symbol": "eUSD",
       "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x3F33c24A155F6ead6f16203c260f882d4507DaCc/logo-128.png",
-      "chainId": 10,
-      "decimals": 18
-    },
-    {
-      "address": "0x3F707a0f3AD1b2784CfbdDa17d7345fc0E689751",
-      "name": "Prize sAMMV2-alETH/WETH - Yearn",
-      "symbol": "przsAMMV2-alETH/WETH",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x3F707a0f3AD1b2784CfbdDa17d7345fc0E689751/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -2194,6 +2267,14 @@
       "decimals": 18
     },
     {
+      "address": "0x3f42Dc59DC4dF5cD607163bC620168f7FF7aB970",
+      "name": "StableV2 AMM - WETH/frxETH",
+      "symbol": "sAMMV2-WETH/frxETH",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x3f42Dc59DC4dF5cD607163bC620168f7FF7aB970/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
       "address": "0x3f848EeFD234dA0B1B98Ea876fe2ee86a10773ca",
       "name": "xsUSD-USDT05",
       "symbol": "xsUSD-USDT05",
@@ -2202,18 +2283,18 @@
       "decimals": 18
     },
     {
-      "address": "0x3fC986Cc3b44bAd5BAf1e47031055cf69466Ad57",
-      "name": "USDC yVault",
-      "symbol": "yvUSDC",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x3fC986Cc3b44bAd5BAf1e47031055cf69466Ad57/logo-128.png",
-      "chainId": 10,
-      "decimals": 18
-    },
-    {
       "address": "0x3fa152CE7f4ECFCcfBc6eD1658b4ba01185D7353",
       "name": "VolatileV2 AMM - WETH/OMM",
       "symbol": "vAMMV2-WETH/OMM",
       "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x3fa152CE7f4ECFCcfBc6eD1658b4ba01185D7353/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x3fb792Fa67cde50A41e20304E4afEf522CF711ee",
+      "name": "Velodrome v2 USDT-USDC.e Factory yVault",
+      "symbol": "yvVelo-USDT-USDC.e-f",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x3fb792Fa67cde50A41e20304E4afEf522CF711ee/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -2282,14 +2363,6 @@
       "decimals": 18
     },
     {
-      "address": "0x4262150E8cd1C3D5739aEf7ffF0Dc39D6D90Ab70",
-      "name": "None",
-      "symbol": "None",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x4262150E8cd1C3D5739aEf7ffF0Dc39D6D90Ab70/logo-128.png",
-      "chainId": 10,
-      "decimals": 18
-    },
-    {
       "address": "0x427e7E54d828EafC019B044dACd17C591A8F0803",
       "name": "StableV2 AMM - DOLA/VELO",
       "symbol": "sAMMV2-DOLA/VELO",
@@ -2326,6 +2399,14 @@
       "name": "xETH-USDC05",
       "symbol": "xETH-USDC05",
       "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x431f6E577A431D9EE87a535fDE2dB830E352e33c/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x43360FDd9546e3e77ac2e6793f53219729743293",
+      "name": "Velodrome v2 wUSDR-USDC.e Factory yVault",
+      "symbol": "yvVelo-wUSDR-USDC.e-f",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x43360FDd9546e3e77ac2e6793f53219729743293/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -2370,14 +2451,6 @@
       "decimals": 18
     },
     {
-      "address": "0x4591DBfF62656E7859Afe5e45f6f47D3669fBB28",
-      "name": "Prisma mkUSD",
-      "symbol": "mkUSD",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x4591DBfF62656E7859Afe5e45f6f47D3669fBB28/logo-128.png",
-      "chainId": 10,
-      "decimals": 18
-    },
-    {
       "address": "0x45922aE4B90297A2d8655ba1Ed354aDBC489dC94",
       "name": "VolatileV2 AMM - WETH/BOB",
       "symbol": "vAMMV2-WETH/BOB",
@@ -2406,6 +2479,14 @@
       "name": "VolatileV2 AMM - USDC/msUSD",
       "symbol": "vAMMV2-USDC/msUSD",
       "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x45F285B5FeFC4aeEeFFe31ADB296410481220709/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x45b0a7Dc29B7856A1B5069DB4CfA2A984b69cC41",
+      "name": "Velodrome v2 THALES-WETH Factory yVault",
+      "symbol": "yvVelo-THALES-WETH-f",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x45b0a7Dc29B7856A1B5069DB4CfA2A984b69cC41/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -2454,6 +2535,14 @@
       "name": "StableV2 AMM - USDC/USD+",
       "symbol": "sAMMV2-USDC/USD+",
       "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x46e1B51e07851301f025ffeA506b140dB80a214A/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x4706e50fDe911525e4B904c240056c4Ea0884AA6",
+      "name": "VolatileV2 AMM - stERN/ERN",
+      "symbol": "vAMMV2-stERN/ERN",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x4706e50fDe911525e4B904c240056c4Ea0884AA6/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -2586,6 +2675,14 @@
       "decimals": 18
     },
     {
+      "address": "0x4C8b1958B09B3bde714f68864Bcc3a74Eaf1A23D",
+      "name": "USDC yVault",
+      "symbol": "yvUSDC",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x4C8b1958B09B3bde714f68864Bcc3a74Eaf1A23D/logo-128.png",
+      "chainId": 10,
+      "decimals": 6
+    },
+    {
       "address": "0x4C9DF196d3c5f5906f4f5907dcf59eBA1b27040E",
       "name": "VolatileV2 AMM - LUSD/fETH",
       "symbol": "vAMMV2-LUSD/fETH",
@@ -2634,6 +2731,14 @@
       "decimals": 18
     },
     {
+      "address": "0x4E60495550071693bc8bDfFC40033d278157EAC7",
+      "name": "VolatileV2 AMM - SONNE/USDC",
+      "symbol": "vAMMV2-SONNE/USDC",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x4E60495550071693bc8bDfFC40033d278157EAC7/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
       "address": "0x4E720DD3Ac5CFe1e1fbDE4935f386Bb1C66F4642",
       "name": "beefy.finance",
       "symbol": "BIFI",
@@ -2662,6 +2767,14 @@
       "name": "VolatileV2 AMM - QI/DINERO",
       "symbol": "vAMMV2-QI/DINERO",
       "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x4Ee160Fe1C7353B60C13BF79F44fA3bcFC6EC967/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x4F1220f6375e95b43462465972cB2f478Ed34D0b",
+      "name": "Velodrome v2 USD+-DOLA Factory yVault",
+      "symbol": "yvVelo-USD+-DOLA-f",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x4F1220f6375e95b43462465972cB2f478Ed34D0b/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -2722,10 +2835,34 @@
       "decimals": 18
     },
     {
+      "address": "0x4d7959d17B9710BE87e3657e69d946914221BB88",
+      "name": "StableV2 AMM - USDC/alUSD",
+      "symbol": "sAMMV2-USDC/alUSD",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x4d7959d17B9710BE87e3657e69d946914221BB88/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
       "address": "0x4e98B28080b781DbE6AC37FDCF57c9E564f745ab",
       "name": "VolatileV2 AMM - FOAM/EURA",
       "symbol": "vAMMV2-FOAM/EURA",
       "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x4e98B28080b781DbE6AC37FDCF57c9E564f745ab/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x4e9C59F9b1b13bA7E1Ac4c09B64Df7Fdeff41b03",
+      "name": "Velodrome v2 USX-USDC.e Factory yVault",
+      "symbol": "yvVelo-USX-USDC.e-f",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x4e9C59F9b1b13bA7E1Ac4c09B64Df7Fdeff41b03/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x4ed90ca704F4f6f3955169F202EA35365e41B424",
+      "name": "VolatileV2 AMM - USDC/PERP",
+      "symbol": "vAMMV2-USDC/PERP",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x4ed90ca704F4f6f3955169F202EA35365e41B424/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -2786,10 +2923,26 @@
       "decimals": 18
     },
     {
+      "address": "0x50032bE2b2c7e8A6a6bc241e3aEbef21497A3cF0",
+      "name": "Velodrome v2 ERN-DOLA Factory yVault",
+      "symbol": "yvVelo-ERN-DOLA-f",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x50032bE2b2c7e8A6a6bc241e3aEbef21497A3cF0/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
       "address": "0x501c43f2C1e32b8E6F3785Ed978C44b83E38684A",
       "name": "VolatileV2 AMM - DOLA/VELO",
       "symbol": "vAMMV2-DOLA/VELO",
       "logoURI": "https://assets.coingecko.com/coins/images/25783/large/velo.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x507343bAD3a1ee0B67C3B1712133290DED43980D",
+      "name": "Velodrome v2 LDO-wstETH Factory yVault",
+      "symbol": "yvVelo-LDO-wstETH-f",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x507343bAD3a1ee0B67C3B1712133290DED43980D/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -2898,14 +3051,6 @@
       "decimals": 18
     },
     {
-      "address": "0x539505Dde2B9771dEBE0898a84441c5E7fDF6BC0",
-      "name": "vaUSDC Pool",
-      "symbol": "vaUSDC",
-      "logoURI": "https://assets.coingecko.com/coins/images/13527/large/vesper_logo.jpg",
-      "chainId": 10,
-      "decimals": 18
-    },
-    {
       "address": "0x53C53308fbA2b61bF35E4088cd7B7B5a5D6cC112",
       "name": "StableV2 AMM - SONNE/VELO",
       "symbol": "sAMMV2-SONNE/VELO",
@@ -2918,14 +3063,6 @@
       "name": "StableV2 AMM - WETH/OP",
       "symbol": "sAMMV2-WETH/OP",
       "logoURI": "https://assets.coingecko.com/coins/images/25783/large/velo.png",
-      "chainId": 10,
-      "decimals": 18
-    },
-    {
-      "address": "0x54270c51054B63CF990501c50a9c0814a73B4f73",
-      "name": "Prize sAMMV2-msETH/WETH - Yearn",
-      "symbol": "przsAMMV2-msETH/WETH",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x54270c51054B63CF990501c50a9c0814a73B4f73/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -2986,10 +3123,26 @@
       "decimals": 18
     },
     {
+      "address": "0x56770b94279539416855fe29Ef14b26438B5e421",
+      "name": "VolatileV2 AMM - STG/USDC",
+      "symbol": "vAMMV2-STG/USDC",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x56770b94279539416855fe29Ef14b26438B5e421/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
       "address": "0x568EC5002dCCb2A99F5013078746C1aF02Ca514c",
       "name": "VolatileV2 AMM - VELO/L2DAO",
       "symbol": "vAMMV2-VELO/L2DAO",
       "logoURI": "https://assets.coingecko.com/coins/images/25783/large/velo.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x56EeF8430dDdF95b2B92c58B21edf1AC7F77E6a6",
+      "name": "Velodrome v2 USD+-USDC.e Factory yVault",
+      "symbol": "yvVelo-USD+-USDC.e-f",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x56EeF8430dDdF95b2B92c58B21edf1AC7F77E6a6/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -3082,6 +3235,14 @@
       "decimals": 18
     },
     {
+      "address": "0x5B977577Eb8a480f63e11FC615D6753adB8652Ae",
+      "name": "WETH yVault",
+      "symbol": "yvWETH",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x5B977577Eb8a480f63e11FC615D6753adB8652Ae/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
       "address": "0x5CFafe2E420544f2557aaF2C104778dFa6c4EF0D",
       "name": "VolatileV2 AMM - wstEth/bca",
       "symbol": "vAMMV2-wstEth/bca",
@@ -3166,6 +3327,22 @@
       "name": "UniDex",
       "symbol": "UNIDX",
       "logoURI": "https://assets.smold.app/api/token/10/0x5d47bAbA0d66083C52009271faF3F50DCc01023C/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x5e4A183Fa83C52B1c55b11f2682f6a8421206633",
+      "name": "StableV2 AMM - USDC/ERN",
+      "symbol": "sAMMV2-USDC/ERN",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x5e4A183Fa83C52B1c55b11f2682f6a8421206633/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x5e5A37445FadeB71f23514Ae7d675Ffc644e5E5A",
+      "name": "StableV2 AMM - WETH/sETH",
+      "symbol": "sAMMV2-WETH/sETH",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x5e5A37445FadeB71f23514Ae7d675Ffc644e5E5A/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -3306,14 +3483,6 @@
       "decimals": 6
     },
     {
-      "address": "0x62855B8E5dB35551661a1e304ec227314F4493C1",
-      "name": "Velodrome v2 msUSD-USDC.e Factory yVault",
-      "symbol": "yvVelo-msUSD-USDC.e-f",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x62855B8E5dB35551661a1e304ec227314F4493C1/logo-128.png",
-      "chainId": 10,
-      "decimals": 18
-    },
-    {
       "address": "0x62Bd38E9C8d80e3a6f040b062ee4Cf97fA1a6114",
       "name": "VolatileV2 AMM - EXTRA/msUSD",
       "symbol": "vAMMV2-EXTRA/msUSD",
@@ -3334,6 +3503,14 @@
       "name": "StableV2 AMM - DINERO/MAI",
       "symbol": "sAMMV2-DINERO/MAI",
       "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x6372e9A19b51BE4766be9121702Fa59FAbb3e303/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x6387765fFA609aB9A1dA1B16C455548Bfed7CbEA",
+      "name": "VolatileV2 AMM - WETH/LUSD",
+      "symbol": "vAMMV2-WETH/LUSD",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x6387765fFA609aB9A1dA1B16C455548Bfed7CbEA/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -3394,18 +3571,18 @@
       "decimals": 18
     },
     {
-      "address": "0x65512DE8919BAF31cC9C8f067CdCA308112B9d1f",
-      "name": "xsUSD-USDT05",
-      "symbol": "xsUSD-USDT05",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x65512DE8919BAF31cC9C8f067CdCA308112B9d1f/logo-128.png",
+      "address": "0x65343F414FFD6c97b0f6add33d16F6845Ac22BAc",
+      "name": "DAI yVault",
+      "symbol": "yvDAI",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x65343F414FFD6c97b0f6add33d16F6845Ac22BAc/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },
     {
-      "address": "0x6554AA3ACf15cCe6206470cc29416304F16b55D9",
-      "name": "WBTC yVault",
-      "symbol": "yvWBTC",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x6554AA3ACf15cCe6206470cc29416304F16b55D9/logo-128.png",
+      "address": "0x65512DE8919BAF31cC9C8f067CdCA308112B9d1f",
+      "name": "xsUSD-USDT05",
+      "symbol": "xsUSD-USDT05",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x65512DE8919BAF31cC9C8f067CdCA308112B9d1f/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -3446,6 +3623,22 @@
       "name": "OVERPOWERED",
       "symbol": "$OVERPOWERED",
       "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x6630Ae120DBDA654c18f04Eb82ee89C54493378d/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x6657BdB994fC8678f6D709077F30aA0B3249b5c8",
+      "name": "Velodrome v2 LYRA-USDC.e Factory yVault",
+      "symbol": "yvVelo-LYRA-USDC.e-f",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x6657BdB994fC8678f6D709077F30aA0B3249b5c8/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x667002F9DC61ebcBA8Ee1Cbeb2ad04060388f223",
+      "name": "StableV2 AMM - USD+/DAI+",
+      "symbol": "sAMMV2-USD+/DAI+",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x667002F9DC61ebcBA8Ee1Cbeb2ad04060388f223/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -3514,6 +3707,14 @@
       "decimals": 18
     },
     {
+      "address": "0x67CCEA5bb16181E7b4109c9c2143c24a1c2205Be",
+      "name": "Frax Share",
+      "symbol": "FXS",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x67CCEA5bb16181E7b4109c9c2143c24a1c2205Be/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
       "address": "0x67F56Ac099F11aD5F65E2ec804f75F2cEa6ab8C5",
       "name": "VolatileV2 AMM - USDC/OP",
       "symbol": "vAMMV2-USDC/OP",
@@ -3554,12 +3755,28 @@
       "decimals": 18
     },
     {
+      "address": "0x686c125472024bDd3fA74eeb3720B3237541dCDC",
+      "name": "Velodrome v2 KWENTA-WETH Factory yVault",
+      "symbol": "yvVelo-KWENTA-WETH-f",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x686c125472024bDd3fA74eeb3720B3237541dCDC/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
       "address": "0x68f180fcCe6836688e9084f035309E29Bf0A2095",
       "name": "Wrapped BTC",
       "symbol": "WBTC",
       "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x68f180fcCe6836688e9084f035309E29Bf0A2095/logo-128.png",
       "chainId": 10,
       "decimals": 8
+    },
+    {
+      "address": "0x68f2B1db2DA6204489279a8fC681f83728bB9622",
+      "name": "Velodrome v2 MAI-DOLA Factory yVault",
+      "symbol": "yvVelo-MAI-DOLA-f",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x68f2B1db2DA6204489279a8fC681f83728bB9622/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
     },
     {
       "address": "0x6910BA3714231C3a3756207e9941A814dbe84A96",
@@ -3706,10 +3923,26 @@
       "decimals": 18
     },
     {
+      "address": "0x6Ec9d003f0e5184Ee54c1d899B414322a0f0Dc07",
+      "name": "Velodrome v2 wstETH-WETH Factory yVault",
+      "symbol": "yvVelo-wstETH-WETH-f",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x6Ec9d003f0e5184Ee54c1d899B414322a0f0Dc07/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
       "address": "0x6F202515fFbb74a4cD12EBD85aff4a872C099563",
       "name": "VolatileV2 AMM - STG/msOP",
       "symbol": "vAMMV2-STG/msOP",
       "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x6F202515fFbb74a4cD12EBD85aff4a872C099563/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x6F4f01A02e6037AA98d22405fEA4DCAB98D2a8eE",
+      "name": "Velodrome v2 PERP-USDC.e Factory yVault",
+      "symbol": "yvVelo-PERP-USDC.e-f",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x6F4f01A02e6037AA98d22405fEA4DCAB98D2a8eE/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -3738,10 +3971,34 @@
       "decimals": 18
     },
     {
+      "address": "0x6a44B0415a5c440D32E82965FDFAad54a72D477D",
+      "name": "Velodrome v2 sETH-WETH Factory yVault",
+      "symbol": "yvVelo-sETH-WETH-f",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x6a44B0415a5c440D32E82965FDFAad54a72D477D/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x6aFA09145245eAeDDdAb9333523af9984494FF34",
+      "name": "Velodrome v2 LUSD-USDC.e Factory yVault",
+      "symbol": "yvVelo-LUSD-USDC.e-f",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x6aFA09145245eAeDDdAb9333523af9984494FF34/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
       "address": "0x6b1fDf5EEccf6161Ef26B7D2c9D50b03e0B344C2",
       "name": "VolatileV2 AMM - FRAX/WETH",
       "symbol": "vAMMV2-FRAX/WETH",
       "logoURI": "https://assets.coingecko.com/coins/images/25783/large/velo.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x6c2f7b6110a37b3B0fbdd811876be368df02E8B0",
+      "name": "StaFi Staked ETH",
+      "symbol": "rETH",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x6c2f7b6110a37b3B0fbdd811876be368df02E8B0/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -3786,6 +4043,14 @@
       "decimals": 18
     },
     {
+      "address": "0x6d5BA400640226e24b50214d2bBb3D4Db8e6e15a",
+      "name": "StableV2 AMM - USDC/sUSD",
+      "symbol": "sAMMV2-USDC/sUSD",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x6d5BA400640226e24b50214d2bBb3D4Db8e6e15a/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
       "address": "0x6dA19DEAAa4106E59398A8C1cf603F5bd9E9CDdc",
       "name": "VolatileV2 AMM - GRAI/LUSD",
       "symbol": "vAMMV2-GRAI/LUSD",
@@ -3814,6 +4079,14 @@
       "name": "VolatileV2 AMM - MTK2/MTK",
       "symbol": "vAMMV2-MTK2/MTK",
       "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x6e26660Ce7182e463a64333C185c72E2C27555fB/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x6e57B9E54ea043a829584B22182ad22bF446926C",
+      "name": "StableV2 AMM - WBTC/tBTC",
+      "symbol": "sAMMV2-WBTC/tBTC",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x6e57B9E54ea043a829584B22182ad22bF446926C/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -3890,6 +4163,22 @@
       "decimals": 18
     },
     {
+      "address": "0x71117Bcd8FE69177EEb8857538D625209756B745",
+      "name": "Velodrome v2 rETH-WETH Factory yVault",
+      "symbol": "yvVelo-rETH-WETH-f",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x71117Bcd8FE69177EEb8857538D625209756B745/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x7113370218f31764C1B6353BDF6004d86fF6B9cc",
+      "name": "Decentralized USD",
+      "symbol": "USDD",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x7113370218f31764C1B6353BDF6004d86fF6B9cc/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
       "address": "0x713050E9eA7764afb229197E98559E20e67302f1",
       "name": "VolatileV2 AMM - msOP/MIM",
       "symbol": "vAMMV2-msOP/MIM",
@@ -3906,10 +4195,26 @@
       "decimals": 18
     },
     {
+      "address": "0x7178F61694ba9109205B8d6F686282307625e62D",
+      "name": "VolatileV2 AMM - wstETH/OP",
+      "symbol": "vAMMV2-wstETH/OP",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x7178F61694ba9109205B8d6F686282307625e62D/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
       "address": "0x71aa84275c7704D96c9cb29aAB38AC37eC320e3c",
       "name": "VolatileV2 AMM - fBOMB/opxVELO",
       "symbol": "vAMMV2-fBOMB/opxVELO",
       "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x71aa84275c7704D96c9cb29aAB38AC37eC320e3c/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x71d53B5B7141E1ec9A3Fc9Cc48b4766102d14A4A",
+      "name": "VolatileV2 AMM - USDC/SNX",
+      "symbol": "vAMMV2-USDC/SNX",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x71d53B5B7141E1ec9A3Fc9Cc48b4766102d14A4A/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -4016,14 +4321,6 @@
       "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x740B666DC797f3122e3559ca8Ad87CD490AB6c01/logo-128.png",
       "chainId": 10,
       "decimals": 9
-    },
-    {
-      "address": "0x7427C44D2824E4Df3B518822F2b11154E937EfEa",
-      "name": "WETH yVault",
-      "symbol": "yvWETH",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x7427C44D2824E4Df3B518822F2b11154E937EfEa/logo-128.png",
-      "chainId": 10,
-      "decimals": 18
     },
     {
       "address": "0x743d69BC899035b31F021A580180c75148F68CbA",
@@ -4170,6 +4467,14 @@
       "decimals": 18
     },
     {
+      "address": "0x78e20312105A85B7fe86dB119CfD5cD8de81FDaA",
+      "name": "Velodrome v2 USD+-DAI+ Factory yVault",
+      "symbol": "yvVelo-USD+-DAI+-f",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x78e20312105A85B7fe86dB119CfD5cD8de81FDaA/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
       "address": "0x79310b7B0645cAD81B98d5becaDA1cCA82773cbe",
       "name": "SHID",
       "symbol": "SHID",
@@ -4218,10 +4523,34 @@
       "decimals": 18
     },
     {
+      "address": "0x7Bc5728BC2b59B45a58d9A576E2Ffc5f0505B35E",
+      "name": "Curve.fi Factory Pool: sETH/ETH",
+      "symbol": "seth-f",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x7Bc5728BC2b59B45a58d9A576E2Ffc5f0505B35E/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
       "address": "0x7CCC5Bc2446d25973eeD60598d00e60fCE261087",
       "name": "StableV2 AMM - msUSD/axlUSDC",
       "symbol": "sAMMV2-msUSD/axlUSDC",
       "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x7CCC5Bc2446d25973eeD60598d00e60fCE261087/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x7D14206C937E70e19E3A5B94011fAF0d5b3928e2",
+      "name": "VitaDAO Token",
+      "symbol": "VITA",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x7D14206C937E70e19E3A5B94011fAF0d5b3928e2/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x7D2382b1f8Af621229d33464340541Db362B4907",
+      "name": "OP yVault",
+      "symbol": "yvOP",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x7D2382b1f8Af621229d33464340541Db362B4907/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -4240,6 +4569,14 @@
       "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x7E8C4cb10C841f0ae4F9e78740b096ACB1C9A21c/logo-128.png",
       "chainId": 10,
       "decimals": 18
+    },
+    {
+      "address": "0x7Edf16076e56FA4c111055fbA1fF5556b8757cFB",
+      "name": "WBTC yVault",
+      "symbol": "yvWBTC",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x7Edf16076e56FA4c111055fbA1fF5556b8757cFB/logo-128.png",
+      "chainId": 10,
+      "decimals": 8
     },
     {
       "address": "0x7F5F38A470D719b8fEb4bfB2dd3EB9CdB9341b60",
@@ -4306,6 +4643,14 @@
       "decimals": 18
     },
     {
+      "address": "0x7bDEA31F968089f93A548ddec8BB74036E8ac6e0",
+      "name": "Velodrome v2 ERN-LUSD Factory yVault",
+      "symbol": "yvVelo-ERN-LUSD-f",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x7bDEA31F968089f93A548ddec8BB74036E8ac6e0/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
       "address": "0x7c9a7243F6A359781996822A141A28DC48AA258b",
       "name": "VolatileV2 AMM - wstETH/PENDLE",
       "symbol": "vAMMV2-wstETH/PENDLE",
@@ -4330,10 +4675,26 @@
       "decimals": 18
     },
     {
+      "address": "0x7e0F65FAB1524dA9E2E5711D160541cf1199912E",
+      "name": "VolatileV2 AMM - WETH/rETH",
+      "symbol": "vAMMV2-WETH/rETH",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x7e0F65FAB1524dA9E2E5711D160541cf1199912E/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
       "address": "0x7e1357fa56C0eCfE69dAF22E08489aE8De56d86C",
       "name": "VolatileV2 AMM - OP/DHT",
       "symbol": "vAMMV2-OP/DHT",
       "logoURI": "https://assets.coingecko.com/coins/images/25783/large/velo.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x7e1d451799af57EA5570D1015c342C12a918a30b",
+      "name": "Velodrome v2 alETH-frxETH Factory yVault",
+      "symbol": "yvVelo-alETH-frxETH-f",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x7e1d451799af57EA5570D1015c342C12a918a30b/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -4386,6 +4747,14 @@
       "decimals": 18
     },
     {
+      "address": "0x8134A2fDC127549480865fB8E5A9E8A8a95a54c5",
+      "name": "VolatileV2 AMM - USDC/VELO",
+      "symbol": "vAMMV2-USDC/VELO",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x8134A2fDC127549480865fB8E5A9E8A8a95a54c5/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
       "address": "0x814e2d6E8f7477329BB6C196111A08464ABE11DD",
       "name": "VolatileV2 AMM - WETH/fBOMB",
       "symbol": "vAMMV2-WETH/fBOMB",
@@ -4408,6 +4777,14 @@
       "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x8158B34fF8A36dD9E4519d62C52913C24ad5554b/logo-128.png",
       "chainId": 10,
       "decimals": 8
+    },
+    {
+      "address": "0x819845b60A192167Ed1139040B4F8ecA31834f27",
+      "name": "MetaPool ETH Liquid Staking Token",
+      "symbol": "mpETH",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x819845b60A192167Ed1139040B4F8ecA31834f27/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
     },
     {
       "address": "0x823dCf6692564777dbc1c22661dCc30371E5b2B1",
@@ -4448,6 +4825,14 @@
       "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x82f0B8B456c1A451378467398982d4834b6829c1/logo-128.png",
       "chainId": 10,
       "decimals": 2
+    },
+    {
+      "address": "0x830cB4AabF786b9349d9701dD8ee073215d95174",
+      "name": "Velodrome v2 wstETH-OP Factory yVault",
+      "symbol": "yvVelo-wstETH-OP-f",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x830cB4AabF786b9349d9701dD8ee073215d95174/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
     },
     {
       "address": "0x8323eac5003D98879e886E5cD6D9abD0c22fc14F",
@@ -4546,6 +4931,14 @@
       "decimals": 18
     },
     {
+      "address": "0x8453cc52F2108fF9D1636B6A108dB06Ac137B72F",
+      "name": "VolatileV2 AMM - USDC/MTA",
+      "symbol": "vAMMV2-USDC/MTA",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x8453cc52F2108fF9D1636B6A108dB06Ac137B72F/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
       "address": "0x8462E4173D63f8769f94bf7ae5Bc1Ac7AB5D96E3",
       "name": "xWETH-USDT05",
       "symbol": "xWETH-USDT05",
@@ -4590,6 +4983,14 @@
       "name": "xZRO-MAI3",
       "symbol": "xZRO-MAI3",
       "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x85324D0E1470dB4c841918dda2b2ad1593E1da17/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x8542DD4744edEa38b8a9306268b08F4D26d38581",
+      "name": "StableV2 AMM - FRAX/USDC",
+      "symbol": "sAMMV2-FRAX/USDC",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x8542DD4744edEa38b8a9306268b08F4D26d38581/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -4722,6 +5123,14 @@
       "decimals": 18
     },
     {
+      "address": "0x88B429359665B8685b7431f5A0f6e8C719Bf49Aa",
+      "name": "Velodrome v2 VELO-USDC.e Factory yVault",
+      "symbol": "yvVelo-VELO-USDC.e-f",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x88B429359665B8685b7431f5A0f6e8C719Bf49Aa/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
       "address": "0x88a89866439F4C2830986B79cbe6f69d1Bd548BB",
       "name": "Bike",
       "symbol": "Bike",
@@ -4786,14 +5195,6 @@
       "decimals": 18
     },
     {
-      "address": "0x8BF2D37ACC93FdE36DCfFe9Ba9b8B0fB5d2fA747",
-      "name": "Velodrome sAMMV2-pxETH/WETH Factory yVault",
-      "symbol": "yvVelo-sAMMV2-pxETH/WETH-f",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x8BF2D37ACC93FdE36DCfFe9Ba9b8B0fB5d2fA747/logo-128.png",
-      "chainId": 10,
-      "decimals": 18
-    },
-    {
       "address": "0x8Ba02c31565AaCE0328eA90A17fa86D4ba1ec4D8",
       "name": "wstETH-WBTC05",
       "symbol": "wstETH-WBTC05",
@@ -4806,14 +5207,6 @@
       "name": "VolatileV2 AMM - WETH/SATS",
       "symbol": "vAMMV2-WETH/SATS",
       "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x8D6550432d6F8E84FA2406A2c579cE6703886B58/logo-128.png",
-      "chainId": 10,
-      "decimals": 18
-    },
-    {
-      "address": "0x8Dc2B8886F289812Bb6e58220e740D1F50A00197",
-      "name": "Velodrome v2 alUSD-USDC Factory yVault",
-      "symbol": "yvVelo-alUSD-USDC-f",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x8Dc2B8886F289812Bb6e58220e740D1F50A00197/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -4838,6 +5231,14 @@
       "name": "VolatileV2 AMM - wstETH/SNX",
       "symbol": "vAMMV2-wstETH/SNX",
       "logoURI": "https://assets.coingecko.com/coins/images/25783/large/velo.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x8F47041aDbeF5BF321c9F63A0660326614ab6B60",
+      "name": "VolatileV2 AMM - WETH/KWENTA",
+      "symbol": "vAMMV2-WETH/KWENTA",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x8F47041aDbeF5BF321c9F63A0660326614ab6B60/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -4930,6 +5331,14 @@
       "decimals": 18
     },
     {
+      "address": "0x8e8D635E28BB8774FD23107cC1D9b6D30AD5D0B9",
+      "name": "Velodrome v2 IB-WETH Factory yVault",
+      "symbol": "yvVelo-IB-WETH-f",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x8e8D635E28BB8774FD23107cC1D9b6D30AD5D0B9/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
       "address": "0x9005c76474948AF6aCa879A112B2E0FFd333128e",
       "name": "StableV2 AMM - USDC/BOB",
       "symbol": "sAMMV2-USDC/BOB",
@@ -4938,10 +5347,34 @@
       "decimals": 18
     },
     {
+      "address": "0x90337e484B1Cb02132fc150d3Afa262147348545",
+      "name": "USDp",
+      "symbol": "USDp",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x90337e484B1Cb02132fc150d3Afa262147348545/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
       "address": "0x904f14F9ED81d0b0a40D8169B28592aac5687158",
       "name": "StableV2 AMM - opxveVELO/VELO",
       "symbol": "sAMMV2-opxveVELO/VELO",
       "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x904f14F9ED81d0b0a40D8169B28592aac5687158/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x9056b19Fde674B5Ad8397e7Ed3E25a1BCCEf0C27",
+      "name": "Velodrome v2 alUSD-FRAX Factory yVault",
+      "symbol": "yvVelo-alUSD-FRAX-f",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x9056b19Fde674B5Ad8397e7Ed3E25a1BCCEf0C27/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x906122aC1b55B71248ABFA552fDc6ABd3356884A",
+      "name": "Velodrome v2 MTA-USDC.e Factory yVault",
+      "symbol": "yvVelo-MTA-USDC.e-f",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x906122aC1b55B71248ABFA552fDc6ABd3356884A/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -5026,6 +5459,14 @@
       "decimals": 18
     },
     {
+      "address": "0x93C3E0fa191141c957C2632752eC35C84d0C440a",
+      "name": "Zunami USD",
+      "symbol": "zunUSD",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x93C3E0fa191141c957C2632752eC35C84d0C440a/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
       "address": "0x93d6D0AB2b2aA25580cb77e8C5f9D5a0cc5E08Fe",
       "name": "Velodrome v2 UNIDX-WETH Factory yVault",
       "symbol": "yvVelo-UNIDX-WETH-f",
@@ -5058,12 +5499,28 @@
       "decimals": 18
     },
     {
+      "address": "0x9485aca5bbBE1667AD97c7fE7C4531a624C8b1ED",
+      "name": "EURA (previously agEUR)",
+      "symbol": "EURA",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x9485aca5bbBE1667AD97c7fE7C4531a624C8b1ED/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
       "address": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
       "name": "Tether USD",
       "symbol": "USDT",
       "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x94b008aA00579c1307B0EF2c499aD98a8ce58e58/logo-128.png",
       "chainId": 10,
       "decimals": 6
+    },
+    {
+      "address": "0x950f384f566b82CCA6380f75AE42E2BBE9B357B2",
+      "name": "Velodrome v2 MIM-USDC.e Factory yVault",
+      "symbol": "yvVelo-MIM-USDC.e-f",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x950f384f566b82CCA6380f75AE42E2BBE9B357B2/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
     },
     {
       "address": "0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db",
@@ -5094,6 +5551,14 @@
       "name": "VolatileV2 AMM - MMY/WETH",
       "symbol": "vAMMV2-MMY/WETH",
       "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x95E5adBE98b359f41F10f718dcC758BEC80461Af/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x95a05D06Decf8e1Eb93aE09B612FbD342F2F9E2E",
+      "name": "VolatileV2 AMM - USDC/wUSDR",
+      "symbol": "vAMMV2-USDC/wUSDR",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x95a05D06Decf8e1Eb93aE09B612FbD342F2F9E2E/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -5274,6 +5739,14 @@
       "decimals": 18
     },
     {
+      "address": "0x9E724b3f65b509326A4F5Ec90D4689BeE6b6C78e",
+      "name": "Velodrome v2 ERN-USDC.e Factory yVault",
+      "symbol": "yvVelo-ERN-USDC.e-f",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x9E724b3f65b509326A4F5Ec90D4689BeE6b6C78e/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
       "address": "0x9Eb7BC776d5d7Ae770AA8e0264f1075524549579",
       "name": "VolatileV2 AMM - OP/GNode",
       "symbol": "vAMMV2-OP/GNode",
@@ -5298,10 +5771,10 @@
       "decimals": 18
     },
     {
-      "address": "0x9F4A71c262e5fe634BBe3b9b1bd5deE2BBA9e441",
-      "name": "Prize sAMMV2-USDC/ERN - Yearn",
-      "symbol": "przsAMMV2-USDC/ERN",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x9F4A71c262e5fe634BBe3b9b1bd5deE2BBA9e441/logo-128.png",
+      "address": "0x9a2e53158e12BC09270Af10C16A466cb2b5D7836",
+      "name": "Metronome2",
+      "symbol": "MET",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x9a2e53158e12BC09270Af10C16A466cb2b5D7836/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -5346,14 +5819,6 @@
       "decimals": 18
     },
     {
-      "address": "0x9c839CB0562785e2Eb50C0E0fdd12F6DA8BdDB23",
-      "name": "USDC yVault",
-      "symbol": "yvUSDC",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x9c839CB0562785e2Eb50C0E0fdd12F6DA8BdDB23/logo-128.png",
-      "chainId": 10,
-      "decimals": 6
-    },
-    {
       "address": "0x9d36F8f62347538440a212e9162f534f797542df",
       "name": "Satoshi",
       "symbol": "SATS",
@@ -5390,6 +5855,14 @@
       "name": "Test",
       "symbol": "TEST",
       "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x9e57B3d7fD1a8F8FcE8C4214cC1148D518D6f6fE/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x9e5AAC1Ba1a2e6aEd6b32689DFcF62A509Ca96f3",
+      "name": "dForce",
+      "symbol": "DF",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x9e5AAC1Ba1a2e6aEd6b32689DFcF62A509Ca96f3/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -5522,6 +5995,14 @@
       "decimals": 18
     },
     {
+      "address": "0xA628c54C850ff1077b5C954491D19EccE7e321fF",
+      "name": "WETH yVault",
+      "symbol": "yvWETH",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xA628c54C850ff1077b5C954491D19EccE7e321fF/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
       "address": "0xA88594D404727625A9437C3f886C7643872296AE",
       "name": "WELL",
       "symbol": "WELL",
@@ -5642,22 +6123,6 @@
       "decimals": 18
     },
     {
-      "address": "0xAc8da30113238CfAF5011157CdF1E05A884CDB72",
-      "name": "Velodrome v2 OVN-USD+ Factory yVault",
-      "symbol": "yvVelo-OVN-USD+-f",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xAc8da30113238CfAF5011157CdF1E05A884CDB72/logo-128.png",
-      "chainId": 10,
-      "decimals": 18
-    },
-    {
-      "address": "0xAcB84e988327D7ACc843d6f1389f99f5f864529a",
-      "name": "WETH yVault",
-      "symbol": "yvWETH",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xAcB84e988327D7ACc843d6f1389f99f5f864529a/logo-128.png",
-      "chainId": 10,
-      "decimals": 18
-    },
-    {
       "address": "0xAcb74dcFD945C9A0cF907C28545F6E7B20C6FA26",
       "name": "StableV2 AMM - msETH/USDC",
       "symbol": "sAMMV2-msETH/USDC",
@@ -5738,10 +6203,10 @@
       "decimals": 18
     },
     {
-      "address": "0xB151887BBBA5585119c91914E740613Ea16E7aFd",
-      "name": "DAI yVault",
-      "symbol": "yvDAI",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xB151887BBBA5585119c91914E740613Ea16E7aFd/logo-128.png",
+      "address": "0xB2791477DA69DDe9cd2986349F8855B8E2dA7245",
+      "name": "StableV2 AMM - USDC/MIM",
+      "symbol": "sAMMV2-USDC/MIM",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xB2791477DA69DDe9cd2986349F8855B8E2dA7245/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -5770,6 +6235,14 @@
       "decimals": 18
     },
     {
+      "address": "0xB3532518DACA20Fd14e539B0eD6C0De5C59Fd2DE",
+      "name": "Velodrome v2 frxETH-WETH Factory yVault",
+      "symbol": "yvVelo-frxETH-WETH-f",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xB3532518DACA20Fd14e539B0eD6C0De5C59Fd2DE/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
       "address": "0xB3eEA8Bd842B073f6411B9fFcccB06a47C6EFEf7",
       "name": "StableV2 AMM - UTS/DF",
       "symbol": "sAMMV2-UTS/DF",
@@ -5782,6 +6255,14 @@
       "name": "StableV2 AMM - sUSD/DINERO",
       "symbol": "sAMMV2-sUSD/DINERO",
       "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xB46a36AD4D65d24B7D00A422C53A1D8c89b2E335/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xB545592E38b603F4A904a5260A6ffC538BfcB424",
+      "name": "VolatileV2 AMM - IB/WETH",
+      "symbol": "vAMMV2-IB/WETH",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xB545592E38b603F4A904a5260A6ffC538BfcB424/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -6106,6 +6587,22 @@
       "decimals": 18
     },
     {
+      "address": "0xC328D83883F5F90E1108D4Dd7A18FFcA17Ae74d7",
+      "name": "sUSD yVault",
+      "symbol": "yvsUSD",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xC328D83883F5F90E1108D4Dd7A18FFcA17Ae74d7/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xC3566662862c26FF56e3E709dc021902cC68BecD",
+      "name": "Velodrome v2 TAROT-USDC.e Factory yVault",
+      "symbol": "yvVelo-TAROT-USDC.e-f",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xC3566662862c26FF56e3E709dc021902cC68BecD/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
       "address": "0xC4270d957C218d263e7FAE5a3bEEDC1E98B6012D",
       "name": "VolatileV2 AMM - SONNE/VELO",
       "symbol": "vAMMV2-SONNE/VELO",
@@ -6130,6 +6627,14 @@
       "decimals": 18
     },
     {
+      "address": "0xC5c247580A4A6E4d3811c0DA6215057aaC480bAc",
+      "name": "VolatileV2 AMM - wstETH/LDO",
+      "symbol": "vAMMV2-wstETH/LDO",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xC5c247580A4A6E4d3811c0DA6215057aaC480bAc/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
       "address": "0xC69fDBe24A7e80112e6058303C6B8A64932A10ea",
       "name": "VolatileV2 AMM - GRN/DAI",
       "symbol": "vAMMV2-GRN/DAI",
@@ -6150,6 +6655,14 @@
       "name": "MyToken",
       "symbol": "MTK",
       "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xC7de3f84c53cC5E2f52F72373552bb8F9B7b089d/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xC86B70e2C16C5fB5315e4663737E0E077ABFC395",
+      "name": "Velodrome v2 OP-VELO Factory yVault",
+      "symbol": "yvVelo-OP-VELO-f",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xC86B70e2C16C5fB5315e4663737E0E077ABFC395/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -6202,10 +6715,26 @@
       "decimals": 18
     },
     {
+      "address": "0xCF6beF33c49824226fB9dEFCdc3b1DE11F207Db7",
+      "name": "Velodrome v2 FRAX-USDC.e Factory yVault",
+      "symbol": "yvVelo-FRAX-USDC.e-f",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xCF6beF33c49824226fB9dEFCdc3b1DE11F207Db7/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
       "address": "0xCF9326e24EBfFBEF22ce1050007A43A3c0B6DB55",
       "name": "Spark USDC Vault",
       "symbol": "sUSDC",
       "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xCF9326e24EBfFBEF22ce1050007A43A3c0B6DB55/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xCa0E54b636DB823847B29F506BFFEE743F57729D",
+      "name": "Chi USD",
+      "symbol": "CHI",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xCa0E54b636DB823847B29F506BFFEE743F57729D/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -6258,18 +6787,18 @@
       "decimals": 18
     },
     {
-      "address": "0xCf6ABB37336E3A756b564E2c29222bf187A0dE2A",
-      "name": "Prize sUSD - Yearn",
-      "symbol": "przsUSD",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xCf6ABB37336E3A756b564E2c29222bf187A0dE2A/logo-128.png",
-      "chainId": 10,
-      "decimals": 18
-    },
-    {
       "address": "0xCfFF80BfF55DEA6D4f27Af5d872665ea40047953",
       "name": "OPT-20 Token",
       "symbol": "opti",
       "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xCfFF80BfF55DEA6D4f27Af5d872665ea40047953/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xD02Ce9E211279ab3f414ff7A661518f9173780CB",
+      "name": "Velodrome v2 MAI-alUSD Factory yVault",
+      "symbol": "yvVelo-MAI-alUSD-f",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xD02Ce9E211279ab3f414ff7A661518f9173780CB/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -6318,6 +6847,14 @@
       "name": "StableV2 AMM - USDC/BLU",
       "symbol": "sAMMV2-USDC/BLU",
       "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xD32b41C1313cC383f9d1B65c59bC2829B6D3EE81/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xD330841EF9527E3Bd0abc28a230C7cA8dec9423B",
+      "name": "StableV2 AMM - FRAX/USD+",
+      "symbol": "sAMMV2-FRAX/USD+",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xD330841EF9527E3Bd0abc28a230C7cA8dec9423B/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -6418,6 +6955,14 @@
       "decimals": 18
     },
     {
+      "address": "0xD8737CA46aa6285dE7B8777a8e3db232911baD41",
+      "name": "StaFi Token",
+      "symbol": "FIS",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xD8737CA46aa6285dE7B8777a8e3db232911baD41/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
       "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
       "name": "Dai Stablecoin",
       "symbol": "DAI",
@@ -6450,6 +6995,14 @@
       "decimals": 18
     },
     {
+      "address": "0xDB61f9B480f0a8B817811cFAA89A1c219c355224",
+      "name": "VolatileV2 AMM - LYRA/USDC",
+      "symbol": "vAMMV2-LYRA/USDC",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xDB61f9B480f0a8B817811cFAA89A1c219c355224/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
       "address": "0xDD2A8158f1df0E364D9006B399946B3AEc2C8c2d",
       "name": "VolatileV2 AMM - RED/LSD",
       "symbol": "vAMMV2-RED/LSD",
@@ -6462,6 +7015,22 @@
       "name": "VolatileV2 AMM - WETH/VT",
       "symbol": "vAMMV2-WETH/VT",
       "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xDF67069C01c1E21C076630088fA409B1f91BD015/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xDFF90E4A6c229565f25337B1DB9fA12f6d8cB118",
+      "name": "VolatileV2 AMM - THALES/WETH",
+      "symbol": "vAMMV2-THALES/WETH",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xDFF90E4A6c229565f25337B1DB9fA12f6d8cB118/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xDdDCAeE873f2D9Df0E18a80709ef2B396d4a6EA5",
+      "name": "Velodrome v2 OP-WETH Factory yVault",
+      "symbol": "yvVelo-OP-WETH-f",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xDdDCAeE873f2D9Df0E18a80709ef2B396d4a6EA5/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -6566,6 +7135,14 @@
       "name": "VolatileV2 AMM - WETH/wrsETH",
       "symbol": "vAMMV2-WETH/wrsETH",
       "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xE48b4E392E4FC29aC2600c3C8EFe0404A15D60D9/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xE54e4020d1C3afDB312095D90054103E68fe34B0",
+      "name": "StableV2 AMM - USDC/MAI",
+      "symbol": "sAMMV2-USDC/MAI",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xE54e4020d1C3afDB312095D90054103E68fe34B0/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -6714,6 +7291,14 @@
       "decimals": 18
     },
     {
+      "address": "0xEea82dCab12C855E3736558d80500ED52c8598cd",
+      "name": "StableV2 AMM - DOLA/ERN",
+      "symbol": "sAMMV2-DOLA/ERN",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xEea82dCab12C855E3736558d80500ED52c8598cd/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
       "address": "0xEfa74728DbDA583B16622E17937F4577E2846c0f",
       "name": "VolatileV2 AMM - OP/USDT",
       "symbol": "vAMMV2-OP/USDT",
@@ -6758,6 +7343,22 @@
       "name": "VolatileV2 AMM - msETH/USDC",
       "symbol": "vAMMV2-msETH/USDC",
       "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xF28E7Cc2Faa88eD25B2B0123835b0203dfEED2Ed/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xF2D42c46528116362Aca448837A0236459B53C63",
+      "name": "VolatileV2 AMM - TAROT/OP",
+      "symbol": "vAMMV2-TAROT/OP",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xF2D42c46528116362Aca448837A0236459B53C63/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xF31cbe21Bbbb8056b75d6ca21e8fFd2CD38bD5C5",
+      "name": "StableV2 AMM - LUSD/ERN",
+      "symbol": "sAMMV2-LUSD/ERN",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xF31cbe21Bbbb8056b75d6ca21e8fFd2CD38bD5C5/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -6834,6 +7435,14 @@
       "decimals": 18
     },
     {
+      "address": "0xF89FdBBCE1A707061e9d59B8E4387f89798B4d10",
+      "name": "Velodrome v2 USDC.e-WETH Factory yVault",
+      "symbol": "yvVelo-USDC.e-WETH-f",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xF89FdBBCE1A707061e9d59B8E4387f89798B4d10/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
       "address": "0xF9Ad452A52EeEDcc29a26fD6380b76c49E837d42",
       "name": "VolatileV2 AMM - STG/sUSD",
       "symbol": "vAMMV2-STG/sUSD",
@@ -6890,6 +7499,14 @@
       "decimals": 18
     },
     {
+      "address": "0xFF5318f81Dd791e92d51b8A54fA3538832D2890D",
+      "name": "StableV2 AMM - sfrxETH/frxETH",
+      "symbol": "sAMMV2-sfrxETH/frxETH",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xFF5318f81Dd791e92d51b8A54fA3538832D2890D/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
       "address": "0xFF7dEf90357532D5b92e5ACfd211bd7590ed93F1",
       "name": "StableV2 AMM - FRAX/DINERO",
       "symbol": "sAMMV2-FRAX/DINERO",
@@ -6904,6 +7521,14 @@
       "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xFFf37730744930Cb61Be34c0014068F4f1eC28cF/logo-128.png",
       "chainId": 10,
       "decimals": 18
+    },
+    {
+      "address": "0xFaee21D0f0Af88EE72BB6d68E54a90E6EC2616de",
+      "name": "USDT yVault",
+      "symbol": "yvUSDT",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xFaee21D0f0Af88EE72BB6d68E54a90E6EC2616de/logo-128.png",
+      "chainId": 10,
+      "decimals": 6
     },
     {
       "address": "0xFd5494CDf4f1a5b5abA8cE5D7ee1d04eF47f2FCA",
@@ -6978,6 +7603,14 @@
       "decimals": 18
     },
     {
+      "address": "0xa1055762336F92b4B8d2eDC032A0Ce45ead6280a",
+      "name": "StableV2 AMM - alETH/WETH",
+      "symbol": "sAMMV2-alETH/WETH",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xa1055762336F92b4B8d2eDC032A0Ce45ead6280a/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
       "address": "0xa10d8aC477c04DA695ef3b11fb577BBcac654EBB",
       "name": "Ultra Staked Ether",
       "symbol": "ultraETH",
@@ -7026,10 +7659,10 @@
       "decimals": 18
     },
     {
-      "address": "0xa318373f0424ef0257b5b75460548D6d34947D97",
-      "name": "DAI yVault",
-      "symbol": "yvDAI",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xa318373f0424ef0257b5b75460548D6d34947D97/logo-128.png",
+      "address": "0xa31Ad8D355B5223Ad34FD4fD0bC854A68E7D9681",
+      "name": "Velodrome v2 THALES-USDC.e Factory yVault",
+      "symbol": "yvVelo-THALES-USDC.e-f",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xa31Ad8D355B5223Ad34FD4fD0bC854A68E7D9681/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -7038,14 +7671,6 @@
       "name": "STABLE",
       "symbol": "STABLE",
       "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xa3870fbBeb730BA99e4107051612af3465CA9F5e/logo-128.png",
-      "chainId": 10,
-      "decimals": 18
-    },
-    {
-      "address": "0xa3d57625B9a6284D1265d76294443b1E39a18007",
-      "name": "Velodrome v2 ERN-USDC Factory yVault",
-      "symbol": "yvVelo-ERN-USDC-f",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xa3d57625B9a6284D1265d76294443b1E39a18007/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -7154,6 +7779,14 @@
       "decimals": 18
     },
     {
+      "address": "0xaD17A225074191d5c8a37B50FdA1AE278a2EE6A2",
+      "name": "USDC.e yVault",
+      "symbol": "yvUSDC.e",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xaD17A225074191d5c8a37B50FdA1AE278a2EE6A2/logo-128.png",
+      "chainId": 10,
+      "decimals": 6
+    },
+    {
       "address": "0xaED05fdd471a4EecEe48B34d38c59CC76681A6C8",
       "name": "xUSDC-DAI01",
       "symbol": "xUSDC-DAI01",
@@ -7206,6 +7839,14 @@
       "name": "VolatileV2 AMM - CHI/DAI",
       "symbol": "vAMMV2-CHI/DAI",
       "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xacdE89BcFc54ec2237ed3693EdB8c51F74dd2252/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xadBB23Bcc3C1B9810491897cb0690Cf645B858b1",
+      "name": "VolatileV2 AMM - WETH/tBTC",
+      "symbol": "vAMMV2-WETH/tBTC",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xadBB23Bcc3C1B9810491897cb0690Cf645B858b1/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -7298,6 +7939,14 @@
       "decimals": 18
     },
     {
+      "address": "0xb4E4CFA9971C7e1069685771DaB61CA56e72e5C3",
+      "name": "Curve sETH Pool yVault",
+      "symbol": "yvCurve-sETH",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xb4E4CFA9971C7e1069685771DaB61CA56e72e5C3/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
       "address": "0xb55246717c0e49d608eC6B2B790152c84702Ce89",
       "name": "VolatileV2 AMM - WETH/LYRA",
       "symbol": "vAMMV2-WETH/LYRA",
@@ -7306,10 +7955,10 @@
       "decimals": 18
     },
     {
-      "address": "0xb6Fb466c982c04AbA1BDbEA386c1AF2A47b82e6d",
-      "name": "None",
-      "symbol": "None",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xb6Fb466c982c04AbA1BDbEA386c1AF2A47b82e6d/logo-128.png",
+      "address": "0xb83DBAC6087592328909996A39D138e89E4B0AfE",
+      "name": "Velodrome v2 USD+-FRAX Factory yVault",
+      "symbol": "yvVelo-USD+-FRAX-f",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xb83DBAC6087592328909996A39D138e89E4B0AfE/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -7334,6 +7983,14 @@
       "name": "StableV2 AMM - USDC/sUSD",
       "symbol": "sAMMV2-USDC/sUSD",
       "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xbC26519f936A90E78fe2C9aA2A03CC208f041234/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xbC61B71562b01a3a4808D3B9291A3Bf743AB3361",
+      "name": "Velodrome v2 LUSD-WETH Factory yVault",
+      "symbol": "yvVelo-LUSD-WETH-f",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xbC61B71562b01a3a4808D3B9291A3Bf743AB3361/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -7442,6 +8099,30 @@
       "decimals": 18
     },
     {
+      "address": "0xc2626aCEdc27cFfB418680d0307C9178955A4743",
+      "name": "Velodrome v2 sfrxETH-frxETH Factory yVault",
+      "symbol": "yvVelo-sfrxETH-frxETH-f",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xc2626aCEdc27cFfB418680d0307C9178955A4743/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xc3439Ba7db7566ed0deF55c179ED9b3bA273A67F",
+      "name": "Velodrome v2 EXA-WETH Factory yVault",
+      "symbol": "yvVelo-EXA-WETH-f",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xc3439Ba7db7566ed0deF55c179ED9b3bA273A67F/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xc3439bC1A747e545887192d6b7F8BE47f608473F",
+      "name": "VolatileV2 AMM - OATH/WETH",
+      "symbol": "vAMMV2-OATH/WETH",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xc3439bC1A747e545887192d6b7F8BE47f608473F/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
       "address": "0xc3626320387f27219Ba0303702070f0d9F513A95",
       "name": "xUSDC-sUSD01",
       "symbol": "xUSDC-sUSD01",
@@ -7526,14 +8207,6 @@
       "name": "sTKN",
       "symbol": "STKN",
       "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xc5d9474dE767bbdBcDFcFA43a7E6E2573bF7D6F1/logo-128.png",
-      "chainId": 10,
-      "decimals": 18
-    },
-    {
-      "address": "0xc608Dfb90A430Df79a8a1eDBC8be7f1A0Eb4E763",
-      "name": "Fractional ETH",
-      "symbol": "fETH",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xc608Dfb90A430Df79a8a1eDBC8be7f1A0Eb4E763/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -7746,6 +8419,14 @@
       "decimals": 18
     },
     {
+      "address": "0xd25711EdfBf747efCE181442Cc1D8F5F8fc8a0D3",
+      "name": "VolatileV2 AMM - WETH/OP",
+      "symbol": "vAMMV2-WETH/OP",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xd25711EdfBf747efCE181442Cc1D8F5F8fc8a0D3/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
       "address": "0xd2AccbDDdf36B2356042ab9BF8587D76b809624C",
       "name": "MAIP",
       "symbol": "MAIP",
@@ -7826,6 +8507,14 @@
       "decimals": 18
     },
     {
+      "address": "0xd95E98fc33670dC033424E7Aa0578D742D00f9C7",
+      "name": "StableV2 AMM - USD+/USDC",
+      "symbol": "sAMMV2-USD+/USDC",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xd95E98fc33670dC033424E7Aa0578D742D00f9C7/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
       "address": "0xd9940F2Fc832E48EDcD24dF16B99b1f737329c2e",
       "name": "VolatileV2 AMM - OP/BLU",
       "symbol": "vAMMV2-OP/BLU",
@@ -7886,6 +8575,14 @@
       "name": "Mai Stablecoin",
       "symbol": "MAI",
       "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xdFA46478F9e5EA86d57387849598dbFB2e964b02/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xda0253a7cDcCc4b4DEfBbEf863dbA1294bF5e3B1",
+      "name": "VolatileV2 AMM - TAROTv1/OP",
+      "symbol": "vAMMV2-TAROTv1/OP",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xda0253a7cDcCc4b4DEfBbEf863dbA1294bF5e3B1/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -8002,14 +8699,6 @@
       "decimals": 18
     },
     {
-      "address": "0xe496A661cA61ea424c0626119a5EA1F268d958fc",
-      "name": "None",
-      "symbol": "None",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xe496A661cA61ea424c0626119a5EA1F268d958fc/logo-128.png",
-      "chainId": 10,
-      "decimals": 18
-    },
-    {
       "address": "0xe4c3461a20f50daD7B9E88ca0222A255C4126fC0",
       "name": "XION",
       "symbol": "XION",
@@ -8032,14 +8721,6 @@
       "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xe5C046761B4E4FF626e1363De2C7BbcBfc3078A3/logo-128.png",
       "chainId": 10,
       "decimals": 18
-    },
-    {
-      "address": "0xe5c30A5083F5A5ca08a9896Cd0FE807ACf925271",
-      "name": "WBTC yVault",
-      "symbol": "yvWBTC",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xe5c30A5083F5A5ca08a9896Cd0FE807ACf925271/logo-128.png",
-      "chainId": 10,
-      "decimals": 8
     },
     {
       "address": "0xe899B1B1d88E0198c668bb5500A0a4eDA12AE3c8",
@@ -8094,6 +8775,14 @@
       "name": "xWETH-USDC05",
       "symbol": "xWETH-USDC05",
       "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xeD17209Ab7F9224e29cC9894fa14a011F37B6115/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xeD47E3ce6D9C05F562C469AB1bf1244cc697aa73",
+      "name": "StableV2 AMM - USDC/USX",
+      "symbol": "sAMMV2-USDC/USX",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xeD47E3ce6D9C05F562C469AB1bf1244cc697aa73/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -8234,10 +8923,10 @@
       "decimals": 18
     },
     {
-      "address": "0xf39B6196E6BB16cf0f37E4741a83413Cc329539D",
-      "name": "Velodrome v2 GRAIN-WETH Factory yVault",
-      "symbol": "yvVelo-GRAIN-WETH-f",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xf39B6196E6BB16cf0f37E4741a83413Cc329539D/logo-128.png",
+      "address": "0xf3C45b45223Df6071a478851B9C17e0630fDf535",
+      "name": "VolatileV2 AMM - EXA/WETH",
+      "symbol": "vAMMV2-EXA/WETH",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xf3C45b45223Df6071a478851B9C17e0630fDf535/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -8314,6 +9003,14 @@
       "decimals": 18
     },
     {
+      "address": "0xf7D66b41Cd4241eae450fd9D2d6995754634D9f3",
+      "name": "Velodrome v2 alETH-WETH Factory yVault",
+      "symbol": "yvVelo-alETH-WETH-f",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xf7D66b41Cd4241eae450fd9D2d6995754634D9f3/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
       "address": "0xf7a73e1995030B0198f8d6e528a1c42ACEf90a4c",
       "name": "StableV2 AMM - USDC/VELO",
       "symbol": "sAMMV2-USDC/VELO",
@@ -8326,6 +9023,14 @@
       "name": "VolatileV2 AMM - NEXT/VELO",
       "symbol": "vAMMV2-NEXT/VELO",
       "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xf80a1D5Ca2e16C5b1C4C3388cE140bcE678ADca9/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xf8397Db1eeDb800fdbCE9E62aD83a28059cBB068",
+      "name": "RAZOR",
+      "symbol": "RAZOR",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xf8397Db1eeDb800fdbCE9E62aD83a28059cBB068/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -8366,6 +9071,14 @@
       "name": "VolatileV2 AMM - WETH/OmniCat",
       "symbol": "vAMMV2-WETH/OmniCat",
       "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xfA078F59577dEe9ddb34b0152B03fA49Fa69Af51/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xfA09479d72E2b3f8B6dF63399772237Ad6658D76",
+      "name": "StableV2 AMM - alUSD/MAI",
+      "symbol": "sAMMV2-alUSD/MAI",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xfA09479d72E2b3f8B6dF63399772237Ad6658D76/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },

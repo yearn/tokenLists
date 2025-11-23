@@ -1,10 +1,10 @@
 {
   "name": "Bebop",
   "description": "",
-  "timestamp": "2025-11-02T02:15:05Z",
+  "timestamp": "2025-11-23T02:04:09Z",
   "version": {
-    "major": 22,
-    "minor": 4,
+    "major": 23,
+    "minor": 1,
     "patch": 0
   },
   "logoURI": "https://bebop-public-images.s3.eu-west-2.amazonaws.com/bebop-logo.png",
@@ -31,6 +31,14 @@
       "name": "ChainOpera AI",
       "symbol": "COAI",
       "logoURI": "https://coin-images.coingecko.com/coins/images/69447/thumb/coai.png?1758625501",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "address": "0x0D8Ce2A99Bb6e3B7Db580eD848240e4a0F9aE153",
+      "name": "Filecoin",
+      "symbol": "FIL",
+      "logoURI": "https://tokens.1inch.io/0x0d8ce2a99bb6e3b7db580ed848240e4a0f9ae153.png",
       "chainId": 56,
       "decimals": 18
     },
@@ -79,6 +87,14 @@
       "name": "Coinbase xStock",
       "symbol": "COINx",
       "logoURI": "https://coin-images.coingecko.com/coins/images/55602/thumb/Ticker_COIN__Company_Name_Coinbase__size_200x200_2x.png?1746858187",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "address": "0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47",
+      "name": "Cardano Token",
+      "symbol": "ADA",
+      "logoURI": "https://tokens.1inch.io/0x3ee2200efb3400fabb9aacf31297cbdd1d435d47.png",
       "chainId": 56,
       "decimals": 18
     },
@@ -203,6 +219,14 @@
       "decimals": 18
     },
     {
+      "address": "0x8fF795a6F4D97E7887C79beA79aba5cc76444aDf",
+      "name": "Bitcoin Cash Token",
+      "symbol": "BCH",
+      "logoURI": "https://tokens.1inch.io/0x8ff795a6f4d97e7887c79bea79aba5cc76444adf.png",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
       "address": "0x9123400446a56176Eb1B6BE9ee5CF703e409F492",
       "name": "TRADOOR",
       "symbol": "TRADOOR",
@@ -294,7 +318,7 @@
       "address": "0xfEbDEd1B0986a8ee107f5AB1a1c5a813491DeCEB",
       "name": "Circle xStock",
       "symbol": "CRCLx",
-      "logoURI": "https://coin-images.coingecko.com/coins/images/66918/thumb/CRCLx.png?1751052233",
+      "logoURI": "https://assets.coingecko.com/coins/images/66918/large/CRCLx.png?1751052233",
       "chainId": 56,
       "decimals": 18
     }

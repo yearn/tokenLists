@@ -1,9 +1,9 @@
 {
   "name": "CoinGecko",
   "description": "",
-  "timestamp": "2025-11-23T01:58:29Z",
+  "timestamp": "2025-11-30T01:52:58Z",
   "version": {
-    "major": 151,
+    "major": 152,
     "minor": 0,
     "patch": 0
   },
@@ -49,6 +49,7 @@
       "address": "0x0256B279D973C8d687264AC3eB36bE09232D4474",
       "name": "MyStandard",
       "symbol": "MYST",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/52890/thumb/FUndable_myst_logo.png?1734604348",
       "chainId": 43114,
       "decimals": 18
     },
@@ -664,6 +665,13 @@
       "decimals": 6
     },
     {
+      "address": "0x27f6c8289550fCE67f6B50BeD1F519966aFE5287",
+      "name": "tGBP",
+      "symbol": "tGBP",
+      "chainId": 43114,
+      "decimals": 18
+    },
+    {
       "address": "0x297731Eb3CAB3834525fc9Ea061fd71d8f4645C9",
       "name": "BLAZE",
       "symbol": "BLAZE",
@@ -1176,6 +1184,7 @@
       "address": "0x4A5Bb433132B7E7F75D6A9a3e4136bB85CE6E4d5",
       "name": "Booty",
       "symbol": "BOOTY",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/50639/thumb/_BOOTY_token.png?1728548269",
       "chainId": 43114,
       "decimals": 18
     },
@@ -1327,6 +1336,7 @@
       "address": "0x53c44c368A11f54B8Dc496915Dd71BD42Bd64a91",
       "name": "ƎԀƎԀ",
       "symbol": "ƎԀƎԀ",
+      "logoURI": "https://assets.coingecko.com/coins/images/31948/large/photo_2023-09-25_14-05-49.jpg?1695726196",
       "chainId": 43114,
       "decimals": 9
     },
@@ -1422,6 +1432,7 @@
       "address": "0x595c8481c48894771CE8FaDE54ac6Bf59093F9E8",
       "name": "PolyGaj Token",
       "symbol": "GAJ",
+      "logoURI": "https://assets.coingecko.com/coins/images/15257/large/logo200x200.png?1629887093",
       "chainId": 43114,
       "decimals": 18
     },
@@ -1651,6 +1662,7 @@
       "address": "0x64445f0aecC51E94aD52d8AC56b7190e764E561a",
       "name": "Wrapped Frax",
       "symbol": "WFRAX",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/55432/thumb/wfrax_64.png?1745993624",
       "chainId": 43114,
       "decimals": 18
     },
@@ -1850,6 +1862,7 @@
       "address": "0x6c14c1898C843FF66cA51e87244690bBc28DF215",
       "name": "Orange",
       "symbol": "ORNG",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/38945/thumb/Orange-Icon-_200x200_.png?1719590431",
       "chainId": 43114,
       "decimals": 18
     },
@@ -2177,6 +2190,7 @@
       "address": "0x840B20fA3D48Ac709fD841fcd878c3E8aaBd7087",
       "name": "GLUE",
       "symbol": "GLUE",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/54538/thumb/GlueLogo200px.png?1740215317",
       "chainId": 43114,
       "decimals": 18
     },
@@ -2280,6 +2294,7 @@
       "address": "0x88F89BE3E9b1dc1C5F208696fb9cABfcc684bD5F",
       "name": "Fold",
       "symbol": "FLD",
+      "logoURI": "https://assets.coingecko.com/coins/images/33541/large/FLD_200x.png?1702379502",
       "chainId": 43114,
       "decimals": 18
     },
@@ -2335,6 +2350,7 @@
       "address": "0x8aD25B0083C9879942A64f00F20a70D3278f6187",
       "name": "MeowCat",
       "symbol": "MEOW",
+      "logoURI": "https://assets.coingecko.com/coins/images/36042/large/meow.png?1710400599",
       "chainId": 43114,
       "decimals": 18
     },
@@ -2407,14 +2423,6 @@
       "name": "Kite",
       "symbol": "KITE",
       "logoURI": "https://coin-images.coingecko.com/coins/images/70426/thumb/kite.png?1761963308",
-      "chainId": 43114,
-      "decimals": 18
-    },
-    {
-      "address": "0x916aBa115F5162960E48a2675Ad4d8cBD09CE8E4",
-      "name": "MCVERSE",
-      "symbol": "MCV",
-      "logoURI": "https://assets.coingecko.com/coins/images/29564/large/mcv-token-logo-200x200.png?1679736111",
       "chainId": 43114,
       "decimals": 18
     },
@@ -2588,6 +2596,7 @@
       "address": "0x9B3A8159e119eb09822115AE08Ee1526849e1116",
       "name": "Meme Alliance",
       "symbol": "MMA",
+      "logoURI": "https://assets.coingecko.com/coins/images/33765/large/MA_CircleLogo_200x200.png?1702967936",
       "chainId": 43114,
       "decimals": 18
     },
@@ -2635,6 +2644,7 @@
       "address": "0x9Fda7cEeC4c18008096C2fE2B85F05dc300F94d0",
       "name": "MarginSwap",
       "symbol": "MFI",
+      "logoURI": "https://assets.coingecko.com/coins/images/13899/large/marginswap_logo.png?1612756590",
       "chainId": 43114,
       "decimals": 18
     },
@@ -2674,6 +2684,7 @@
       "address": "0x9eE1963f05553eF838604Dd39403be21ceF26AA4",
       "name": "USDp",
       "symbol": "USDp",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/43114/0x9eE1963f05553eF838604Dd39403be21ceF26AA4/logo-128.png",
       "chainId": 43114,
       "decimals": 18
     },
@@ -2761,6 +2772,7 @@
       "address": "0xAAAB9D12A30504559b0C5a9A5977fEE4A6081c6b",
       "name": "PHARAOH",
       "symbol": "PHAR",
+      "logoURI": "https://assets.coingecko.com/coins/images/34686/large/PHAROAH.jpg?1705842746",
       "chainId": 43114,
       "decimals": 18
     },
@@ -3048,6 +3060,7 @@
       "address": "0xC99092c66d92dDDAcEd9fCdD488b246923D098EF",
       "name": "CROW",
       "symbol": "CROW",
+      "logoURI": "https://assets.coingecko.com/coins/images/35968/large/Crow.png?1710265161",
       "chainId": 43114,
       "decimals": 18
     },
@@ -3151,6 +3164,7 @@
       "address": "0xD5D053D5B769383e860d1520Da7a908E00919F36",
       "name": "JUICE",
       "symbol": "JUICE",
+      "logoURI": "https://assets.coingecko.com/coins/images/37367/large/juice200.png?1714116899",
       "chainId": 43114,
       "decimals": 18
     },
@@ -3246,6 +3260,7 @@
       "address": "0xE46b44179DB3AF934da552B35FF8869E98DC6Af5",
       "name": "predict",
       "symbol": "predict",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/52347/thumb/Icon_1.png?1733159610",
       "chainId": 43114,
       "decimals": 18
     },
@@ -3357,6 +3372,7 @@
       "address": "0xF197FFC28c23E0309B5559e7a166f2c6164C80aA",
       "name": "MXNB",
       "symbol": "MXNB",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/39136/thumb/MXNB_FULL.png?1720686155",
       "chainId": 43114,
       "decimals": 6
     },
@@ -3985,6 +4001,7 @@
       "address": "0xeD0d09ee0F32f7b5AFaE6f2d728189C5E355b52a",
       "name": "LIZARD",
       "symbol": "LIZARD",
+      "logoURI": "https://assets.coingecko.com/coins/images/34663/large/LIZARD_LOGO_Final_3_BLK_BG_%281%29.png?1705652961",
       "chainId": 43114,
       "decimals": 18
     },

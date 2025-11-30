@@ -1,10 +1,10 @@
 {
   "name": "Uniswap Labs Default",
   "description": "",
-  "timestamp": "2025-11-23T01:58:45Z",
+  "timestamp": "2025-11-30T01:51:09Z",
   "version": {
     "major": 24,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   },
   "logoURI": "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
@@ -5851,6 +5851,14 @@
       "decimals": 18
     },
     {
+      "address": "0xac485391EB2d7D88253a7F1eF18C37f4242D1A24",
+      "name": "Lisk",
+      "symbol": "LSK",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0xac485391EB2d7D88253a7F1eF18C37f4242D1A24/logo-128.png",
+      "chainId": 8453,
+      "decimals": 18
+    },
+    {
       "address": "0xacfE6019Ed1A7Dc6f7B508C02d1b04ec88cC21bf",
       "name": "Venice Token",
       "symbol": "VVV",
@@ -7641,6 +7649,7 @@
       "address": "0xAEC8318a9a59bAEb39861d10ff6C7f7bf1F96C57",
       "name": "EURA (previously agEUR)",
       "symbol": "EURA",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/43114/0xAEC8318a9a59bAEb39861d10ff6C7f7bf1F96C57/logo-128.png",
       "chainId": 43114,
       "decimals": 18
     },

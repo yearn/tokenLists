@@ -1,10 +1,10 @@
 {
   "name": "SmolAssets",
   "description": "A list of tokens supported by Smoldapp Token Assets repository",
-  "timestamp": "2025-11-23T02:04:17Z",
+  "timestamp": "2025-11-30T01:51:49Z",
   "version": {
     "major": 25,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   },
   "logoURI": "https://raw.githubusercontent.com/smoldapp/tokenLists/main/.github/tokenlistooor.svg",
@@ -514,6 +514,14 @@
       "name": "RAZOR (PoS)",
       "symbol": "RAZOR",
       "logoURI": "https://token-assets-one.vercel.app/api/token/137/0xC91c06DB0f7bFFba61e2A5645CC15686F0a8c828/logo-128.png",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
+      "address": "0xD4dD9e2F021BB459D5A5f6c24C12fE09c5D45553",
+      "name": "Frankencoin",
+      "symbol": "ZCHF",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/137/0xD4dD9e2F021BB459D5A5f6c24C12fE09c5D45553/logo-128.png",
       "chainId": 137,
       "decimals": 18
     },

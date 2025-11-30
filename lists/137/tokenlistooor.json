@@ -1,9 +1,9 @@
 {
   "name": "Tokenlistooor Token List",
   "description": "A curated list of tokens from all the token lists on tokenlistooor.",
-  "timestamp": "2025-11-23T02:04:25Z",
+  "timestamp": "2025-11-30T02:05:18Z",
   "version": {
-    "major": 359,
+    "major": 360,
     "minor": 0,
     "patch": 0
   },
@@ -15,6 +15,14 @@
       "name": "Polygon Ecosystem Token",
       "symbol": "POL",
       "logoURI": "https://assets.coingecko.com/coins/images/4713/large/matic-token-icon.png?1624446912",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
+      "address": "0x0000206329b97DB379d5E1Bf586BbDB969C63274",
+      "name": "USDA",
+      "symbol": "USDA",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/137/0x0000206329b97DB379d5E1Bf586BbDB969C63274/logo-128.png",
       "chainId": 137,
       "decimals": 18
     },
@@ -539,6 +547,14 @@
       "decimals": 18
     },
     {
+      "address": "0x11cd72f7A4B699c67f225ca8aBb20bC9F8DB90c7",
+      "name": "Osaka Protocol",
+      "symbol": "OSAK",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/137/0x11cd72f7A4B699c67f225ca8aBb20bC9F8DB90c7/logo-128.png",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
       "address": "0x120cA63f5F79B6760324B1ddE6BeA4C7F01FBa0E",
       "name": "RevolutionPopuli ERC20 Token (PoS)",
       "symbol": "RVP",
@@ -623,6 +639,14 @@
       "name": "Mute.io (PoS)",
       "symbol": "MUTE",
       "logoURI": "https://assets.smold.app/api/token/137/0x147Ee2488d2ede60b2443B22b245F6B4825F020f/logo-128.png",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
+      "address": "0x14A5f2872396802C3Cc8942A39Ab3E4118EE5038",
+      "name": "Backed Tesla Inc",
+      "symbol": "bTSLA",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/137/0x14A5f2872396802C3Cc8942A39Ab3E4118EE5038/logo-128.png",
       "chainId": 137,
       "decimals": 18
     },
@@ -819,6 +843,14 @@
       "decimals": 18
     },
     {
+      "address": "0x1a4F71B0Ff3C22540887bcf83b50054a213c673d",
+      "name": "Wrapped Backed MicroStrategy Inc",
+      "symbol": "wbMSTR",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/137/0x1a4F71B0Ff3C22540887bcf83b50054a213c673d/logo-128.png",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
       "address": "0x1cf4293125913cB3Dea4aD7f2bb4795B9e896CE9",
       "name": "aWMATIC-USDC",
       "symbol": "aWMATIC-USDC",
@@ -841,6 +873,22 @@
       "logoURI": "https://assets.smold.app/api/token/137/0x1dce4a8b459A50F450EE91Fb5e6c86d161aA22f8/logo-128.png",
       "chainId": 137,
       "decimals": 4
+    },
+    {
+      "address": "0x1e2C4fb7eDE391d116E6B41cD0608260e8801D59",
+      "name": "Backed CSPX Core S\u0026P 500",
+      "symbol": "bCSPX",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/137/0x1e2C4fb7eDE391d116E6B41cD0608260e8801D59/logo-128.png",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
+      "address": "0x1f82284C1658Ad71C576f7230E6C2DEE7901c1FA",
+      "name": "Wrapped Backed Tesla Inc",
+      "symbol": "wbTSLA",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/137/0x1f82284C1658Ad71C576f7230E6C2DEE7901c1FA/logo-128.png",
+      "chainId": 137,
+      "decimals": 18
     },
     {
       "address": "0x20103b6FcEcaA94dDBF3d18Ab9d99892003B1D80",
@@ -919,6 +967,14 @@
       "name": "aWMATIC-USDC",
       "symbol": "aWMATIC-USDC",
       "logoURI": "https://token-assets-one.vercel.app/api/token/137/0x250032c48F99AE079A43b0DBCc1194bDD00ddF96/logo-128.png",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
+      "address": "0x255707B70BF90aa112006E1b07B9AeA6De021424",
+      "name": "TETU Reward Token",
+      "symbol": "TETU",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/137/0x255707B70BF90aa112006E1b07B9AeA6De021424/logo-128.png",
       "chainId": 137,
       "decimals": 18
     },
@@ -2009,6 +2065,14 @@
       "decimals": 18
     },
     {
+      "address": "0x4E200fE2f3eFb977d5fd9c430A41531FB04d97B8",
+      "name": "Orderly Network",
+      "symbol": "ORDER",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/137/0x4E200fE2f3eFb977d5fd9c430A41531FB04d97B8/logo-128.png",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
       "address": "0x4E8dc2149EaC3f3dEf36b1c281EA466338249371",
       "name": "Injective Token (PoS)",
       "symbol": "INJ",
@@ -2055,6 +2119,14 @@
       "logoURI": "https://assets.smold.app/api/token/137/0x4d7d6e43ED36298Bfe287711a48c1018D87f272c/logo-128.png",
       "chainId": 137,
       "decimals": 18
+    },
+    {
+      "address": "0x4e78011Ce80ee02d2c3e649Fb657E45898257815",
+      "name": "Klima DAO",
+      "symbol": "KLIMA",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/137/0x4e78011Ce80ee02d2c3e649Fb657E45898257815/logo-128.png",
+      "chainId": 137,
+      "decimals": 9
     },
     {
       "address": "0x4f2b262AC2D30e88371ddf45690F0C10e9c7807E",
@@ -2265,6 +2337,14 @@
       "decimals": 18
     },
     {
+      "address": "0x57F5E098CaD7A3D1Eed53991D4d66C45C9AF7812",
+      "name": "Wrapped Mountain Protocol USD",
+      "symbol": "wUSDM",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/137/0x57F5E098CaD7A3D1Eed53991D4d66C45C9AF7812/logo-128.png",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
       "address": "0x58001cC1A9E17A20935079aB40B1B8f4Fc19EFd1",
       "name": "Ethereum Push Notification Service (PoS)",
       "symbol": "PUSH",
@@ -2317,6 +2397,14 @@
       "name": "awMATIC-USDT",
       "symbol": "awMATIC-USDT",
       "logoURI": "https://token-assets-one.vercel.app/api/token/137/0x598cA33b7F5FAB560ddC8E76D94A4b4AA52566d7/logo-128.png",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
+      "address": "0x59D9356E565Ab3A36dD77763Fc0d87fEaf85508C",
+      "name": "Mountain Protocol USD",
+      "symbol": "USDM",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/137/0x59D9356E565Ab3A36dD77763Fc0d87fEaf85508C/logo-128.png",
       "chainId": 137,
       "decimals": 18
     },
@@ -3009,6 +3097,14 @@
       "decimals": 18
     },
     {
+      "address": "0x764A726d9ceD0433A8D7643335919dEb03a9a935",
+      "name": "Pocket Network",
+      "symbol": "POKT",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/137/0x764A726d9ceD0433A8D7643335919dEb03a9a935/logo-128.png",
+      "chainId": 137,
+      "decimals": 6
+    },
+    {
       "address": "0x7669095586806BCd340014730584116BC94C2620",
       "name": "bloXmove Token (PoS)",
       "symbol": "BLXM",
@@ -3145,6 +3241,14 @@
       "decimals": 18
     },
     {
+      "address": "0x7E8101A1C322D394b3961498c7D40d2DFA94C392",
+      "name": "Wrapped Backed NVIDIA Corp",
+      "symbol": "wbNVDA",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/137/0x7E8101A1C322D394b3961498c7D40d2DFA94C392/logo-128.png",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
       "address": "0x7FBc10850caE055B27039aF31bD258430e714c62",
       "name": "Unibright (PoS)",
       "symbol": "UBT",
@@ -3263,6 +3367,14 @@
       "logoURI": "https://token-assets-one.vercel.app/api/token/137/0x81Cec323BF8C4164c66ec066F53cc053A535f03D/logo-128.png",
       "chainId": 137,
       "decimals": 18
+    },
+    {
+      "address": "0x820802Fa8a99901F52e39acD21177b0BE6EE2974",
+      "name": "EUROe Stablecoin",
+      "symbol": "EUROe",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/137/0x820802Fa8a99901F52e39acD21177b0BE6EE2974/logo-128.png",
+      "chainId": 137,
+      "decimals": 6
     },
     {
       "address": "0x82617aA52dddf5Ed9Bb7B370ED777b3182A30fd1",
@@ -3405,6 +3517,14 @@
       "name": "Hypersign Identity Token (PoS)",
       "symbol": "HID",
       "logoURI": "https://assets.coingecko.com/coins/images/16158/large/hypersign_ONLYlogo_Yellow.png?1623140987",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
+      "address": "0x8829d36F6680bE993f5444198E8cbFa8f02eDe96",
+      "name": "TAIKAI Token (FXERC20)",
+      "symbol": "fxTKAI",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/137/0x8829d36F6680bE993f5444198E8cbFa8f02eDe96/logo-128.png",
       "chainId": 137,
       "decimals": 18
     },
@@ -3999,6 +4119,14 @@
       "decimals": 18
     },
     {
+      "address": "0xA34C5e0AbE843E10461E2C9586Ea03E55Dbcc495",
+      "name": "Backed NVIDIA Corp",
+      "symbol": "bNVDA",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/137/0xA34C5e0AbE843E10461E2C9586Ea03E55Dbcc495/logo-128.png",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
       "address": "0xA3D595823beeDE02cC755AB4e22AD009A70cB590",
       "name": "Kishu Inu (PoS)",
       "symbol": "KISHU",
@@ -4295,6 +4423,14 @@
       "decimals": 18
     },
     {
+      "address": "0xC19669A405067927865B40Ea045a2baabbbe57f5",
+      "name": "STAR",
+      "symbol": "STAR",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/137/0xC19669A405067927865B40Ea045a2baabbbe57f5/logo-128.png",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
       "address": "0xC1e2ca002E03207F933d358DbDEcBaD108C4191a",
       "name": "OddzToken (PoS)",
       "symbol": "ODDZ",
@@ -4463,6 +4599,14 @@
       "decimals": 18
     },
     {
+      "address": "0xD4dD9e2F021BB459D5A5f6c24C12fE09c5D45553",
+      "name": "Frankencoin",
+      "symbol": "ZCHF",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/137/0xD4dD9e2F021BB459D5A5f6c24C12fE09c5D45553/logo-128.png",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
       "address": "0xD52f6CA48882Be8fbaa98ce390db18e1dbe1062d",
       "name": "pTokens ORE (PoS)",
       "symbol": "ORE",
@@ -4491,6 +4635,14 @@
       "name": "Aave (PoS)",
       "symbol": "AAVE",
       "logoURI": "https://token-assets-one.vercel.app/api/token/137/0xD6DF932A45C0f255f85145f286eA0b292B21C90B/logo-128.png",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
+      "address": "0xD711D7D893de57dc13Ff465763218770Bd42DB1D",
+      "name": "ARYZE eGBP",
+      "symbol": "eGBP",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/137/0xD711D7D893de57dc13Ff465763218770Bd42DB1D/logo-128.png",
       "chainId": 137,
       "decimals": 18
     },
@@ -4563,6 +4715,14 @@
       "name": "aUSDCe-fxMETOD",
       "symbol": "aUSDCe-fxMETOD",
       "logoURI": "https://token-assets-one.vercel.app/api/token/137/0xDB9F075Bb2cd4D0683AC25bb0D8566a9b7FEf774/logo-128.png",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
+      "address": "0xDEc933e2392AD908263e70A386fbF34e703Ffe8F",
+      "name": "Wrapped Backed Coinbase Global",
+      "symbol": "wbCOIN",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/137/0xDEc933e2392AD908263e70A386fbF34e703Ffe8F/logo-128.png",
       "chainId": 137,
       "decimals": 18
     },
@@ -5103,10 +5263,26 @@
       "decimals": 18
     },
     {
+      "address": "0xaA3717090CDDc9B227e49d0D84A28aC0a996e6Ff",
+      "name": "Permission Token",
+      "symbol": "ASK",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/137/0xaA3717090CDDc9B227e49d0D84A28aC0a996e6Ff/logo-128.png",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
       "address": "0xaC15BaBA7Bcc532F8727C1A42B23501f59630115",
       "name": "aWETH-MAI",
       "symbol": "aWETH-MAI",
       "logoURI": "https://token-assets-one.vercel.app/api/token/137/0xaC15BaBA7Bcc532F8727C1A42B23501f59630115/logo-128.png",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
+      "address": "0xaC28C9178ACc8BA4A11A29E013a3A2627086e422",
+      "name": "Backed MicroStrategy Inc",
+      "symbol": "bMSTR",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/137/0xaC28C9178ACc8BA4A11A29E013a3A2627086e422/logo-128.png",
       "chainId": 137,
       "decimals": 18
     },
@@ -5310,6 +5486,14 @@
       "decimals": 18
     },
     {
+      "address": "0xbbcb0356bB9e6B3Faa5CbF9E5F36185d53403Ac9",
+      "name": "Backed Coinbase Global",
+      "symbol": "bCOIN",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/137/0xbbcb0356bB9e6B3Faa5CbF9E5F36185d53403Ac9/logo-128.png",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
       "address": "0xbd3859443377e0882dc58812E1f7C9EE057B64Be",
       "name": "+Blockchain Cuties Universe Governance Token (PoS)",
       "symbol": "BCUG",
@@ -5332,6 +5516,14 @@
       "logoURI": "https://assets.smold.app/api/token/137/0xbf59a84274f57C6ab3a5F3aD4864dE0dF3faff4E/logo-128.png",
       "chainId": 137,
       "decimals": 9
+    },
+    {
+      "address": "0xc11158c5dA9db1D553ED28f0C2BA1CbEDD42CFcb",
+      "name": "Wrapped PAW",
+      "symbol": "wPAW",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/137/0xc11158c5dA9db1D553ED28f0C2BA1CbEDD42CFcb/logo-128.png",
+      "chainId": 137,
+      "decimals": 18
     },
     {
       "address": "0xc12e821ff75b464702d2AD55A0F4504ca6441bE5",

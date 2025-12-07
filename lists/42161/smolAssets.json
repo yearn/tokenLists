@@ -1,10 +1,10 @@
 {
   "name": "SmolAssets",
   "description": "A list of tokens supported by Smoldapp Token Assets repository",
-  "timestamp": "2025-11-30T01:51:49Z",
+  "timestamp": "2025-12-07T02:00:32Z",
   "version": {
     "major": 25,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   },
   "logoURI": "https://raw.githubusercontent.com/smoldapp/tokenLists/main/.github/tokenlistooor.svg",
@@ -658,6 +658,14 @@
       "name": "Ethereum",
       "symbol": "ETH",
       "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0xF50FFf154E63E510e494929E9eab1E9C5047429E",
+      "name": "ENSC",
+      "symbol": "ENSC",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xF50FFf154E63E510e494929E9eab1E9C5047429E/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },

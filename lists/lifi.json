@@ -1,10 +1,10 @@
 {
   "name": "Lifi Token List",
   "description": "",
-  "timestamp": "2025-11-23T01:58:34Z",
+  "timestamp": "2025-12-07T01:51:07Z",
   "version": {
     "major": 14,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   },
   "logoURI": "https://avatars.githubusercontent.com/u/85288935?s=200\u0026v=4",
@@ -1230,6 +1230,14 @@
       "name": "Petrobras (Ondo Tokenized)",
       "symbol": "PBRon",
       "logoURI": "https://coin-images.coingecko.com/coins/images/68545/thumb/pbron_160x160.png?1756105320",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "address": "0x2f8A339B5889FfaC4c5A956787cdA593b3c36867",
+      "name": "CoinMarketCap 20 Index DTF",
+      "symbol": "CMC20",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/56/0x2f8A339B5889FfaC4c5A956787cdA593b3c36867/logo-128.png",
       "chainId": 56,
       "decimals": 18
     },

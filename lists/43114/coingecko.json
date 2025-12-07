@@ -1,9 +1,9 @@
 {
   "name": "CoinGecko",
   "description": "",
-  "timestamp": "2025-11-30T01:52:58Z",
+  "timestamp": "2025-12-07T01:52:19Z",
   "version": {
-    "major": 152,
+    "major": 153,
     "minor": 0,
     "patch": 0
   },
@@ -668,6 +668,7 @@
       "address": "0x27f6c8289550fCE67f6B50BeD1F519966aFE5287",
       "name": "tGBP",
       "symbol": "tGBP",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/70647/thumb/tgbp-square.png?1762953800",
       "chainId": 43114,
       "decimals": 18
     },
@@ -1481,6 +1482,13 @@
       "name": "Fantom Bomb",
       "symbol": "fBOMB",
       "logoURI": "https://assets.coingecko.com/coins/images/24109/large/logo-blue.png?1646376874",
+      "chainId": 43114,
+      "decimals": 18
+    },
+    {
+      "address": "0x5DD1A7A369e8273371d2DBf9d83356057088082c",
+      "name": "Flying Tulip",
+      "symbol": "FT",
       "chainId": 43114,
       "decimals": 18
     },
@@ -2777,26 +2785,10 @@
       "decimals": 18
     },
     {
-      "address": "0xAAdbA29443178A5bA5c79492f6E0e13901fdB2A0",
-      "name": "MAD",
-      "symbol": "MAD",
-      "logoURI": "https://assets.coingecko.com/coins/images/34181/large/mad-tokenImage-dark-512.png?1704221848",
-      "chainId": 43114,
-      "decimals": 18
-    },
-    {
       "address": "0xACC95Afa65768aa74044E6f6e267AD6417CD3e55",
       "name": "Boi the Bear",
       "symbol": "BOI",
       "logoURI": "https://coin-images.coingecko.com/coins/images/55397/thumb/Boi_the_Bear.jpg?1745825057",
-      "chainId": 43114,
-      "decimals": 18
-    },
-    {
-      "address": "0xAD090976CE846935DCfF1dEd852668beeD912916",
-      "name": "Oath Token",
-      "symbol": "OATH",
-      "logoURI": "https://assets.coingecko.com/coins/images/24075/large/oath.png?1646233885",
       "chainId": 43114,
       "decimals": 18
     },
@@ -3592,14 +3584,6 @@
       "decimals": 18
     },
     {
-      "address": "0xb06F504453032b6c2303a0108Cf374d5B3D6a5EF",
-      "name": "AVIL",
-      "symbol": "AVIL",
-      "logoURI": "https://coin-images.coingecko.com/coins/images/66212/thumb/photo_2025-03-02_11-36-21.jpg?1748759936",
-      "chainId": 43114,
-      "decimals": 18
-    },
-    {
       "address": "0xb0a8E082E5f8d2a04e74372c1bE47737d85A0E73",
       "name": "Universal Store of Value",
       "symbol": "USV",
@@ -4026,14 +4010,6 @@
       "name": "YDragon",
       "symbol": "YDR",
       "logoURI": "https://assets.coingecko.com/coins/images/17807/large/icon.png?1629302175",
-      "chainId": 43114,
-      "decimals": 18
-    },
-    {
-      "address": "0xf2536e4301a428AF9686ed73E42b50C1f9AeD517",
-      "name": "AKITAVAX",
-      "symbol": "AKITAX",
-      "logoURI": "https://assets.coingecko.com/coins/images/23043/large/coingeckologoakitax.png?1643100394",
       "chainId": 43114,
       "decimals": 18
     },

@@ -1,10 +1,10 @@
 {
   "name": "Bebop",
   "description": "",
-  "timestamp": "2025-12-07T01:52:24Z",
+  "timestamp": "2025-12-14T01:58:17Z",
   "version": {
     "major": 24,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   },
   "logoURI": "https://bebop-public-images.s3.eu-west-2.amazonaws.com/bebop-logo.png",
@@ -15,6 +15,14 @@
       "name": "Aster",
       "symbol": "ASTER",
       "logoURI": "https://coin-images.coingecko.com/coins/images/69040/thumb/_ASTER.png?1757326782",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "address": "0x011EBe7d75E2C9D1E0bD0be0bEf5C36f0A90075F",
+      "name": "STABLE",
+      "symbol": "STABLE",
+      "logoURI": "https://assets.coingecko.com/coins/images/69242/large/stable-logotype-framed-square-light.png?1762753913",
       "chainId": 56,
       "decimals": 18
     },

@@ -1,10 +1,10 @@
 {
   "name": "Yearn Token List",
   "description": "",
-  "timestamp": "2025-12-07T02:01:45Z",
+  "timestamp": "2025-12-14T02:02:07Z",
   "version": {
     "major": 46,
-    "minor": 7,
+    "minor": 8,
     "patch": 0
   },
   "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e/logo.svg",
@@ -1133,6 +1133,14 @@
       "name": "Pendle Market",
       "symbol": "PENDLE-LPT",
       "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x24e4Df37ea00C4954d668e3ce19fFdcffDEc2cF6/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0x25118290e6A5f4139381D072181157035864099d",
+      "name": "RAIN",
+      "symbol": "RAIN",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/69134/thumb/Rain_Logo_200_200.png?1757586453",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2900,6 +2908,14 @@
       "name": "SY Kyber Elastic axlWstEth-wstETH",
       "symbol": "SY-Kyber Elastic axlWstEth-wstETH",
       "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x6f14d3cD37a0647a3eE60eb2214486f8A1CDdccc/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0x6fBBbD8bFB1cd3986B1D05e7861a0f62F87DB74b",
+      "name": "Vision",
+      "symbol": "VSN",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x6fBBbD8bFB1cd3986B1D05e7861a0f62F87DB74b/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },

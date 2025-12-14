@@ -1,9 +1,9 @@
 {
   "name": "CoinGecko",
   "description": "",
-  "timestamp": "2025-12-07T01:52:19Z",
+  "timestamp": "2025-12-14T01:52:44Z",
   "version": {
-    "major": 153,
+    "major": 154,
     "minor": 0,
     "patch": 0
   },
@@ -73,6 +73,7 @@
       "address": "0x00312400303d02c323295f6E8b7309bc30FB6BcE",
       "name": "Caldera",
       "symbol": "ERA",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/54475/thumb/Caldera_400x400.jpg?1739953047",
       "chainId": 42161,
       "decimals": 18
     },
@@ -213,14 +214,6 @@
       "decimals": 18
     },
     {
-      "address": "0x05905af7933f89280aB258919F0dFA056CeD8e43",
-      "name": "Clutch",
-      "symbol": "CLUTCH",
-      "logoURI": "https://asset-images.messari.io/images/4199f361-0083-4fa0-ad8a-14ee4226ed43/128.png",
-      "chainId": 42161,
-      "decimals": 18
-    },
-    {
       "address": "0x05eaeA39f69b24F8F2DA13af2d8Ee0853889f2a8",
       "name": "CygnusDAO",
       "symbol": "CYG",
@@ -321,14 +314,6 @@
       "name": "Bold Stablecoin",
       "symbol": "Bold",
       "logoURI": "https://asset-images.messari.io/images/3237deb1-d70b-4d1a-9b0a-11f7f508ad6d/128.png",
-      "chainId": 42161,
-      "decimals": 18
-    },
-    {
-      "address": "0x088cd8f5eF3652623c22D48b1605DCfE860Cd704",
-      "name": "VelaToken",
-      "symbol": "VELA",
-      "logoURI": "https://tokens.1inch.io/0x088cd8f5ef3652623c22d48b1605dcfe860cd704.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -726,7 +711,7 @@
     },
     {
       "address": "0x139450C2dCeF827C9A2a0Bb1CB5506260940c9fd",
-      "name": "sSuperUSD boring vault",
+      "name": "Staked SuperUSD",
       "symbol": "sSuperUSD",
       "logoURI": "https://coin-images.coingecko.com/coins/images/67821/thumb/sSuperUSD_200x200.png?1753943152",
       "chainId": 42161,
@@ -1466,14 +1451,6 @@
       "name": "Valkyrie Bitcoin Fund - Dinari",
       "symbol": "BRRR",
       "logoURI": "https://asset-images.messari.io/images/e9b1b290-f6f5-4fd7-bd66-581015cbb874/128.png",
-      "chainId": 42161,
-      "decimals": 18
-    },
-    {
-      "address": "0x2C110867CA90e43D372C1C2E92990B00EA32818b",
-      "name": "Stabilize Token",
-      "symbol": "STBZ",
-      "logoURI": "https://arbiscan.io/token/images/stabilize_32.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -3317,14 +3294,6 @@
       "decimals": 18
     },
     {
-      "address": "0x65c936f008BC34fE819bce9Fa5afD9dc2d49977f",
-      "name": "Y2K",
-      "symbol": "Y2K",
-      "logoURI": "https://assets.coingecko.com/coins/images/28542/large/l7jRo-5-_400x400.jpg?1671585317",
-      "chainId": 42161,
-      "decimals": 18
-    },
-    {
       "address": "0x6609BE1547166D1C4605F3A243FDCFf467e600C3",
       "name": "NEU",
       "symbol": "NEU",
@@ -4250,14 +4219,6 @@
       "decimals": 18
     },
     {
-      "address": "0x87AAfFdF26c6885f6010219208D5B161ec7609c0",
-      "name": "Equation",
-      "symbol": "EQU",
-      "logoURI": "https://arbiscan.io/token/images/equation_32.png",
-      "chainId": 42161,
-      "decimals": 18
-    },
-    {
       "address": "0x87ca1aC7697c1240518b464B02E92A856D81Aee1",
       "name": "Hathor Token",
       "symbol": "aHTR",
@@ -4285,6 +4246,7 @@
       "address": "0x88B8d272b9F1bAb7d7896F5F88F8825cE14b05bd",
       "name": "Rogue",
       "symbol": "ROGUE",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/70898/thumb/rogue-white-in-indigo-logo.png?1764483818",
       "chainId": 42161,
       "decimals": 18
     },
@@ -4748,6 +4710,13 @@
       "logoURI": "https://tokens.1inch.io/0x08d967bb0134f2d07f7cfb6e246680c53927dd30.png",
       "chainId": 42161,
       "decimals": 18
+    },
+    {
+      "address": "0x99F70A0e1786402a6796c6B0AA997ef340a5c6da",
+      "name": "Spiko Digital Assets Cash and Carry Fund",
+      "symbol": "SPKCC",
+      "chainId": 42161,
+      "decimals": 5
     },
     {
       "address": "0x9B8Df6E244526ab5F6e6400d331DB28C8fdDdb55",
@@ -5594,13 +5563,6 @@
       "decimals": 18
     },
     {
-      "address": "0xD8724322f44E5c58D7A815F542036fb17DbbF839",
-      "name": "Wrapped OETH",
-      "symbol": "WOETH",
-      "chainId": 42161,
-      "decimals": 18
-    },
-    {
       "address": "0xD9FC3E075d45254a1D834fEa18AF8041207DeA0A",
       "name": "JPMorgan Chase xStock",
       "symbol": "JPMx",
@@ -5693,6 +5655,13 @@
       "name": "O3",
       "symbol": "O3",
       "logoURI": "https://asset-images.messari.io/images/c3872d19-f792-41d2-9792-3b59035794e6/128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0xDeFA1D21c5F1cbeac00eeB54B44C7D86467cc3a3",
+      "name": "Almanak",
+      "symbol": "ALMANAK",
       "chainId": 42161,
       "decimals": 18
     },
@@ -7352,6 +7321,7 @@
       "address": "0xf0197f10eA542A67914eCC0eC5304Dc9df1fAf6F",
       "name": "DEAD",
       "symbol": "DEAD",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/70904/thumb/_NotDEADTrans.png?1764486688",
       "chainId": 42161,
       "decimals": 18
     },

@@ -1,9 +1,9 @@
 {
   "name": "CoinGecko",
   "description": "",
-  "timestamp": "2025-12-14T01:52:44Z",
+  "timestamp": "2025-12-21T02:05:32Z",
   "version": {
-    "major": 154,
+    "major": 155,
     "minor": 0,
     "patch": 0
   },
@@ -434,14 +434,6 @@
       "name": "Vee Token",
       "symbol": "VEE",
       "logoURI": "https://asset-images.messari.io/images/6b50110f-26de-4bac-9b9b-47b7c1d19c40/128.png",
-      "chainId": 42161,
-      "decimals": 18
-    },
-    {
-      "address": "0x0Ce45dd53affbb011884EF1866E0738f58AB7969",
-      "name": "cgETH Hashkey Cloud",
-      "symbol": "cgETH.hashkey",
-      "logoURI": "https://asset-images.messari.io/images/383f6492-4afa-42db-a5a2-701ec4ac4f74/128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -3852,6 +3844,13 @@
       "decimals": 18
     },
     {
+      "address": "0x7CE42E8A5A42eb15f0C9A08ee9a079d99B1D83cf",
+      "name": "GrantiX Token",
+      "symbol": "GRANT",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
       "address": "0x7CE746B45eaBD0C4321538DeC1B849c79A9A8476",
       "name": "DSLA",
       "symbol": "DSLA",
@@ -3901,7 +3900,7 @@
     },
     {
       "address": "0x7F850b0aB1988Dd17B69aC564c1E2857949e4dEe",
-      "name": "Lift Dollar",
+      "name": "Lift Dollar - Deprecated",
       "symbol": "USDL",
       "logoURI": "https://asset-images.messari.io/images/85981d63-0569-4ad1-8b1a-ad0aa81ba817/128.png",
       "chainId": 42161,
@@ -4715,6 +4714,7 @@
       "address": "0x99F70A0e1786402a6796c6B0AA997ef340a5c6da",
       "name": "Spiko Digital Assets Cash and Carry Fund",
       "symbol": "SPKCC",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/71054/thumb/Fund_C_C-_Dollar.png?1765460346",
       "chainId": 42161,
       "decimals": 5
     },
@@ -5662,6 +5662,7 @@
       "address": "0xDeFA1D21c5F1cbeac00eeB54B44C7D86467cc3a3",
       "name": "Almanak",
       "symbol": "ALMANAK",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/68466/thumb/almanak.png?1755828664",
       "chainId": 42161,
       "decimals": 18
     },
@@ -5853,14 +5854,6 @@
       "name": "O3 Swap Token",
       "symbol": "O3",
       "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0xEe9801669C6138E84bD50dEB500827b776777d28/logo.png",
-      "chainId": 42161,
-      "decimals": 18
-    },
-    {
-      "address": "0xF0A5717Ec0883eE56438932b0fe4A20822735fBa",
-      "name": "xToken",
-      "symbol": "XTK",
-      "logoURI": "https://arbiscan.io/token/images/xtokenmarket_32.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -6655,6 +6648,13 @@
       "decimals": 18
     },
     {
+      "address": "0xc3997ff81f2831929499c4eE4Ee4e0F08F42D4D8",
+      "name": "Bifrost Voucher ETH",
+      "symbol": "vETH",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
       "address": "0xc3aBC47863524ced8DAf3ef98d74dd881E131C38",
       "name": "Lumi Finance Token",
       "symbol": "LUA",
@@ -7274,6 +7274,13 @@
       "name": "BOB",
       "symbol": "BOB",
       "logoURI": "https://coin-images.coingecko.com/coins/images/50202/thumb/bob-128.png?1726277750",
+      "chainId": 42161,
+      "decimals": 8
+    },
+    {
+      "address": "0xed6c7a7b116876A4BF225cbf044681F070684fA5",
+      "name": "Bitcoin.ℏ",
+      "symbol": "BTC.ℏ[arb]",
       "chainId": 42161,
       "decimals": 8
     },

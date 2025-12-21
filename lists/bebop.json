@@ -1,10 +1,10 @@
 {
   "name": "Bebop",
   "description": "",
-  "timestamp": "2025-12-14T01:58:17Z",
+  "timestamp": "2025-12-21T02:05:32Z",
   "version": {
     "major": 24,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   },
   "logoURI": "https://bebop-public-images.s3.eu-west-2.amazonaws.com/bebop-logo.png",
@@ -341,7 +341,7 @@
       "address": "0x3073f7aAA4DB83f95e9FFf17424F71D4751a3073",
       "name": "Movement",
       "symbol": "MOVE",
-      "logoURI": "https://assets.coingecko.com/coins/images/39345/large/movement-testnet-token.png?1721878759",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x3073f7aAA4DB83f95e9FFf17424F71D4751a3073/logo-128.png",
       "chainId": 1,
       "decimals": 8
     },
@@ -2172,7 +2172,7 @@
       "address": "0x011EBe7d75E2C9D1E0bD0be0bEf5C36f0A90075F",
       "name": "STABLE",
       "symbol": "STABLE",
-      "logoURI": "https://assets.coingecko.com/coins/images/69242/large/stable-logotype-framed-square-light.png?1762753913",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/69242/thumb/logo-green-bg-filled-white.png?1757949510",
       "chainId": 56,
       "decimals": 18
     },
@@ -2591,6 +2591,14 @@
       "logoURI": "https://token-assets-one.vercel.app/api/token/137/0xc2132D05D31c914a87C6611C10748AEb04B58e8F/logo-128.png",
       "chainId": 137,
       "decimals": 6
+    },
+    {
+      "address": "0x0b2558bdBC7FFEC0f327fB3579c23daBD1699706",
+      "name": "Theoriq Token",
+      "symbol": "THQ",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0x0b2558bdBC7FFEC0f327fB3579c23daBD1699706/logo-128.png",
+      "chainId": 8453,
+      "decimals": 18
     },
     {
       "address": "0x0b3e328455c4059EEb9e3f84b5543F74E24e7E1b",

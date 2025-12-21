@@ -1,10 +1,10 @@
 {
   "name": "Lifi Token List",
   "description": "",
-  "timestamp": "2025-12-14T01:58:28Z",
+  "timestamp": "2025-12-21T02:01:30Z",
   "version": {
     "major": 14,
-    "minor": 3,
+    "minor": 4,
     "patch": 0
   },
   "logoURI": "https://avatars.githubusercontent.com/u/85288935?s=200\u0026v=4",
@@ -715,7 +715,7 @@
     },
     {
       "address": "0xbdC7c08592Ee4aa51D06C27Ee23D5087D65aDbcD",
-      "name": "Lift Dollar",
+      "name": "Lift Dollar - Deprecated",
       "symbol": "USDL",
       "logoURI": "https://asset-images.messari.io/images/85981d63-0569-4ad1-8b1a-ad0aa81ba817/128.png",
       "chainId": 1,
@@ -1294,6 +1294,14 @@
       "name": "Cisco Systems (Ondo Tokenized)",
       "symbol": "CSCOon",
       "logoURI": "https://coin-images.coingecko.com/coins/images/68566/thumb/cscoon_160x160.png?1756106113",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "address": "0x385C279445581a186a4182a5503094eBb652EC71",
+      "name": "Staked USDu",
+      "symbol": "sUSDu",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/56/0x385C279445581a186a4182a5503094eBb652EC71/logo-128.png",
       "chainId": 56,
       "decimals": 18
     },
@@ -1982,6 +1990,14 @@
       "name": "Metis Token",
       "symbol": "Metis",
       "logoURI": "https://tokens.1inch.io/0xe552fb52a4f19e44ef5a967632dbc320b0820639.png",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "address": "0xeA953eA6634d55dAC6697C436B1e81A679Db5882",
+      "name": "USDu",
+      "symbol": "USDu",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/56/0xeA953eA6634d55dAC6697C436B1e81A679Db5882/logo-128.png",
       "chainId": 56,
       "decimals": 18
     },

@@ -1,10 +1,10 @@
 {
   "name": "Yearn Token List",
   "description": "",
-  "timestamp": "2025-12-14T02:02:07Z",
+  "timestamp": "2025-12-21T02:07:13Z",
   "version": {
     "major": 46,
-    "minor": 8,
+    "minor": 9,
     "patch": 0
   },
   "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e/logo.svg",
@@ -185,6 +185,14 @@
       "decimals": 18
     },
     {
+      "address": "0x0141E81fB74C11CfD2308212D9C9a6a052Db3A98",
+      "name": "Curve ZCHF/CRVUSD Factory yVault",
+      "symbol": "yvCurve-ZCHF/CRVUSD-f",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x0141E81fB74C11CfD2308212D9C9a6a052Db3A98/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0x01597E397605Bf280674Bf292623460b4204C375",
       "name": "Bent Token",
       "symbol": "BENT",
@@ -197,6 +205,14 @@
       "name": "crvTETH yVault",
       "symbol": "yvcrvTETH",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x015d78C7aD1289F5aA1DEC25bD6b67ba31fAc1Cf/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x01791F726B4103694969820be083196cC7c045fF",
+      "name": "Yield Basis",
+      "symbol": "YB",
+      "logoURI": "https://assets.coingecko.com/coins/images/54871/large/yieldbasis_400x400.png?1760514173",
       "chainId": 1,
       "decimals": 18
     },
@@ -285,6 +301,14 @@
       "name": "Pendle Market",
       "symbol": "PENDLE-LPT",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x0271A803f0d3Dec9cCd105A4A4d41e6Ee1458765/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x027B40F5917FCd0eac57d7015e120096A5F92ca9",
+      "name": "ZCHF/CRVUSD",
+      "symbol": "ZCHF/CRVUSD",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x027B40F5917FCd0eac57d7015e120096A5F92ca9/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -857,6 +881,14 @@
       "name": "SY reUSDe",
       "symbol": "SY-reUSDe",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x0707523e0CD77d8Ed714fEaDBdd200Ccd37432e2/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x072F6B96f1089170Bee4fC26D06199cAa74C5Ca1",
+      "name": "YT USDa saving token 18JUN2026",
+      "symbol": "YT-sUSDa-18JUN2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x072F6B96f1089170Bee4fC26D06199cAa74C5Ca1/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -1466,6 +1498,14 @@
       "decimals": 18
     },
     {
+      "address": "0x0c057598dcE1891688829581f890DD2a3685a43f",
+      "name": "Stake DAO YieldBasis Token",
+      "symbol": "sdYB",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x0c057598dcE1891688829581f890DD2a3685a43f/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0x0c7e3925E0986826B066CE77138b934F349a871B",
       "name": "Curve CVG-ETH Factory yVault",
       "symbol": "yvCurve-CVG-ETH-f",
@@ -1822,6 +1862,14 @@
       "logoURI": "https://assets.coingecko.com/coins/images/28600/large/bonk.jpg?1696527587",
       "chainId": 1,
       "decimals": 5
+    },
+    {
+      "address": "0x118078288f681389070A9D89D6832b302216AcE3",
+      "name": "PT USDa saving token 18JUN2026",
+      "symbol": "PT-sUSDa-18JUN2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x118078288f681389070A9D89D6832b302216AcE3/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
     },
     {
       "address": "0x119806f0e93a213029b599D7bBAE50bD965C2cC4",
@@ -2695,6 +2743,14 @@
       "name": "Pendle Market",
       "symbol": "PENDLE-LPT",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x1B089668c0833BaaF1C523A7Ed3d6D8CCfEE840b/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x1B246Be57145a6BAf0f987a3E22274da0F539df2",
+      "name": "PLP Pareto staked USP 25JUN2026",
+      "symbol": "PLP-sUSP-25JUN2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x1B246Be57145a6BAf0f987a3E22274da0F539df2/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -12835,7 +12891,7 @@
       "name": "Wrapped USDL",
       "symbol": "wUSDL",
       "chainId": 1,
-      "decimals": 18
+      "decimals": 6
     },
     {
       "address": "0x77570CfEcf83bc6bB08E2cD9e8537aeA9F97eA2F",
@@ -14875,6 +14931,14 @@
       "decimals": 18
     },
     {
+      "address": "0x8DaA3512965CaCe7559a50Ec6B4054C926776C6d",
+      "name": "YT Pareto staked USP 25JUN2026",
+      "symbol": "YT-sUSP-25JUN2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x8DaA3512965CaCe7559a50Ec6B4054C926776C6d/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0x8E2485942B399EA41f3C910c1Bb8567128f79859",
       "name": "yGauge WETH-2 yVault",
       "symbol": "yG-yvWETH-2",
@@ -15246,6 +15310,14 @@
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x9014F29610E904c8269726c74ebc79f5d512DAfD/logo-128.png",
       "chainId": 1,
       "decimals": 6
+    },
+    {
+      "address": "0x901d27211fcc74c6936C2Eb6F6b04f2c127A194c",
+      "name": "PT Pareto staked USP 25JUN2026",
+      "symbol": "PT-sUSP-25JUN2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x901d27211fcc74c6936C2Eb6F6b04f2c127A194c/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
     },
     {
       "address": "0x901e710C2F634131B36E3c68B072ED5DB9250f3E",
@@ -16275,6 +16347,13 @@
       "address": "0x98E9599dab3A936C35DE48E13E026Ef4eA20B5e6",
       "name": "frxUSD/USDf",
       "symbol": "frxUSDUSDf",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x98b540fa89690969D111D045afCa575C91519B1A",
+      "name": "sdYB/YB",
+      "symbol": "sdYBYB-LP",
       "chainId": 1,
       "decimals": 18
     },
@@ -18252,6 +18331,14 @@
       "name": "Balancer vETH/WETH StablePool",
       "symbol": "vETH/WETH BPT",
       "logoURI": "https://assets.coingecko.com/coins/images/11683/large/Balancer.png?",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xB58E61C3098d85632Df34EecfB899A1Ed80921cB",
+      "name": "Frankencoin",
+      "symbol": "ZCHF",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xB58E61C3098d85632Df34EecfB899A1Ed80921cB/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -22694,6 +22781,14 @@
       "decimals": 6
     },
     {
+      "address": "0xaDf479Af2E305A7A885C43A3fb86C05836Fb982f",
+      "name": "PLP USDa saving token 18JUN2026",
+      "symbol": "PLP-sUSDa-18JUN2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xaDf479Af2E305A7A885C43A3fb86C05836Fb982f/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0xaE29f871c9a4Cda7ad2c8dfF7193c2a0fe3d0C05",
       "name": "xETH-BABL0.3%",
       "symbol": "xETH-BABL0.3%",
@@ -23754,7 +23849,7 @@
     },
     {
       "address": "0xbdC7c08592Ee4aa51D06C27Ee23D5087D65aDbcD",
-      "name": "Lift Dollar",
+      "name": "Lift Dollar - Deprecated",
       "symbol": "USDL",
       "logoURI": "https://asset-images.messari.io/images/85981d63-0569-4ad1-8b1a-ad0aa81ba817/128.png",
       "chainId": 1,
@@ -26175,6 +26270,14 @@
       "name": "PT Falcon USD 29JAN2026",
       "symbol": "PT-USDf-29JAN2026",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xeC3b5e45dD278d5AB9CDB31754B54DB314e9D52a/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xeC456f00E1f1a6A9097b723Ab979c27AB45C5906",
+      "name": "Curve sdYBYB-LP Factory yVault",
+      "symbol": "yvCurve-sdYBYB-LP-f",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xeC456f00E1f1a6A9097b723Ab979c27AB45C5906/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },

@@ -1,9 +1,9 @@
 {
   "name": "CoinGecko",
   "description": "",
-  "timestamp": "2025-12-21T02:05:32Z",
+  "timestamp": "2025-12-28T02:03:24Z",
   "version": {
-    "major": 155,
+    "major": 156,
     "minor": 0,
     "patch": 0
   },
@@ -550,6 +550,13 @@
       "decimals": 18
     },
     {
+      "address": "0x0e389C83Bc1d16d86412476F6103027555C03265",
+      "name": "Spiko Digital Assets Cash and Carry Fund (EUR hedged)",
+      "symbol": "eurSPKCC",
+      "chainId": 42161,
+      "decimals": 5
+    },
+    {
       "address": "0x0e929101c4fA7c91EAA64d7216161ba3eeE387FE",
       "name": "Chevron Corporation - Dinari",
       "symbol": "CVX",
@@ -944,6 +951,13 @@
       "name": "Eli Lilly xStock",
       "symbol": "LLYx",
       "logoURI": "https://asset-images.messari.io/images/910be507-782b-4d77-8494-0539214f0678/128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0x19d0899464DEa847ad0A5B7D42f3ce0592542F9A",
+      "name": "Molecular Token",
+      "symbol": "MOLE",
       "chainId": 42161,
       "decimals": 18
     },
@@ -3847,6 +3861,7 @@
       "address": "0x7CE42E8A5A42eb15f0C9A08ee9a079d99B1D83cf",
       "name": "GrantiX Token",
       "symbol": "GRANT",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/71178/thumb/200.png?1766219387",
       "chainId": 42161,
       "decimals": 18
     },
@@ -5523,14 +5538,6 @@
       "decimals": 18
     },
     {
-      "address": "0xD6b3d81868770083307840F513A3491960b95cb6",
-      "name": "Credbull",
-      "symbol": "CBL",
-      "logoURI": "https://asset-images.messari.io/images/1b751800-3a7e-4ebb-8d92-345c9f249369/128.png",
-      "chainId": 42161,
-      "decimals": 18
-    },
-    {
       "address": "0xD71a6aDBc40c2674591CDB11B8C7ae03A880b06E",
       "name": "Wrapped CrowdStrike xStock",
       "symbol": "wCRWDx",
@@ -6651,6 +6658,7 @@
       "address": "0xc3997ff81f2831929499c4eE4Ee4e0F08F42D4D8",
       "name": "Bifrost Voucher ETH",
       "symbol": "vETH",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/71176/thumb/vETH.png?1766218149",
       "chainId": 42161,
       "decimals": 18
     },
@@ -7281,6 +7289,7 @@
       "address": "0xed6c7a7b116876A4BF225cbf044681F070684fA5",
       "name": "Bitcoin.ℏ",
       "symbol": "BTC.ℏ[arb]",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/55129/thumb/f115df06-998b-4fa8-a582-9b8b68a92a8a-removebg-preview.png?1743921946",
       "chainId": 42161,
       "decimals": 8
     },
@@ -7425,14 +7434,6 @@
       "name": "Kryll",
       "symbol": "KRL",
       "logoURI": "https://assets.coingecko.com/coins/images/2807/large/krl.png?1547036979",
-      "chainId": 42161,
-      "decimals": 18
-    },
-    {
-      "address": "0xf7693c6fD9a7172D537FA75D133D309501Cbd657",
-      "name": "Web3 No Value",
-      "symbol": "W3N",
-      "logoURI": "https://assets.coingecko.com/coins/images/32083/large/w3n-logo-comp200x200.png?1696408991",
       "chainId": 42161,
       "decimals": 18
     },

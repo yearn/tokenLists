@@ -1,9 +1,9 @@
 {
   "name": "CoinGecko",
   "description": "",
-  "timestamp": "2025-12-21T02:05:32Z",
+  "timestamp": "2025-12-28T02:03:24Z",
   "version": {
-    "major": 155,
+    "major": 156,
     "minor": 0,
     "patch": 0
   },
@@ -1045,14 +1045,6 @@
       "name": "Aave Matic Market AAVE",
       "symbol": "amAAVE",
       "logoURI": "https://tokens.1inch.io/0xffc97d72e13e01096502cb8eb52dee56f74dad7b.png",
-      "chainId": 137,
-      "decimals": 18
-    },
-    {
-      "address": "0x1d3C629ca5C1D0ab3Bdf74600e81b4145615df8e",
-      "name": "Preprints.io Token",
-      "symbol": "PRNT",
-      "logoURI": "https://asset-images.messari.io/images/21b6d240-c8fe-4a6d-8569-f96c04762328/128.png",
       "chainId": 137,
       "decimals": 18
     },
@@ -4687,6 +4679,13 @@
       "decimals": 18
     },
     {
+      "address": "0x99F70A0e1786402a6796c6B0AA997ef340a5c6da",
+      "name": "Spiko Digital Assets Cash and Carry Fund (EUR hedged)",
+      "symbol": "eurSPKCC",
+      "chainId": 137,
+      "decimals": 5
+    },
+    {
       "address": "0x9A06Db14D639796B25A6ceC6A1bf614fd98815EC",
       "name": "$ZKP Token",
       "symbol": "$ZKP",
@@ -6933,6 +6932,14 @@
       "decimals": 18
     },
     {
+      "address": "0xc53ac24320E3A54C7211e4993c8095078a0Cb3Cf",
+      "name": "Wild Goat Coin",
+      "symbol": "WGC",
+      "logoURI": "https://asset-images.messari.io/images/27d4c5e5-e161-4c5e-bdcf-0ff33f5d5f6e/128.png",
+      "chainId": 137,
+      "decimals": 6
+    },
+    {
       "address": "0xc553a5A789f1BB56a72847b3FDA1DE3E16e6763f",
       "name": "CygnusDAO",
       "symbol": "CYG",
@@ -7655,6 +7662,7 @@
       "address": "0xf4C3Fac9c98aA62474998E299495B699DFDb00Eb",
       "name": "HandlPay",
       "symbol": "HANDL",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/71168/thumb/icon-200x200.png?1766173866",
       "chainId": 137,
       "decimals": 18
     },

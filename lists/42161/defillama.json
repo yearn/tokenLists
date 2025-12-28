@@ -1,9 +1,9 @@
 {
   "name": "DefiLlama",
   "description": "",
-  "timestamp": "2025-12-21T02:01:23Z",
+  "timestamp": "2025-12-28T02:04:14Z",
   "version": {
-    "major": 152,
+    "major": 153,
     "minor": 0,
     "patch": 0
   },
@@ -547,6 +547,14 @@
       "decimals": 18
     },
     {
+      "address": "0x0e389C83Bc1d16d86412476F6103027555C03265",
+      "name": "Spiko Digital Assets Cash and Carry Fund (EUR hedged)",
+      "symbol": "eurSPKCC",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/71236/thumb/Fund_C_C_-_Euro.png?1766513734",
+      "chainId": 42161,
+      "decimals": 5
+    },
+    {
       "address": "0x0e929101c4fA7c91EAA64d7216161ba3eeE387FE",
       "name": "Chevron Corporation - Dinari",
       "symbol": "CVX",
@@ -941,6 +949,14 @@
       "name": "Eli Lilly xStock",
       "symbol": "LLYx",
       "logoURI": "https://asset-images.messari.io/images/910be507-782b-4d77-8494-0539214f0678/128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0x19d0899464DEa847ad0A5B7D42f3ce0592542F9A",
+      "name": "Molecular Token",
+      "symbol": "MOLE",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/71259/thumb/Logo_-_simp.png?1766738819",
       "chainId": 42161,
       "decimals": 18
     },
@@ -5521,14 +5537,6 @@
       "decimals": 18
     },
     {
-      "address": "0xD6b3d81868770083307840F513A3491960b95cb6",
-      "name": "Credbull",
-      "symbol": "CBL",
-      "logoURI": "https://asset-images.messari.io/images/1b751800-3a7e-4ebb-8d92-345c9f249369/128.png",
-      "chainId": 42161,
-      "decimals": 18
-    },
-    {
       "address": "0xD71a6aDBc40c2674591CDB11B8C7ae03A880b06E",
       "name": "Wrapped CrowdStrike xStock",
       "symbol": "wCRWDx",
@@ -7425,14 +7433,6 @@
       "name": "Kryll",
       "symbol": "KRL",
       "logoURI": "https://assets.coingecko.com/coins/images/2807/large/krl.png?1547036979",
-      "chainId": 42161,
-      "decimals": 18
-    },
-    {
-      "address": "0xf7693c6fD9a7172D537FA75D133D309501Cbd657",
-      "name": "Web3 No Value",
-      "symbol": "W3N",
-      "logoURI": "https://assets.coingecko.com/coins/images/32083/large/w3n-logo-comp200x200.png?1696408991",
       "chainId": 42161,
       "decimals": 18
     },

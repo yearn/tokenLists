@@ -1,10 +1,10 @@
 {
   "name": "Bebop",
   "description": "",
-  "timestamp": "2025-12-21T02:05:32Z",
+  "timestamp": "2026-01-04T02:08:48Z",
   "version": {
-    "major": 24,
-    "minor": 2,
+    "major": 25,
+    "minor": 1,
     "patch": 0
   },
   "logoURI": "https://bebop-public-images.s3.eu-west-2.amazonaws.com/bebop-logo.png",
@@ -22,7 +22,7 @@
       "address": "0x011EBe7d75E2C9D1E0bD0be0bEf5C36f0A90075F",
       "name": "STABLE",
       "symbol": "STABLE",
-      "logoURI": "https://coin-images.coingecko.com/coins/images/69242/thumb/logo-green-bg-filled-white.png?1757949510",
+      "logoURI": "https://assets.coingecko.com/coins/images/69242/large/stable-logotype-framed-square-light.png?1762753913",
       "chainId": 56,
       "decimals": 18
     },
@@ -63,6 +63,14 @@
       "name": "PancakeSwap Token",
       "symbol": "Cake",
       "logoURI": "https://tokens.1inch.io/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82.png",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "address": "0x1775504c5873e179Ea2f8ABFcE3861EC74D159bc",
+      "name": "CashPlus",
+      "symbol": "CASH+",
+      "logoURI": "https://bebop-public-images.s3.eu-west-2.amazonaws.com/56-0x1775504c5873e179Ea2f8ABFcE3861EC74D159bc.png",
       "chainId": 56,
       "decimals": 18
     },
@@ -326,7 +334,7 @@
       "address": "0xfEbDEd1B0986a8ee107f5AB1a1c5a813491DeCEB",
       "name": "Circle xStock",
       "symbol": "CRCLx",
-      "logoURI": "https://coin-images.coingecko.com/coins/images/66918/thumb/CRCLx.png?1751052233",
+      "logoURI": "https://assets.coingecko.com/coins/images/66918/large/CRCLx.png?1751052233",
       "chainId": 56,
       "decimals": 18
     }

@@ -1,9 +1,9 @@
 {
   "name": "CoinGecko",
   "description": "",
-  "timestamp": "2025-12-28T02:03:24Z",
+  "timestamp": "2026-01-04T02:01:44Z",
   "version": {
-    "major": 156,
+    "major": 157,
     "minor": 0,
     "patch": 0
   },
@@ -105,7 +105,7 @@
       "address": "0x0994206dfE8De6Ec6920FF4D779B0d950605Fb53",
       "name": "Curve DAO Token",
       "symbol": "CRV",
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xD533a949740bb3306d119CC777fa900bA034cd52/logo.png",
+      "logoURI": "ipfs://QmcVbt1ezDs89zPw5rgaR9xy5f3bdE7dxvTz958FeFNgfQ",
       "chainId": 10,
       "decimals": 18
     },
@@ -429,7 +429,7 @@
       "address": "0x350a791Bfc2C21F9Ed5d10980Dad2e2638ffa7f6",
       "name": "ChainLink Token",
       "symbol": "LINK",
-      "logoURI": "https://tokens.1inch.io/0x350a791bfc2c21f9ed5d10980dad2e2638ffa7f6.png",
+      "logoURI": "ipfs://QmU96KikTqZ4rmV6LPim9i57fuvTLMLcV8B6HKXvkdrdcW",
       "chainId": 10,
       "decimals": 18
     },
@@ -519,6 +519,14 @@
       "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x3b08fcd15280e7B5A6e404c4abb87F7C774D1B2e/logo-128.png",
       "chainId": 10,
       "decimals": 18
+    },
+    {
+      "address": "0x3d63825B0d8669307366E6c8202f656b9E91D368",
+      "name": "Wild Goat Coin",
+      "symbol": "WGC",
+      "logoURI": "https://assets.coingecko.com/coins/images/37966/large/wgc.jpeg?1716185156",
+      "chainId": 10,
+      "decimals": 6
     },
     {
       "address": "0x3e7eF8f50246f725885102E8238CBba33F276747",
@@ -1127,14 +1135,6 @@
       "decimals": 18
     },
     {
-      "address": "0x8Fc7C1109c08904160d6AE36482B79814D45eB78",
-      "name": "Token Engineering Commons",
-      "symbol": "TEC",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x8Fc7C1109c08904160d6AE36482B79814D45eB78/logo-128.png",
-      "chainId": 10,
-      "decimals": 18
-    },
-    {
       "address": "0x8aE125E8653821E851F12A49F7765db9a9ce7384",
       "name": "Dola USD Stablecoin",
       "symbol": "DOLA",
@@ -1594,7 +1594,7 @@
       "address": "0xFE8B128bA8C78aabC59d4c64cEE7fF28e9379921",
       "name": "Balancer",
       "symbol": "BAL",
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xba100000625a3754423978a60c9317c58a424e3D/logo.png",
+      "logoURI": "ipfs://QmeVnk6jkW8J9ZHFxsLVamMNHpz9bigp7tsY2CJuxas297",
       "chainId": 10,
       "decimals": 18
     },

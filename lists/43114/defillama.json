@@ -1,9 +1,9 @@
 {
   "name": "DefiLlama",
   "description": "",
-  "timestamp": "2025-12-21T02:01:23Z",
+  "timestamp": "2026-01-04T02:03:14Z",
   "version": {
-    "major": 152,
+    "major": 154,
     "minor": 0,
     "patch": 0
   },
@@ -780,6 +780,14 @@
       "decimals": 18
     },
     {
+      "address": "0x30C74769eA97C6454e2a4d4e9D2dA947C64cA1E0",
+      "name": "Bitcoin.ℏ",
+      "symbol": "BTC.ℏ[ava]",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/55129/thumb/f115df06-998b-4fa8-a582-9b8b68a92a8a-removebg-preview.png?1743921946",
+      "chainId": 43114,
+      "decimals": 8
+    },
+    {
       "address": "0x31c994AC062C1970C086260Bc61babB708643fAc",
       "name": "XANA",
       "symbol": "XETA",
@@ -1104,14 +1112,6 @@
       "name": "HUNDRED",
       "symbol": "HUNDRED",
       "logoURI": "https://assets.coingecko.com/coins/images/31876/large/img200.png?1695355084",
-      "chainId": 43114,
-      "decimals": 18
-    },
-    {
-      "address": "0x45C13620B55C35A5f539d26E88247011Eb10fDbd",
-      "name": "Hurricane Token",
-      "symbol": "HCT",
-      "logoURI": "https://assets.coingecko.com/coins/images/18912/large/hurricane.PNG?1633911773",
       "chainId": 43114,
       "decimals": 18
     },
@@ -1646,13 +1646,6 @@
       "name": "Aave Token",
       "symbol": "AAVE.e",
       "logoURI": "https://assets.coingecko.com/coins/images/12645/large/AAVE.png?1601374110",
-      "chainId": 43114,
-      "decimals": 18
-    },
-    {
-      "address": "0x63dc3cA01ff09E714C8108Ffd6F8A3E0b8CD13e4",
-      "name": "Zum Token",
-      "symbol": "ZUM",
       "chainId": 43114,
       "decimals": 18
     },
@@ -2457,14 +2450,6 @@
       "decimals": 18
     },
     {
-      "address": "0x94960952876e3ED6A7760B198354fCc5319A406a",
-      "name": "RBX",
-      "symbol": "RBX",
-      "logoURI": "https://assets.coingecko.com/coins/images/19253/large/output-onlinepngtools-9.png?1634801960",
-      "chainId": 43114,
-      "decimals": 18
-    },
-    {
       "address": "0x94f9bB5c972285728DCee7EAece48BeC2fF341ce",
       "name": "Staked Stream USD",
       "symbol": "xUSD",
@@ -2674,7 +2659,7 @@
       "address": "0x9eE1963f05553eF838604Dd39403be21ceF26AA4",
       "name": "USDp",
       "symbol": "USDp",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/43114/0x9eE1963f05553eF838604Dd39403be21ceF26AA4/logo-128.png",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/69613/thumb/usdp.png?1759221769",
       "chainId": 43114,
       "decimals": 18
     },
@@ -3399,14 +3384,6 @@
       "decimals": 18
     },
     {
-      "address": "0xFa7664F2385743B73369bdC9427CDb2A942aF809",
-      "name": "xArcade Token",
-      "symbol": "xARC",
-      "logoURI": "https://assets.coingecko.com/coins/images/36682/large/Arcade_200_x_200.png?1712067926",
-      "chainId": 43114,
-      "decimals": 18
-    },
-    {
       "address": "0xFc6Da929c031162841370af240dEc19099861d3B",
       "name": "Domi",
       "symbol": "DOMI",
@@ -3717,6 +3694,14 @@
       "decimals": 18
     },
     {
+      "address": "0xc53ac24320E3A54C7211e4993c8095078a0Cb3Cf",
+      "name": "Wild Goat Coin",
+      "symbol": "WGC",
+      "logoURI": "https://assets.coingecko.com/coins/images/37966/large/wgc.jpeg?1716185156",
+      "chainId": 43114,
+      "decimals": 6
+    },
+    {
       "address": "0xc69Eba65e87889f0805dB717Af06797055A0BA07",
       "name": "NitroNetwork",
       "symbol": "ncash",
@@ -3884,28 +3869,12 @@
       "decimals": 18
     },
     {
-      "address": "0xe19A1684873faB5Fb694CfD06607100A632fF21c",
-      "name": "BavaToken",
-      "symbol": "BAVA",
-      "logoURI": "https://assets.coingecko.com/coins/images/23780/large/200x200_BAVA_LOGO_%282%29.png?1645435712",
-      "chainId": 43114,
-      "decimals": 18
-    },
-    {
       "address": "0xe1bFC96d95BAdCB10Ff013Cb0C9C6c737ca07009",
       "name": "Wrapped Aave Avalanche USDC",
       "symbol": "waAvaUSDC",
       "logoURI": "https://coin-images.coingecko.com/coins/images/68177/thumb/usdc.jpg?1755003628",
       "chainId": 43114,
       "decimals": 6
-    },
-    {
-      "address": "0xe3B3F75f99Da4fF26AA867ef70B48F8f6B2D4958",
-      "name": "Megaweapon",
-      "symbol": "WEAPON",
-      "logoURI": "https://assets.coingecko.com/coins/images/20833/large/megaweapon.jpg?1649152531",
-      "chainId": 43114,
-      "decimals": 9
     },
     {
       "address": "0xe50fA9b3c56FfB159cB0FCA61F5c9D750e8128c8",
@@ -4012,14 +3981,6 @@
       "decimals": 18
     },
     {
-      "address": "0xf5f3216E9fed36F8cCf08D310FEc6FBf7f06200f",
-      "name": "BOBS",
-      "symbol": "BOBS",
-      "logoURI": "https://asset-images.messari.io/images/8faaa272-376c-4439-9596-23e26b8b5eee/128.png",
-      "chainId": 43114,
-      "decimals": 18
-    },
-    {
       "address": "0xf9FB20B8E097904f0aB7d12e9DbeE88f2dcd0F16",
       "name": "Stable Coin",
       "symbol": "SBC",
@@ -4064,14 +4025,6 @@
       "name": "Wirex Token",
       "symbol": "WXT",
       "logoURI": "https://tokens.1inch.io/0xfcde4a87b8b6fa58326bb462882f1778158b02f1.png",
-      "chainId": 43114,
-      "decimals": 18
-    },
-    {
-      "address": "0xfcc6CE74f4cd7eDEF0C5429bB99d38A3608043a5",
-      "name": "FIRE",
-      "symbol": "FIRE",
-      "logoURI": "https://assets.coingecko.com/coins/images/22709/large/2QuHdcO.png?1642469283",
       "chainId": 43114,
       "decimals": 18
     }

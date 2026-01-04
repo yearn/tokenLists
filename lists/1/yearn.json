@@ -1,10 +1,10 @@
 {
   "name": "Yearn Token List",
   "description": "",
-  "timestamp": "2025-12-28T02:05:25Z",
+  "timestamp": "2026-01-04T02:05:28Z",
   "version": {
     "major": 46,
-    "minor": 10,
+    "minor": 11,
     "patch": 0
   },
   "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e/logo.svg",
@@ -5201,6 +5201,14 @@
       "decimals": 18
     },
     {
+      "address": "0x31F9e6692e87D81ff8d64De1f475FCe6880a030f",
+      "name": "YT Strata Senior USDe 2APR2026",
+      "symbol": "YT-srUSDe-2APR2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x31F9e6692e87D81ff8d64De1f475FCe6880a030f/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0x31a7308A2308CC2bCa8E1e701c53A8d8D0B55254",
       "name": "YT Morpho Pendle WBTC 26JUN2025",
       "symbol": "YT-Morpho-pWBTC-26JUN2025",
@@ -8285,6 +8293,14 @@
       "name": "Principal Token: afCVX-1727222454",
       "symbol": "PT-afCVX-1727222454",
       "logoURI": "https://assets.smold.app/api/token/1/0x4F65A884eB41cd09a2F0a4505De2c6d698A78C73/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x4F6673346aB4813F1665327aB39087008Cc7d76F",
+      "name": "SY Strata Junior USDe",
+      "symbol": "SY-jrUSDe",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x4F6673346aB4813F1665327aB39087008Cc7d76F/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -16710,6 +16726,14 @@
       "decimals": 18
     },
     {
+      "address": "0x9Bf45ab47747F4B4dD09B3C2c73953484b4eB375",
+      "name": "PT Strata Senior USDe 2APR2026",
+      "symbol": "PT-srUSDe-2APR2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x9Bf45ab47747F4B4dD09B3C2c73953484b4eB375/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0x9C3a4C14a249504b4CDCf5c27867Be790C92BB05",
       "name": "Yearn-Ajna Pool dETH/WETH Vault",
       "symbol": "yv-ajna-deth-weth",
@@ -17536,6 +17560,14 @@
       "decimals": 18
     },
     {
+      "address": "0xA595FC1B1D45EA8C3f1Cd73078F5104e716327BC",
+      "name": "YT Strata Junior USDe 2APR2026",
+      "symbol": "YT-jrUSDe-2APR2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xA595FC1B1D45EA8C3f1Cd73078F5104e716327BC/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0xA5B947687163FE88C3e6af5b17Ae69896F4abccf",
       "name": "Poseidon - H2O Governance Token",
       "symbol": "PSDN",
@@ -17923,6 +17955,14 @@
       "name": "Curve.fi Factory USD Metapool: eUSD+FRAX/USDC (FRAXBP)",
       "symbol": "eUSD3CRV-f",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xAEda92e6A3B1028edc139A4ae56Ec881f3064D4F/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xAFB7d6d1e9BcA5B675aDC9b4f52F0CDfDdec9654",
+      "name": "PLP Strata Senior USDe 2APR2026",
+      "symbol": "PLP-srUSDe-2APR2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xAFB7d6d1e9BcA5B675aDC9b4f52F0CDfDdec9654/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -24488,6 +24528,14 @@
       "decimals": 18
     },
     {
+      "address": "0xc9bfeBc79a722C05Dc34bd2A227eF2db19Fd1b8E",
+      "name": "SY Strata Senior USDe",
+      "symbol": "SY-srUSDe",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xc9bfeBc79a722C05Dc34bd2A227eF2db19Fd1b8E/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0xc9e146B126f4ca0Aa8edA3BDBCd76a960B4dcba7",
       "name": "Curve USD3-sUSDS Factory yVault",
       "symbol": "yvCurve-USD3-sUSDS-f",
@@ -24931,6 +24979,14 @@
       "name": "Curve xETH Factory yVault",
       "symbol": "yvCurve-xETH-f",
       "logoURI": "https://assets.coingecko.com/coins/images/11849/large/yfi-192x192.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xd0609Ac13000d88B0BEbf5Bb21074916eDd92Bb1",
+      "name": "PT Strata Junior USDe 2APR2026",
+      "symbol": "PT-jrUSDe-2APR2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xd0609Ac13000d88B0BEbf5Bb21074916eDd92Bb1/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -27198,6 +27254,14 @@
       "name": "Ondo",
       "symbol": "ONDO",
       "logoURI": "https://assets.coingecko.com/coins/images/26580/large/ONDO.png?1696525656",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xfAbEEFC5369aA5270B401f4Ee062D17fb5f1EC2A",
+      "name": "PLP Strata Junior USDe 2APR2026",
+      "symbol": "PLP-jrUSDe-2APR2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xfAbEEFC5369aA5270B401f4Ee062D17fb5f1EC2A/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },

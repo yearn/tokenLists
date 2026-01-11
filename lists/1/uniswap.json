@@ -1,10 +1,10 @@
 {
   "name": "Uniswap Labs Default",
   "description": "",
-  "timestamp": "2026-01-04T02:08:59Z",
+  "timestamp": "2026-01-11T02:13:58Z",
   "version": {
     "major": 25,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   },
   "logoURI": "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
@@ -387,6 +387,14 @@
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x226bb599a12C826476e3A771454697EA52E9E220/logo-128.png",
       "chainId": 1,
       "decimals": 8
+    },
+    {
+      "address": "0x232CE3bd40fCd6f80f3d55A522d03f25Df784Ee2",
+      "name": "Lighter",
+      "symbol": "LIT",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x232CE3bd40fCd6f80f3d55A522d03f25Df784Ee2/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
     },
     {
       "address": "0x23894DC9da6c94ECb439911cAF7d337746575A72",

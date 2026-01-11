@@ -1,10 +1,10 @@
 {
   "name": "Uniswap Labs Default",
   "description": "",
-  "timestamp": "2026-01-04T02:08:59Z",
+  "timestamp": "2026-01-11T02:13:58Z",
   "version": {
     "major": 25,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   },
   "logoURI": "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
@@ -387,6 +387,14 @@
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x226bb599a12C826476e3A771454697EA52E9E220/logo-128.png",
       "chainId": 1,
       "decimals": 8
+    },
+    {
+      "address": "0x232CE3bd40fCd6f80f3d55A522d03f25Df784Ee2",
+      "name": "Lighter",
+      "symbol": "LIT",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x232CE3bd40fCd6f80f3d55A522d03f25Df784Ee2/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
     },
     {
       "address": "0x23894DC9da6c94ECb439911cAF7d337746575A72",
@@ -2778,7 +2786,7 @@
       "address": "0x0994206dfE8De6Ec6920FF4D779B0d950605Fb53",
       "name": "Curve DAO Token",
       "symbol": "CRV",
-      "logoURI": "ipfs://QmcVbt1ezDs89zPw5rgaR9xy5f3bdE7dxvTz958FeFNgfQ",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xD533a949740bb3306d119CC777fa900bA034cd52/logo.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -3145,7 +3153,7 @@
       "address": "0xEc6adef5E1006bb305bB1975333e8fc4071295bf",
       "name": "Cartesi Token",
       "symbol": "CTSI",
-      "logoURI": "ipfs://QmUGwJaAgBCUqg2iF3hVG3FdzTjUmUxDDP6MmaxCeMhEae",
+      "logoURI": "https://assets.coingecko.com/coins/images/11038/large/cartesi.png?1592288021",
       "chainId": 10,
       "decimals": 18
     },
@@ -3177,7 +3185,7 @@
       "address": "0xFE8B128bA8C78aabC59d4c64cEE7fF28e9379921",
       "name": "Balancer",
       "symbol": "BAL",
-      "logoURI": "ipfs://QmeVnk6jkW8J9ZHFxsLVamMNHpz9bigp7tsY2CJuxas297",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xba100000625a3754423978a60c9317c58a424e3D/logo.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -3225,7 +3233,7 @@
       "address": "0xaf8cA653Fa2772d58f4368B0a71980e9E3cEB888",
       "name": "Tellor",
       "symbol": "TRB",
-      "logoURI": "ipfs://QmbQVgV3iHf75aQ5ijJsfmgm2U8J8f2mACeMbaeCSgGFou",
+      "logoURI": "https://assets.coingecko.com/coins/images/9644/large/Blk_icon_current.png?1584980686",
       "chainId": 10,
       "decimals": 18
     },
@@ -5848,6 +5856,13 @@
       "decimals": 18
     },
     {
+      "address": "0xAA61bB7777bD01B684347961918f1E07fBbCe7CF",
+      "name": "ZK Coin",
+      "symbol": "ZKC",
+      "chainId": 8453,
+      "decimals": 18
+    },
+    {
       "address": "0xAC1Bd2486aAf3B5C0fc3Fd868558b082a531B2B4",
       "name": "Toshi",
       "symbol": "TOSHI",
@@ -7853,6 +7868,7 @@
       "address": "0xAEC8318a9a59bAEb39861d10ff6C7f7bf1F96C57",
       "name": "EURA (previously agEUR)",
       "symbol": "EURA",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/43114/0xAEC8318a9a59bAEb39861d10ff6C7f7bf1F96C57/logo-128.png",
       "chainId": 43114,
       "decimals": 18
     },

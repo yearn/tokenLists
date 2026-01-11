@@ -1,10 +1,10 @@
 {
   "name": "Bebop",
   "description": "",
-  "timestamp": "2026-01-04T02:08:48Z",
+  "timestamp": "2026-01-11T02:05:31Z",
   "version": {
-    "major": 25,
-    "minor": 1,
+    "major": 26,
+    "minor": 0,
     "patch": 0
   },
   "logoURI": "https://bebop-public-images.s3.eu-west-2.amazonaws.com/bebop-logo.png",
@@ -71,6 +71,14 @@
       "name": "Cisco xStock",
       "symbol": "CSCOx",
       "logoURI": "https://coin-images.coingecko.com/coins/images/55604/thumb/Ticker_CSCO__Company_Name_Cisco_Systems_Inc.__size_200x200_2x.png?1746858247",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x086F405146Ce90135750Bbec9A063a8B20A8bfFb",
+      "name": "Brevis Token",
+      "symbol": "BREV",
+      "logoURI": "https://assets.coingecko.com/coins/images/71219/large/brevis.png?1766454723",
       "chainId": 1,
       "decimals": 18
     },
@@ -1639,14 +1647,6 @@
       "logoURI": "https://asset-images.messari.io/images/b75f55a2-01fe-4c5c-9d40-101c21441e85/128.png",
       "chainId": 1,
       "decimals": 18
-    },
-    {
-      "address": "0xEE2a03Aa6Dacf51C18679C516ad5283d8E7C2637",
-      "name": "Neiro",
-      "symbol": "NEIRO",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xEE2a03Aa6Dacf51C18679C516ad5283d8E7C2637/logo-128.png",
-      "chainId": 1,
-      "decimals": 9
     },
     {
       "address": "0xEEdb0273c5Af792745180e9fF568cD01550fFA13",

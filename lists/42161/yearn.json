@@ -1,10 +1,10 @@
 {
   "name": "Yearn Token List",
   "description": "",
-  "timestamp": "2026-01-11T02:07:50Z",
+  "timestamp": "2026-01-18T02:17:01Z",
   "version": {
     "major": 47,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   },
   "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e/logo.svg",
@@ -163,6 +163,14 @@
       "decimals": 18
     },
     {
+      "address": "0x08701dB4D31E0E88bD338FdeB38FF391CC75BcF8",
+      "name": "YT gUSDC 25JUN2026",
+      "symbol": "YT-gUSDC-25JUN2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x08701dB4D31E0E88bD338FdeB38FF391CC75BcF8/logo-128.png",
+      "chainId": 42161,
+      "decimals": 6
+    },
+    {
       "address": "0x088cd8f5eF3652623c22D48b1605DCfE860Cd704",
       "name": "VelaToken",
       "symbol": "VELA",
@@ -201,6 +209,14 @@
       "logoURI": "https://assets.coingecko.com/coins/images/28600/large/bonk.jpg?1672304290",
       "chainId": 42161,
       "decimals": 5
+    },
+    {
+      "address": "0x0934E592cEe932b04B3967162b3CD6c85748C470",
+      "name": "PLP gUSDC 25JUN2026",
+      "symbol": "PLP-gUSDC-25JUN2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x0934E592cEe932b04B3967162b3CD6c85748C470/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
     },
     {
       "address": "0x0A1a1A107E45b7Ced86833863f482BC5f4ed82EF",
@@ -3827,6 +3843,14 @@
       "logoURI": "https://assets.smold.app/api/token/42161/0x97E2768e8E73511cA874545DC5Ff8067eB19B787/logo-128.png",
       "chainId": 42161,
       "decimals": 18
+    },
+    {
+      "address": "0x97c1a4AE3E0DA8009aFf13e3e3EE7eA5ee4Afe84",
+      "name": "PT gUSDC 25JUN2026",
+      "symbol": "PT-gUSDC-25JUN2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x97c1a4AE3E0DA8009aFf13e3e3EE7eA5ee4Afe84/logo-128.png",
+      "chainId": 42161,
+      "decimals": 6
     },
     {
       "address": "0x983B04920F4B73eA6a772363AAc68A810d036380",

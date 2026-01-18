@@ -1,9 +1,9 @@
 {
   "name": "Arbitrum",
   "description": "A curated list of popular tokens from all the token lists on tokenlistooor.",
-  "timestamp": "2026-01-11T02:15:07Z",
+  "timestamp": "2026-01-18T02:19:12Z",
   "version": {
-    "major": 108,
+    "major": 109,
     "minor": 0,
     "patch": 0
   },
@@ -333,14 +333,6 @@
       "name": "Coinbase Wrapped Staked ETH",
       "symbol": "cbETH",
       "logoURI": "https://assets.coingecko.com/coins/images/27008/large/cbeth.png",
-      "chainId": 42161,
-      "decimals": 18
-    },
-    {
-      "address": "0x20547341E58fB558637FA15379C92e11F7b7F710",
-      "name": "Mozaic Token",
-      "symbol": "MOZ",
-      "logoURI": "missing_thumb.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -690,14 +682,6 @@
       "name": "MUX Protocol",
       "symbol": "MCB",
       "logoURI": "https://tokens.1inch.io/0x4e352cf164e64adcbad318c3a1e222e9eba4ce42.png",
-      "chainId": 42161,
-      "decimals": 18
-    },
-    {
-      "address": "0x500756c7D239AeE30f52C7e52AF4F4F008d1A98f",
-      "name": "OIL",
-      "symbol": "OIL",
-      "logoURI": "https://assets.coingecko.com/coins/images/28350/large/OIL_200.png?1669770894",
       "chainId": 42161,
       "decimals": 18
     },
@@ -1259,14 +1243,6 @@
       "decimals": 18
     },
     {
-      "address": "0x8929e9DbD2785e3BA16175E596CDD61520feE0D1",
-      "name": "Altitude",
-      "symbol": "ALTD",
-      "logoURI": "https://assets.coingecko.com/coins/images/30114/large/logo.png?1683102953",
-      "chainId": 42161,
-      "decimals": 18
-    },
-    {
       "address": "0x8B0E6f19Ee57089F7649A455D89D7bC6314D04e8",
       "name": "DMT",
       "symbol": "DMT",
@@ -1428,14 +1404,6 @@
       "name": "Multichain",
       "symbol": "MULTI",
       "logoURI": "https://arbiscan.io/token/images/multichain_32.png",
-      "chainId": 42161,
-      "decimals": 18
-    },
-    {
-      "address": "0x9b3fa2A7C3EB36d048A5d38d81E7fAFC6bc47B25",
-      "name": "Aluna",
-      "symbol": "ALN",
-      "logoURI": "https://arbiscan.io/token/images/aluna_32.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -1906,7 +1874,7 @@
       "address": "0xabD587f2607542723b17f14d00d99b987C29b074",
       "name": "SmarDex Token",
       "symbol": "SDEX",
-      "logoURI": "https://arbiscan.io/token/images/smardextoken_32.png",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xabD587f2607542723b17f14d00d99b987C29b074/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },

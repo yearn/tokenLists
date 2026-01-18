@@ -1,9 +1,9 @@
 {
   "name": "Tokenlistooor Token List",
   "description": "A curated list of tokens from all the token lists on tokenlistooor.",
-  "timestamp": "2026-01-11T02:14:01Z",
+  "timestamp": "2026-01-18T02:18:11Z",
   "version": {
-    "major": 366,
+    "major": 367,
     "minor": 0,
     "patch": 0
   },
@@ -49,6 +49,14 @@
       "decimals": 18
     },
     {
+      "address": "0x42E12D42b3d6C4A74a88A61063856756Ea2DB357",
+      "name": "Orbit Protocol",
+      "symbol": "ORBIT",
+      "logoURI": "https://assets.smold.app/api/token/81457/0x42E12D42b3d6C4A74a88A61063856756Ea2DB357/logo-128.png",
+      "chainId": 81457,
+      "decimals": 18
+    },
+    {
       "address": "0x4300000000000000000000000000000000000003",
       "name": "USDB",
       "symbol": "USDB",
@@ -77,14 +85,6 @@
       "name": "Aso Finance",
       "symbol": "ASO",
       "logoURI": "https://cms-cdn.avascan.com/cms2/asofinance_32.7fa979416d68.png",
-      "chainId": 81457,
-      "decimals": 18
-    },
-    {
-      "address": "0x59c159e5a4F4d1C86F7aBDC94B7907B7473477F6",
-      "name": "BlastUP Token",
-      "symbol": "BLASTUP",
-      "logoURI": "https://cms-cdn.avascan.com/cms2/blastup_32.17b6485cbf2d.png",
       "chainId": 81457,
       "decimals": 18
     },
@@ -145,14 +145,6 @@
       "decimals": 18
     },
     {
-      "address": "0x9bD75c164dAf830733AC2EA71A0258f95aac7C57",
-      "name": "BlastCat",
-      "symbol": "BCat",
-      "logoURI": "https://cms-cdn.avascan.com/cms2/200x200bcat-logo.cae99912e8eb.webp",
-      "chainId": 81457,
-      "decimals": 18
-    },
-    {
       "address": "0xA29c3072639F96bA797ec563820e4b0D7B08a574",
       "name": "ARYZE eUSD",
       "symbol": "eUSD",
@@ -165,14 +157,6 @@
       "name": "ARYZE eGBP",
       "symbol": "eGBP",
       "logoURI": "https://token-assets-one.vercel.app/api/token/81457/0xB7150937228C6d02ad32c27CE1AA01Bde93a0cBd/logo-128.png",
-      "chainId": 81457,
-      "decimals": 18
-    },
-    {
-      "address": "0xE070B87c4d88826D4cD1b85BAbE186fdB14CD321",
-      "name": "Cyberblast Token",
-      "symbol": "CBR",
-      "logoURI": "https://cms-cdn.avascan.com/cms2/cyberblast_32.5a90a5353890.png",
       "chainId": 81457,
       "decimals": 18
     },
@@ -196,6 +180,14 @@
       "address": "0xb1a5700fA2358173Fe465e6eA4Ff52E36e88E2ad",
       "name": "Blast",
       "symbol": "BLAST",
+      "chainId": 81457,
+      "decimals": 18
+    },
+    {
+      "address": "0xd07379a755A8f11B57610154861D694b2A0f615a",
+      "name": "SwapBlast Finance Token",
+      "symbol": "SBF",
+      "logoURI": "https://assets.smold.app/api/token/81457/0xd07379a755A8f11B57610154861D694b2A0f615a/logo-128.png",
       "chainId": 81457,
       "decimals": 18
     }

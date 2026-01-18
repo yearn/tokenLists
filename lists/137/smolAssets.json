@@ -1,10 +1,10 @@
 {
   "name": "SmolAssets",
   "description": "A list of tokens supported by Smoldapp Token Assets repository",
-  "timestamp": "2026-01-11T02:06:10Z",
+  "timestamp": "2026-01-18T02:17:56Z",
   "version": {
     "major": 26,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   },
   "logoURI": "https://raw.githubusercontent.com/smoldapp/tokenLists/main/.github/tokenlistooor.svg",
@@ -332,6 +332,14 @@
       "logoURI": "https://token-assets-one.vercel.app/api/token/137/0x63635A4426c02764487e41eCf74ffFec30872056/logo-128.png",
       "chainId": 137,
       "decimals": 6
+    },
+    {
+      "address": "0x6899fAcE15c14348E1759371049ab64A3a06bFA6",
+      "name": "SmarDex Token",
+      "symbol": "SDEX",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/137/0x6899fAcE15c14348E1759371049ab64A3a06bFA6/logo-128.png",
+      "chainId": 137,
+      "decimals": 18
     },
     {
       "address": "0x6Ed737EF2Ef74e04005dC9810366De5ad38Cf7D6",

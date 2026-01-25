@@ -1,9 +1,9 @@
 {
   "name": "Tokenlistooor Token List",
   "description": "A curated list of tokens from all the token lists on tokenlistooor.",
-  "timestamp": "2026-01-18T02:18:11Z",
+  "timestamp": "2026-01-25T02:14:44Z",
   "version": {
-    "major": 367,
+    "major": 368,
     "minor": 0,
     "patch": 0
   },
@@ -11,10 +11,26 @@
   "keywords": [],
   "tokens": [
     {
+      "address": "0x0CA1C1eC4EBf3CC67a9f545fF90a3795b318cA4a",
+      "name": "Curve EURe-3Crv",
+      "symbol": "crvEUReUSD",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/100/0x0CA1C1eC4EBf3CC67a9f545fF90a3795b318cA4a/logo-128.png",
+      "chainId": 100,
+      "decimals": 18
+    },
+    {
       "address": "0x177127622c4A00F3d409B75571e12cB3c8973d3c",
       "name": "CoW Protocol Token from Mainnet",
       "symbol": "COW",
       "logoURI": "https://token-assets-one.vercel.app/api/token/100/0x177127622c4A00F3d409B75571e12cB3c8973d3c/logo-128.png",
+      "chainId": 100,
+      "decimals": 18
+    },
+    {
+      "address": "0x1b66B4a3a80eBCFA3eCaBf5580cD9929ABa57bb1",
+      "name": "StrategyCurveNoBoostEURe",
+      "symbol": "yscrvEUReUSD",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/100/0x1b66B4a3a80eBCFA3eCaBf5580cD9929ABa57bb1/logo-128.png",
       "chainId": 100,
       "decimals": 18
     },
@@ -35,10 +51,26 @@
       "decimals": 18
     },
     {
+      "address": "0x39B68451F05Aaa020611CF887a7338f0991fFd60",
+      "name": "AJNA EURe yVault",
+      "symbol": "yvAjnaEURe",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/100/0x39B68451F05Aaa020611CF887a7338f0991fFd60/logo-128.png",
+      "chainId": 100,
+      "decimals": 18
+    },
+    {
       "address": "0x44fA8E6f47987339850636F88629646662444217",
       "name": "Dai Stablecoin on xDai",
       "symbol": "DAI",
       "logoURI": "https://tokens.1inch.io/0x6b175474e89094c44da98b954eedeac495271d0f.png",
+      "chainId": 100,
+      "decimals": 18
+    },
+    {
+      "address": "0x4B40C9FF9D654Fd7f1E24eD66d8f0f260b199b43",
+      "name": "Async-yvCurve-EURe",
+      "symbol": "ysEURe",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/100/0x4B40C9FF9D654Fd7f1E24eD66d8f0f260b199b43/logo-128.png",
       "chainId": 100,
       "decimals": 18
     },
@@ -59,6 +91,14 @@
       "decimals": 18
     },
     {
+      "address": "0x67Ee2155601e168F7777F169Cd74f3E22BB5E0cE",
+      "name": "AjnaToken from Mainnet",
+      "symbol": "AJNA",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/100/0x67Ee2155601e168F7777F169Cd74f3E22BB5E0cE/logo-128.png",
+      "chainId": 100,
+      "decimals": 18
+    },
+    {
       "address": "0x6A023CCd1ff6F2045C3309768eAd9E68F978f6e1",
       "name": "Wrapped Ether on xDai",
       "symbol": "WETH",
@@ -67,10 +107,18 @@
       "decimals": 18
     },
     {
-      "address": "0x78035b40e4a16EF7845454301C1dfCaFB0AcDfb7",
-      "name": "CANA Holdings California Carbon Credits from Mainnet",
-      "symbol": "CANA",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/100/0x78035b40e4a16EF7845454301C1dfCaFB0AcDfb7/logo-128.png",
+      "address": "0x94c5786393Ab223e0fC111D7463405F165CE86e3",
+      "name": "ajna-yvEURe-1-EURe",
+      "symbol": "ysEURe",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/100/0x94c5786393Ab223e0fC111D7463405F165CE86e3/logo-128.png",
+      "chainId": 100,
+      "decimals": 18
+    },
+    {
+      "address": "0x99474363F03D21375dA1aF4C9694cabCF995e02a",
+      "name": "Aave V3 EURe Lender",
+      "symbol": "ysEURe",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/100/0x99474363F03D21375dA1aF4C9694cabCF995e02a/logo-128.png",
       "chainId": 100,
       "decimals": 18
     },
@@ -83,10 +131,10 @@
       "decimals": 18
     },
     {
-      "address": "0x9eE1963f05553eF838604Dd39403be21ceF26AA4",
-      "name": "USDp",
-      "symbol": "USDp",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/100/0x9eE1963f05553eF838604Dd39403be21ceF26AA4/logo-128.png",
+      "address": "0xA48359e7E970BE9f38fB6D183C57c8d0b28268B9",
+      "name": "ajna-yvEURe-1-EURe",
+      "symbol": "ysEURe",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/100/0xA48359e7E970BE9f38fB6D183C57c8d0b28268B9/logo-128.png",
       "chainId": 100,
       "decimals": 18
     },
@@ -111,6 +159,14 @@
       "name": "xDai",
       "symbol": "xDAI",
       "logoURI": "https://token-assets-one.vercel.app/api/token/100/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE/logo-128.png",
+      "chainId": 100,
+      "decimals": 18
+    },
+    {
+      "address": "0xa21Cc1a4a239708690134bAeD3a1B93cAD55F625",
+      "name": "Curve EURe yVault",
+      "symbol": "yvCurve-EURe",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/100/0xa21Cc1a4a239708690134bAeD3a1B93cAD55F625/logo-128.png",
       "chainId": 100,
       "decimals": 18
     },

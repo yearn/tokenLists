@@ -1,9 +1,9 @@
 {
   "name": "DefiLlama",
   "description": "",
-  "timestamp": "2026-01-18T02:01:35Z",
+  "timestamp": "2026-01-25T02:08:26Z",
   "version": {
-    "major": 156,
+    "major": 157,
     "minor": 0,
     "patch": 0
   },
@@ -102,7 +102,7 @@
       "address": "0x0994206dfE8De6Ec6920FF4D779B0d950605Fb53",
       "name": "Curve DAO Token",
       "symbol": "CRV",
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xD533a949740bb3306d119CC777fa900bA034cd52/logo.png",
+      "logoURI": "ipfs://QmcVbt1ezDs89zPw5rgaR9xy5f3bdE7dxvTz958FeFNgfQ",
       "chainId": 10,
       "decimals": 18
     },
@@ -530,6 +530,14 @@
       "name": "BarnBridge Governance Token (Optimism)",
       "symbol": "BOND",
       "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x3e7eF8f50246f725885102E8238CBba33F276747/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x4186BFC76E2E237523CBC30FD220FE055156b41F",
+      "name": "KelpDao Restaked ETH",
+      "symbol": "rsETH",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x4186BFC76E2E237523CBC30FD220FE055156b41F/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -1100,14 +1108,6 @@
       "decimals": 18
     },
     {
-      "address": "0x8B21e9b7dAF2c4325bf3D18c1BeB79A347fE902A",
-      "name": "Collab.Land",
-      "symbol": "COLLAB",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x8B21e9b7dAF2c4325bf3D18c1BeB79A347fE902A/logo-128.png",
-      "chainId": 10,
-      "decimals": 18
-    },
-    {
       "address": "0x8Eb270e296023E9D92081fdF967dDd7878724424",
       "name": "Aave Optimism LUSD",
       "symbol": "aOptLUSD",
@@ -1575,7 +1575,7 @@
       "address": "0xFE8B128bA8C78aabC59d4c64cEE7fF28e9379921",
       "name": "Balancer",
       "symbol": "BAL",
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xba100000625a3754423978a60c9317c58a424e3D/logo.png",
+      "logoURI": "ipfs://QmeVnk6jkW8J9ZHFxsLVamMNHpz9bigp7tsY2CJuxas297",
       "chainId": 10,
       "decimals": 18
     },

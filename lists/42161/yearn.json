@@ -1,10 +1,10 @@
 {
   "name": "Yearn Token List",
   "description": "",
-  "timestamp": "2026-01-25T02:07:45Z",
+  "timestamp": "2026-02-01T02:43:31Z",
   "version": {
     "major": 47,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   },
   "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e/logo.svg",
@@ -2301,6 +2301,14 @@
       "name": "Pendle Market",
       "symbol": "PENDLE-LPT",
       "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x526C73E0bA9CeDb44546Da4506EaEe0b39Be8D76/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0x528A5bac7E746C9A509A1f4F6dF58A03d44279F9",
+      "name": "GMX Liquidity Vault [WETH-USDC]",
+      "symbol": "GLV [WETH-USDC]",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x528A5bac7E746C9A509A1f4F6dF58A03d44279F9/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -5719,6 +5727,14 @@
       "name": "Savings USDS",
       "symbol": "sUSDS",
       "logoURI": "https://coin-images.coingecko.com/coins/images/52721/thumb/sUSDS_Coin.png?1734086971",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0xdF03EEd325b82bC1d4Db8b49c30ecc9E05104b96",
+      "name": "GMX Liquidity Vault [WBTC-USDC]",
+      "symbol": "GLV [WBTC-USDC]",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xdF03EEd325b82bC1d4Db8b49c30ecc9E05104b96/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },

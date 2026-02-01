@@ -1,10 +1,10 @@
 {
   "name": "SmolAssets",
   "description": "A list of tokens supported by Smoldapp Token Assets repository",
-  "timestamp": "2026-01-25T02:14:12Z",
+  "timestamp": "2026-02-01T02:42:25Z",
   "version": {
     "major": 27,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   },
   "logoURI": "https://raw.githubusercontent.com/smoldapp/tokenLists/main/.github/tokenlistooor.svg",
@@ -1726,6 +1726,14 @@
       "decimals": 18
     },
     {
+      "address": "0x40e3d1A4B2C47d9AA61261F5606136ef73E28042",
+      "name": "OpenServ",
+      "symbol": "SERV",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x40e3d1A4B2C47d9AA61261F5606136ef73E28042/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0x410e3E86ef427e30B9235497143881f717d93c2A",
       "name": "Curve.fi bBTC/sbtcCRV",
       "symbol": "bBTC/sbtcCRV",
@@ -2378,6 +2386,14 @@
       "name": "Mountain Protocol USD",
       "symbol": "USDM",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x59D9356E565Ab3A36dD77763Fc0d87fEaf85508C/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x59DB93D135F16585ED90b8C942d4f8AE0DcFBFc0",
+      "name": "Rain Coin",
+      "symbol": "RAIN",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x59DB93D135F16585ED90b8C942d4f8AE0DcFBFc0/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -10254,10 +10270,290 @@
       "decimals": 18
     },
     {
+      "address": "0x048C4e07D170eEdEE8772cA76AEE1C4e2D133d5c",
+      "name": "USDp",
+      "symbol": "USDp",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/56/0x048C4e07D170eEdEE8772cA76AEE1C4e2D133d5c/logo-128.png",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "address": "0x11cd72f7A4B699c67f225ca8aBb20bC9F8DB90c7",
+      "name": "Osaka Protocol",
+      "symbol": "OSAK",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/56/0x11cd72f7A4B699c67f225ca8aBb20bC9F8DB90c7/logo-128.png",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "address": "0x241F21dF529C05289A00dAfeCEa10139A287cDCa",
+      "name": "Wrapped Elephant",
+      "symbol": "WELEPHANT",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/56/0x241F21dF529C05289A00dAfeCEa10139A287cDCa/logo-128.png",
+      "chainId": 56,
+      "decimals": 9
+    },
+    {
+      "address": "0x24b1C3f935DfFcADb606920022BA8C703BB065D7",
+      "name": "Rain Coin",
+      "symbol": "RAIN",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/56/0x24b1C3f935DfFcADb606920022BA8C703BB065D7/logo-128.png",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "address": "0x27f6c8289550fCE67f6B50BeD1F519966aFE5287",
+      "name": "tGBP",
+      "symbol": "tGBP",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/56/0x27f6c8289550fCE67f6B50BeD1F519966aFE5287/logo-128.png",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "address": "0x2dD087589ce9C5b2D1b42e20d2519B3c8cF022b7",
+      "name": "New Zealand Digital Dollar",
+      "symbol": "NZDD",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/56/0x2dD087589ce9C5b2D1b42e20d2519B3c8cF022b7/logo-128.png",
+      "chainId": 56,
+      "decimals": 6
+    },
+    {
+      "address": "0x4BfAa776991E85e5f8b1255461cbbd216cFc714f",
+      "name": "Home",
+      "symbol": "HOME",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/56/0x4BfAa776991E85e5f8b1255461cbbd216cFc714f/logo-128.png",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "address": "0x4E200fE2f3eFb977d5fd9c430A41531FB04d97B8",
+      "name": "Orderly Network",
+      "symbol": "ORDER",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/56/0x4E200fE2f3eFb977d5fd9c430A41531FB04d97B8/logo-128.png",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "address": "0x58A849E1f3c7044bB317DB4611269c352c53d399",
+      "name": "ARYZE eSGD",
+      "symbol": "eSGD",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/56/0x58A849E1f3c7044bB317DB4611269c352c53d399/logo-128.png",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "address": "0x58ea2Bb193B1429Cb90D24195E6ac4Ccb0B27a12",
+      "name": "vTAO",
+      "symbol": "vTAO",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/56/0x58ea2Bb193B1429Cb90D24195E6ac4Ccb0B27a12/logo-128.png",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "address": "0x6EF2FFB38D64aFE18ce782DA280b300e358CFeAF",
+      "name": "ACU",
+      "symbol": "ACU",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/56/0x6EF2FFB38D64aFE18ce782DA280b300e358CFeAF/logo-128.png",
+      "chainId": 56,
+      "decimals": 12
+    },
+    {
+      "address": "0x735fa792e731a2e8F83F32eb539841b7B72e6d8f",
+      "name": "ARYZE eEUR",
+      "symbol": "eEUR",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/56/0x735fa792e731a2e8F83F32eb539841b7B72e6d8f/logo-128.png",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "address": "0x764A726d9ceD0433A8D7643335919dEb03a9a935",
+      "name": "Pocket Network",
+      "symbol": "POKT",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/56/0x764A726d9ceD0433A8D7643335919dEb03a9a935/logo-128.png",
+      "chainId": 56,
+      "decimals": 6
+    },
+    {
+      "address": "0x79f294ae9C9257C1a8070Fd8ed66Bace24bc39D2",
+      "name": "BIGCOUSIN",
+      "symbol": "BIG",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/56/0x79f294ae9C9257C1a8070Fd8ed66Bace24bc39D2/logo-128.png",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "address": "0x7CCa7C8E9221462F634f957aa8512118953cd127",
+      "name": "XION",
+      "symbol": "XION",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/56/0x7CCa7C8E9221462F634f957aa8512118953cd127/logo-128.png",
+      "chainId": 56,
+      "decimals": 6
+    },
+    {
+      "address": "0x868FCEd65edBF0056c4163515dD840e9f287A4c3",
+      "name": "Sign",
+      "symbol": "SIGN",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/56/0x868FCEd65edBF0056c4163515dD840e9f287A4c3/logo-128.png",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "address": "0x8b194370825E37b33373e74A41009161808C1488",
+      "name": "Velvet",
+      "symbol": "VELVET",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/56/0x8b194370825E37b33373e74A41009161808C1488/logo-128.png",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "address": "0x915424Ac489433130d92B04096F3b96c82e92a9D",
+      "name": "Prosper",
+      "symbol": "PROS",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/56/0x915424Ac489433130d92B04096F3b96c82e92a9D/logo-128.png",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "address": "0x97693439EA2f0ecdeb9135881E49f354656a911c",
+      "name": "RaveDAO",
+      "symbol": "RAVE",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/56/0x97693439EA2f0ecdeb9135881E49f354656a911c/logo-128.png",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "address": "0x9C7BEBa8F6eF6643aBd725e45a4E8387eF260649",
+      "name": "Gravity",
+      "symbol": "G",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/56/0x9C7BEBa8F6eF6643aBd725e45a4E8387eF260649/logo-128.png",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "address": "0xC9d23ED2ADB0f551369946BD377f8644cE1ca5c4",
+      "name": "Hyperlane",
+      "symbol": "HYPER",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/56/0xC9d23ED2ADB0f551369946BD377f8644cE1ca5c4/logo-128.png",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "address": "0xD711D7D893de57dc13Ff465763218770Bd42DB1D",
+      "name": "ARYZE eGBP",
+      "symbol": "eGBP",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/56/0xD711D7D893de57dc13Ff465763218770Bd42DB1D/logo-128.png",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "address": "0xDBB5Cf12408a3Ac17d668037Ce289f9eA75439D7",
+      "name": "WorldMobileToken",
+      "symbol": "WMTX",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/56/0xDBB5Cf12408a3Ac17d668037Ce289f9eA75439D7/logo-128.png",
+      "chainId": 56,
+      "decimals": 6
+    },
+    {
+      "address": "0xDd673Ef19CB3B0574F4FcbBFbC42AD7d9A5b1614",
+      "name": "Solum Gold",
+      "symbol": "sgGOLD",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/56/0xDd673Ef19CB3B0574F4FcbBFbC42AD7d9A5b1614/logo-128.png",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "address": "0xE231DB5F348d709239Ef1741EA30961B3B635a61",
+      "name": "ynETH MAX",
+      "symbol": "ynETHx",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/56/0xE231DB5F348d709239Ef1741EA30961B3B635a61/logo-128.png",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "address": "0xE5c7E29a2BBad0C6C1B68CbD9ab0CF6837F02d7c",
+      "name": "Solum Dollar",
+      "symbol": "sgUSD",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/56/0xE5c7E29a2BBad0C6C1B68CbD9ab0CF6837F02d7c/logo-128.png",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "name": "Binance Smart Chain",
       "symbol": "BNB",
       "logoURI": "https://token-assets-one.vercel.app/api/token/56/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE/logo-128.png",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "address": "0xF50FFf154E63E510e494929E9eab1E9C5047429E",
+      "name": "ENSC",
+      "symbol": "ENSC",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/56/0xF50FFf154E63E510e494929E9eab1E9C5047429E/logo-128.png",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "address": "0xFdc66A08B0d0Dc44c17bbd471B88f49F50CdD20F",
+      "name": "SmarDex Token",
+      "symbol": "SDEX",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/56/0xFdc66A08B0d0Dc44c17bbd471B88f49F50CdD20F/logo-128.png",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "address": "0xa1832f7F4e534aE557f9B5AB76dE54B1873e498B",
+      "name": "CreatorBid",
+      "symbol": "BID",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/56/0xa1832f7F4e534aE557f9B5AB76dE54B1873e498B/logo-128.png",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "address": "0xa4335da338ec4C07C391Fc1A9bF75F306adadc08",
+      "name": "ARYZE eUSD",
+      "symbol": "eUSD",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/56/0xa4335da338ec4C07C391Fc1A9bF75F306adadc08/logo-128.png",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "address": "0xc11158c5dA9db1D553ED28f0C2BA1CbEDD42CFcb",
+      "name": "Wrapped PAW",
+      "symbol": "wPAW",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/56/0xc11158c5dA9db1D553ED28f0C2BA1CbEDD42CFcb/logo-128.png",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "address": "0xc9401BA3F608ABa00B82D3114F29f87d2146c4B6",
+      "name": "INDONESIA",
+      "symbol": "INDO",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/56/0xc9401BA3F608ABa00B82D3114F29f87d2146c4B6/logo-128.png",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "address": "0xdA7AD9dea9397cffdDAE2F8a052B82f1484252B3",
+      "name": "River",
+      "symbol": "RIVER",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/56/0xdA7AD9dea9397cffdDAE2F8a052B82f1484252B3/logo-128.png",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "address": "0xea17Df5Cf6D172224892B5477A16ACb111182478",
+      "name": "elizaOS",
+      "symbol": "elizaOS",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/56/0xea17Df5Cf6D172224892B5477A16ACb111182478/logo-128.png",
+      "chainId": 56,
+      "decimals": 9
+    },
+    {
+      "address": "0xfb6115445Bff7b52FeB98650C87f44907E58f802",
+      "name": "Aave Token",
+      "symbol": "AAVE",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/56/0xfb6115445Bff7b52FeB98650C87f44907E58f802/logo-128.png",
       "chainId": 56,
       "decimals": 18
     },
@@ -10582,6 +10878,14 @@
       "decimals": 18
     },
     {
+      "address": "0x2b72C03feAf5f6B624Db83974054848C9dF2c8e7",
+      "name": "Wrapped Rain Coin",
+      "symbol": "wRAIN",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/137/0x2b72C03feAf5f6B624Db83974054848C9dF2c8e7/logo-128.png",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
       "address": "0x2bC07124D8dAc638E290f401046Ad584546BC47b",
       "name": "TOWER",
       "symbol": "TOWER",
@@ -10860,6 +11164,14 @@
       "logoURI": "https://token-assets-one.vercel.app/api/token/137/0x8BBa7AFd0f9B1b664C161EC31d812a8Ec15f7e1a/logo-128.png",
       "chainId": 137,
       "decimals": 6
+    },
+    {
+      "address": "0x8E677CA17065eD74675BC27bCaBadB7Eef10A292",
+      "name": "Rain Coin",
+      "symbol": "RAIN",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/137/0x8E677CA17065eD74675BC27bCaBadB7Eef10A292/logo-128.png",
+      "chainId": 137,
+      "decimals": 18
     },
     {
       "address": "0x8dd3BF71eF18dd88869d128BDE058C9d8c270176",
@@ -13662,6 +13974,14 @@
       "decimals": 18
     },
     {
+      "address": "0x4E21eABf4fC4cF66f10a93395E4B0e2438de81a6",
+      "name": "Rain Coin",
+      "symbol": "RAIN",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0x4E21eABf4fC4cF66f10a93395E4B0e2438de81a6/logo-128.png",
+      "chainId": 8453,
+      "decimals": 18
+    },
+    {
       "address": "0x4E74D4Db6c0726ccded4656d0BCE448876BB4C7A",
       "name": "Wrapped BMX Liquidity Token",
       "symbol": "wBLT",
@@ -13882,6 +14202,14 @@
       "name": "MAHA.xyz",
       "symbol": "MAHA",
       "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0x554bba833518793056CF105E66aBEA330672c0dE/logo-128.png",
+      "chainId": 8453,
+      "decimals": 18
+    },
+    {
+      "address": "0x5576D6ed9181F2225afF5282Ac0ED29f755437Ea",
+      "name": "OpenServ",
+      "symbol": "SERV",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0x5576D6ed9181F2225afF5282Ac0ED29f755437Ea/logo-128.png",
       "chainId": 8453,
       "decimals": 18
     },
@@ -15414,6 +15742,14 @@
       "decimals": 18
     },
     {
+      "address": "0x989cFDC3508500d0C91f22896a0D2ee1Ef675870",
+      "name": "TRON",
+      "symbol": "TRX",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0x989cFDC3508500d0C91f22896a0D2ee1Ef675870/logo-128.png",
+      "chainId": 8453,
+      "decimals": 6
+    },
+    {
       "address": "0x98D59767CD1335071A4E9b9d3482685C915131E8",
       "name": "dreamcoins",
       "symbol": "dream",
@@ -15626,6 +15962,14 @@
       "name": "Volatile AMM - WETH/DEUS",
       "symbol": "vAMM-WETH/DEUS",
       "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0x9e4CB8b916289864321661CE02cf66aa5BA63C94/logo-128.png",
+      "chainId": 8453,
+      "decimals": 18
+    },
+    {
+      "address": "0x9f86dB9fc6f7c9408e8Fda3Ff8ce4e78ac7a6b07",
+      "name": "clawd.atg.eth",
+      "symbol": "CLAWD",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0x9f86dB9fc6f7c9408e8Fda3Ff8ce4e78ac7a6b07/logo-128.png",
       "chainId": 8453,
       "decimals": 18
     },
@@ -15962,6 +16306,14 @@
       "name": "BLOCKLORDS",
       "symbol": "LRDS",
       "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0xB676f87A6E701f0DE8De5Ab91B56b66109766DB1/logo-128.png",
+      "chainId": 8453,
+      "decimals": 18
+    },
+    {
+      "address": "0xB695559b26BB2c9703ef1935c37AeaE9526bab07",
+      "name": "Moltbook",
+      "symbol": "MOLT",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0xB695559b26BB2c9703ef1935c37AeaE9526bab07/logo-128.png",
       "chainId": 8453,
       "decimals": 18
     },
@@ -17934,6 +18286,14 @@
       "decimals": 18
     },
     {
+      "address": "0xedB6970B7BE5A522cFf14c8b679a2D813FF97b4D",
+      "name": "SURGE",
+      "symbol": "SURGE",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0xedB6970B7BE5A522cFf14c8b679a2D813FF97b4D/logo-128.png",
+      "chainId": 8453,
+      "decimals": 18
+    },
+    {
       "address": "0xeeC468333ccc16D4BF1cEf497A56cf8C0aAe4Ca3",
       "name": "Anzen Token",
       "symbol": "ANZ",
@@ -18026,6 +18386,14 @@
       "name": "Stable AMM - LUSD/USDC",
       "symbol": "sAMM-LUSD/USDC",
       "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0xf53B7Af40BE75043eeBa493C622F4f56b3C27A31/logo-128.png",
+      "chainId": 8453,
+      "decimals": 18
+    },
+    {
+      "address": "0xf66F158dAfCDb37e7F3a3d76151Ed076941c17dB",
+      "name": "Memer 么么儿",
+      "symbol": "MEMER",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0xf66F158dAfCDb37e7F3a3d76151Ed076941c17dB/logo-128.png",
       "chainId": 8453,
       "decimals": 18
     },

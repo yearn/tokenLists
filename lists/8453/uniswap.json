@@ -1,10 +1,10 @@
 {
   "name": "Uniswap Labs Default",
   "description": "",
-  "timestamp": "2026-01-25T02:14:39Z",
+  "timestamp": "2026-02-01T02:46:23Z",
   "version": {
     "major": 26,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   },
   "logoURI": "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
@@ -48,6 +48,14 @@
       "name": "Syndicate",
       "symbol": "SYND",
       "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0x11dC28D01984079b7efE7763b533e6ed9E3722B9/logo-128.png",
+      "chainId": 8453,
+      "decimals": 18
+    },
+    {
+      "address": "0x16EE7ecAc70d1028E7712751E2Ee6BA808a7dd92",
+      "name": "Sport.fun",
+      "symbol": "FUN",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0x16EE7ecAc70d1028E7712751E2Ee6BA808a7dd92/logo-128.png",
       "chainId": 8453,
       "decimals": 18
     },
@@ -142,6 +150,14 @@
       "address": "0x259Fac10c5CbFEFE3E710e1D9467f70a76138d45",
       "name": "Cartesi Token",
       "symbol": "CTSI",
+      "chainId": 8453,
+      "decimals": 18
+    },
+    {
+      "address": "0x29cC30f9D113B356Ce408667aa6433589CeCBDcA",
+      "name": "Elsa",
+      "symbol": "ELSA",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0x29cC30f9D113B356Ce408667aa6433589CeCBDcA/logo-128.png",
       "chainId": 8453,
       "decimals": 18
     },

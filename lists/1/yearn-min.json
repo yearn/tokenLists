@@ -1,10 +1,10 @@
 {
   "name": "Yearn Minimal Token List",
   "description": "",
-  "timestamp": "2026-01-25T02:09:23Z",
+  "timestamp": "2026-02-01T02:36:27Z",
   "version": {
     "major": 12,
-    "minor": 3,
+    "minor": 4,
     "patch": 0
   },
   "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e/logo.svg",
@@ -3360,6 +3360,14 @@
       "decimals": 18
     },
     {
+      "address": "0x4D654F255D54637112844bd8802b716170904FeE",
+      "name": "SY Flagship USDC SuperVault",
+      "symbol": "SY-superUSDC",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x4D654F255D54637112844bd8802b716170904FeE/logo-128.png",
+      "chainId": 1,
+      "decimals": 6
+    },
+    {
       "address": "0x4D840966887673132Ec61aB4Ffb5e3c26cB1F4BD",
       "name": "Wrapped YearnV3 Strategy Cove Rewards Gauge",
       "symbol": "ysyG-yvCurve-COVEYFI-f-gauge",
@@ -3861,8 +3869,8 @@
     },
     {
       "address": "0x5591Ac6CC8cdeE5d47E553a8c3543eF5eA808919",
-      "name": "Curve frxUSDOUSD Factory yVault",
-      "symbol": "yvCurve-frxUSDOUSD-f",
+      "name": "Curve OUSD-frxUSD Factory yVault",
+      "symbol": "yvCurve-OUSD-frxUSD-f",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x5591Ac6CC8cdeE5d47E553a8c3543eF5eA808919/logo-128.png",
       "chainId": 1,
       "decimals": 18
@@ -4358,6 +4366,14 @@
       "name": "Amphor Restaked ETH",
       "symbol": "amphrETH",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x5fD13359Ba15A84B76f7F87568309040176167cd/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x5fFd0C196838aa5e700657C1f6fd8A87f5d80ED2",
+      "name": "Curve OETHAstETH Factory yVault",
+      "symbol": "yvCurve-OETHAstETH-f",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x5fFd0C196838aa5e700657C1f6fd8A87f5d80ED2/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -6806,6 +6822,13 @@
       "decimals": 18
     },
     {
+      "address": "0x95753095F15870ACC0cB0Ed224478ea61aeb0b8e",
+      "name": "OETH/ARM-WETH-stETH",
+      "symbol": "OETHAstETH",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0x95d69641ED7eCAa5e7d5539F56Dc6194b5Bcd7fA",
       "name": "Aave V3 USDT Lender",
       "symbol": "ysUSDT",
@@ -7420,6 +7443,14 @@
       "decimals": 18
     },
     {
+      "address": "0xA73FB4F3A3f3889E41387973AfC542fa06785981",
+      "name": "SY sBold",
+      "symbol": "SY-sBOLD",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xA73FB4F3A3f3889E41387973AfC542fa06785981/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0xA74d4B67b3368E83797a35382AFB776bAAE4F5C8",
       "name": "Curve alUSD Pool yVault",
       "symbol": "yvCurve-alUSD",
@@ -7770,6 +7801,14 @@
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xB8C3B7A2A618C552C23B1E4701109a9E756Bab67/logo-128.png",
       "chainId": 1,
       "decimals": 18
+    },
+    {
+      "address": "0xB8a451107A9f87FDe481D4D686247D6e43Ed715e",
+      "name": "Fusion stETH looping Ethereum",
+      "symbol": "fusnstETH",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xB8a451107A9f87FDe481D4D686247D6e43Ed715e/logo-128.png",
+      "chainId": 1,
+      "decimals": 20
     },
     {
       "address": "0xB98Df7163E61bf053564bde010985f67279BBCEC",
@@ -8234,6 +8273,14 @@
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xC93374D3044E61743547C1845071E94f6fd5123B/logo-128.png",
       "chainId": 1,
       "decimals": 18
+    },
+    {
+      "address": "0xC9950c55126C125173e9319077253d633221283a",
+      "name": "SY Fusion stETH looping Ethereum",
+      "symbol": "SY-fusnstETH",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xC9950c55126C125173e9319077253d633221283a/logo-128.png",
+      "chainId": 1,
+      "decimals": 20
     },
     {
       "address": "0xC9FB833f11d2d8169953b144Fa5242e8aeC25C01",
@@ -11388,6 +11435,14 @@
       "name": "StrategyGearboxLenderUSDC",
       "symbol": "ysUSDC",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xf6E2d36c489e5B361CdC962D4568ceA663AD5ddC/logo-128.png",
+      "chainId": 1,
+      "decimals": 6
+    },
+    {
+      "address": "0xf6EbeA08a0Dfd44825f67Fa9963911c81BE2a947",
+      "name": "Flagship USDC SuperVault",
+      "symbol": "superUSDC",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xf6EbeA08a0Dfd44825f67Fa9963911c81BE2a947/logo-128.png",
       "chainId": 1,
       "decimals": 6
     },

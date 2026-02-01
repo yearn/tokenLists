@@ -1,9 +1,9 @@
 {
   "name": "Etherscan",
   "description": "",
-  "timestamp": "2026-01-25T02:09:22Z",
+  "timestamp": "2026-02-01T02:46:13Z",
   "version": {
-    "major": 153,
+    "major": 154,
     "minor": 0,
     "patch": 0
   },
@@ -42,6 +42,14 @@
       "name": "AUSD",
       "symbol": "AUSD",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a/logo-128.png",
+      "chainId": 1,
+      "decimals": 6
+    },
+    {
+      "address": "0x0000000f2eB9f69274678c76222B35eEc7588a65",
+      "name": "yoVaultUSD",
+      "symbol": "yoUSD",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x0000000f2eB9f69274678c76222B35eEc7588a65/logo-128.png",
       "chainId": 1,
       "decimals": 6
     },
@@ -252,6 +260,14 @@
       "decimals": 18
     },
     {
+      "address": "0x06954faa913fA14c28Eb1b2e459594F22f33f3dE",
+      "name": "Pfizer (Ondo Tokenized)",
+      "symbol": "PFEon",
+      "logoURI": "https://assets.coingecko.com/coins/images/68549/large/pfeon_160x160.png?1756105512",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0x06B964d96f5dCF7Eae9d7C559B09EDCe244d4B8E",
       "name": "USUALX",
       "symbol": "USUALX",
@@ -266,6 +282,14 @@
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x06c84db1f9899e1203eF3c9F05B2300ba47e4023/logo-128.png",
       "chainId": 1,
       "decimals": 18
+    },
+    {
+      "address": "0x06ea695B91700071B161A434fED42D1DcbAD9f00",
+      "name": "Hemi Bitcoin",
+      "symbol": "hemiBTC",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x06ea695B91700071B161A434fED42D1DcbAD9f00/logo-128.png",
+      "chainId": 1,
+      "decimals": 8
     },
     {
       "address": "0x0763fdCCF1aE541A5961815C0872A8c5Bc6DE4d7",
@@ -475,6 +499,14 @@
       "decimals": 18
     },
     {
+      "address": "0x0adA190c81b814548ddC2F6AdC4a689ce7C1FE73",
+      "name": "yAxis V2",
+      "symbol": "YAXIS",
+      "logoURI": "https://tokens.1inch.io/0x0ada190c81b814548ddc2f6adc4a689ce7c1fe73.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0x0b15Ddf19D47E6a86A56148fb4aFFFc6929BcB89",
       "name": "Impossible Decentralized Incubator Access Token",
       "symbol": "IDIA",
@@ -535,14 +567,6 @@
       "name": "Wrapped NXM",
       "symbol": "wNXM",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x0d438F3b5175Bebc262bF23753C1E53d03432bDE/logo-128.png",
-      "chainId": 1,
-      "decimals": 18
-    },
-    {
-      "address": "0x0d54D4279B9E8c54cD8547c2C75A8Ee81A0BcaE8",
-      "name": "Broadcom (Ondo Tokenized)",
-      "symbol": "AVGOon",
-      "logoURI": "https://assets.coingecko.com/coins/images/68601/large/avgoon_160x160.png?1756129937",
       "chainId": 1,
       "decimals": 18
     },
@@ -714,6 +738,14 @@
       "decimals": 18
     },
     {
+      "address": "0x1410434b0346f5bE678d0FB554E5c7ab620f8f4a",
+      "name": "KAN",
+      "symbol": "KAN",
+      "logoURI": "https://etherscan.io/token/images/kanland28.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0x14778860E937f509e651192a90589dE711Fb88a9",
       "name": "CyberConnect",
       "symbol": "CYBER",
@@ -734,6 +766,14 @@
       "name": "DefiPulse Index",
       "symbol": "DPI",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x1494CA1F11D487c2bBe4543E90080AeBa4BA3C2b/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x14c3abF95Cb9C93a8b82C1CdCB76D72Cb87b2d4c",
+      "name": "Apple (Ondo Tokenized)",
+      "symbol": "AAPLon",
+      "logoURI": "https://assets.coingecko.com/coins/images/68616/large/aaplon_160x160.png?1756130122",
       "chainId": 1,
       "decimals": 18
     },
@@ -766,6 +806,14 @@
       "name": "Wrapped Hypertensor",
       "symbol": "TENSOR",
       "logoURI": "https://asset-images.messari.io/images/0ec72760-1030-4849-8e14-45c781c9ff91/128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x16CDA4028e9E872a38AcB903176719299beAed87",
+      "name": "MARS4",
+      "symbol": "MARS4",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x16CDA4028e9E872a38AcB903176719299beAed87/logo.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -1089,6 +1137,14 @@
       "decimals": 18
     },
     {
+      "address": "0x2411802D8BEA09be0aF8fD8D08314a63e706b29C",
+      "name": "Fluid Wrapped liquid staked Ether 2.0",
+      "symbol": "fwstETH",
+      "logoURI": "https://asset-images.messari.io/images/ac50c6d1-cb13-4c0c-9063-1a0458a393b8/128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0x246908BfF0b1ba6ECaDCF57fb94F6AE2FcD43a77",
       "name": "Divi",
       "symbol": "DIVI",
@@ -1173,14 +1229,6 @@
       "name": "EDU Coin",
       "symbol": "EDU",
       "logoURI": "https://assets.coingecko.com/coins/images/29948/large/EDU_Logo.png?1696528874",
-      "chainId": 1,
-      "decimals": 18
-    },
-    {
-      "address": "0x26c8AFBBFE1EBaca03C2bB082E69D0476Bffe099",
-      "name": "Cellframe Token",
-      "symbol": "CELL",
-      "logoURI": "https://tokens.1inch.io/0x26c8afbbfe1ebaca03c2bb082e69d0476bffe099.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -1425,6 +1473,14 @@
       "decimals": 18
     },
     {
+      "address": "0x31F69dE127C8A0fF10819C0955490a4Ae46fcc2a",
+      "name": "Imported GBYTE",
+      "symbol": "GBYTE",
+      "logoURI": "https://etherscan.io/token/images/importedgbyte_32.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0x31c8EAcBFFdD875c74b94b077895Bd78CF1E64A3",
       "name": "Radicle",
       "symbol": "RAD",
@@ -1537,14 +1593,6 @@
       "decimals": 18
     },
     {
-      "address": "0x3593D125a4f7849a1B059E64F4517A86Dd60c95d",
-      "name": "MANTRA DAO",
-      "symbol": "OM",
-      "logoURI": "https://tokens.1inch.io/0x3593d125a4f7849a1b059e64f4517a86dd60c95d.png",
-      "chainId": 1,
-      "decimals": 18
-    },
-    {
       "address": "0x3597bfD533a99c9aa083587B074434E61Eb0A258",
       "name": "DENT",
       "symbol": "DENT",
@@ -1591,6 +1639,14 @@
       "logoURI": "https://assets.coingecko.com/coins/images/69149/large/2x2.png?1758439357",
       "chainId": 1,
       "decimals": 18
+    },
+    {
+      "address": "0x37E1160184F7dD29f00b78C050Bf13224780b0B0",
+      "name": "Yuan Chain New",
+      "symbol": "YCC",
+      "logoURI": "https://etherscan.io/token/images/yuanchaincoin_28.png",
+      "chainId": 1,
+      "decimals": 8
     },
     {
       "address": "0x37F04d2C3AE075Fad5483bB918491F656B12BDB6",
@@ -1673,14 +1729,6 @@
       "decimals": 8
     },
     {
-      "address": "0x39D5313C3750140E5042887413bA8AA6145a9bd2",
-      "name": "Empyreal",
-      "symbol": "EMP",
-      "logoURI": "https://assets.coingecko.com/coins/images/31374/large/emplogotransparent_%281%29.png?1696530191",
-      "chainId": 1,
-      "decimals": 18
-    },
-    {
       "address": "0x39fBBABf11738317a448031930706cd3e612e1B9",
       "name": "Wrapped XRP",
       "symbol": "WXRP",
@@ -1713,10 +1761,10 @@
       "decimals": 18
     },
     {
-      "address": "0x3Dc8e2d80b6215a1BCcAe4d38715C3520581E77c",
-      "name": "Balance",
-      "symbol": "EPT",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x3Dc8e2d80b6215a1BCcAe4d38715C3520581E77c/logo-128.png",
+      "address": "0x3Cafdbfe682aec17d5acE2f97A2f3ab3dCf6a4A9",
+      "name": "Taiwan Semiconductor Manufacturing (Ondo Tokenized)",
+      "symbol": "TSMon",
+      "logoURI": "https://assets.coingecko.com/coins/images/68598/large/tsmon_160x160.png?1756129915",
       "chainId": 1,
       "decimals": 18
     },
@@ -1973,14 +2021,6 @@
       "name": "Virtual Protocol",
       "symbol": "VIRTUAL",
       "logoURI": "https://asset-images.messari.io/images/4eb07099-9d91-4318-a63f-6672e191ef43/128.png",
-      "chainId": 1,
-      "decimals": 18
-    },
-    {
-      "address": "0x45510DB2481353178db5ABb87C96805fADad0724",
-      "name": "FUCK THE MATRIX",
-      "symbol": "FTMX",
-      "logoURI": "https://coin-images.coingecko.com/coins/images/69050/thumb/FTMX_LOGO.png?1757337410",
       "chainId": 1,
       "decimals": 18
     },
@@ -2620,7 +2660,7 @@
       "address": "0x59DB93D135F16585ED90b8C942d4f8AE0DcFBFc0",
       "name": "Rain Coin",
       "symbol": "RAIN",
-      "logoURI": "https://assets.coingecko.com/coins/images/34032/large/rain_coin_logo.png?1703676333",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x59DB93D135F16585ED90b8C942d4f8AE0DcFBFc0/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -2735,6 +2775,14 @@
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x5cD8cd3c5e8780cCBc74277f22b099FEFd04F5ef/logo-128.png",
       "chainId": 1,
       "decimals": 9
+    },
+    {
+      "address": "0x5d07F52aE5f779422447C2A32F58c93A15E7d6F2",
+      "name": "Kylin Network Token",
+      "symbol": "KYL",
+      "logoURI": "https://etherscan.io/token/images/kylinnetwork2_32.png",
+      "chainId": 1,
+      "decimals": 18
     },
     {
       "address": "0x5d3a536E4D6DbD6114cc1Ead35777bAB948E3643",
@@ -2888,22 +2936,6 @@
       "decimals": 18
     },
     {
-      "address": "0x6399C842dD2bE3dE30BF99Bc7D1bBF6Fa3650E70",
-      "name": "Premia",
-      "symbol": "PREMIA",
-      "logoURI": "https://tokens.1inch.io/0x6399c842dd2be3de30bf99bc7d1bbf6fa3650e70.png",
-      "chainId": 1,
-      "decimals": 18
-    },
-    {
-      "address": "0x6403AF1267CacC0714C1Bd916B12F80e179c0558",
-      "name": "HAI-OFT",
-      "symbol": "HAI",
-      "logoURI": "https://assets.coingecko.com/coins/images/11081/large/hacken-symbol-with-bg.png?1696511022",
-      "chainId": 1,
-      "decimals": 18
-    },
-    {
       "address": "0x643C4E15d7d62Ad0aBeC4a9BD4b001aA3Ef52d66",
       "name": "Syrup Token",
       "symbol": "SYRUP",
@@ -2948,14 +2980,6 @@
       "name": "SwissBorg Token",
       "symbol": "BORG",
       "logoURI": "https://etherscan.io/token/images/swissborg_32.png",
-      "chainId": 1,
-      "decimals": 18
-    },
-    {
-      "address": "0x656C00e1BcD96f256F224AD9112FF426Ef053733",
-      "name": "Efinity Token",
-      "symbol": "EFI",
-      "logoURI": "https://tokens.1inch.io/0x656c00e1bcd96f256f224ad9112ff426ef053733.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -3044,6 +3068,14 @@
       "name": "Cratos",
       "symbol": "CRTS",
       "logoURI": "https://assets.coingecko.com/coins/images/17322/large/cratos.png?1696516876",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x67D4fE3a284a1C86226494bBec3409f55A663C94",
+      "name": "Mama Coin",
+      "symbol": "MAMA",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x67D4fE3a284a1C86226494bBec3409f55A663C94/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -3208,6 +3240,14 @@
       "decimals": 18
     },
     {
+      "address": "0x6a445E9F40e0b97c92d0b8a3366cEF1d67F700BF",
+      "name": "Fidu",
+      "symbol": "FIDU",
+      "logoURI": "https://assets.coingecko.com/coins/images/25944/large/GFI-asset-icon.png?1696525023",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0x6a9DA2D710BB9B700acde7Cb81F10F1fF8C89041",
       "name": "BlackRock USD Institutional Digital Liquidity Fund - I Class",
       "symbol": "BUIDL-I",
@@ -3228,6 +3268,14 @@
       "name": "Seamless",
       "symbol": "SEAM",
       "logoURI": "https://asset-images.messari.io/images/1d9c16b9-cab2-4506-96db-8b077005db50/128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x6bA75D640bEbfe5dA1197bb5A2aff3327789b5d3",
+      "name": "VNX Euro",
+      "symbol": "VEUR",
+      "logoURI": "https://assets.coingecko.com/coins/images/29351/large/VNXEUR_%281%29.png?1696528300",
       "chainId": 1,
       "decimals": 18
     },
@@ -3454,6 +3502,14 @@
       "decimals": 18
     },
     {
+      "address": "0x74a03d741226f738098C35da8188E57acA50d146",
+      "name": "Coca-Cola (Ondo Tokenized)",
+      "symbol": "KOon",
+      "logoURI": "https://assets.coingecko.com/coins/images/68569/large/koon_160x160.png?1756106230",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0x75231F58b43240C9718Dd58B4967c5114342a86c",
       "name": "OKB",
       "symbol": "OKB",
@@ -3514,6 +3570,14 @@
       "name": "Treehouse Token",
       "symbol": "TREE",
       "logoURI": "https://asset-images.messari.io/images/403cef3b-1133-41c0-a4f8-37cdcc2e1502/128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x775AcF0Fae2B97789eA58e775789925ADE06b867",
+      "name": "WQIE",
+      "symbol": "WQIE",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x775AcF0Fae2B97789eA58e775789925ADE06b867/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -3972,14 +4036,6 @@
       "decimals": 18
     },
     {
-      "address": "0x8798249c2E607446EfB7Ad49eC89dD1865Ff4272",
-      "name": "SushiBar",
-      "symbol": "xSUSHI",
-      "logoURI": "https://tokens.1inch.io/0x8798249c2e607446efb7ad49ec89dd1865ff4272.png",
-      "chainId": 1,
-      "decimals": 18
-    },
-    {
       "address": "0x87d73E916D7057945c9BcD8cdd94e42A6F47f776",
       "name": "NFTX",
       "symbol": "NFTX",
@@ -4148,18 +4204,18 @@
       "decimals": 18
     },
     {
-      "address": "0x8E870D67F660D95d5be530380D0eC0bd388289E1",
-      "name": "Pax Dollar",
-      "symbol": "USDP",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x8E870D67F660D95d5be530380D0eC0bd388289E1/logo-128.png",
+      "address": "0x8De39B057CC6522230AB19C0205080a8663331Ef",
+      "name": "wojak",
+      "symbol": "wojak",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x8De39B057CC6522230AB19C0205080a8663331Ef/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
     {
-      "address": "0x8Fe815417913a93Ea99049FC0718ee1647A2a07c",
-      "name": "XSwap",
-      "symbol": "XSWAP",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x8Fe815417913a93Ea99049FC0718ee1647A2a07c/logo-128.png",
+      "address": "0x8E870D67F660D95d5be530380D0eC0bd388289E1",
+      "name": "Pax Dollar",
+      "symbol": "USDP",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x8E870D67F660D95d5be530380D0eC0bd388289E1/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -4227,14 +4283,6 @@
       "decimals": 6
     },
     {
-      "address": "0x8eD955a2b7d2C3a17a9d05dACa95E01818f8C11e",
-      "name": "APF Coin",
-      "symbol": "APFC",
-      "logoURI": "https://assets.coingecko.com/coins/images/30990/large/photo_2023-10-28_09-48-25.jpg?1698518912",
-      "chainId": 1,
-      "decimals": 18
-    },
-    {
       "address": "0x8eD97a637A790Be1feff5e888d43629dc05408F6",
       "name": "Non-Playable Coin",
       "symbol": "NPC",
@@ -4255,6 +4303,14 @@
       "name": "Kite",
       "symbol": "KITE",
       "logoURI": "https://assets.coingecko.com/coins/images/70426/large/kite.png?1761963308",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x90551c1795392094FE6D29B758EcCD233cFAa260",
+      "name": "Fluid Wrapped Ether",
+      "symbol": "fWETH",
+      "logoURI": "https://asset-images.messari.io/images/980d9ce9-b25f-4d48-9d48-d5cc9045649d/128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -4287,14 +4343,6 @@
       "name": "Aergo",
       "symbol": "AERGO",
       "logoURI": "https://assets.coingecko.com/coins/images/4490/large/aergo.png?1647696770",
-      "chainId": 1,
-      "decimals": 18
-    },
-    {
-      "address": "0x92CC36D66e9d739D50673d1f27929a371FB83a67",
-      "name": "Wagmi",
-      "symbol": "WAGMI",
-      "logoURI": "https://assets.coingecko.com/coins/images/31887/large/wagmi_token_logo.png?1696530698",
       "chainId": 1,
       "decimals": 18
     },
@@ -4375,6 +4423,14 @@
       "name": "Realio Network",
       "symbol": "RIO",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x94a8b4EE5CD64C79D0Ee816f467EA73009f51aA0/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x956F47F50A910163D8BF957Cf5846D573E7f87CA",
+      "name": "Fei USD",
+      "symbol": "FEI",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x956F47F50A910163D8BF957Cf5846D573E7f87CA/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -4507,14 +4563,6 @@
       "decimals": 18
     },
     {
-      "address": "0x9B6a1d4fa5d90E5f2D34130053978D14Cd301d58",
-      "name": "DeepNode",
-      "symbol": "DN",
-      "logoURI": "https://coin-images.coingecko.com/coins/images/71395/thumb/deepnode.png?1767860774",
-      "chainId": 1,
-      "decimals": 18
-    },
-    {
       "address": "0x9BE89D2a4cd102D8Fecc6BF9dA793be995C22541",
       "name": "Binance Wrapped BTC",
       "symbol": "BBTC",
@@ -4543,14 +4591,6 @@
       "name": "Chintai Exchange Token",
       "symbol": "CHEX",
       "logoURI": "https://assets.coingecko.com/coins/images/10349/large/1_0zxuLe6QnvfsZPFzOoUteQ.png?1696510350",
-      "chainId": 1,
-      "decimals": 18
-    },
-    {
-      "address": "0x9D0B65a76274645B29e4cc41B8f23081fA09f4A3",
-      "name": "iMe Lab",
-      "symbol": "LIME",
-      "logoURI": "https://assets.coingecko.com/coins/images/16243/large/lim_200.2.png?1696515843",
       "chainId": 1,
       "decimals": 18
     },
@@ -4601,6 +4641,14 @@
       "logoURI": "https://asset-images.messari.io/images/7bfe2b3f-da1d-48dc-bccf-c7c8b7dff9d1/128.png",
       "chainId": 1,
       "decimals": 6
+    },
+    {
+      "address": "0x9F0C013016E8656bC256f948CD4B79ab25c7b94D",
+      "name": "COOK",
+      "symbol": "COOK",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/50969/thumb/Logomark-Gradient_Official.png?1729620221",
+      "chainId": 1,
+      "decimals": 18
     },
     {
       "address": "0x9FD7466f987Fd4C45a5BBDe22ED8aba5BC8D72d1",
@@ -4655,14 +4703,6 @@
       "name": "Propchain Token",
       "symbol": "PROPC",
       "logoURI": "https://assets.coingecko.com/coins/images/30451/large/Untitled_%28Instagram_Post_%28Square%29%29-2.png?1696529337",
-      "chainId": 1,
-      "decimals": 18
-    },
-    {
-      "address": "0xA0Ef786Bf476fE0810408CaBA05E536aC800ff86",
-      "name": "Myria",
-      "symbol": "MYRIA",
-      "logoURI": "https://assets.coingecko.com/coins/images/29273/large/myria.png?1696528226",
       "chainId": 1,
       "decimals": 18
     },
@@ -4906,6 +4946,14 @@
       "decimals": 18
     },
     {
+      "address": "0xAdF7C35560035944e805D98fF17d58CDe2449389",
+      "name": "Spectral Token",
+      "symbol": "SPEC",
+      "logoURI": "https://assets.coingecko.com/coins/images/36138/large/spectral_logo_200x200.png?1710684002",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0xAf5191B0De278C7286d6C7CC6ab6BB8A73bA2Cd6",
       "name": "StargateToken",
       "symbol": "STG",
@@ -4926,14 +4974,6 @@
       "name": "Wormhole Token",
       "symbol": "W",
       "logoURI": "https://asset-images.messari.io/images/eb7bef56-7009-4201-a0cd-ae4d329e93d5/128.png",
-      "chainId": 1,
-      "decimals": 18
-    },
-    {
-      "address": "0xB17548c7B510427baAc4e267BEa62e800b247173",
-      "name": "Swarm Markets",
-      "symbol": "SMT",
-      "logoURI": "https://assets.coingecko.com/coins/images/17488/large/swarm-SMT-token-symbol_200x200.png?1696517029",
       "chainId": 1,
       "decimals": 18
     },
@@ -5046,6 +5086,14 @@
       "name": "IDEX Token",
       "symbol": "IDEX",
       "logoURI": "https://assets.coingecko.com/coins/images/2565/large/logomark-purple-286x286.png?1638362736",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xB812837b81a3a6b81d7CD74CfB19A7f2784555E5",
+      "name": "Microsoft (Ondo Tokenized)",
+      "symbol": "MSFTon",
+      "logoURI": "https://assets.coingecko.com/coins/images/68625/large/msfton_160x160.png?1756130286",
       "chainId": 1,
       "decimals": 18
     },
@@ -5290,14 +5338,6 @@
       "decimals": 18
     },
     {
-      "address": "0xC4C2614E694cF534D407Ee49F8E44D125E4681c4",
-      "name": "Chain Games",
-      "symbol": "CHAIN",
-      "logoURI": "https://tokens.1inch.io/0xc4c2614e694cf534d407ee49f8e44d125e4681c4.png",
-      "chainId": 1,
-      "decimals": 18
-    },
-    {
       "address": "0xC4f6E93AEDdc11dc22268488465bAbcAF09399aC",
       "name": "hi Dollar",
       "symbol": "HI",
@@ -5455,14 +5495,6 @@
       "logoURI": "https://tokens.1inch.io/0xd33526068d116ce69f19a9ee46f0bd304f21a51f.png",
       "chainId": 1,
       "decimals": 18
-    },
-    {
-      "address": "0xD454b59f16D42667Be2fA55292d16647E27f40C4",
-      "name": "XPRT native asset",
-      "symbol": "XPRT",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xD454b59f16D42667Be2fA55292d16647E27f40C4/logo-128.png",
-      "chainId": 1,
-      "decimals": 6
     },
     {
       "address": "0xD46bA6D942050d489DBd938a2C909A5d5039A161",
@@ -5744,14 +5776,6 @@
       "decimals": 18
     },
     {
-      "address": "0xE92344b4eDF545F3209094B192E46600A19E7C2D",
-      "name": "zKML",
-      "symbol": "ZKML",
-      "logoURI": "https://asset-images.messari.io/images/976b0c14-7b31-4509-828b-141b931c5d8a/128.png",
-      "chainId": 1,
-      "decimals": 18
-    },
-    {
       "address": "0xE95A203B1a91a908F9B9CE46459d101078c2c3cb",
       "name": "Ankr Staked ETH",
       "symbol": "ankrETH",
@@ -5840,6 +5864,14 @@
       "decimals": 18
     },
     {
+      "address": "0xF042cfa86cf1D598a75Bdb55c3507a1F39f9493b",
+      "name": "Coinbase (Ondo Tokenized)",
+      "symbol": "COINon",
+      "logoURI": "https://assets.coingecko.com/coins/images/68612/large/coinon_160x160.png?1756130090",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0xF0d33BeDa4d734C72684b5f9abBEbf715D0a7935",
       "name": "NuNet Utility Token",
       "symbol": "NTX",
@@ -5864,14 +5896,6 @@
       "decimals": 18
     },
     {
-      "address": "0xF1A7000000950C7ad8Aff13118Bb7aB561A448ee",
-      "name": "Flayer",
-      "symbol": "FLAY",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xF1A7000000950C7ad8Aff13118Bb7aB561A448ee/logo-128.png",
-      "chainId": 1,
-      "decimals": 18
-    },
-    {
       "address": "0xF2B2f7b47715256Ce4eA43363a867fdce9353e3A",
       "name": "Bitgert",
       "symbol": "BRISE",
@@ -5892,14 +5916,6 @@
       "name": "iShares Silver Trust (Ondo Tokenized)",
       "symbol": "SLVon",
       "logoURI": "https://assets.coingecko.com/coins/images/68651/large/slvon_160x160.png?1756156286",
-      "chainId": 1,
-      "decimals": 18
-    },
-    {
-      "address": "0xF411903cbC70a74d22900a5DE66A2dda66507255",
-      "name": "VERA",
-      "symbol": "VRA",
-      "logoURI": "https://tokens.1inch.io/0xf411903cbc70a74d22900a5de66a2dda66507255.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -6044,14 +6060,6 @@
       "name": "Falcon USD",
       "symbol": "USDf",
       "logoURI": "https://assets.coingecko.com/coins/images/54558/large/ff_200_X_200.png?1740741076",
-      "chainId": 1,
-      "decimals": 18
-    },
-    {
-      "address": "0xFb782396c9b20E564A64896181c7AC8d8979d5F4",
-      "name": "DivergenceProtocol",
-      "symbol": "DIVER",
-      "logoURI": "https://tokens.1inch.io/0xfb782396c9b20e564a64896181c7ac8d8979d5f4.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -6376,6 +6384,14 @@
       "decimals": 18
     },
     {
+      "address": "0xb1dC9124c395c1e97773ab855d66E879f053A289",
+      "name": "yAxis",
+      "symbol": "YAX",
+      "logoURI": "https://token-assets-one.vercel.app/not-found.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0xb23d80f5FefcDDaa212212F028021B41DEd428CF",
       "name": "Prime",
       "symbol": "PRIME",
@@ -6396,14 +6412,6 @@
       "name": "ZigCoin",
       "symbol": "ZIG",
       "logoURI": "https://assets.coingecko.com/coins/images/14796/large/zignaly.jpg?1696514465",
-      "chainId": 1,
-      "decimals": 18
-    },
-    {
-      "address": "0xb26C4B3Ca601136Daf98593feAeff9E0CA702a8D",
-      "name": "Aladdin Token",
-      "symbol": "ALD",
-      "logoURI": "https://tokens.1inch.io/0xb26c4b3ca601136daf98593feaeff9e0ca702a8d.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -6635,14 +6643,6 @@
       "name": "BlazeStake Staked SOL (IBC)",
       "symbol": "bSOL",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xc0732030f4DB63cfE0323dd87b497AE4Ecb43CEc/logo-128.png",
-      "chainId": 1,
-      "decimals": 9
-    },
-    {
-      "address": "0xc07A150ECAdF2cc352f5586396e344A6b17625EB",
-      "name": "BioPassport Coin",
-      "symbol": "BIOT",
-      "logoURI": "https://etherscan.io/token/images/biopassport_32.png",
       "chainId": 1,
       "decimals": 9
     },
@@ -6966,6 +6966,14 @@
       "decimals": 18
     },
     {
+      "address": "0xd27B128dc6536309CdebF7F1AFf0cB7717Bc0268",
+      "name": "EtherEmpires",
+      "symbol": "ETE",
+      "logoURI": "https://assets.coingecko.com/coins/images/31804/large/IMG_20230919_125717_505.png?1696530619",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0xd2877702675e6cEb975b4A1dFf9fb7BAF4C91ea9",
       "name": "Wrapped LUNA Token",
       "symbol": "LUNA",
@@ -6988,14 +6996,6 @@
       "logoURI": "https://assets.coingecko.com/coins/images/8873/large/Bittrue_logo.png?1696509025",
       "chainId": 1,
       "decimals": 18
-    },
-    {
-      "address": "0xd4fa1460F537bb9085d22C7bcCB5DD450Ef28e3a",
-      "name": "Populous Platform",
-      "symbol": "PPT",
-      "logoURI": "https://etherscan.io/token/images/populous_28.png",
-      "chainId": 1,
-      "decimals": 8
     },
     {
       "address": "0xd55C9fB62E176a8Eb6968f32958FeFDD0962727E",
@@ -7221,6 +7221,14 @@
       "decimals": 5
     },
     {
+      "address": "0xe50E009Ddb1A4d8Ec668EAc9D8b2dF1F96348707",
+      "name": "Ctrl",
+      "symbol": "CTRL",
+      "logoURI": "https://asset-images.messari.io/images/5e47560f-7cb9-48d1-8585-3049ff5a2718/128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0xe53EC727dbDEB9E2d5456c3be40cFF031AB40A55",
       "name": "SuperFarm",
       "symbol": "SUPER",
@@ -7362,14 +7370,6 @@
       "logoURI": "https://asset-images.messari.io/images/7c774e28-49ff-41c9-8aba-4bccd7b65cb8/128.png",
       "chainId": 1,
       "decimals": 18
-    },
-    {
-      "address": "0xf1df7305E4BAB3885caB5B1e4dFC338452a67891",
-      "name": "PaLM AI",
-      "symbol": "PALM",
-      "logoURI": "https://assets.coingecko.com/coins/images/33097/large/PalmProfile01Artboard_6_2x.png?1703862864",
-      "chainId": 1,
-      "decimals": 9
     },
     {
       "address": "0xf31698DDAd0d11160Fe85c500397A470CD3d492E",

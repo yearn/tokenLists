@@ -1,10 +1,10 @@
 {
   "name": "SmolAssets",
   "description": "A list of tokens supported by Smoldapp Token Assets repository",
-  "timestamp": "2026-01-25T02:14:12Z",
+  "timestamp": "2026-02-01T02:42:25Z",
   "version": {
     "major": 27,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   },
   "logoURI": "https://raw.githubusercontent.com/smoldapp/tokenLists/main/.github/tokenlistooor.svg",
@@ -1726,6 +1726,14 @@
       "decimals": 18
     },
     {
+      "address": "0x40e3d1A4B2C47d9AA61261F5606136ef73E28042",
+      "name": "OpenServ",
+      "symbol": "SERV",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x40e3d1A4B2C47d9AA61261F5606136ef73E28042/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0x410e3E86ef427e30B9235497143881f717d93c2A",
       "name": "Curve.fi bBTC/sbtcCRV",
       "symbol": "bBTC/sbtcCRV",
@@ -2378,6 +2386,14 @@
       "name": "Mountain Protocol USD",
       "symbol": "USDM",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x59D9356E565Ab3A36dD77763Fc0d87fEaf85508C/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x59DB93D135F16585ED90b8C942d4f8AE0DcFBFc0",
+      "name": "Rain Coin",
+      "symbol": "RAIN",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x59DB93D135F16585ED90b8C942d4f8AE0DcFBFc0/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },

@@ -1,9 +1,9 @@
 {
   "name": "CoinGecko",
   "description": "",
-  "timestamp": "2026-01-25T02:08:28Z",
+  "timestamp": "2026-02-01T02:45:09Z",
   "version": {
-    "major": 160,
+    "major": 161,
     "minor": 0,
     "patch": 0
   },
@@ -188,14 +188,6 @@
       "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x050C24dBf1eEc17babE5fc585F06116A259CC77A/logo-128.png",
       "chainId": 42161,
       "decimals": 8
-    },
-    {
-      "address": "0x0534D7272a8E4F24D269b56605F2BF6cf3271891",
-      "name": "UCOIN",
-      "symbol": "U",
-      "logoURI": "https://asset-images.messari.io/images/6b9f5d26-be6c-4e79-a297-c0bf32158de4/128.png",
-      "chainId": 42161,
-      "decimals": 18
     },
     {
       "address": "0x053C784cD87B74f42e0c089f98643E79c1A3ff16",
@@ -628,6 +620,13 @@
       "logoURI": "https://asset-images.messari.io/images/51f33e81-f084-4859-bead-af182750c03e/128.png",
       "chainId": 42161,
       "decimals": 18
+    },
+    {
+      "address": "0x116998824ff90532906bab91Becea4A8e4cE06DB",
+      "name": "$EXOD-B",
+      "symbol": "EXOD",
+      "chainId": 42161,
+      "decimals": 8
     },
     {
       "address": "0x118346C2bb9d24412ed58C53bF9BB6f61A20d7Ec",
@@ -3685,14 +3684,6 @@
       "decimals": 18
     },
     {
-      "address": "0x76BC2e765414E6C8b596c0f52c4240f80268f41D",
-      "name": "Unibit",
-      "symbol": "UIBT",
-      "logoURI": "https://asset-images.messari.io/images/407d73ca-c531-43ce-84ca-cb9754445379/128.png",
-      "chainId": 42161,
-      "decimals": 18
-    },
-    {
       "address": "0x76cE01F0Ef25AA66cC5F1E546a005e4A63B25609",
       "name": "Re Protocol Deposit Token",
       "symbol": "reUSD",
@@ -3906,14 +3897,6 @@
       "logoURI": "https://asset-images.messari.io/images/dd61441a-200f-4d24-a6af-5e3754437b95/128.png",
       "chainId": 42161,
       "decimals": 18
-    },
-    {
-      "address": "0x7ae9AB13fC8945323b778b3F8678145E80Ec2Efb",
-      "name": "WorldBrain Coin",
-      "symbol": "WBC",
-      "logoURI": "https://asset-images.messari.io/images/14ebb943-0755-437f-a943-a5050c283381/128.png",
-      "chainId": 42161,
-      "decimals": 6
     },
     {
       "address": "0x7bA4a00d54A07461D9DB2aEF539e91409943AdC9",
@@ -5801,14 +5784,6 @@
       "logoURI": "https://asset-images.messari.io/images/3e11878d-ab4b-49fd-b175-1b55c5818e09/128.png",
       "chainId": 42161,
       "decimals": 18
-    },
-    {
-      "address": "0xF29Fdf6B7BdFFb025D7e6dfdF344992D2D16E249",
-      "name": "GENSX",
-      "symbol": "GENSX",
-      "logoURI": "https://assets.coingecko.com/coins/images/30904/large/GX_short_logo.png?1688622677",
-      "chainId": 42161,
-      "decimals": 6
     },
     {
       "address": "0xF2f26EEe8b40447F664F20aD3513E894153fE09E",

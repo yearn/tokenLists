@@ -1,9 +1,9 @@
 {
   "name": "Popular tokens",
   "description": "A curated list of popular tokens from all the token lists on tokenlistooor.",
-  "timestamp": "2026-02-01T02:47:45Z",
+  "timestamp": "2026-02-08T02:55:13Z",
   "version": {
-    "major": 111,
+    "major": 112,
     "minor": 0,
     "patch": 0
   },
@@ -17043,203 +17043,10 @@
       "decimals": 18
     },
     {
-      "address": "0x0D1E753a25eBda689453309112904807625bEFBe",
-      "name": "PancakeSwap Token",
-      "symbol": "Cake",
-      "chainId": 1101,
-      "decimals": 18
-    },
-    {
-      "address": "0x120eF59b80774F02211563834d8E3b72cb1649d6",
-      "name": "Balancer",
-      "symbol": "BAL",
-      "logoURI": "https://assets.smold.app/api/token/1101/0x120eF59b80774F02211563834d8E3b72cb1649d6/logo-128.png",
-      "chainId": 1101,
-      "decimals": 18
-    },
-    {
-      "address": "0x12D8CE035c5DE3Ce39B1fDD4C1d5a745EAbA3b8C",
-      "name": "Ankr Staked ETH",
-      "symbol": "ankrETH",
-      "chainId": 1101,
-      "decimals": 18
-    },
-    {
-      "address": "0x1E4a5963aBFD975d8c9021ce480b42188849D41d",
-      "name": "Tether USD",
-      "symbol": "USDT",
-      "logoURI": "https://assets.smold.app/api/token/1101/0x1E4a5963aBFD975d8c9021ce480b42188849D41d/logo-128.png",
-      "chainId": 1101,
-      "decimals": 6
-    },
-    {
-      "address": "0x22B21BedDef74FE62F031D2c5c8F7a9F8a4b304D",
-      "name": "Polygon Ecosystem Token",
-      "symbol": "POL",
-      "chainId": 1101,
-      "decimals": 18
-    },
-    {
-      "address": "0x2548C94A3092494dB3aF864cc2cF781a72f55678",
-      "name": "Uniswap",
-      "symbol": "UNI",
-      "chainId": 1101,
-      "decimals": 18
-    },
-    {
-      "address": "0x3d5320821BfCa19fb0B5428F2c79d63bd5246f89",
-      "name": "Curve DAO Token",
-      "symbol": "CRV",
-      "chainId": 1101,
-      "decimals": 18
-    },
-    {
-      "address": "0x40DF0C3BBAAE5Ea3A509d8F2aa9E086776C98E6c",
-      "name": "Antfarm Token",
-      "symbol": "ATF",
-      "chainId": 1101,
-      "decimals": 18
-    },
-    {
-      "address": "0x4B16e4752711A7ABEc32799C976F3CeFc0111f2B",
-      "name": "ChainLink Token",
-      "symbol": "LINK",
-      "chainId": 1101,
-      "decimals": 18
-    },
-    {
-      "address": "0x4F9A0e7FD2Bf6067db6994CF12E4495Df938E6e9",
-      "name": "Wrapped Ether",
-      "symbol": "WETH",
-      "logoURI": "https://assets.smold.app/api/token/1101/0x4F9A0e7FD2Bf6067db6994CF12E4495Df938E6e9/logo-128.png",
-      "chainId": 1101,
-      "decimals": 18
-    },
-    {
-      "address": "0x68286607A1d43602d880D349187c3c48c0fD05E6",
-      "name": "QuickSwap",
-      "symbol": "QUICK",
-      "chainId": 1101,
-      "decimals": 18
-    },
-    {
-      "address": "0x68791CFE079814c46e0E25C19Bcc5BFC71A744f7",
-      "name": "Aave Token",
-      "symbol": "AAVE",
-      "chainId": 1101,
-      "decimals": 18
-    },
-    {
-      "address": "0x696c0bA235444607A1c4b93E6b34Ba14928c1B60",
-      "name": "DoveSwap",
-      "symbol": "DOV",
-      "chainId": 1101,
-      "decimals": 18
-    },
-    {
-      "address": "0x6b856a14CeA1d7dCfaF80fA6936c0b75972cCacE",
-      "name": "Frax Share",
-      "symbol": "FXS",
-      "logoURI": "https://assets.smold.app/api/token/1101/0x6b856a14CeA1d7dCfaF80fA6936c0b75972cCacE/logo-128.png",
-      "chainId": 1101,
-      "decimals": 18
-    },
-    {
-      "address": "0x7c2aF1Fb79D0b1c67d4eb802d44C673D0A1D2C04",
-      "name": "Staked Frax Ether",
-      "symbol": "sfrxETH",
-      "chainId": 1101,
-      "decimals": 18
-    },
-    {
-      "address": "0x7e2feEa957b7D1606335e339754F4e52b452B792",
-      "name": "Lido DAO Token",
-      "symbol": "LDO",
-      "chainId": 1101,
-      "decimals": 18
-    },
-    {
-      "address": "0x819d1Daa794c1c46B841981b61cC978d95A17b8e",
-      "name": "Davos.xyz USD",
-      "symbol": "DUSD",
-      "chainId": 1101,
-      "decimals": 18
-    },
-    {
-      "address": "0x83b874c1e09D316059d929da402dcB1A98e92082",
-      "name": "Staked MATIC",
-      "symbol": "stMATIC",
-      "logoURI": "https://assets.smold.app/api/token/1101/0x83b874c1e09D316059d929da402dcB1A98e92082/logo-128.png",
-      "chainId": 1101,
-      "decimals": 18
-    },
-    {
-      "address": "0xA8CE8aee21bC2A48a5EF670afCc9274C7bbbC035",
-      "name": "USD Coin",
-      "symbol": "USDC",
-      "logoURI": "https://assets.smold.app/api/token/1101/0xA8CE8aee21bC2A48a5EF670afCc9274C7bbbC035/logo-128.png",
-      "chainId": 1101,
-      "decimals": 6
-    },
-    {
-      "address": "0xC5015b9d9161Dca7e18e32f6f25C4aD850731Fd4",
-      "name": "Dai Stablecoin",
-      "symbol": "DAI",
-      "logoURI": "https://assets.smold.app/api/token/1101/0xC5015b9d9161Dca7e18e32f6f25C4aD850731Fd4/logo-128.png",
-      "chainId": 1101,
-      "decimals": 18
-    },
-    {
-      "address": "0xCA5d8F8a8d49439357d3CF46Ca2e720702F132b8",
-      "name": "Gyro Dollar",
-      "symbol": "GYD",
-      "chainId": 1101,
-      "decimals": 18
-    },
-    {
-      "address": "0xCf7eceE185f19e2E970a301eE37F93536ed66179",
-      "name": "Frax Ether",
-      "symbol": "frxETH",
-      "logoURI": "https://assets.smold.app/api/token/1101/0xCf7eceE185f19e2E970a301eE37F93536ed66179/logo-128.png",
-      "chainId": 1101,
-      "decimals": 18
-    },
-    {
-      "address": "0xEA034fb02eB1808C2cc3adbC15f447B93CbE08e1",
-      "name": "Wrapped BTC",
-      "symbol": "WBTC",
-      "logoURI": "https://assets.smold.app/api/token/1101/0xEA034fb02eB1808C2cc3adbC15f447B93CbE08e1/logo-128.png",
-      "chainId": 1101,
-      "decimals": 8
-    },
-    {
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "name": "Matic",
       "symbol": "MATIC",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1101/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE/logo-128.png",
-      "chainId": 1101,
-      "decimals": 18
-    },
-    {
-      "address": "0xFf8544feD5379D9ffa8D47a74cE6b91e632AC44D",
-      "name": "Frax",
-      "symbol": "FRAX",
-      "logoURI": "https://assets.smold.app/api/token/1101/0xFf8544feD5379D9ffa8D47a74cE6b91e632AC44D/logo-128.png",
-      "chainId": 1101,
-      "decimals": 18
-    },
-    {
-      "address": "0xa2036f0538221a77A3937F1379699f44945018d0",
-      "name": "Matic Token",
-      "symbol": "MATIC",
-      "logoURI": "https://assets.smold.app/api/token/1101/0xa2036f0538221a77A3937F1379699f44945018d0/logo-128.png",
-      "chainId": 1101,
-      "decimals": 18
-    },
-    {
-      "address": "0xddAFB91475bBf6210a151FA911AC8fdA7dE46Ec2",
-      "name": "Giveth",
-      "symbol": "GIV",
       "chainId": 1101,
       "decimals": 18
     },
@@ -29443,14 +29250,6 @@
       "decimals": 18
     },
     {
-      "address": "0x77b7787a09818502305C95d68A2571F090abb135",
-      "name": "Derive",
-      "symbol": "DRV",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x77b7787a09818502305C95d68A2571F090abb135/logo-128.png",
-      "chainId": 42161,
-      "decimals": 18
-    },
-    {
       "address": "0x7B5EB3940021Ec0e8e463D5dBB4B7B09a89DDF96",
       "name": "Wombat Token",
       "symbol": "WOM",
@@ -29946,14 +29745,6 @@
       "name": "STAR",
       "symbol": "STAR",
       "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xC19669A405067927865B40Ea045a2baabbbe57f5/logo-128.png",
-      "chainId": 42161,
-      "decimals": 18
-    },
-    {
-      "address": "0xC84FaE1141B92Fa5Bf847276828f69cAF651Cb7F",
-      "name": "XNF",
-      "symbol": "XNF",
-      "logoURI": "https://asset-images.messari.io/images/19f484e4-2135-4ee2-a8ea-9f42394edd3e/128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -32135,14 +31926,6 @@
       "decimals": 18
     },
     {
-      "address": "0xf32398dae246C5f672B52A54e9B413dFFcAe1A44",
-      "name": "Kassandra",
-      "symbol": "KACY",
-      "logoURI": "https://assets.coingecko.com/coins/images/22918/large/kacy.png?1643459818",
-      "chainId": 43114,
-      "decimals": 18
-    },
-    {
       "address": "0xf329e36C7bF6E5E86ce2150875a84Ce77f477375",
       "name": "Aave Avalanche AAVE",
       "symbol": "aAvaAAVE",
@@ -32382,12 +32165,11 @@
       "decimals": 18
     },
     {
-      "address": "0x2AF94A6Ad45cFAb9F98e960c59BC9B61D116474e",
-      "name": "Shell",
-      "symbol": "SHELL",
-      "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/e4e82fe4dab577ff8905889e68bf9ae2e4ef3a9ad8ca6ca940ee91137fee304b.jpg",
+      "address": "0x2D270e6886d130D724215A266106e6832161EAEd",
+      "name": "USDC",
+      "symbol": "USDC",
       "chainId": 57073,
-      "decimals": 18
+      "decimals": 6
     },
     {
       "address": "0x2a1bce657F919ac3f9aB50b2584CFC77563A02Ec",
@@ -32422,10 +32204,17 @@
       "decimals": 18
     },
     {
-      "address": "0x33b43F8d8a8dB582cA34992DfCD7663720433bEb",
-      "name": "INK DOG",
-      "symbol": "iDOG",
-      "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/3b3d142b7e5f782c1cf08fc6d404bc1ace5040881ae878d7c8ad6f720ec8bd29.jpg",
+      "address": "0x38cB679C82A79e57Fb5576696ed2b36696001635",
+      "name": "KRAKX",
+      "symbol": "KRAKX",
+      "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/2c0313d9434564db11ee02e655b4d7847f9b55682b99a65915933621c06dbabd.jpg",
+      "chainId": 57073,
+      "decimals": 18
+    },
+    {
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
       "chainId": 57073,
       "decimals": 18
     },
@@ -32434,14 +32223,6 @@
       "name": "GMINKY",
       "symbol": "GMINKY",
       "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/e5b2daf48c03b8fc4516e594c5b0a0af4bf3d3180dc7ff89d8fb76e2d9183590.png",
-      "chainId": 57073,
-      "decimals": 18
-    },
-    {
-      "address": "0x487EfE1C71712C45E493a9B5D60DDDF852DdD48c",
-      "name": "VIOLET",
-      "symbol": "VIOLET",
-      "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/b5c3f861da57f1504230c566a01838c74a09c87303d06092a136da2ef84874be.gif",
       "chainId": 57073,
       "decimals": 18
     },
@@ -32470,14 +32251,6 @@
       "decimals": 18
     },
     {
-      "address": "0x6AA837aFfD833CC8B29822717C190296844EcE2C",
-      "name": "blazeak47trumpink",
-      "symbol": "KRAKEN",
-      "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/eb16b7b878fedf7e8ec88dd05629624f832099a52fd1e05e7d36a8b2d9a2c31a.jpg",
-      "chainId": 57073,
-      "decimals": 18
-    },
-    {
       "address": "0x7160644365e7011FA96CE60706743B434dF32690",
       "name": "Kek",
       "symbol": "KEK",
@@ -32486,10 +32259,10 @@
       "decimals": 18
     },
     {
-      "address": "0x728592046aF99b86D70D133A890804Bf150F2CBf",
-      "name": "Jese Power",
-      "symbol": "POWER",
-      "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/a5851dc46d01fca140625f38cbb19cb530d24b9b27033faea1f868471d829401.png",
+      "address": "0x739ec5aF87446fA8F7540CB028421139495B4E2d",
+      "name": "Pepe Ink",
+      "symbol": "PENK",
+      "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/4f7b3029748007ebd957fe77577d69d4336a0a632f09cc7856f8eabf43d0d3ee.jpg",
       "chainId": 57073,
       "decimals": 18
     },
@@ -32510,14 +32283,6 @@
       "decimals": 18
     },
     {
-      "address": "0x80ef7130C5EdC92488b7B98656C714b6342DCB9e",
-      "name": "Eggplant ",
-      "symbol": "Pea",
-      "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/71a3ae4b1558a8b1b43719584a027f8e43ea011b506588be3b85140b3ea8917e.png",
-      "chainId": 57073,
-      "decimals": 18
-    },
-    {
       "address": "0x8148DfC26eE049a9B83aB3e2ED8595de64A1511E",
       "name": "DOG (INK)",
       "symbol": "DOG",
@@ -32530,14 +32295,6 @@
       "name": "KRAQU",
       "symbol": "KRAQU",
       "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/8c688287c98e5ae4b72308d1c9e32ef9cb61b4db275c3891a3bd8c223d670ba5.png",
-      "chainId": 57073,
-      "decimals": 18
-    },
-    {
-      "address": "0x905963fF2c1104EF175c93936fe7eFA139C0eDff",
-      "name": "Bot on INK",
-      "symbol": "BINK",
-      "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/8b7bb3ec366d21efb0327969850610eed3f8516b975a7a3c57772e4d3d46d902.png",
       "chainId": 57073,
       "decimals": 18
     },
@@ -32573,14 +32330,6 @@
       "decimals": 18
     },
     {
-      "address": "0xD35C395aE081b2FC1E9644E9D6E4D950Af2b6FDc",
-      "name": "BabyKraken",
-      "symbol": "BabyKraken",
-      "logoURI": "https://luauiyxrqsrcixgjxhja.supabase.co/storage/v1/object/public/images/baa0d1a48941c44ad94256bdb0bdfe5bd1959c3f8a71abdbbe745bb7c6abb435.png",
-      "chainId": 57073,
-      "decimals": 18
-    },
-    {
       "address": "0xD642B49d10cc6e1BC1c6945725667c35e0875f22",
       "name": "Purple",
       "symbol": "PURPLE",
@@ -32601,14 +32350,6 @@
       "name": "We are going to make Ink ",
       "symbol": "WAGMI",
       "logoURI": "https://luauiyxrqsrcixgjxhja.supabase.co/storage/v1/object/public/images/aed290602db5739d3bc98597b82e1987ae6c89d196aaf747d38e8e613674d5bd.png",
-      "chainId": 57073,
-      "decimals": 18
-    },
-    {
-      "address": "0xECF03F57B9AB073bBA96FE27f8b869fF8BAF82e3",
-      "name": "Freak Fights",
-      "symbol": "FREAKS",
-      "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/cbe827a5f894b65c641be4e9826068321220d78b76003e469ff4c7e5cea64804.gif",
       "chainId": 57073,
       "decimals": 18
     },
@@ -32645,12 +32386,11 @@
       "decimals": 18
     },
     {
-      "address": "0xe88F62163B852348E9aCc8f82dDf52C9690FF09F",
-      "name": "thelema",
-      "symbol": "TLA",
-      "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/816b8fcfee4e4e01991de2ed37a6b6991ddcfefa83526f50eee9981e3be5ef00.jpg",
+      "address": "0xe343167631d89B6Ffc58B88d6b7fB0228795491D",
+      "name": "Global Dollar",
+      "symbol": "USDG",
       "chainId": 57073,
-      "decimals": 18
+      "decimals": 6
     },
     {
       "address": "0xeC2d096221bF7f599D1b1581DD73eb6b245807Ee",
@@ -32661,10 +32401,10 @@
       "decimals": 18
     },
     {
-      "address": "0xf273C1b042Fd28F1ca99315DE04A7C8B6ea9a9f5",
-      "name": "Spider",
-      "symbol": "SPIDER",
-      "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/a73f87d2b6d533646a591a611446461d389edef21721f93165c7bef38dc2e374.jpg",
+      "address": "0xf1B0a4DE6FFB4519a751d8B94e079F1A7C6d192A",
+      "name": "QUEEN",
+      "symbol": "QUEEN",
+      "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/96ff064a044123307818b15aa19fd7965914c5d0c349e96a8f4e23f59ab4102d.jpg",
       "chainId": 57073,
       "decimals": 18
     },
@@ -33457,6 +33197,13 @@
       "symbol": "USDT",
       "chainId": 59144,
       "decimals": 6
+    },
+    {
+      "address": "0xA3C26A308aC52520320ebCAFDBA0bB0Aaa105ee8",
+      "name": "Status Network Token",
+      "symbol": "SNT",
+      "chainId": 59144,
+      "decimals": 18
     },
     {
       "address": "0xA6eb75B11b36FB9175fB94C5b96959879A26C2A8",

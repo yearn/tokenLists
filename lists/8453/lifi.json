@@ -1,10 +1,10 @@
 {
   "name": "Lifi Token List",
   "description": "",
-  "timestamp": "2026-02-01T02:46:18Z",
+  "timestamp": "2026-02-08T02:52:19Z",
   "version": {
-    "major": 16,
-    "minor": 1,
+    "major": 17,
+    "minor": 0,
     "patch": 0
   },
   "logoURI": "https://avatars.githubusercontent.com/u/85288935?s=200\u0026v=4",
@@ -518,6 +518,14 @@
       "name": "Yala Token",
       "symbol": "YALA",
       "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0xF970706063b7853877F39515C96932D49d5AC9Cd/logo-128.png",
+      "chainId": 8453,
+      "decimals": 18
+    },
+    {
+      "address": "0xFE550BfFb51EB645EA3b324D772A19AC449E92c5",
+      "name": "Ixs Token",
+      "symbol": "IXS",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0xFE550BfFb51EB645EA3b324D772A19AC449E92c5/logo-128.png",
       "chainId": 8453,
       "decimals": 18
     },

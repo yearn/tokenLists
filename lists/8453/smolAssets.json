@@ -1,10 +1,10 @@
 {
   "name": "SmolAssets",
   "description": "A list of tokens supported by Smoldapp Token Assets repository",
-  "timestamp": "2026-02-01T02:42:25Z",
+  "timestamp": "2026-02-08T02:52:45Z",
   "version": {
     "major": 27,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   },
   "logoURI": "https://raw.githubusercontent.com/smoldapp/tokenLists/main/.github/tokenlistooor.svg",
@@ -2498,6 +2498,14 @@
       "name": "Balancer Aave GHO-USR",
       "symbol": "Aave GHO-USR",
       "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0x5b14ce8DE84448e9A6F6aF652af318472aA4FCAF/logo-128.png",
+      "chainId": 8453,
+      "decimals": 18
+    },
+    {
+      "address": "0x5b2193fDc451C1f847bE09CA9d13A4Bf60f8c86B",
+      "name": "Superform",
+      "symbol": "UP",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0x5b2193fDc451C1f847bE09CA9d13A4Bf60f8c86B/logo-128.png",
       "chainId": 8453,
       "decimals": 18
     },
@@ -5450,6 +5458,14 @@
       "name": "NOOB",
       "symbol": "NOOB",
       "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0xa528f1903B1Cb425c05f1C80BF92f158A4932118/logo-128.png",
+      "chainId": 8453,
+      "decimals": 18
+    },
+    {
+      "address": "0xa53887F7e7c1bf5010b8627F1C1ba94fE7a5d6E0",
+      "name": "Rainbow",
+      "symbol": "RNBW",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0xa53887F7e7c1bf5010b8627F1C1ba94fE7a5d6E0/logo-128.png",
       "chainId": 8453,
       "decimals": 18
     },

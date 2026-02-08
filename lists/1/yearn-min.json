@@ -1,10 +1,10 @@
 {
   "name": "Yearn Minimal Token List",
   "description": "",
-  "timestamp": "2026-02-01T02:36:27Z",
+  "timestamp": "2026-02-08T02:46:38Z",
   "version": {
     "major": 12,
-    "minor": 4,
+    "minor": 5,
     "patch": 0
   },
   "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e/logo.svg",
@@ -2744,6 +2744,14 @@
       "decimals": 18
     },
     {
+      "address": "0x3aecAeDfB92EFbBAC95E5C458c56e94070cB9179",
+      "name": "SY Flagship WETH SuperVault",
+      "symbol": "SY-superWETH",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x3aecAeDfB92EFbBAC95E5C458c56e94070cB9179/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0x3b21C2868B6028CfB38Ff86127eF22E68d16d53B",
       "name": "Curve.fi Factory Plain Pool: cvxPrisma/Prisma",
       "symbol": "cvxprismlp-f",
@@ -3984,6 +3992,14 @@
       "name": "ENA",
       "symbol": "ENA",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x57e114B691Db790C35207b2e685D4A43181e6061/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x57e16654b9E42EF4df30006e4c60f5a475a2F0E9",
+      "name": "SY Staked USDS",
+      "symbol": "SY-stUSDS",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x57e16654b9E42EF4df30006e4c60f5a475a2F0E9/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -7027,6 +7043,14 @@
       "decimals": 18
     },
     {
+      "address": "0x99CD4Ec3f88A45940936F469E4bB72A2A701EEB9",
+      "name": "Staked USDS",
+      "symbol": "stUSDS",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x99CD4Ec3f88A45940936F469E4bB72A2A701EEB9/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0x99D8a9C45b2ecA8864373A26D1459e3Dff1e17F3",
       "name": "Magic Internet Money",
       "symbol": "MIM",
@@ -8847,6 +8871,14 @@
       "decimals": 18
     },
     {
+      "address": "0xE48beaD425CdC399540e27a6335A2F8Cdb4Ab9bC",
+      "name": "SY TermMax USDC Vault V2",
+      "symbol": "SY-TermMax-USDC-Vault-V2",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xE48beaD425CdC399540e27a6335A2F8Cdb4Ab9bC/logo-128.png",
+      "chainId": 1,
+      "decimals": 6
+    },
+    {
       "address": "0xE510E87d0eF7d987Ed1baF8E1D7Aaef5b9e3db42",
       "name": "Curve OHM-ETH Factory yVault",
       "symbol": "yvCurve-OHM-ETH-f",
@@ -9197,6 +9229,14 @@
       "decimals": 6
     },
     {
+      "address": "0xF488ccdf04079cC03183cDB6A147d12Cf97F9317",
+      "name": "TermMax USDC Vault V2",
+      "symbol": "TermMax-USDC-Vault-V2",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xF488ccdf04079cC03183cDB6A147d12Cf97F9317/logo-128.png",
+      "chainId": 1,
+      "decimals": 6
+    },
+    {
       "address": "0xF541AA4d6f29ec2423A0D306dBc677021A02DBC0",
       "name": "SY Ethena sUSDE",
       "symbol": "SY-sUSDE",
@@ -9481,6 +9521,14 @@
       "name": "Curve PRISMA-ETH Factory yVault",
       "symbol": "yvCurve-PRISMA-ETH-f",
       "logoURI": "https://assets.smold.app/api/token/1/0xFfA0F0616229eE2aC08FA4C358D23b18D980134B/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xa036823b9A24F63c32553367bf181Ee04229c3AC",
+      "name": "Flagship WETH SuperVault",
+      "symbol": "superWETH",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xa036823b9A24F63c32553367bf181Ee04229c3AC/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },

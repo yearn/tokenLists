@@ -1,9 +1,9 @@
 {
   "name": "DefiLlama",
   "description": "",
-  "timestamp": "2026-02-01T02:45:41Z",
+  "timestamp": "2026-02-08T02:52:33Z",
   "version": {
-    "major": 158,
+    "major": 159,
     "minor": 0,
     "patch": 0
   },
@@ -1698,6 +1698,14 @@
       "decimals": 18
     },
     {
+      "address": "0x68dD2C79939cEF2bf8268118825568f361eA2Fc9",
+      "name": "CAPY",
+      "symbol": "CAPY",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/102171849/thumb/coinmarketcap.png?1770052743",
+      "chainId": 43114,
+      "decimals": 18
+    },
+    {
       "address": "0x69260B9483F9871ca57f81A90D91E2F96c2Cd11d",
       "name": "GoGoPool Protocol",
       "symbol": "GGP",
@@ -2603,7 +2611,7 @@
       "address": "0x9eE1963f05553eF838604Dd39403be21ceF26AA4",
       "name": "USDp",
       "symbol": "USDp",
-      "logoURI": "https://coin-images.coingecko.com/coins/images/69613/thumb/usdp.png?1759221769",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/43114/0x9eE1963f05553eF838604Dd39403be21ceF26AA4/logo-128.png",
       "chainId": 43114,
       "decimals": 18
     },
@@ -3865,14 +3873,6 @@
       "name": "Wrapped Matic",
       "symbol": "WMATIC",
       "logoURI": "https://assets.coingecko.com/coins/images/22947/large/MATICpo_wh_small.png?1644226625",
-      "chainId": 43114,
-      "decimals": 18
-    },
-    {
-      "address": "0xf32398dae246C5f672B52A54e9B413dFFcAe1A44",
-      "name": "Kassandra",
-      "symbol": "KACY",
-      "logoURI": "https://assets.coingecko.com/coins/images/22918/large/kacy.png?1643459818",
       "chainId": 43114,
       "decimals": 18
     },

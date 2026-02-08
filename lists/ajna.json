@@ -1,10 +1,10 @@
 {
   "name": "Ajna",
   "description": "",
-  "timestamp": "2026-01-25T02:03:05Z",
+  "timestamp": "2026-02-08T02:43:55Z",
   "version": {
     "major": 34,
-    "minor": 5,
+    "minor": 6,
     "patch": 0
   },
   "logoURI": "https://www.ajna.finance/static/tokens/ajna.png",
@@ -268,6 +268,14 @@
       "decimals": 18
     },
     {
+      "address": "0x21918041e8Af81BB2bE7FaefB7Af45b30a20aa25",
+      "name": "LVE WSTETH3",
+      "symbol": "LVWSTETH3",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x21918041e8Af81BB2bE7FaefB7Af45b30a20aa25/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
       "name": "Wrapped BTC",
       "symbol": "WBTC",
@@ -356,6 +364,14 @@
       "decimals": 18
     },
     {
+      "address": "0x35C4FEE500a4be152E3b431252cC7D0AAE3bF520",
+      "name": "LVE WETH CRE",
+      "symbol": "LVWETH-CRE",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x35C4FEE500a4be152E3b431252cC7D0AAE3bF520/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0x3646146cd4E04C6A2C9d6868E34a548bC6650aDA",
       "name": "LVLido Token",
       "symbol": "LVLidoToken",
@@ -368,6 +384,14 @@
       "name": "FXN Token",
       "symbol": "FXN",
       "logoURI": "https://assets.coingecko.com/coins/images/31889/large/FXN_200x200.png?1696530700",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x3C041CED3686694E4C7E62De9C451D55b42A3F9A",
+      "name": "LVE WSTETH CRE",
+      "symbol": "LVWSTETH-CRE",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x3C041CED3686694E4C7E62De9C451D55b42A3F9A/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -423,6 +447,14 @@
       "name": "LVLido Token",
       "symbol": "LVLidoToken",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x4657CdE5C48080Ed0f5a50bc54c76A057EE5daD2/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x469497C617A49Ab3C5cB2De6912F287F3e714919",
+      "name": "LVE WSTETH3",
+      "symbol": "LVWSTETH3",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x469497C617A49Ab3C5cB2De6912F287F3e714919/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -834,6 +866,14 @@
       "decimals": 18
     },
     {
+      "address": "0x92AC02542E32400775FAC2D65b8870b8Ed38330b",
+      "name": "LVE WSTETH CRE",
+      "symbol": "LVWSTETH-CRE",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x92AC02542E32400775FAC2D65b8870b8Ed38330b/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0x92D6C1e31e14520e676a687F0a93788B716BEff5",
       "name": "dYdX",
       "symbol": "DYDX",
@@ -894,6 +934,14 @@
       "name": "LV WETH",
       "symbol": "LVWETH",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x9DC592807c28b665632C1217Afe7E4A0B4317cAb/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x9EE87C3311e5a0dd9849337199829b94C775D69A",
+      "name": "LVE WETH3",
+      "symbol": "LVWETH3",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x9EE87C3311e5a0dd9849337199829b94C775D69A/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -1353,6 +1401,14 @@
       "decimals": 18
     },
     {
+      "address": "0xcaea77713bdDBd4B71E3523Dcf328A3e9737aa16",
+      "name": "LVE WETH CRE",
+      "symbol": "LVWETH-CRE",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xcaea77713bdDBd4B71E3523Dcf328A3e9737aa16/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0xcbB7C0000aB88B473b1f5aFd9ef808440eed33Bf",
       "name": "Coinbase Wrapped BTC",
       "symbol": "cbBTC",
@@ -1445,6 +1501,14 @@
       "name": "Leveraged ETH",
       "symbol": "xETH",
       "logoURI": "https://assets.coingecko.com/coins/images/32165/large/0xe063f04f280c60aeca68b38341c2eecbec703ae2.png?1696724194",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xe4C5Cc00D26530DA33F164F86dd1fB78bf68DB0f",
+      "name": "LVE WETH3",
+      "symbol": "LVWETH3",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xe4C5Cc00D26530DA33F164F86dd1fB78bf68DB0f/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -5420,6 +5484,14 @@
       "name": "MoonInc",
       "symbol": "MoonInc",
       "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0x5C65707aC2B03078a19A48Df730Add4449975E08/logo-128.png",
+      "chainId": 8453,
+      "decimals": 18
+    },
+    {
+      "address": "0x5b674196812451B7cEC024FE9d22D2c0b172fa75",
+      "name": "akita",
+      "symbol": "akita",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0x5b674196812451B7cEC024FE9d22D2c0b172fa75/logo-128.png",
       "chainId": 8453,
       "decimals": 18
     },

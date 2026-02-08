@@ -1,10 +1,10 @@
 {
   "name": "Ajna",
   "description": "",
-  "timestamp": "2026-01-25T02:03:05Z",
+  "timestamp": "2026-02-08T02:43:55Z",
   "version": {
     "major": 34,
-    "minor": 5,
+    "minor": 6,
     "patch": 0
   },
   "logoURI": "https://www.ajna.finance/static/tokens/ajna.png",
@@ -393,6 +393,14 @@
       "name": "MoonInc",
       "symbol": "MoonInc",
       "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0x5C65707aC2B03078a19A48Df730Add4449975E08/logo-128.png",
+      "chainId": 8453,
+      "decimals": 18
+    },
+    {
+      "address": "0x5b674196812451B7cEC024FE9d22D2c0b172fa75",
+      "name": "akita",
+      "symbol": "akita",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0x5b674196812451B7cEC024FE9d22D2c0b172fa75/logo-128.png",
       "chainId": 8453,
       "decimals": 18
     },

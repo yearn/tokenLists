@@ -1,9 +1,9 @@
 {
   "name": "DefiLlama",
   "description": "",
-  "timestamp": "2026-02-01T02:45:41Z",
+  "timestamp": "2026-02-08T02:52:33Z",
   "version": {
-    "major": 158,
+    "major": 159,
     "minor": 0,
     "patch": 0
   },
@@ -15,6 +15,14 @@
       "name": "Cortex",
       "symbol": "CX",
       "logoURI": "https://asset-images.messari.io/images/8ad0e8a6-4290-408f-82ad-55b351e298c7/128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x000000001DC8bd45d7E7829fb1c969cbe4D0D1eC",
+      "name": "Gauntlet USD Alpha",
+      "symbol": "gtUSDa",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/102171863/thumb/gtUSDa.png?1770138785",
       "chainId": 10,
       "decimals": 18
     },

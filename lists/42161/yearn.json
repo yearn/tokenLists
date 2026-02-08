@@ -1,10 +1,10 @@
 {
   "name": "Yearn Token List",
   "description": "",
-  "timestamp": "2026-02-01T02:43:31Z",
+  "timestamp": "2026-02-08T02:53:44Z",
   "version": {
     "major": 47,
-    "minor": 3,
+    "minor": 4,
     "patch": 0
   },
   "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e/logo.svg",
@@ -23,6 +23,14 @@
       "name": "YT wstETH 27JUN2024",
       "symbol": "YT-wstETH-27JUN2024",
       "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x0052B6096f8c1DCBEfB9ba381EB6b67479b5c56b/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0x00Bdd5D56353174F7831D721599107d0f2577Bb9",
+      "name": "TEST",
+      "symbol": "TEST",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x00Bdd5D56353174F7831D721599107d0f2577Bb9/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -446,6 +454,14 @@
       "name": "xWETH-DAI3",
       "symbol": "xWETH-DAI3",
       "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x0f2d8c1837085bE476CcA9C2Bf671438F01a7189/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0x0f694b91e4247b2dc2d61d2c9A3c3ff6dc5b2959",
+      "name": "PLP TEST 30JUL2026",
+      "symbol": "PLP-TEST-30JUL2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x0f694b91e4247b2dc2d61d2c9A3c3ff6dc5b2959/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -1961,6 +1977,14 @@
       "decimals": 8
     },
     {
+      "address": "0x4423e69013FE92864FFCCD525C124a1629af46A5",
+      "name": "YT Staked infiniFi USD 9APR2026",
+      "symbol": "YT-siUSD-9APR2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x4423e69013FE92864FFCCD525C124a1629af46A5/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
       "address": "0x4439FE47139be8B9b13635C142569c3e60D71259",
       "name": "PT gDAI 26SEP2024",
       "symbol": "PT-gDAI-26SEP2024",
@@ -2055,6 +2079,14 @@
       "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x482CC95BC6c92D6254529DC2d45095663Ae726A2/logo-128.png",
       "chainId": 42161,
       "decimals": 6
+    },
+    {
+      "address": "0x487d07BCE7a9347a855Fb59E835F93F33F09957E",
+      "name": "SY Staked infiniFi USD",
+      "symbol": "SY-siUSD",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x487d07BCE7a9347a855Fb59E835F93F33F09957E/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
     },
     {
       "address": "0x4902F38BB8dd0d3eaF77C4212F1Fdb7E2d34d39a",
@@ -2277,6 +2309,14 @@
       "name": "poopsies",
       "symbol": "POOPSIES",
       "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x5159e13C5CD076E5109bc6071c3612619e7F6865/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0x51B0f6AED4a421f09D28A5eDe1DCF460BCB54d30",
+      "name": "Staked infiniFi USD",
+      "symbol": "siUSD",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x51B0f6AED4a421f09D28A5eDe1DCF460BCB54d30/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2572,6 +2612,14 @@
       "name": "PT gDAI 28MAR2024",
       "symbol": "PT-gDAI-28MAR2024",
       "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x5CB4E499A266a582D2fB41dE3C9F5A981A307297/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0x5D81113b4e6A34256aa08bC44D17Bf101E811afa",
+      "name": "InfiniFi USD",
+      "symbol": "iUSD",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x5D81113b4e6A34256aa08bC44D17Bf101E811afa/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -3186,6 +3234,14 @@
       "name": "Pendle Market",
       "symbol": "PENDLE-LPT",
       "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x7b8AEC3d1986b4bEcBf1c651FF6a953CC0117b05/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0x7bBC8f43B2E66Be7a6F37f1a8BDaF081fA0E1c4c",
+      "name": "YT TEST 30JUL2026",
+      "symbol": "YT-TEST-30JUL2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x7bBC8f43B2E66Be7a6F37f1a8BDaF081fA0E1c4c/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -4396,6 +4452,14 @@
       "decimals": 6
     },
     {
+      "address": "0xBFe799A49Add29573Ded37f9a39672016Ce82871",
+      "name": "SY TEST",
+      "symbol": "SY-TEST",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xBFe799A49Add29573Ded37f9a39672016Ce82871/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
       "address": "0xBa4A858d664Ddb052158168DB04AFA3cFF5CFCC8",
       "name": "Pendle Market",
       "symbol": "PENDLE-LPT",
@@ -4663,6 +4727,14 @@
       "name": "PT sETH-wstEthSilo 26DEC2024",
       "symbol": "PT-sETH-wstEthSilo-26DEC2024",
       "logoURI": "https://assets.smold.app/api/token/42161/0xD5AabeDA88c31858E5f60905185f8697bE185e55/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0xD679F3295b997079e7F0a595df68049640566239",
+      "name": "PLP Staked infiniFi USD 9APR2026",
+      "symbol": "PLP-siUSD-9APR2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xD679F3295b997079e7F0a595df68049640566239/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -5858,6 +5930,14 @@
       "decimals": 6
     },
     {
+      "address": "0xea667a90d66897b741378f086c67D03FAEC3E006",
+      "name": "PT Staked infiniFi USD 9APR2026",
+      "symbol": "PT-siUSD-9APR2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xea667a90d66897b741378f086c67D03FAEC3E006/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
       "address": "0xeb044f64aE0dFD5433726fC5418d6643897cbb6B",
       "name": "YT gUSDC 26JUN2025",
       "symbol": "YT-gUSDC-26JUN2025",
@@ -5918,6 +5998,14 @@
       "name": "PT \u003cscript\u003ealert(1)\u003c/script\u003e 26SEP2024",
       "symbol": "PT-\u003cscript\u003ealert(1)\u003c/script\u003e-26SEP2024",
       "logoURI": "https://assets.smold.app/api/token/42161/0xf4A53f7F455Cddd37776a138930CeeAab820ad4e/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0xf505809A09055123bc68814Ce86740334AB00389",
+      "name": "PT TEST 30JUL2026",
+      "symbol": "PT-TEST-30JUL2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xf505809A09055123bc68814Ce86740334AB00389/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },

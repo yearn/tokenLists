@@ -1,10 +1,10 @@
 {
   "name": "Yearn Token List",
   "description": "",
-  "timestamp": "2026-02-01T02:43:31Z",
+  "timestamp": "2026-02-08T02:53:44Z",
   "version": {
     "major": 47,
-    "minor": 3,
+    "minor": 4,
     "patch": 0
   },
   "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e/logo.svg",
@@ -1171,6 +1171,14 @@
       "decimals": 18
     },
     {
+      "address": "0x098697bA3Fee4eA76294C5d6A466a4e3b3E95FE6",
+      "name": "USP Yield Optimized Stablecoin",
+      "symbol": "USP",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/70895/thumb/usp_200.png?1764404741",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0x099DE83315C5f84D6C8A08af020E8428D3a121E0",
       "name": "PT USDS Stablecoin 31JUL2025",
       "symbol": "PT-USDS-31JUL2025",
@@ -2220,6 +2228,14 @@
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x140D0d77EeC240F9D3A07c92dF37E257Cf506081/logo-128.png",
       "chainId": 1,
       "decimals": 6
+    },
+    {
+      "address": "0x141F6BbedBb0EcC0E90DAE1ae3757e11B37E8743",
+      "name": "PLP TEST 30JUL2026",
+      "symbol": "PLP-TEST-30JUL2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x141F6BbedBb0EcC0E90DAE1ae3757e11B37E8743/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
     },
     {
       "address": "0x1456688345527bE1f37E9e627DA0837D6f08C925",
@@ -4219,6 +4235,14 @@
       "name": "yCRV yVault",
       "symbol": "yvyCRV",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x27B5739e22ad9033bcBf192059122d163b60349D/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x27C996B728712e80FAd047ef7226534ab38402f9",
+      "name": "YT Flagship WETH SuperVault 30APR2026",
+      "symbol": "YT-superWETH-30APR2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x27C996B728712e80FAd047ef7226534ab38402f9/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -6715,6 +6739,22 @@
       "decimals": 6
     },
     {
+      "address": "0x3ae763d13BECD4f96Ced845660a672E414556ce8",
+      "name": "PT Flagship WETH SuperVault 30APR2026",
+      "symbol": "PT-superWETH-30APR2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x3ae763d13BECD4f96Ced845660a672E414556ce8/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x3aecAeDfB92EFbBAC95E5C458c56e94070cB9179",
+      "name": "SY Flagship WETH SuperVault",
+      "symbol": "SY-superWETH",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x3aecAeDfB92EFbBAC95E5C458c56e94070cB9179/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0x3b21C2868B6028CfB38Ff86127eF22E68d16d53B",
       "name": "Curve.fi Factory Plain Pool: cvxPrisma/Prisma",
       "symbol": "cvxprismlp-f",
@@ -6775,6 +6815,14 @@
       "name": "PT Wrapped Savings rUSD 31JUL2025",
       "symbol": "PT-wsrUSD-31JUL2025",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x3bd0C522eA444eA2B3F28777e8C20248b6E33252/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x3bdEB7eB5De337a56B4156db5036782EaB188919",
+      "name": "PLP TermMax USDC Vault V2 26MAR2026",
+      "symbol": "PLP-TermMax-USDC-Vault-V2-26MAR2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x3bdEB7eB5De337a56B4156db5036782EaB188919/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -6952,6 +7000,14 @@
       "logoURI": "https://coin-images.coingecko.com/coins/images/54326/thumb/kernel.png?1739292685",
       "chainId": 1,
       "decimals": 18
+    },
+    {
+      "address": "0x3fFAA9ce7CfA5688277B97bf6a8C22249404D129",
+      "name": "PT USP Yield Optimized Stablecoin 25JUN2026",
+      "symbol": "PT-USP-25JUN2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x3fFAA9ce7CfA5688277B97bf6a8C22249404D129/logo-128.png",
+      "chainId": 1,
+      "decimals": 6
     },
     {
       "address": "0x3fbD0dc8057145ce12A90499239F5ae0f22F750d",
@@ -7663,6 +7719,14 @@
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x459F99D7c83Bc3653b1913B62D2978b1deDa01B5/logo-128.png",
       "chainId": 1,
       "decimals": 6
+    },
+    {
+      "address": "0x45DC4460777EC5D210d2B1791126Db2b72dCc3e8",
+      "name": "SY TEST",
+      "symbol": "SY-TEST",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x45DC4460777EC5D210d2B1791126Db2b72dCc3e8/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
     },
     {
       "address": "0x45F163E583D34b8E276445dd3Da9aE077D137d72",
@@ -9748,6 +9812,14 @@
       "decimals": 8
     },
     {
+      "address": "0x56c8e8836A6c5c0c49F5a67c674Aeb4B93a766cE",
+      "name": "YT Staked USDS 25JUN2026",
+      "symbol": "YT-stUSDS-25JUN2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x56c8e8836A6c5c0c49F5a67c674Aeb4B93a766cE/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0x571B384636BA518697d745AC218aD4cEE5EE0ABC",
       "name": "Curve sBTCv2 Factory yVault",
       "symbol": "yvCurve-sBTCv2-f",
@@ -9848,6 +9920,14 @@
       "name": "ENA",
       "symbol": "ENA",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x57e114B691Db790C35207b2e685D4A43181e6061/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x57e16654b9E42EF4df30006e4c60f5a475a2F0E9",
+      "name": "SY Staked USDS",
+      "symbol": "SY-stUSDS",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x57e16654b9E42EF4df30006e4c60f5a475a2F0E9/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -11044,6 +11124,14 @@
       "name": "Pendle Market",
       "symbol": "PENDLE-LPT",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x634dc4B08818021FA55a16044495B02Ad45EC430/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x6354B7dd06050dA44a21d680436838A08e7dceC4",
+      "name": "PLP USP Yield Optimized Stablecoin 25JUN2026",
+      "symbol": "PLP-USP-25JUN2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x6354B7dd06050dA44a21d680436838A08e7dceC4/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -12553,6 +12641,14 @@
       "decimals": 18
     },
     {
+      "address": "0x6f7D5e74Cf802C77ec9eB01D828bD7A68141A94F",
+      "name": "TEST",
+      "symbol": "TEST",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x6f7D5e74Cf802C77ec9eB01D828bD7A68141A94F/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0x6f80310CA7F2C654691D1383149Fa1A57d8AB1f8",
       "name": "Silo Governance Token",
       "symbol": "Silo",
@@ -13091,6 +13187,14 @@
       "name": "Status Network Token",
       "symbol": "SNT",
       "logoURI": "https://tokens.1inch.io/0x744d70fdbe2ba4cf95131626614a1763df805b9e.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x746C2179431572257Cf9DdbA4D89377071385A7b",
+      "name": "PT TEST 30JUL2026",
+      "symbol": "PT-TEST-30JUL2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x746C2179431572257Cf9DdbA4D89377071385A7b/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -16029,6 +16133,14 @@
       "decimals": 18
     },
     {
+      "address": "0x90D7eb710d021e243F60FBB32e95AAA83F5bBAEa",
+      "name": "PLP Flagship WETH SuperVault 30APR2026",
+      "symbol": "PLP-superWETH-30APR2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x90D7eb710d021e243F60FBB32e95AAA83F5bBAEa/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0x90a7E3396403634942AcC24906FBdA19f1418A41",
       "name": "SY Staked Dola",
       "symbol": "SY-sDOLA",
@@ -17172,6 +17284,14 @@
       "decimals": 18
     },
     {
+      "address": "0x99CD4Ec3f88A45940936F469E4bB72A2A701EEB9",
+      "name": "Staked USDS",
+      "symbol": "stUSDS",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x99CD4Ec3f88A45940936F469E4bB72A2A701EEB9/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0x99D8a9C45b2ecA8864373A26D1459e3Dff1e17F3",
       "name": "Magic Internet Money",
       "symbol": "MIM",
@@ -18285,6 +18405,14 @@
       "decimals": 8
     },
     {
+      "address": "0xA69F24271E054bF61dE4912430a21c3C01A3C334",
+      "name": "YT TermMax USDC Vault V2 26MAR2026",
+      "symbol": "YT-TermMax-USDC-Vault-V2-26MAR2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xA69F24271E054bF61dE4912430a21c3C01A3C334/logo-128.png",
+      "chainId": 1,
+      "decimals": 6
+    },
+    {
       "address": "0xA6AeBf9680FC87F7641c40Edd95cf52512f228B0",
       "name": "Curve deUSD-USDC Factory yVault",
       "symbol": "yvCurve-deUSD-USDC-f",
@@ -18571,6 +18699,14 @@
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xACa52350B03617e08721BFE3590B45Fc94DfeC6b/logo-128.png",
       "chainId": 1,
       "decimals": 18
+    },
+    {
+      "address": "0xACd577Ccc29E88A2b7AAA15026533ABD91Fdd6be",
+      "name": "YT USP Yield Optimized Stablecoin 25JUN2026",
+      "symbol": "YT-USP-25JUN2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xACd577Ccc29E88A2b7AAA15026533ABD91Fdd6be/logo-128.png",
+      "chainId": 1,
+      "decimals": 6
     },
     {
       "address": "0xAD016C9565A4aEEC6d4cFC8a01c648eCbea1A602",
@@ -19289,6 +19425,14 @@
       "name": "Curve rgUSD-alUSD Factory yVault",
       "symbol": "yvCurve-rgUSD-alUSD-f",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xB9A0e5E211213bb15315e5E7D9B341DB5417e561/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xB9A5d4cAa0dDA75879ea5bB376Bd2B5EFBafb33F",
+      "name": "YT TEST 30JUL2026",
+      "symbol": "YT-TEST-30JUL2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xB9A5d4cAa0dDA75879ea5bB376Bd2B5EFBafb33F/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -21060,6 +21204,14 @@
       "decimals": 18
     },
     {
+      "address": "0xD7A8FC30e2e5F196C076F00eB2EDc835528Be564",
+      "name": "PT Staked USDS 25JUN2026",
+      "symbol": "PT-stUSDS-25JUN2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xD7A8FC30e2e5F196C076F00eB2EDc835528Be564/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0xD7DF7E085214743530afF339aFC420c7c720BFa7",
       "name": "SY Zircuit Ether.fi weETH",
       "symbol": "SY-zs-weETH",
@@ -21112,6 +21264,14 @@
       "name": "Curve.fi Factory Crypto Pool: PAIR_ETH_MATIC",
       "symbol": "ETH MATIC-f",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xD8eb58D76aF99547333cfEeb6a0f9bd1A63b6492/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xD8fdddF9EA5A3B703F6fFDF8E4329D0d4083F1f5",
+      "name": "PLP Staked USDS 25JUN2026",
+      "symbol": "PLP-stUSDS-25JUN2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xD8fdddF9EA5A3B703F6fFDF8E4329D0d4083F1f5/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -21728,6 +21888,14 @@
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xE467c5C54748f0125d729280F90DeD77C4e720a4/logo-128.png",
       "chainId": 1,
       "decimals": 18
+    },
+    {
+      "address": "0xE48beaD425CdC399540e27a6335A2F8Cdb4Ab9bC",
+      "name": "SY TermMax USDC Vault V2",
+      "symbol": "SY-TermMax-USDC-Vault-V2",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xE48beaD425CdC399540e27a6335A2F8Cdb4Ab9bC/logo-128.png",
+      "chainId": 1,
+      "decimals": 6
     },
     {
       "address": "0xE49462fFd604D35061fb6937626f675873314C93",
@@ -22623,6 +22791,14 @@
       "decimals": 6
     },
     {
+      "address": "0xF488ccdf04079cC03183cDB6A147d12Cf97F9317",
+      "name": "TermMax USDC Vault V2",
+      "symbol": "TermMax-USDC-Vault-V2",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xF488ccdf04079cC03183cDB6A147d12Cf97F9317/logo-128.png",
+      "chainId": 1,
+      "decimals": 6
+    },
+    {
       "address": "0xF48A6134AaE5fC7186fEe6a7F874426AF69Aecf8",
       "name": "WRAPPED-KIBHO",
       "symbol": "WKBO",
@@ -22650,6 +22826,14 @@
       "name": "Babylon.Finance",
       "symbol": "BABL",
       "logoURI": "https://asset-images.messari.io/images/fa25bc19-8fc1-42b1-a31f-f9ec234a1124/128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xF5145335540C4116956C0936b7db08D1A862a2d9",
+      "name": "SY USP Yield Optimized Stablecoin",
+      "symbol": "SY-USP",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xF5145335540C4116956C0936b7db08D1A862a2d9/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -23288,6 +23472,14 @@
       "name": "PT Ethena USDe 25JUL2024",
       "symbol": "PT-USDe-25JUL2024",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xa0021EF8970104c2d008F38D92f115ad56a9B8e1/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xa036823b9A24F63c32553367bf181Ee04229c3AC",
+      "name": "Flagship WETH SuperVault",
+      "symbol": "superWETH",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xa036823b9A24F63c32553367bf181Ee04229c3AC/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -26074,6 +26266,14 @@
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xd29a7D69cF5f06CCd777e53d6E437032804aBf89/logo-128.png",
       "chainId": 1,
       "decimals": 18
+    },
+    {
+      "address": "0xd2CE772EA16666a39720E80B5776902f47313E5a",
+      "name": "PT TermMax USDC Vault V2 26MAR2026",
+      "symbol": "PT-TermMax-USDC-Vault-V2-26MAR2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xd2CE772EA16666a39720E80B5776902f47313E5a/logo-128.png",
+      "chainId": 1,
+      "decimals": 6
     },
     {
       "address": "0xd2E230f71CA8DB211067BC4070A94D268b313fA3",

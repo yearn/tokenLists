@@ -1,9 +1,9 @@
 {
   "name": "CoinGecko",
   "description": "",
-  "timestamp": "2026-02-01T02:45:09Z",
+  "timestamp": "2026-02-08T02:44:54Z",
   "version": {
-    "major": 161,
+    "major": 162,
     "minor": 0,
     "patch": 0
   },
@@ -18,6 +18,13 @@
       "name": "Cortex",
       "symbol": "CX",
       "logoURI": "https://asset-images.messari.io/images/8ad0e8a6-4290-408f-82ad-55b351e298c7/128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x000000001DC8bd45d7E7829fb1c969cbe4D0D1eC",
+      "name": "Gauntlet USD Alpha",
+      "symbol": "gtUSDa",
       "chainId": 10,
       "decimals": 18
     },

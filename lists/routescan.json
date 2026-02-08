@@ -1,9 +1,9 @@
 {
   "name": "RouteScan",
   "description": "",
-  "timestamp": "2026-02-01T02:35:43Z",
+  "timestamp": "2026-02-08T02:44:06Z",
   "version": {
-    "major": 62,
+    "major": 63,
     "minor": 0,
     "patch": 0
   },
@@ -17,6 +17,14 @@
       "address": "0x15d24de366F69b835Be19f7Cf9447e770315DD80",
       "name": "KAP Games",
       "symbol": "KAP",
+      "chainId": 81457,
+      "decimals": 18
+    },
+    {
+      "address": "0x211Cc4DD073734dA055fbF44a2b4667d5E5fE5d2",
+      "name": "Staked USDe",
+      "symbol": "sUSDe",
+      "logoURI": "https://cms-cdn.avascan.com/cms2/stakedusde_32.36eab484fc24.png",
       "chainId": 81457,
       "decimals": 18
     },
@@ -108,14 +116,6 @@
       "decimals": 18
     },
     {
-      "address": "0x9bD75c164dAf830733AC2EA71A0258f95aac7C57",
-      "name": "BlastCat",
-      "symbol": "BCat",
-      "logoURI": "https://cms-cdn.avascan.com/cms2/200x200bcat-logo.cae99912e8eb.webp",
-      "chainId": 81457,
-      "decimals": 18
-    },
-    {
       "address": "0xE070B87c4d88826D4cD1b85BAbE186fdB14CD321",
       "name": "Cyberblast Token",
       "symbol": "CBR",
@@ -140,25 +140,9 @@
       "decimals": 8
     },
     {
-      "address": "0xF8A5D147A3a3416aB151758d969eff15C27aB743",
-      "name": "BlastUP Locked Token",
-      "symbol": "LockedBLASTUP",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/81457/0xF8A5D147A3a3416aB151758d969eff15C27aB743/logo-128.png",
-      "chainId": 81457,
-      "decimals": 18
-    },
-    {
       "address": "0xb1a5700fA2358173Fe465e6eA4Ff52E36e88E2ad",
       "name": "Blast",
       "symbol": "BLAST",
-      "chainId": 81457,
-      "decimals": 18
-    },
-    {
-      "address": "0xb9dfCd4CF589bB8090569cb52FaC1b88Dbe4981F",
-      "name": "Bag",
-      "symbol": "BAG",
-      "logoURI": "https://cms-cdn.avascan.com/cms2/bag_32.5f358a069826.png",
       "chainId": 81457,
       "decimals": 18
     },

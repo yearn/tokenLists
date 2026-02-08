@@ -1,10 +1,10 @@
 {
   "name": "Bebop",
   "description": "",
-  "timestamp": "2026-02-01T02:35:42Z",
+  "timestamp": "2026-02-08T02:44:05Z",
   "version": {
     "major": 27,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   },
   "logoURI": "https://bebop-public-images.s3.eu-west-2.amazonaws.com/bebop-logo.png",
@@ -744,6 +744,14 @@
       "logoURI": "https://coin-images.coingecko.com/coins/images/55611/thumb/Ticker_GS__Company_Name_Goldman_Sachs__size_200x200_2x.png?1746858834",
       "chainId": 1,
       "decimals": 18
+    },
+    {
+      "address": "0x3f217839F72387c1dFC45A93a7600d12B6e008B8",
+      "name": "OPT-USDC-WETH-3200-2026-02-27",
+      "symbol": "OPT-USDC-WETH-3200-2026-02-27",
+      "logoURI": "https://bebop-public-images.s3.eu-west-2.amazonaws.com/black.png",
+      "chainId": 1,
+      "decimals": 6
     },
     {
       "address": "0x3f80B1c54Ae920Be41a77f8B902259D48cf24cCf",
@@ -3212,7 +3220,7 @@
       "address": "0x011EBe7d75E2C9D1E0bD0be0bEf5C36f0A90075F",
       "name": "STABLE",
       "symbol": "STABLE",
-      "logoURI": "https://assets.coingecko.com/coins/images/69242/large/stable-logotype-framed-square-light.png?1762753913",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/69242/thumb/logo-green-bg-filled-white.png?1757949510",
       "chainId": 56,
       "decimals": 18
     },
@@ -3513,6 +3521,14 @@
       "decimals": 18
     },
     {
+      "address": "0xc51A9250795c0186a6FB4A7D20A90330651e4444",
+      "name": "我踏马来了",
+      "symbol": "我踏马来了",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/71523/thumb/wotamalaile-logo.jpg?1768200516",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
       "address": "0xd23A186A78c0B3B805505E5f8ea4083295ef9f3a",
       "name": "Lombard",
       "symbol": "BARD",
@@ -3524,7 +3540,7 @@
       "address": "0xfEbDEd1B0986a8ee107f5AB1a1c5a813491DeCEB",
       "name": "Circle xStock",
       "symbol": "CRCLx",
-      "logoURI": "https://assets.coingecko.com/coins/images/66918/large/CRCLx.png?1751052233",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/66918/thumb/CRCLx.png?1751052233",
       "chainId": 56,
       "decimals": 18
     },

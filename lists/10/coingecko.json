@@ -1,9 +1,9 @@
 {
   "name": "CoinGecko",
   "description": "",
-  "timestamp": "2026-02-08T02:44:54Z",
+  "timestamp": "2026-02-15T02:28:58Z",
   "version": {
-    "major": 162,
+    "major": 163,
     "minor": 0,
     "patch": 0
   },
@@ -25,6 +25,7 @@
       "address": "0x000000001DC8bd45d7E7829fb1c969cbe4D0D1eC",
       "name": "Gauntlet USD Alpha",
       "symbol": "gtUSDa",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/102171863/thumb/gtUSDa.png?1770138785",
       "chainId": 10,
       "decimals": 18
     },
@@ -576,14 +577,6 @@
       "decimals": 18
     },
     {
-      "address": "0x464b808c2C7E04b07e860fDF7a91870620246148",
-      "name": "Wrapped Aave Optimism WETH",
-      "symbol": "waOptWETH",
-      "logoURI": "https://coin-images.coingecko.com/coins/images/68212/thumb/eth.jpg?1755084184",
-      "chainId": 10,
-      "decimals": 18
-    },
-    {
       "address": "0x46777C76dBbE40fABB2AAB99E33CE20058e76C59",
       "name": "Layer3",
       "symbol": "L3",
@@ -794,14 +787,6 @@
       "name": "USDe",
       "symbol": "USDe",
       "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34/logo-128.png",
-      "chainId": 10,
-      "decimals": 18
-    },
-    {
-      "address": "0x5dF7ABe3C51c01dcf6D1f1F9A0ab4dC3759869b9",
-      "name": "SoonChain",
-      "symbol": "SOONX",
-      "logoURI": "https://coin-images.coingecko.com/coins/images/53140/thumb/Logo_Mark_White_on_Blue_Background_1.png?1735375710",
       "chainId": 10,
       "decimals": 18
     },

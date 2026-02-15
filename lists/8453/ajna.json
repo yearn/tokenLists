@@ -1,10 +1,10 @@
 {
   "name": "Ajna",
   "description": "",
-  "timestamp": "2026-02-08T02:43:55Z",
+  "timestamp": "2026-02-15T02:36:36Z",
   "version": {
     "major": 34,
-    "minor": 6,
+    "minor": 7,
     "patch": 0
   },
   "logoURI": "https://www.ajna.finance/static/tokens/ajna.png",
@@ -225,6 +225,14 @@
       "name": "Public Parks Settlements Networks",
       "symbol": "PPSN",
       "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0x2E98656ce8880dd9883FAc77c6C3f2d3CDa3b21B/logo-128.png",
+      "chainId": 8453,
+      "decimals": 18
+    },
+    {
+      "address": "0x31A1ffb45BBC379bc52613F48e768378028eFb17",
+      "name": "Test WETH",
+      "symbol": "tWETH",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0x31A1ffb45BBC379bc52613F48e768378028eFb17/logo-128.png",
       "chainId": 8453,
       "decimals": 18
     },
@@ -705,6 +713,14 @@
       "name": "Ethereum",
       "symbol": "ETH",
       "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE/logo-128.png",
+      "chainId": 8453,
+      "decimals": 18
+    },
+    {
+      "address": "0xa8d392c7F5ADC6c1beBfC3487d617b7029e4929D",
+      "name": "Test USD",
+      "symbol": "tUSD",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0xa8d392c7F5ADC6c1beBfC3487d617b7029e4929D/logo-128.png",
       "chainId": 8453,
       "decimals": 18
     },

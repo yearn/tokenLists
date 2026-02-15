@@ -1,9 +1,9 @@
 {
   "name": "DefiLlama",
   "description": "",
-  "timestamp": "2026-02-08T02:52:33Z",
+  "timestamp": "2026-02-15T02:29:02Z",
   "version": {
-    "major": 159,
+    "major": 160,
     "minor": 0,
     "patch": 0
   },
@@ -1023,14 +1023,6 @@
       "logoURI": "https://assets.coingecko.com/coins/images/32340/large/CoinGecko_200_x_200.jpg?1697466589",
       "chainId": 42161,
       "decimals": 18
-    },
-    {
-      "address": "0x1C986661170c1834db49C3830130D4038eEeb866",
-      "name": "Aperture",
-      "symbol": "APTR",
-      "logoURI": "https://asset-images.messari.io/images/e57f25d8-4d99-4d8a-97b2-654711e74465/128.png",
-      "chainId": 42161,
-      "decimals": 6
     },
     {
       "address": "0x1CD9a56c8C2eA913c70319A44Da75e99255aa46f",
@@ -2101,6 +2093,14 @@
       "name": "Milady",
       "symbol": "LADYS",
       "logoURI": "https://arbiscan.io/token/images/milady_32.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0x3b8db18e69d6686Ad9371A423aFe3Dd1065C94f1",
+      "name": "Espresso",
+      "symbol": "ESP",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/67626/thumb/espresso.jpg?1753324525",
       "chainId": 42161,
       "decimals": 18
     },
@@ -4501,14 +4501,6 @@
       "decimals": 18
     },
     {
-      "address": "0x93ca0d85837FF83158Cd14D65B169CdB223b1921",
-      "name": "Eclipse Fi",
-      "symbol": "ECLIP",
-      "logoURI": "https://asset-images.messari.io/images/97d98c51-396e-4467-acb1-a491cf249ffd/128.png",
-      "chainId": 42161,
-      "decimals": 6
-    },
-    {
       "address": "0x94025780a1aB58868D9B2dBBB775f44b32e8E6e5",
       "name": "BetSwirl v2",
       "symbol": "BETS",
@@ -6147,14 +6139,6 @@
       "name": "Procter \u0026 Gamble xStock",
       "symbol": "PGx",
       "logoURI": "https://asset-images.messari.io/images/5f51b3d4-ef0a-4810-bc43-4ea94143472f/128.png",
-      "chainId": 42161,
-      "decimals": 18
-    },
-    {
-      "address": "0xa992b7Dde2eD1632D0B66C56744e914eD673A37f",
-      "name": "AGIOToken",
-      "symbol": "AGIO",
-      "logoURI": "https://asset-images.messari.io/images/3e5a0ff1-d9bf-436f-893c-bac6baf150ef/128.png",
       "chainId": 42161,
       "decimals": 18
     },

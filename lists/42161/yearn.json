@@ -1,10 +1,10 @@
 {
   "name": "Yearn Token List",
   "description": "",
-  "timestamp": "2026-02-08T02:53:44Z",
+  "timestamp": "2026-02-15T02:29:59Z",
   "version": {
     "major": 47,
-    "minor": 4,
+    "minor": 5,
     "patch": 0
   },
   "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e/logo.svg",
@@ -151,6 +151,14 @@
       "name": "SY gDAI",
       "symbol": "SY-gDAI",
       "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x07C3dE6F0c21A52538A15d00dBF2434bB7Af7E14/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0x07bc5bD6cE9A17f0e7aa91E0Adbc9070dcB1d1dE",
+      "name": "PT Staked USDai 18JUN2026",
+      "symbol": "PT-sUSDai-18JUN2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x07bc5bD6cE9A17f0e7aa91E0Adbc9070dcB1d1dE/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -506,6 +514,14 @@
       "decimals": 18
     },
     {
+      "address": "0x11456849c38Ea4AF212Ab8d4324b39983716516A",
+      "name": "YT Staked USDai 15OCT2026",
+      "symbol": "YT-sUSDai-15OCT2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x11456849c38Ea4AF212Ab8d4324b39983716516A/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
       "address": "0x11C603EdBF3bA83D81B91069978dd5Ac57334c65",
       "name": "YT sETH-pteETHSilo 25APR2024",
       "symbol": "YT-sETH-pteETHSilo-25APR2024",
@@ -857,6 +873,14 @@
       "decimals": 18
     },
     {
+      "address": "0x1cdDE40e29dA213f42A7fA109CcADCA372d9Ee1B",
+      "name": "PT USDai 18JUN2026",
+      "symbol": "PT-USDai-18JUN2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x1cdDE40e29dA213f42A7fA109CcADCA372d9Ee1B/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
       "address": "0x1d38d4204159aA5e767aFbA8f76BE22117De61E5",
       "name": "Pendle Market",
       "symbol": "PENDLE-LPT",
@@ -1045,6 +1069,14 @@
       "name": "Silo Finance Borrowable WETH Deposit in PT-weETH-27JUN2024 Silo",
       "symbol": "sWETH-PT-weETH-27JUN2024",
       "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x22BED3E6E56266C347769189B44646D91b3150c4/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0x22d95cEC2b962C142FfF9BE88CfC7eF15043419F",
+      "name": "PLP thBILL 18JUN2026",
+      "symbol": "PLP-thBILL-18JUN2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x22d95cEC2b962C142FfF9BE88CfC7eF15043419F/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -1261,6 +1293,14 @@
       "name": "YT rsETH 25APR2024",
       "symbol": "YT-rsETH-25APR2024",
       "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x28DF0f193D8e45073BC1db6F2347812C031bA818/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0x299674F6Da858f903D77486FBA50Bc9F2e0Db24D",
+      "name": "PLP Staked USDai 18JUN2026",
+      "symbol": "PLP-sUSDai-18JUN2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x299674F6Da858f903D77486FBA50Bc9F2e0Db24D/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2057,6 +2097,14 @@
       "decimals": 18
     },
     {
+      "address": "0x46850aD61C2B7d64d08c9C754F45254596696984",
+      "name": "PayPal USD",
+      "symbol": "PYUSD",
+      "logoURI": "https://assets.coingecko.com/coins/images/31212/large/PYUSD_Logo_%282%29.png?1691458314",
+      "chainId": 42161,
+      "decimals": 6
+    },
+    {
       "address": "0x46A979f0F8e24E0e85e6C3A7dEeb4C5Abd355bA2",
       "name": "Prize USND - Yearn",
       "symbol": "przUSND",
@@ -2528,6 +2576,14 @@
       "decimals": 18
     },
     {
+      "address": "0x58C40BF59d1714D7B84060dE9f7197AcCC0b3954",
+      "name": "YT thBILL 18JUN2026",
+      "symbol": "YT-thBILL-18JUN2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x58C40BF59d1714D7B84060dE9f7197AcCC0b3954/logo-128.png",
+      "chainId": 42161,
+      "decimals": 6
+    },
+    {
       "address": "0x58F50De493B6bE3585558F95F208dE489C296E24",
       "name": "Pendle Market",
       "symbol": "PENDLE-LPT",
@@ -2628,6 +2684,14 @@
       "name": "YT rETH 26JUN2025",
       "symbol": "YT-rETH-26JUN2025",
       "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x5D84A9560f928b98c735f46A300bbA99e2C6cD02/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0x5De2065F3C709b24f31c736Ef28c1CbB27cEedfc",
+      "name": "YT USDai 18JUN2026",
+      "symbol": "YT-USDai-18JUN2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x5De2065F3C709b24f31c736Ef28c1CbB27cEedfc/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2996,6 +3060,14 @@
       "name": "Pendle Market",
       "symbol": "PENDLE-LPT",
       "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x6febB4d63F6715793107DB9214e9e88dc3E7C3Bd/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0x7032cEe758fBA530C1c71Ab52de1727E555B8Ed4",
+      "name": "YT Staked USDai 18JUN2026",
+      "symbol": "YT-sUSDai-18JUN2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x7032cEe758fBA530C1c71Ab52de1727E555B8Ed4/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -3546,6 +3618,14 @@
       "name": "Silo PT-eETH LP (25 APR 2024)",
       "symbol": "ysPENDLE-LPT",
       "logoURI": "https://assets.smold.app/api/token/42161/0x8A64111709Ce75434b9156e3878cDD5B1fBC2D13/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0x8A8A557b90eC79496a18a1f9C9DA8Bbd7DB86Fd3",
+      "name": "PLP USDai 18JUN2026",
+      "symbol": "PLP-USDai-18JUN2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x8A8A557b90eC79496a18a1f9C9DA8Bbd7DB86Fd3/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -4252,6 +4332,14 @@
       "decimals": 18
     },
     {
+      "address": "0xA8a0DEA40174CfC30fEA9e3A77f182aB33f46E25",
+      "name": "PLP USDai 15OCT2026",
+      "symbol": "PLP-USDai-15OCT2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xA8a0DEA40174CfC30fEA9e3A77f182aB33f46E25/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
       "address": "0xA9104b8B6698979568852C30231871e28A482b3C",
       "name": "Pendle Market",
       "symbol": "PENDLE-LPT",
@@ -4296,6 +4384,14 @@
       "name": "YT sETH-wstEthSilo 26DEC2024",
       "symbol": "YT-sETH-wstEthSilo-26DEC2024",
       "logoURI": "https://assets.smold.app/api/token/42161/0xAE602e0560Fd3aDE52d4E94D1cDbe63E61019693/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0xAF67341456151Ab8c270E0962966092181c2Eb80",
+      "name": "YT USDai 15OCT2026",
+      "symbol": "YT-USDai-15OCT2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xAF67341456151Ab8c270E0962966092181c2Eb80/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -4368,6 +4464,14 @@
       "name": "PT Bedrock uniETH 26JUN2025",
       "symbol": "PT-uniETH-26JUN2025",
       "logoURI": "https://assets.smold.app/api/token/42161/0xB3eBcC844F1Eda040a3620267CDaAea6E14518A9/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0xB459dB106f645d698E74027eeF6019A26a0675Cc",
+      "name": "PT Staked USDai 15OCT2026",
+      "symbol": "PT-sUSDai-15OCT2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xB459dB106f645d698E74027eeF6019A26a0675Cc/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -4599,6 +4703,14 @@
       "name": "PT rsETH 25JUN2026",
       "symbol": "PT-rsETH-25JUN2026",
       "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xC9BFC3aFD592Cc5a3305aEc09aAAA6B9BB4c12d0/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0xC9d24aD0bB25F34098e226a8C5192Dea7bacccaE",
+      "name": "PT USDai 15OCT2026",
+      "symbol": "PT-USDai-15OCT2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xC9d24aD0bB25F34098e226a8C5192Dea7bacccaE/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -4857,6 +4969,14 @@
       "logoURI": "https://assets.smold.app/api/token/42161/0xE389d95e2E8C799FDe5d37F245BDd7160bF50864/logo-128.png",
       "chainId": 42161,
       "decimals": 18
+    },
+    {
+      "address": "0xE46271ecb1d5c7c5134868760F10c18B03021eF1",
+      "name": "PT thBILL 18JUN2026",
+      "symbol": "PT-thBILL-18JUN2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xE46271ecb1d5c7c5134868760F10c18B03021eF1/logo-128.png",
+      "chainId": 42161,
+      "decimals": 6
     },
     {
       "address": "0xE58AfaA6E2abF9A9F243D5A55Bd5447628c4D811",
@@ -5673,6 +5793,14 @@
       "logoURI": "https://coin-images.coingecko.com/coins/images/40143/thumb/cbbtc.png?1726018397",
       "chainId": 42161,
       "decimals": 8
+    },
+    {
+      "address": "0xcbF629C8d396b1261F81F55175Afa010E94787d8",
+      "name": "PLP Staked USDai 15OCT2026",
+      "symbol": "PLP-sUSDai-15OCT2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xcbF629C8d396b1261F81F55175Afa010E94787d8/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
     },
     {
       "address": "0xcfC8AeD301F23e2e730f783756F64449B941b80F",

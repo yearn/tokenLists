@@ -1,10 +1,10 @@
 {
   "name": "Yearn Minimal Token List",
   "description": "",
-  "timestamp": "2026-02-08T02:46:38Z",
+  "timestamp": "2026-02-15T02:34:55Z",
   "version": {
     "major": 12,
-    "minor": 5,
+    "minor": 6,
     "patch": 0
   },
   "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e/logo.svg",
@@ -4670,6 +4670,14 @@
       "decimals": 18
     },
     {
+      "address": "0x65a44528e8868166401eA08b549E19552af589dB",
+      "name": "Strata Senior NUSD",
+      "symbol": "srNUSD",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x65a44528e8868166401eA08b549E19552af589dB/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0x65b05F6b0472b1f36a2F6d90A14cD21900851609",
       "name": "USD3/sUSDS",
       "symbol": "USD3sUSDS",
@@ -5094,6 +5102,14 @@
       "name": "Umbrella Stake Wrapped Aave Ethereum USDC v1",
       "symbol": "stkwaEthUSDC.v1",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x6bf183243FdD1e306ad2C4450BC7dcf6f0bf8Aa6/logo-128.png",
+      "chainId": 1,
+      "decimals": 6
+    },
+    {
+      "address": "0x6bf7788EAA948d9fFBA7E9bb386E2D3c9810e0fc",
+      "name": "Sierra",
+      "symbol": "SIERRA",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/70247/thumb/Sierra_Icon-Light_%281%29.png?1761242537",
       "chainId": 1,
       "decimals": 6
     },
@@ -6877,6 +6893,14 @@
       "decimals": 18
     },
     {
+      "address": "0x96718b51e0d3f8Bd5ae516e22a2022a916eC1D94",
+      "name": "Curve yn-RWA/USD Factory yVault",
+      "symbol": "yvCurve-yn-RWA/USD-f",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x96718b51e0d3f8Bd5ae516e22a2022a916eC1D94/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0x967da4048cD07aB37855c090aAF366e4ce1b9F48",
       "name": "Ocean Token",
       "symbol": "OCEAN",
@@ -7787,6 +7811,13 @@
       "decimals": 18
     },
     {
+      "address": "0xB5571E76693ba60110B5811DD650FFefce1C955f",
+      "name": "MUSD/USDC/USDT",
+      "symbol": "MUSD/2pool",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0xB5BB36BF71EDb4f5B5B3AB90aE0540944b8E6a7F",
       "name": "USDT Block Analytica Morpho Blue Vault",
       "symbol": "yvUSDT-BAMorpho-STK",
@@ -8271,6 +8302,14 @@
       "name": "SY Aladdin sdPENDLE",
       "symbol": "SY-asdPENDLE",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xC87D2D5a2117A495e0F04EF9304dA603a86B7Ad5/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xC8B38D661794d8847961baF40Db92B76f2EBf30d",
+      "name": "Curve MUSD/2pool Factory yVault",
+      "symbol": "yvCurve-MUSD/2pool-f",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xC8B38D661794d8847961baF40Db92B76f2EBf30d/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -9389,6 +9428,14 @@
       "decimals": 18
     },
     {
+      "address": "0xFC807058A352b61aEef6A38e2D0fC3990225E772",
+      "name": "Strata Junior NUSD",
+      "symbol": "jrNUSD",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xFC807058A352b61aEef6A38e2D0fC3990225E772/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0xFCa9Ab2996e7b010516adCC575eB63de4f4fa47A",
       "name": "Curve upYFI Factory yVault",
       "symbol": "yvCurve-upYFI-f",
@@ -9433,6 +9480,13 @@
       "name": "Curve reUSD-sfrxUSD yVault",
       "symbol": "yvCurve-reUSD-sfrxUSD",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xFFcaF6549a229D63351B71313559EDbe0C467B78/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xFFd3b4D343A8964a5C3c1caAc20f319C41A97BFF",
+      "name": "ynRWAx/ynUSDx",
+      "symbol": "yn-RWA/USD",
       "chainId": 1,
       "decimals": 18
     },
@@ -9521,6 +9575,14 @@
       "name": "Curve PRISMA-ETH Factory yVault",
       "symbol": "yvCurve-PRISMA-ETH-f",
       "logoURI": "https://assets.smold.app/api/token/1/0xFfA0F0616229eE2aC08FA4C358D23b18D980134B/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xFffE4eE5D8BdFE534F6df350c36842be9652B0c5",
+      "name": "Curve RWA/OUSD Factory yVault",
+      "symbol": "yvCurve-RWA/OUSD-f",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xFffE4eE5D8BdFE534F6df350c36842be9652B0c5/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -11515,6 +11577,13 @@
       "name": "Wrapped YearnV3 Strategy Cove Rewards Gauge",
       "symbol": "ysyG-yvCurve-YFIETH-gauge",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xf750c238cE033afC224C2E57d0fcb86E64Db0221/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xf75f2b5fc5F375e1aD3130dD0eEC7219Fe821204",
+      "name": "ynRWAx/OUSD",
+      "symbol": "RWA/OUSD",
       "chainId": 1,
       "decimals": 18
     },

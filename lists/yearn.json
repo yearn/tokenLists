@@ -1,10 +1,10 @@
 {
   "name": "Yearn Token List",
   "description": "",
-  "timestamp": "2026-02-15T02:29:59Z",
+  "timestamp": "2026-02-22T02:18:21Z",
   "version": {
     "major": 47,
-    "minor": 5,
+    "minor": 6,
     "patch": 0
   },
   "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e/logo.svg",
@@ -3779,6 +3779,14 @@
       "name": "Pendle Market",
       "symbol": "PENDLE-LPT",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x22a72B0C504cBb7f8245208f84D8f035c311aDec/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x22c64f32b5FeA40D7D387CA875D079d80415F988",
+      "name": "Curve OUSDcrvUSD Factory yVault",
+      "symbol": "yvCurve-OUSDcrvUSD-f",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x22c64f32b5FeA40D7D387CA875D079d80415F988/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -22775,6 +22783,13 @@
       "decimals": 6
     },
     {
+      "address": "0xEfa939F4932cfF8A92fd6A7C5Fe52cD2AD77f3EC",
+      "name": "OUSD/crvUSD",
+      "symbol": "OUSDcrvUSD",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0xF02B8c7FF1accD022CD78444dd9F56330cB699B9",
       "name": "Bankr USDC Vault",
       "symbol": "ysUSDC",
@@ -29590,7 +29605,7 @@
       "address": "0x0994206dfE8De6Ec6920FF4D779B0d950605Fb53",
       "name": "Curve DAO Token",
       "symbol": "CRV",
-      "logoURI": "ipfs://QmcVbt1ezDs89zPw5rgaR9xy5f3bdE7dxvTz958FeFNgfQ",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xD533a949740bb3306d119CC777fa900bA034cd52/logo.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -31195,7 +31210,7 @@
       "address": "0x32327525E01F75Bc4B0ED30a5E6CfFCf145D14AD",
       "name": "1618",
       "symbol": "1618",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x32327525E01F75Bc4B0ED30a5E6CfFCf145D14AD/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/10/0x32327525E01F75Bc4B0ED30a5E6CfFCf145D14AD/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -31323,7 +31338,7 @@
       "address": "0x350a791Bfc2C21F9Ed5d10980Dad2e2638ffa7f6",
       "name": "ChainLink Token",
       "symbol": "LINK",
-      "logoURI": "ipfs://QmU96KikTqZ4rmV6LPim9i57fuvTLMLcV8B6HKXvkdrdcW",
+      "logoURI": "https://tokens.1inch.io/0x350a791bfc2c21f9ed5d10980dad2e2638ffa7f6.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -31435,7 +31450,7 @@
       "address": "0x37e7D30CC180A750C83D68ED0C2511dA10694d63",
       "name": "StableV2 AMM - USD+/LUSD",
       "symbol": "sAMMV2-USD+/LUSD",
-      "logoURI": "https://assets.smold.app/api/token/10/0x37e7D30CC180A750C83D68ED0C2511dA10694d63/logo-128.png",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x37e7D30CC180A750C83D68ED0C2511dA10694d63/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -31659,7 +31674,7 @@
       "address": "0x3Ebb31CB2888e0Acbb81cBE2FeC65AEE24be3BD4",
       "name": "AVT",
       "symbol": "AVT",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x3Ebb31CB2888e0Acbb81cBE2FeC65AEE24be3BD4/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/10/0x3Ebb31CB2888e0Acbb81cBE2FeC65AEE24be3BD4/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -32923,7 +32938,7 @@
       "address": "0x5d47bAbA0d66083C52009271faF3F50DCc01023C",
       "name": "UniDex",
       "symbol": "UNIDX",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x5d47bAbA0d66083C52009271faF3F50DCc01023C/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/10/0x5d47bAbA0d66083C52009271faF3F50DCc01023C/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -35795,7 +35810,7 @@
       "address": "0xAb1047894dA4ec207c71bE0AEF5c7885e07B2DaF",
       "name": "LSD DAO",
       "symbol": "LSD",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xAb1047894dA4ec207c71bE0AEF5c7885e07B2DaF/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/10/0xAb1047894dA4ec207c71bE0AEF5c7885e07B2DaF/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -36203,7 +36218,7 @@
       "address": "0xBe827F2975f2da78feb3683c558B143E3C6dCD07",
       "name": "DINERO",
       "symbol": "DINERO",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xBe827F2975f2da78feb3683c558B143E3C6dCD07/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/10/0xBe827F2975f2da78feb3683c558B143E3C6dCD07/logo-128.png",
       "chainId": 10,
       "decimals": 6
     },
@@ -37243,7 +37258,7 @@
       "address": "0xF9e1F4EEdE806FDA20f4084d9f9c4c2b36E38e77",
       "name": "Degen",
       "symbol": "DGN",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xF9e1F4EEdE806FDA20f4084d9f9c4c2b36E38e77/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/10/0xF9e1F4EEdE806FDA20f4084d9f9c4c2b36E38e77/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -37867,7 +37882,7 @@
       "address": "0xba082500478cc29f23fFb16b85E3c06B28497Af5",
       "name": "Test Token",
       "symbol": "TT",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xba082500478cc29f23fFb16b85E3c06B28497Af5/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/10/0xba082500478cc29f23fFb16b85E3c06B28497Af5/logo-128.png",
       "chainId": 10,
       "decimals": 16
     },
@@ -38691,7 +38706,7 @@
       "address": "0xeB585163DEbB1E637c6D617de3bEF99347cd75c8",
       "name": "XEN Crypto",
       "symbol": "opXEN",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xeB585163DEbB1E637c6D617de3bEF99347cd75c8/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/10/0xeB585163DEbB1E637c6D617de3bEF99347cd75c8/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },

@@ -1,10 +1,10 @@
 {
   "name": "Yearn Token List",
   "description": "",
-  "timestamp": "2026-02-15T02:29:59Z",
+  "timestamp": "2026-02-22T02:18:21Z",
   "version": {
     "major": 47,
-    "minor": 5,
+    "minor": 6,
     "patch": 0
   },
   "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e/logo.svg",
@@ -3779,6 +3779,14 @@
       "name": "Pendle Market",
       "symbol": "PENDLE-LPT",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x22a72B0C504cBb7f8245208f84D8f035c311aDec/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x22c64f32b5FeA40D7D387CA875D079d80415F988",
+      "name": "Curve OUSDcrvUSD Factory yVault",
+      "symbol": "yvCurve-OUSDcrvUSD-f",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x22c64f32b5FeA40D7D387CA875D079d80415F988/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -22773,6 +22781,13 @@
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xEfED11CFc088B996C1A871dDb76375c4F6288f98/logo-128.png",
       "chainId": 1,
       "decimals": 6
+    },
+    {
+      "address": "0xEfa939F4932cfF8A92fd6A7C5Fe52cD2AD77f3EC",
+      "name": "OUSD/crvUSD",
+      "symbol": "OUSDcrvUSD",
+      "chainId": 1,
+      "decimals": 18
     },
     {
       "address": "0xF02B8c7FF1accD022CD78444dd9F56330cB699B9",

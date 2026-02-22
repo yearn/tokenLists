@@ -1,9 +1,9 @@
 {
   "name": "CoinGecko",
   "description": "",
-  "timestamp": "2026-02-15T02:28:58Z",
+  "timestamp": "2026-02-22T02:16:48Z",
   "version": {
-    "major": 163,
+    "major": 164,
     "minor": 0,
     "patch": 0
   },
@@ -113,7 +113,7 @@
       "address": "0x0994206dfE8De6Ec6920FF4D779B0d950605Fb53",
       "name": "Curve DAO Token",
       "symbol": "CRV",
-      "logoURI": "ipfs://QmcVbt1ezDs89zPw5rgaR9xy5f3bdE7dxvTz958FeFNgfQ",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xD533a949740bb3306d119CC777fa900bA034cd52/logo.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -437,7 +437,7 @@
       "address": "0x350a791Bfc2C21F9Ed5d10980Dad2e2638ffa7f6",
       "name": "ChainLink Token",
       "symbol": "LINK",
-      "logoURI": "ipfs://QmU96KikTqZ4rmV6LPim9i57fuvTLMLcV8B6HKXvkdrdcW",
+      "logoURI": "https://tokens.1inch.io/0x350a791bfc2c21f9ed5d10980dad2e2638ffa7f6.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -692,14 +692,6 @@
       "name": "Aave Optimism OP",
       "symbol": "aOptOP",
       "logoURI": "https://assets.coingecko.com/coins/images/12645/large/AAVE.png",
-      "chainId": 10,
-      "decimals": 18
-    },
-    {
-      "address": "0x51707DC661630F8FD624b985FA6eF4f1d4D919Db",
-      "name": "Unvest",
-      "symbol": "UNV",
-      "logoURI": "https://assets.coingecko.com/coins/images/18119/large/unvest.PNG?1630554868",
       "chainId": 10,
       "decimals": 18
     },
@@ -1570,7 +1562,7 @@
       "address": "0xFE8B128bA8C78aabC59d4c64cEE7fF28e9379921",
       "name": "Balancer",
       "symbol": "BAL",
-      "logoURI": "ipfs://QmeVnk6jkW8J9ZHFxsLVamMNHpz9bigp7tsY2CJuxas297",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xba100000625a3754423978a60c9317c58a424e3D/logo.png",
       "chainId": 10,
       "decimals": 18
     },

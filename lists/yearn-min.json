@@ -1,10 +1,10 @@
 {
   "name": "Yearn Minimal Token List",
   "description": "",
-  "timestamp": "2026-02-15T02:34:55Z",
+  "timestamp": "2026-02-22T02:18:22Z",
   "version": {
     "major": 12,
-    "minor": 6,
+    "minor": 7,
     "patch": 0
   },
   "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e/logo.svg",
@@ -1616,6 +1616,14 @@
       "name": "Curve.fi Factory Crypto Pool: ibGBP/USDC",
       "symbol": "ibGBPUSDC-f",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x22CF19EB64226e0E1A79c69b345b31466fD273A7/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x22c64f32b5FeA40D7D387CA875D079d80415F988",
+      "name": "Curve OUSDcrvUSD Factory yVault",
+      "symbol": "yvCurve-OUSDcrvUSD-f",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x22c64f32b5FeA40D7D387CA875D079d80415F988/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -9140,6 +9148,13 @@
       "decimals": 18
     },
     {
+      "address": "0xEfa939F4932cfF8A92fd6A7C5Fe52cD2AD77f3EC",
+      "name": "OUSD/crvUSD",
+      "symbol": "OUSDcrvUSD",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0xF02B8c7FF1accD022CD78444dd9F56330cB699B9",
       "name": "Bankr USDC Vault",
       "symbol": "ysUSDC",
@@ -9487,6 +9502,7 @@
       "address": "0xFFd3b4D343A8964a5C3c1caAc20f319C41A97BFF",
       "name": "ynRWAx/ynUSDx",
       "symbol": "yn-RWA/USD",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xFFd3b4D343A8964a5C3c1caAc20f319C41A97BFF/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -11584,6 +11600,7 @@
       "address": "0xf75f2b5fc5F375e1aD3130dD0eEC7219Fe821204",
       "name": "ynRWAx/OUSD",
       "symbol": "RWA/OUSD",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xf75f2b5fc5F375e1aD3130dD0eEC7219Fe821204/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },

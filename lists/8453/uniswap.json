@@ -1,10 +1,10 @@
 {
   "name": "Uniswap Labs Default",
   "description": "",
-  "timestamp": "2026-02-15T02:32:41Z",
+  "timestamp": "2026-02-22T02:22:46Z",
   "version": {
-    "major": 26,
-    "minor": 3,
+    "major": 27,
+    "minor": 0,
     "patch": 0
   },
   "logoURI": "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
@@ -95,6 +95,14 @@
       "address": "0x1F9bD96DDB4Bd07d6061f8933e9bA9EDE9967550",
       "name": "Boba Token",
       "symbol": "BOBA",
+      "chainId": 8453,
+      "decimals": 18
+    },
+    {
+      "address": "0x1aA8fD5BCce2231C6100d55Bf8B377cff33Acfc3",
+      "name": "RaveDAO",
+      "symbol": "RAVE",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0x1aA8fD5BCce2231C6100d55Bf8B377cff33Acfc3/logo-128.png",
       "chainId": 8453,
       "decimals": 18
     },
@@ -323,6 +331,14 @@
       "name": "FLock.io",
       "symbol": "FLOCK",
       "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0x5aB3D4c385B400F3aBB49e80DE2fAF6a88A7B691/logo-128.png",
+      "chainId": 8453,
+      "decimals": 18
+    },
+    {
+      "address": "0x5b2193fDc451C1f847bE09CA9d13A4Bf60f8c86B",
+      "name": "Superform",
+      "symbol": "UP",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0x5b2193fDc451C1f847bE09CA9d13A4Bf60f8c86B/logo-128.png",
       "chainId": 8453,
       "decimals": 18
     },

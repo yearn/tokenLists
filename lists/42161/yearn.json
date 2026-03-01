@@ -1,10 +1,10 @@
 {
   "name": "Yearn Token List",
   "description": "",
-  "timestamp": "2026-02-22T02:18:21Z",
+  "timestamp": "2026-03-01T02:31:10Z",
   "version": {
     "major": 47,
-    "minor": 6,
+    "minor": 7,
     "patch": 0
   },
   "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e/logo.svg",
@@ -191,6 +191,14 @@
       "name": "VelaToken",
       "symbol": "VELA",
       "logoURI": "https://tokens.1inch.io/0x088cd8f5ef3652623c22d48b1605dcfe860cd704.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0x089bb526a424FB18B17e18E62997F4fa40f98543",
+      "name": "PLP Bedrock uniETH 27AUG2026",
+      "symbol": "PLP-uniETH-27AUG2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x089bb526a424FB18B17e18E62997F4fa40f98543/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -1013,6 +1021,14 @@
       "name": "Open Dollar",
       "symbol": "OD",
       "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x221A0f68770658C15B525d0F89F5da2baAB5f321/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0x2229e6F16774C55209112B836ccdd1A6565ac309",
+      "name": "PT Bedrock uniETH 27AUG2026",
+      "symbol": "PT-uniETH-27AUG2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x2229e6F16774C55209112B836ccdd1A6565ac309/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -4237,6 +4253,14 @@
       "decimals": 18
     },
     {
+      "address": "0x9d2ce39C0bF9BAA959CB65163FBcA89B91D240C5",
+      "name": "PT Midas Hyperithm 20NOV2025",
+      "symbol": "PT-mHYPER-20NOV2025",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x9d2ce39C0bF9BAA959CB65163FBcA89B91D240C5/logo-128.png",
+      "chainId": 42161,
+      "decimals": 6
+    },
+    {
       "address": "0x9e20461bc2c4c980f62f1B279D71734207a6A356",
       "name": "OmniCat",
       "symbol": "OMNI",
@@ -4416,6 +4440,14 @@
       "name": "PT sETH-pteETHSilo 25APR2024",
       "symbol": "PT-sETH-pteETHSilo-25APR2024",
       "logoURI": "https://assets.smold.app/api/token/42161/0xAa2c552279a394c9b0F4b668C288691c5B296182/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0xAa99C48584E68C887F5905584b7Aa78531436844",
+      "name": "YT Bedrock uniETH 27AUG2026",
+      "symbol": "YT-uniETH-27AUG2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xAa99C48584E68C887F5905584b7Aa78531436844/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },

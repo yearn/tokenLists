@@ -1,10 +1,10 @@
 {
   "name": "CoW Swap",
   "description": "",
-  "timestamp": "2026-02-22T02:16:49Z",
+  "timestamp": "2026-03-01T02:33:46Z",
   "version": {
     "major": 8,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   },
   "logoURI": "https://raw.githubusercontent.com/cowprotocol/cowswap/c5974fb8a45d678029ecb013dab33722e152daaa/src/assets/cow-swap/cow_v2.svg",
@@ -1488,6 +1488,69 @@
       "decimals": 18
     },
     {
+      "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
+      "name": "Dai Token",
+      "symbol": "DAI",
+      "logoURI": "https://tokens.1inch.io/0x6b175474e89094c44da98b954eedeac495271d0f.png",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "address": "0x1Ba42e5193dfA8B03D15dd1B86a3113bbBEF8Eeb",
+      "name": "Zcash Token",
+      "symbol": "ZEC",
+      "logoURI": "https://tokens.1inch.io/0x1ba42e5193dfa8b03d15dd1b86a3113bbbef8eeb.png",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "address": "0x55d398326f99059fF775485246999027B3197955",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "logoURI": "https://tokens.1inch.io/0xdac17f958d2ee523a2206206994597c13d831ec7.png",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "address": "0x5BfdAa3f7C28B9994B56135403bF1aCEA02595b0",
+      "name": "CoW Protocol Token",
+      "symbol": "COW",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+      "name": "BTCB Token",
+      "symbol": "BTCB",
+      "logoURI": "https://tokens.1inch.io/0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c.png",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "logoURI": "https://tokens.1inch.io/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.png",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "name": "Wrapped BNB",
+      "symbol": "WBNB",
+      "logoURI": "https://tokens.1inch.io/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+      "name": "BUSD Token",
+      "symbol": "BUSD",
+      "logoURI": "https://tokens.1inch.io/0x4fabb145d64652a948d72533023f6e7a623c7c53.png",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
       "address": "0x14A5f2872396802C3Cc8942A39Ab3E4118EE5038",
       "name": "Backed Tesla Inc",
       "symbol": "bTSLA",
@@ -2176,6 +2239,46 @@
       "logoURI": "https://asset-images.messari.io/images/99170401-7a7d-4c15-851c-992e7f0814dc/128.png",
       "chainId": 42161,
       "decimals": 18
+    },
+    {
+      "address": "0x14A84F1a61cCd7D1BE596A6cc11FE33A36Bc1646",
+      "name": "Treehouse AVAX",
+      "symbol": "tAVAX",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/68726/thumb/tAvax.png?1756370994",
+      "chainId": 43114,
+      "decimals": 18
+    },
+    {
+      "address": "0x63a72806098Bd3D9520cC43356dD78afe5D386D9",
+      "name": "Aave Token",
+      "symbol": "AAVE.e",
+      "logoURI": "https://assets.coingecko.com/coins/images/12645/large/AAVE.png?1601374110",
+      "chainId": 43114,
+      "decimals": 18
+    },
+    {
+      "address": "0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7",
+      "name": "TetherToken",
+      "symbol": "USDt",
+      "logoURI": "https://tokens.1inch.io/0x9702230a8ea53601f5cd2dc00fdbc13d4df4a8c7.png",
+      "chainId": 43114,
+      "decimals": 6
+    },
+    {
+      "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+      "name": "Wrapped AVAX",
+      "symbol": "WAVAX",
+      "logoURI": "https://tokens.1inch.io/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png",
+      "chainId": 43114,
+      "decimals": 18
+    },
+    {
+      "address": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "logoURI": "https://tokens.1inch.io/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.png",
+      "chainId": 43114,
+      "decimals": 6
     },
     {
       "address": "0x0200C29006150606B650577BBE7B6248F58470c1",

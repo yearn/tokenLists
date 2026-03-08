@@ -1,10 +1,10 @@
 {
   "name": "Uniswap Labs Default",
   "description": "",
-  "timestamp": "2026-03-01T02:43:12Z",
+  "timestamp": "2026-03-08T02:16:13Z",
   "version": {
     "major": 27,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   },
   "logoURI": "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
@@ -491,6 +491,14 @@
       "logoURI": "https://tokens.1inch.io/0x2ab6bb8408ca3199b8fa6c92d5b455f820af03c4.png",
       "chainId": 1,
       "decimals": 18
+    },
+    {
+      "address": "0x2aeAbde1aB736c59E9A19BeD67681869eEF39526",
+      "name": "Dovu",
+      "symbol": "DOVU[eth]",
+      "logoURI": "https://assets.coingecko.com/coins/images/31930/large/Dovu_Icon_Black_%281%29.png?1696530738",
+      "chainId": 1,
+      "decimals": 8
     },
     {
       "address": "0x2e9d63788249371f1DFC918a52f8d799F4a38C94",
@@ -1761,6 +1769,14 @@
       "logoURI": "https://assets.coingecko.com/coins/images/4490/large/aergo.png?1647696770",
       "chainId": 1,
       "decimals": 18
+    },
+    {
+      "address": "0x925206b8a707096Ed26ae47C84747fE0bb734F59",
+      "name": "WBT",
+      "symbol": "WBT",
+      "logoURI": "https://assets.coingecko.com/coins/images/27045/large/wbt_token.png?1696526096",
+      "chainId": 1,
+      "decimals": 8
     },
     {
       "address": "0x92D6C1e31e14520e676a687F0a93788B716BEff5",
@@ -3494,6 +3510,7 @@
       "address": "0x30117E4bC17d7B044194b76A38365C53b72F7D49",
       "name": "ETHGas",
       "symbol": "GWEI",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/71375/thumb/ETHGas_White_bg.png?1767771150",
       "chainId": 56,
       "decimals": 18
     },
@@ -5950,6 +5967,14 @@
       "decimals": 18
     },
     {
+      "address": "0x9EadbE35F3Ee3bF3e28180070C429298a1b02F93",
+      "name": "Limitless Official Token",
+      "symbol": "LMTS",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0x9EadbE35F3Ee3bF3e28180070C429298a1b02F93/logo-128.png",
+      "chainId": 8453,
+      "decimals": 18
+    },
+    {
       "address": "0x9a26F5433671751C3276a065f57e5a02D2817973",
       "name": "Keyboard Cat",
       "symbol": "KEYCAT",
@@ -6027,6 +6052,13 @@
       "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0xB1E1f3Cc2B6fE4420C1Ac82022b457018Eb628ff/logo-128.png",
       "chainId": 8453,
       "decimals": 18
+    },
+    {
+      "address": "0xB38266e0e9D9681b77aEB0A280E98131b953F865",
+      "name": "Dovu",
+      "symbol": "DOVU[base]",
+      "chainId": 8453,
+      "decimals": 8
     },
     {
       "address": "0xB3B32F9f8827D4634fE7d973Fa1034Ec9fdDB3B3",
@@ -6932,6 +6964,13 @@
       "name": "USDS Stablecoin",
       "symbol": "USDS",
       "logoURI": "https://coin-images.coingecko.com/coins/images/39926/thumb/sky.jpg?1724830899",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0x68731d6F14B827bBCfFbEBb62b19Daa18de1d79c",
+      "name": "IDOSToken",
+      "symbol": "IDOS",
       "chainId": 42161,
       "decimals": 18
     },
@@ -8041,6 +8080,7 @@
       "address": "0xAEC8318a9a59bAEb39861d10ff6C7f7bf1F96C57",
       "name": "EURA (previously agEUR)",
       "symbol": "EURA",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/43114/0xAEC8318a9a59bAEb39861d10ff6C7f7bf1F96C57/logo-128.png",
       "chainId": 43114,
       "decimals": 18
     },

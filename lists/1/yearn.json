@@ -1,10 +1,10 @@
 {
   "name": "Yearn Token List",
   "description": "",
-  "timestamp": "2026-03-01T02:31:10Z",
+  "timestamp": "2026-03-08T02:24:27Z",
   "version": {
     "major": 47,
-    "minor": 7,
+    "minor": 8,
     "patch": 0
   },
   "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e/logo.svg",
@@ -1283,6 +1283,14 @@
       "decimals": 18
     },
     {
+      "address": "0x0A7e65D2D545B57DA046b7F53cd99d5ad02eFfFC",
+      "name": "YT USD3 25JUN2026",
+      "symbol": "YT-USD3-25JUN2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x0A7e65D2D545B57DA046b7F53cd99d5ad02eFfFC/logo-128.png",
+      "chainId": 1,
+      "decimals": 6
+    },
+    {
       "address": "0x0A91166428D71777e1a9b338b84eB9452e520b78",
       "name": "SY SuperUSDC",
       "symbol": "SY-ysUSDC",
@@ -1994,6 +2002,14 @@
       "address": "0x119806f0e93a213029b599D7bBAE50bD965C2cC4",
       "name": "ZETA/crvUSD",
       "symbol": "ZETACRVUSD",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x11AA6742bC3AFD713e7Fd3f0d3B1f7507Cf2aD12",
+      "name": "PLP USD3 25JUN2026",
+      "symbol": "PLP-USD3-25JUN2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x11AA6742bC3AFD713e7Fd3f0d3B1f7507Cf2aD12/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -3846,8 +3862,8 @@
     },
     {
       "address": "0x22c64f32b5FeA40D7D387CA875D079d80415F988",
-      "name": "Curve OUSDcrvUSD Factory yVault",
-      "symbol": "yvCurve-OUSDcrvUSD-f",
+      "name": "Curve OUSD-crvUSD Factory yVault",
+      "symbol": "yvCurve-OUSD-crvUSD-f",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x22c64f32b5FeA40D7D387CA875D079d80415F988/logo-128.png",
       "chainId": 1,
       "decimals": 18
@@ -9530,6 +9546,14 @@
       "decimals": 18
     },
     {
+      "address": "0x527F6b584e467b2a54A1BB5704B9101C416CC73a",
+      "name": "Curve OGNETHUSD Factory yVault",
+      "symbol": "yvCurve-OGNETHUSD-f",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x527F6b584e467b2a54A1BB5704B9101C416CC73a/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0x5282Ec643C3790E0F781508162a4Aa13fd09C528",
       "name": "PT Tensorplex Staked TAO 27JUN2024",
       "symbol": "PT-stTAO-27JUN2024",
@@ -11095,8 +11119,8 @@
     },
     {
       "address": "0x5fFd0C196838aa5e700657C1f6fd8A87f5d80ED2",
-      "name": "Curve OETHAstETH Factory yVault",
-      "symbol": "yvCurve-OETHAstETH-f",
+      "name": "Curve OETH-ARM-stETH Factory yVault",
+      "symbol": "yvCurve-OETH-ARM-stETH-f",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x5fFd0C196838aa5e700657C1f6fd8A87f5d80ED2/logo-128.png",
       "chainId": 1,
       "decimals": 18
@@ -17204,8 +17228,8 @@
     },
     {
       "address": "0x96718b51e0d3f8Bd5ae516e22a2022a916eC1D94",
-      "name": "Curve yn-RWA/USD Factory yVault",
-      "symbol": "yvCurve-yn-RWA/USD-f",
+      "name": "Curve ynRWAx-ynUSDx Factory yVault",
+      "symbol": "yvCurve-ynRWAx-ynUSDx-f",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x96718b51e0d3f8Bd5ae516e22a2022a916eC1D94/logo-128.png",
       "chainId": 1,
       "decimals": 18
@@ -17572,6 +17596,7 @@
       "address": "0x98A878b1Cd98131B271883B390f68D2c90674665",
       "name": "apxUSD",
       "symbol": "apxUSD",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x98A878b1Cd98131B271883B390f68D2c90674665/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -17850,6 +17875,13 @@
       "name": "PT Staked deUSD 11DEC2025",
       "symbol": "PT-sdeUSD-11DEC2025",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x9AEf3BF940A22A58d8c55e287E2EdFDb0130cf2B/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x9AfAd25833D0F47b3A3D9204dDF965CB172De0CB",
+      "name": "OUSD/msUSD",
+      "symbol": "OUSDmsUSD",
       "chainId": 1,
       "decimals": 18
     },
@@ -19853,6 +19885,13 @@
       "decimals": 20
     },
     {
+      "address": "0xB8ac7ce449Ed72FF61dE8043d67B507f9F523Fa2",
+      "name": "TriOGN",
+      "symbol": "OGNETHUSD",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0xB8be5689e0D91741CA55A68bc0f989970aAA170B",
       "name": "YT Stable Frax USD Pre-Deposit 20NOV2025",
       "symbol": "YT-ctStablefrxUSD-20NOV2025",
@@ -20946,8 +20985,8 @@
     },
     {
       "address": "0xC8B38D661794d8847961baF40Db92B76f2EBf30d",
-      "name": "Curve MUSD/2pool Factory yVault",
-      "symbol": "yvCurve-MUSD/2pool-f",
+      "name": "Curve MUSD-2pool Factory yVault",
+      "symbol": "yvCurve-MUSD-2pool-f",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xC8B38D661794d8847961baF40Db92B76f2EBf30d/logo-128.png",
       "chainId": 1,
       "decimals": 18
@@ -22040,6 +22079,14 @@
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xDF6031C175feBdFb90bfF2B640De0b0D8A450e94/logo-128.png",
       "chainId": 1,
       "decimals": 18
+    },
+    {
+      "address": "0xDF7962C3AebEA91067Fb4179F8BDd8df40b4e9ED",
+      "name": "PT USD3 25JUN2026",
+      "symbol": "PT-USD3-25JUN2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xDF7962C3AebEA91067Fb4179F8BDd8df40b4e9ED/logo-128.png",
+      "chainId": 1,
+      "decimals": 6
     },
     {
       "address": "0xDFDb7f72c1F195C5951a234e8DB9806EB0635346",
@@ -24092,8 +24139,8 @@
     },
     {
       "address": "0xFffE4eE5D8BdFE534F6df350c36842be9652B0c5",
-      "name": "Curve RWA/OUSD Factory yVault",
-      "symbol": "yvCurve-RWA/OUSD-f",
+      "name": "Curve ynRWAx-OUSD Factory yVault",
+      "symbol": "yvCurve-ynRWAx-OUSD-f",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xFffE4eE5D8BdFE534F6df350c36842be9652B0c5/logo-128.png",
       "chainId": 1,
       "decimals": 18
@@ -27192,6 +27239,14 @@
       "decimals": 18
     },
     {
+      "address": "0xd7a540ba3626c0aa66e7DB4088971d0CD64695B6",
+      "name": "Yearn yETH Recovery Vault",
+      "symbol": "yETH-Recovery",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xd7a540ba3626c0aa66e7DB4088971d0CD64695B6/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0xd7b990543EA8e9bd0b9aE2Deb9C52c4d0e660431",
       "name": "xDAI-USDC01",
       "symbol": "xDAI-USDC01",
@@ -28305,6 +28360,14 @@
       "name": "Curve oBTC Pool yVault",
       "symbol": "yvCurve-oBTC",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xe9Dc63083c464d6EDcCFf23444fF3CFc6886f6FB/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xe9a4F7119BF549F65465551DE3C31FfD8D3B22f4",
+      "name": "Curve OUSDmsUSD Factory yVault",
+      "symbol": "yvCurve-OUSDmsUSD-f",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xe9a4F7119BF549F65465551DE3C31FfD8D3B22f4/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },

@@ -1,15 +1,23 @@
 {
   "name": "Tokenlistooor Token List",
   "description": "A curated list of tokens from all the token lists on tokenlistooor.",
-  "timestamp": "2026-03-08T02:27:47Z",
+  "timestamp": "2026-03-15T02:43:17Z",
   "version": {
-    "major": 374,
+    "major": 375,
     "minor": 0,
     "patch": 0
   },
   "logoURI": "https://raw.githubusercontent.com/smoldapp/tokenLists/main/.github/tokenlistooor.svg",
   "keywords": [],
   "tokens": [
+    {
+      "address": "0x048C4e07D170eEdEE8772cA76AEE1C4e2D133d5c",
+      "name": "USDp",
+      "symbol": "USDp",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/56/0x048C4e07D170eEdEE8772cA76AEE1C4e2D133d5c/logo-128.png",
+      "chainId": 56,
+      "decimals": 18
+    },
     {
       "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
       "name": "PancakeSwap Token",
@@ -127,6 +135,14 @@
       "name": "UNFI",
       "symbol": "UNFI",
       "logoURI": "https://tokens.1inch.io/0x728c5bac3c3e370e372fc4671f9ef6916b814d8b.png",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "address": "0x735fa792e731a2e8F83F32eb539841b7B72e6d8f",
+      "name": "ARYZE eEUR",
+      "symbol": "eEUR",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/56/0x735fa792e731a2e8F83F32eb539841b7B72e6d8f/logo-128.png",
       "chainId": 56,
       "decimals": 18
     },

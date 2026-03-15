@@ -1,9 +1,9 @@
 {
   "name": "DefiLlama",
   "description": "",
-  "timestamp": "2026-03-08T02:16:46Z",
+  "timestamp": "2026-03-15T02:33:11Z",
   "version": {
-    "major": 163,
+    "major": 164,
     "minor": 0,
     "patch": 0
   },
@@ -31,14 +31,6 @@
       "name": "USD Coin",
       "symbol": "USDC",
       "logoURI": "https://token-assets-one.vercel.app/api/token/250/0x04068DA6C83AFCFA0e13ba15A6696662335D5B75/logo-128.png",
-      "chainId": 250,
-      "decimals": 6
-    },
-    {
-      "address": "0x049d68029688eAbF473097a2fC38ef61633A3C7A",
-      "name": "Frapped USDT",
-      "symbol": "fUSDT",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/250/0x049d68029688eAbF473097a2fC38ef61633A3C7A/logo-128.png",
       "chainId": 250,
       "decimals": 6
     },
@@ -457,14 +449,6 @@
       "decimals": 18
     },
     {
-      "address": "0x5602df4A94eB6C680190ACCFA2A475621E0ddBdc",
-      "name": "Spartacus",
-      "symbol": "SPA",
-      "logoURI": "https://tokens.1inch.io/0x5602df4a94eb6c680190accfa2a475621e0ddbdc.png",
-      "chainId": 250,
-      "decimals": 9
-    },
-    {
       "address": "0x56ee926bD8c72B2d5fa1aF4d9E4Cbb515a1E3Adc",
       "name": "Synthetix Network",
       "symbol": "SNX",
@@ -479,14 +463,6 @@
       "logoURI": "https://tokens.1inch.io/0x9469d013805bffb7d3debe5e7839237e535ec483.png",
       "chainId": 250,
       "decimals": 18
-    },
-    {
-      "address": "0x5C4FDfc5233f935f20D2aDbA572F770c2E377Ab0",
-      "name": "Hector",
-      "symbol": "HEC",
-      "logoURI": "https://tokens.1inch.io/0x5c4fdfc5233f935f20d2adba572f770c2e377ab0.png",
-      "chainId": 250,
-      "decimals": 9
     },
     {
       "address": "0x5e074C28149cC35c1e5fbC79d8A6ea688dba2314",
@@ -591,22 +567,6 @@
       "logoURI": "https://assets.coingecko.com/coins/images/12645/large/AAVE.png",
       "chainId": 250,
       "decimals": 6
-    },
-    {
-      "address": "0x6c021Ae822BEa943b2E66552bDe1D2696a53fbB7",
-      "name": "TOMB",
-      "symbol": "TOMB",
-      "logoURI": "https://tokens.1inch.io/0x6c021ae822bea943b2e66552bde1d2696a53fbb7.png",
-      "chainId": 250,
-      "decimals": 18
-    },
-    {
-      "address": "0x74E23dF9110Aa9eA0b6ff2fAEE01e740CA1c642e",
-      "name": "TOR",
-      "symbol": "TOR",
-      "logoURI": "https://tokens.1inch.io/0x74e23df9110aa9ea0b6ff2faee01e740ca1c642e.png",
-      "chainId": 250,
-      "decimals": 18
     },
     {
       "address": "0x74b23882a30290451A17c44f4F05243b6b58C76d",
@@ -943,14 +903,6 @@
       "decimals": 18
     },
     {
-      "address": "0xE992bEAb6659BFF447893641A378FbbF031C5bD6",
-      "name": "WigoSwap Token",
-      "symbol": "WIGO",
-      "logoURI": "https://ftmscan.com/token/images/wigoswap_32.png",
-      "chainId": 250,
-      "decimals": 18
-    },
-    {
       "address": "0xEe9801669C6138E84bD50dEB500827b776777d28",
       "name": "O3 Swap Token",
       "symbol": "O3",
@@ -971,14 +923,6 @@
       "name": "Boo MirrorWorld",
       "symbol": "xBOO",
       "logoURI": "https://assets.coingecko.com/coins/images/22609/large/xboo.png?1642220445",
-      "chainId": 250,
-      "decimals": 18
-    },
-    {
-      "address": "0xa6097a4DbEF3EB44c50bad6286a5ED2bc4418AA2",
-      "name": "Build Token",
-      "symbol": "BUILD",
-      "logoURI": "https://assets.coingecko.com/coins/images/26533/large/BUILD.png?1658714842",
       "chainId": 250,
       "decimals": 18
     },

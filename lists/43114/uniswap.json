@@ -1,10 +1,10 @@
 {
   "name": "Uniswap Labs Default",
   "description": "",
-  "timestamp": "2026-03-08T02:16:13Z",
+  "timestamp": "2026-03-15T02:37:45Z",
   "version": {
     "major": 27,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   },
   "logoURI": "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
@@ -300,6 +300,13 @@
       "logoURI": "https://tokens.1inch.io/0xfe6b19286885a4f7f55adad09c3cd1f906d2478f.png",
       "chainId": 43114,
       "decimals": 9
+    },
+    {
+      "address": "0xFdCa15bd55F350a36E63C47661914d80411d2C22",
+      "name": "Bittensor (Universal)",
+      "symbol": "uTAO",
+      "chainId": 43114,
+      "decimals": 18
     },
     {
       "address": "0xaBC9547B534519fF73921b1FBA6E672b5f58D083",

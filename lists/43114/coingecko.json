@@ -1,9 +1,9 @@
 {
   "name": "CoinGecko",
   "description": "",
-  "timestamp": "2026-03-08T02:14:25Z",
+  "timestamp": "2026-03-15T02:37:10Z",
   "version": {
-    "major": 166,
+    "major": 167,
     "minor": 0,
     "patch": 0
   },
@@ -254,14 +254,6 @@
       "decimals": 18
     },
     {
-      "address": "0x100Cc3a819Dd3e8573fD2E46D1E66ee866068f30",
-      "name": "Dragon Crypto Aurum",
-      "symbol": "DCAU",
-      "logoURI": "https://assets.coingecko.com/coins/images/20226/large/vfmKUwK.png?1636689280",
-      "chainId": 43114,
-      "decimals": 18
-    },
-    {
       "address": "0x107D2b7C619202D994a4d044c762Dd6F8e0c5326",
       "name": "Flair Dex Token",
       "symbol": "FLDX",
@@ -441,14 +433,6 @@
       "name": "Pyramid LiquidityOrder",
       "symbol": "ORDER",
       "logoURI": "https://coin-images.coingecko.com/coins/images/66413/thumb/order-logo.png?1749372552",
-      "chainId": 43114,
-      "decimals": 18
-    },
-    {
-      "address": "0x1BfA7FD90dE1285deB09a734112AB6bCD935fC6a",
-      "name": "H4SHFund",
-      "symbol": "H4SH",
-      "logoURI": "https://coin-images.coingecko.com/coins/images/55490/thumb/H4SH_logo.png?1746347187",
       "chainId": 43114,
       "decimals": 18
     },
@@ -729,14 +713,6 @@
       "decimals": 8
     },
     {
-      "address": "0x2d731dfE4e60D732ac7eCAED369eb106Eb1E351f",
-      "name": "puff",
-      "symbol": "PUFF",
-      "logoURI": "https://coin-images.coingecko.com/coins/images/66777/thumb/puff.jpg?1750490088",
-      "chainId": 43114,
-      "decimals": 18
-    },
-    {
       "address": "0x2dA8312e2C08B79104c6B18bA26Bc7065ABEC704",
       "name": "Bawls Onu",
       "symbol": "BAWLS",
@@ -952,14 +928,6 @@
       "decimals": 18
     },
     {
-      "address": "0x3EeFb18003D033661f84e48360eBeCD181A84709",
-      "name": "Islander",
-      "symbol": "ISA",
-      "logoURI": "https://snowtrace.io/token/images/theislander_32.png",
-      "chainId": 43114,
-      "decimals": 18
-    },
-    {
       "address": "0x3f95AA88dDbB7D9D484aa3D482bf0a80009c52c9",
       "name": "Backed ERNX € Ultrashort Bond",
       "symbol": "bERNX",
@@ -1109,14 +1077,6 @@
       "symbol": "MEAT",
       "chainId": 43114,
       "decimals": 6
-    },
-    {
-      "address": "0x4809010926aec940b550D34a46A52739f996D75D",
-      "name": "Wrapped Savings rUSD",
-      "symbol": "wsrUSD",
-      "logoURI": "https://coin-images.coingecko.com/coins/images/66163/thumb/wsrUSD.png?1748500965",
-      "chainId": 43114,
-      "decimals": 18
     },
     {
       "address": "0x48f88A3fE843ccb0b5003e70B4192c1d7448bEf0",
@@ -1483,14 +1443,6 @@
       "name": "USDe",
       "symbol": "USDe",
       "logoURI": "https://assets.coingecko.com/coins/images/33613/large/3466ef_3c088c66c7d941e8856339d0bddf33cc_mv2.png?1702514458",
-      "chainId": 43114,
-      "decimals": 18
-    },
-    {
-      "address": "0x5f018e73C185aB23647c82bD039e762813877f0e",
-      "name": "Build Token",
-      "symbol": "BUILD",
-      "logoURI": "https://assets.coingecko.com/coins/images/26533/large/BUILD.png?1658714842",
       "chainId": 43114,
       "decimals": 18
     },
@@ -1866,14 +1818,6 @@
       "name": "FevrToken",
       "symbol": "FEVR",
       "logoURI": "https://assets.coingecko.com/coins/images/17136/large/Fevr-Token.png?1626869849",
-      "chainId": 43114,
-      "decimals": 18
-    },
-    {
-      "address": "0x73831E7c5577859FB0583aF97C9C68F96A43fcB6",
-      "name": "AIGG",
-      "symbol": "$AIGG",
-      "logoURI": "https://coin-images.coingecko.com/coins/images/54314/thumb/238291d4-6441-456d-90d5-aa9c8805d50c.jpeg?1739212682",
       "chainId": 43114,
       "decimals": 18
     },
@@ -2452,6 +2396,14 @@
       "decimals": 18
     },
     {
+      "address": "0x9D92c21205383651610f90722131655A5B8ED3E0",
+      "name": "Staked USDp",
+      "symbol": "sUSDp",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/43114/0x9D92c21205383651610f90722131655A5B8ED3E0/logo-128.png",
+      "chainId": 43114,
+      "decimals": 18
+    },
+    {
       "address": "0x9E3Ca00f2d4A9E5d4f0add0900de5f15050812cF",
       "name": "NFTrade Token [via ChainPort.io]",
       "symbol": "NFTD",
@@ -2772,26 +2724,10 @@
       "decimals": 18
     },
     {
-      "address": "0xC1d02E488a9Ce2481BFdcd797d5373Dd2E70a9C2",
-      "name": "SHAKE token by SpaceSwap v2",
-      "symbol": "SHAKE",
-      "logoURI": "https://assets.coingecko.com/coins/images/12765/large/shake.png?1633423725",
-      "chainId": 43114,
-      "decimals": 18
-    },
-    {
       "address": "0xC38f41A296A4493Ff429F1238e030924A1542e50",
       "name": "Snowball",
       "symbol": "SNOB",
       "logoURI": "https://tokens.1inch.io/0xc38f41a296a4493ff429f1238e030924a1542e50.png",
-      "chainId": 43114,
-      "decimals": 18
-    },
-    {
-      "address": "0xC55Fa890fd62c25c85D46f57aC972f3F30839E2F",
-      "name": "CRIME",
-      "symbol": "CRIME",
-      "logoURI": "https://coin-images.coingecko.com/coins/images/66355/thumb/crime.png?1749244449",
       "chainId": 43114,
       "decimals": 18
     },
@@ -3140,14 +3076,6 @@
       "decimals": 6
     },
     {
-      "address": "0xF44Fb887334Fa17d2c5c0F970B5D320ab53eD557",
-      "name": "BSCstarter",
-      "symbol": "START",
-      "logoURI": "https://assets.coingecko.com/coins/images/14301/large/logo_poly_sym.png?1624893386",
-      "chainId": 43114,
-      "decimals": 18
-    },
-    {
       "address": "0xF7D9281e8e363584973F946201b82ba72C965D27",
       "name": "YieldYak gAVAX",
       "symbol": "yyAVAX",
@@ -3387,14 +3315,6 @@
       "decimals": 18
     },
     {
-      "address": "0xb84527D59b6Ecb96F433029ECc890D4492C5dCe1",
-      "name": "TOMB",
-      "symbol": "TOMB",
-      "logoURI": "https://assets.coingecko.com/coins/images/16133/large/tomb_icon_noBG.png?1623055476",
-      "chainId": 43114,
-      "decimals": 18
-    },
-    {
       "address": "0xb9A98894FfBfA98c73a818B5B044E5b1C8666f56",
       "name": "Kepler",
       "symbol": "AVIA",
@@ -3447,13 +3367,6 @@
       "name": "UREEQA Token [via ChainPort.io]",
       "symbol": "URQA",
       "logoURI": "https://assets.coingecko.com/coins/images/14605/large/R_O2enOX_400x400.png?1617243310",
-      "chainId": 43114,
-      "decimals": 18
-    },
-    {
-      "address": "0xc06E17bDC3F008F4Ce08D27d364416079289e729",
-      "name": "DOGwifCROCS",
-      "symbol": "DWC",
       "chainId": 43114,
       "decimals": 18
     },

@@ -1,10 +1,10 @@
 {
   "name": "Uniswap Labs Default",
   "description": "",
-  "timestamp": "2026-03-15T02:37:45Z",
+  "timestamp": "2026-03-22T02:28:52Z",
   "version": {
     "major": 27,
-    "minor": 3,
+    "minor": 4,
     "patch": 0
   },
   "logoURI": "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
@@ -726,6 +726,14 @@
       "address": "0xD0a4D1889BbE483273f29b4aCdfAA567A67F99E1",
       "name": "Mask Network",
       "symbol": "MASK",
+      "chainId": 8453,
+      "decimals": 18
+    },
+    {
+      "address": "0xD5390300c5DB71F80d46f0fA9983Fc72D4d1e3da",
+      "name": "Katana",
+      "symbol": "KAT",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0xD5390300c5DB71F80d46f0fA9983Fc72D4d1e3da/logo-128.png",
       "chainId": 8453,
       "decimals": 18
     },

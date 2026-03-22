@@ -1,9 +1,9 @@
 {
   "name": "CoinGecko",
   "description": "",
-  "timestamp": "2026-03-15T02:37:10Z",
+  "timestamp": "2026-03-22T02:35:24Z",
   "version": {
-    "major": 167,
+    "major": 168,
     "minor": 0,
     "patch": 0
   },
@@ -457,13 +457,6 @@
       "name": "APIX",
       "symbol": "APIX",
       "logoURI": "https://coin-images.coingecko.com/coins/images/67222/thumb/avaxpixel_square.png?1752127991",
-      "chainId": 43114,
-      "decimals": 18
-    },
-    {
-      "address": "0x1a3264F2e7b1CFC6220ec9348d33cCF02Af7aaa4",
-      "name": "Dypius",
-      "symbol": "DYP",
       "chainId": 43114,
       "decimals": 18
     },
@@ -948,14 +941,6 @@
       "name": "ROOBEE",
       "symbol": "ROOBEE",
       "logoURI": "https://assets.coingecko.com/coins/images/8791/large/Group_11.png?1580344629",
-      "chainId": 43114,
-      "decimals": 18
-    },
-    {
-      "address": "0x41CBfD7C8709d1E459CE816703a1Fc882DAa77D3",
-      "name": "Loksmith",
-      "symbol": "LOK",
-      "logoURI": "https://coin-images.coingecko.com/coins/images/54931/thumb/LOK200.png?1742627108",
       "chainId": 43114,
       "decimals": 18
     },
@@ -2134,14 +2119,6 @@
       "decimals": 18
     },
     {
-      "address": "0x8F47416CaE600bccF9530E9F3aeaA06bdD1Caa79",
-      "name": "THOR v2",
-      "symbol": "THOR",
-      "logoURI": "https://tokens.1inch.io/0x8f47416cae600bccf9530e9f3aeaa06bdd1caa79.png",
-      "chainId": 43114,
-      "decimals": 18
-    },
-    {
       "address": "0x8a0cAc13c7da965a312f08ea4229c37869e85cB9",
       "name": "Graph Token",
       "symbol": "GRT.e",
@@ -2244,14 +2221,6 @@
       "logoURI": "https://coin-images.coingecko.com/coins/images/67383/thumb/xusd.jpg?1752627749",
       "chainId": 43114,
       "decimals": 6
-    },
-    {
-      "address": "0x95430905F4B0dA123d41BA96600427d2C92B188a",
-      "name": "Cross Chain Degens DAO",
-      "symbol": "Degen",
-      "logoURI": "https://assets.coingecko.com/coins/images/35856/large/Degen_Avax.png?1709896062",
-      "chainId": 43114,
-      "decimals": 18
     },
     {
       "address": "0x95E376390F472fcaA21995169E11D523954b3bbb",
@@ -2540,6 +2509,13 @@
       "decimals": 18
     },
     {
+      "address": "0xAAA0008C8CF3A7Dca931adaF04336A5D808C82Cc",
+      "name": "DeFi Janus Henderson Anemoy AAA CLO Fund Token",
+      "symbol": "deJAAA",
+      "chainId": 43114,
+      "decimals": 18
+    },
+    {
       "address": "0xAAAB9D12A30504559b0C5a9A5977fEE4A6081c6b",
       "name": "PHARAOH",
       "symbol": "PHAR",
@@ -2648,14 +2624,6 @@
       "name": "USDD",
       "symbol": "USDD",
       "logoURI": "https://assets.coingecko.com/coins/images/25380/large/usdd.png?1651455491",
-      "chainId": 43114,
-      "decimals": 18
-    },
-    {
-      "address": "0xB57B25851fE2311CC3fE511c8F10E868932e0680",
-      "name": "deUSD",
-      "symbol": "deUSD",
-      "logoURI": "https://coin-images.coingecko.com/coins/images/39494/thumb/elixir.jpg?1722507413",
       "chainId": 43114,
       "decimals": 18
     },
@@ -3315,14 +3283,6 @@
       "decimals": 18
     },
     {
-      "address": "0xb9A98894FfBfA98c73a818B5B044E5b1C8666f56",
-      "name": "Kepler",
-      "symbol": "AVIA",
-      "logoURI": "https://coin-images.coingecko.com/coins/images/52429/thumb/0xb9a98894ffbfa98c73a818b5b044e5b1c8666f56_%281%29.png?1733332999",
-      "chainId": 43114,
-      "decimals": 18
-    },
-    {
       "address": "0xbBAAA0420D474B34Be197f95A323C2fF3829E811",
       "name": "LOD3 Token",
       "symbol": "LOD3",
@@ -3606,6 +3566,13 @@
       "name": "Elk",
       "symbol": "ELK",
       "logoURI": "https://assets.coingecko.com/coins/images/17813/large/elk.png?1629336971",
+      "chainId": 43114,
+      "decimals": 18
+    },
+    {
+      "address": "0xeF282B38D1ceAB52134CA2cc653a569435744687",
+      "name": "Warp",
+      "symbol": "WRP",
       "chainId": 43114,
       "decimals": 18
     },

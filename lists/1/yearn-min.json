@@ -1,10 +1,10 @@
 {
   "name": "Yearn Minimal Token List",
   "description": "",
-  "timestamp": "2026-03-15T02:43:15Z",
+  "timestamp": "2026-03-22T02:29:26Z",
   "version": {
     "major": 12,
-    "minor": 10,
+    "minor": 11,
     "patch": 0
   },
   "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e/logo.svg",
@@ -618,6 +618,14 @@
       "name": "USDV",
       "symbol": "USDV",
       "logoURI": "https://assets.coingecko.com/coins/images/32948/large/usdv_%281%29.png?1699933314",
+      "chainId": 1,
+      "decimals": 6
+    },
+    {
+      "address": "0x0E609b710da5e0AA476224b6c0e5445cCc21251E",
+      "name": "Concrete Decentralized Finance USDT",
+      "symbol": "ctDefiUSDT",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x0E609b710da5e0AA476224b6c0e5445cCc21251E/logo-128.png",
       "chainId": 1,
       "decimals": 6
     },
@@ -4030,6 +4038,7 @@
       "address": "0x57690E5287d36733664caa21fa2Dc48c156e962D",
       "name": "OUSD/pmUSD",
       "symbol": "OUSDpmUSD",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x57690E5287d36733664caa21fa2Dc48c156e962D/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -6301,6 +6310,14 @@
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x853d955aCEf822Db058eb8505911ED77F175b99e/logo-128.png",
       "chainId": 1,
       "decimals": 18
+    },
+    {
+      "address": "0x854a23bCF88D508D5519b519B5d29CD2eA77A603",
+      "name": "SY Concrete Decentralized Finance USDT",
+      "symbol": "SY-ctDefiUSDT",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x854a23bCF88D508D5519b519B5d29CD2eA77A603/logo-128.png",
+      "chainId": 1,
+      "decimals": 6
     },
     {
       "address": "0x856c4Efb76C1D1AE02e20CEB03A2A6a08b0b8dC3",
@@ -9240,6 +9257,7 @@
       "address": "0xEcb0F0d68C19BdAaDAEbE24f6752A4Db34e2c2cb",
       "name": "pmUSD/crvUSD",
       "symbol": "pmcrvUSD",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xEcb0F0d68C19BdAaDAEbE24f6752A4Db34e2c2cb/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },

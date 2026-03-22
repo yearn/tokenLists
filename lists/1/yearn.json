@@ -1,10 +1,10 @@
 {
   "name": "Yearn Token List",
   "description": "",
-  "timestamp": "2026-03-15T02:41:47Z",
+  "timestamp": "2026-03-22T02:31:07Z",
   "version": {
     "major": 47,
-    "minor": 9,
+    "minor": 10,
     "patch": 0
   },
   "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e/logo.svg",
@@ -501,6 +501,14 @@
       "name": "Curve tBTC/cbBTC Factory yVault",
       "symbol": "yvCurve-tBTC/cbBTC-f",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x03f8CCf5b5004B55309e949ea9D08136a32E9C5d/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x03ff495Bd00447A6b823b5805950517B28E6d994",
+      "name": "PLP Concrete Decentralized Finance USDT 28MAY2026",
+      "symbol": "PLP-ctDefiUSDT-28MAY2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x03ff495Bd00447A6b823b5805950517B28E6d994/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -1398,6 +1406,14 @@
       "name": "USDV",
       "symbol": "USDV",
       "logoURI": "https://assets.coingecko.com/coins/images/32948/large/usdv_%281%29.png?1699933314",
+      "chainId": 1,
+      "decimals": 6
+    },
+    {
+      "address": "0x0E609b710da5e0AA476224b6c0e5445cCc21251E",
+      "name": "Concrete Decentralized Finance USDT",
+      "symbol": "ctDefiUSDT",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x0E609b710da5e0AA476224b6c0e5445cCc21251E/logo-128.png",
       "chainId": 1,
       "decimals": 6
     },
@@ -3184,6 +3200,14 @@
       "decimals": 18
     },
     {
+      "address": "0x1Ff9C3b5d9969ddeC8E3F801b638DA08D769FDE5",
+      "name": "YT Strata Senior USDe 25JUN2026",
+      "symbol": "YT-srUSDe-25JUN2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x1Ff9C3b5d9969ddeC8E3F801b638DA08D769FDE5/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0x1a249b03362C1bFFfEa062F3bD7096C58cA07279",
       "name": "Pendle Market",
       "symbol": "PENDLE-LPT",
@@ -3913,6 +3937,14 @@
       "name": "Aave Ethereum USDT",
       "symbol": "aEthUSDT",
       "logoURI": "https://assets.coingecko.com/coins/images/12645/large/AAVE.png",
+      "chainId": 1,
+      "decimals": 6
+    },
+    {
+      "address": "0x238Acd637168cAf12e77337BC2Bc5950557aAc04",
+      "name": "PT Concrete Decentralized Finance USDT 28MAY2026",
+      "symbol": "PT-ctDefiUSDT-28MAY2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x238Acd637168cAf12e77337BC2Bc5950557aAc04/logo-128.png",
       "chainId": 1,
       "decimals": 6
     },
@@ -6033,6 +6065,14 @@
       "name": "ether.fi ETH",
       "symbol": "eETH",
       "logoURI": "https://asset-images.messari.io/images/53a682e4-20f1-4257-b238-4cfcde9a7cb8/128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x36159b0539b019F1896800b40E52150471799668",
+      "name": "PLP Strata Junior USDe 25JUN2026",
+      "symbol": "PLP-jrUSDe-25JUN2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x36159b0539b019F1896800b40E52150471799668/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -11338,6 +11378,14 @@
       "decimals": 18
     },
     {
+      "address": "0x619D75E3b790eBC21c289f2805Bb7177A7D732E2",
+      "name": "PT Strata Senior USDe 25JUN2026",
+      "symbol": "PT-srUSDe-25JUN2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x619D75E3b790eBC21c289f2805Bb7177A7D732E2/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0x61d799b23C938220D27fC03Ad2044A7AA891fE81",
       "name": "PT Staked YUSD 4SEP2025",
       "symbol": "PT-sYUSD-4SEP2025",
@@ -13396,6 +13444,14 @@
       "decimals": 18
     },
     {
+      "address": "0x72B4032A479fCa1fB8cA31a4F62365A9FADDFEe5",
+      "name": "PLP Midas US Treasury Bill Token 30JUL2026",
+      "symbol": "PLP-mTBILL-30JUL2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x72B4032A479fCa1fB8cA31a4F62365A9FADDFEe5/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0x72D120B9C47dA21eD704e843B2C970ca743DB175",
       "name": "YT Corn ether.fi eBTC 27MAR2025",
       "symbol": "YT-corn-eBTC-27MAR2025",
@@ -15359,6 +15415,14 @@
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x853d955aCEf822Db058eb8505911ED77F175b99e/logo-128.png",
       "chainId": 1,
       "decimals": 18
+    },
+    {
+      "address": "0x854a23bCF88D508D5519b519B5d29CD2eA77A603",
+      "name": "SY Concrete Decentralized Finance USDT",
+      "symbol": "SY-ctDefiUSDT",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x854a23bCF88D508D5519b519B5d29CD2eA77A603/logo-128.png",
+      "chainId": 1,
+      "decimals": 6
     },
     {
       "address": "0x85667e484a32d884010Cf16427D90049CCf46e97",
@@ -19686,6 +19750,14 @@
       "decimals": 18
     },
     {
+      "address": "0xB3538aaB6a46572b118692A05915582857D6BC17",
+      "name": "SY Midas US Treasury Bill Token",
+      "symbol": "SY-mTBILL",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xB3538aaB6a46572b118692A05915582857D6BC17/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0xB35b02E3353BE80A5648F5299b0336579BCf64a0",
       "name": "WETH-1 yVault Liquid Locker Compounder",
       "symbol": "yv^2WETH-1",
@@ -19867,6 +19939,14 @@
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xB657B895B265C38c53FFF00166cF7F6A3C70587d/logo-128.png",
       "chainId": 1,
       "decimals": 18
+    },
+    {
+      "address": "0xB6B20416214DdadA3396029C64AcEccc8df515A6",
+      "name": "YT Concrete Decentralized Finance USDT 28MAY2026",
+      "symbol": "YT-ctDefiUSDT-28MAY2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xB6B20416214DdadA3396029C64AcEccc8df515A6/logo-128.png",
+      "chainId": 1,
+      "decimals": 6
     },
     {
       "address": "0xB77b5a903ddb7a3CCE06ffc92EaB36c20Ace1c7f",
@@ -22026,6 +22106,13 @@
       "decimals": 18
     },
     {
+      "address": "0xDD629E5241CbC5919847783e6C96B2De4754e438",
+      "name": "Midas US Treasury Bill Token",
+      "symbol": "mTBILL",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0xDDDe38696FBe5d11497D72d8801F651642d62353",
       "name": "ParaSpace Derivative Token cAPE",
       "symbol": "pcAPE",
@@ -22237,6 +22324,14 @@
       "name": "Wrapped OETH",
       "symbol": "wOETH",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xDcEe70654261AF21C44c093C300eD3Bb97b78192/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xDcb3de0E23cc7CCA9384dCbB6b2b70ba03D49f42",
+      "name": "YT Strata Junior USDe 25JUN2026",
+      "symbol": "YT-jrUSDe-25JUN2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xDcb3de0E23cc7CCA9384dCbB6b2b70ba03D49f42/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -23435,6 +23530,14 @@
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xF456aa0730a5bEdCEa25b81006F8D01A635dEcEF/logo-128.png",
       "chainId": 1,
       "decimals": 18
+    },
+    {
+      "address": "0xF46948cB72D4F4190Fb6017f099cB987Fdf7bE88",
+      "name": "YT Midas US Treasury Bill Token 30JUL2026",
+      "symbol": "YT-mTBILL-30JUL2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xF46948cB72D4F4190Fb6017f099cB987Fdf7bE88/logo-128.png",
+      "chainId": 1,
+      "decimals": 6
     },
     {
       "address": "0xF469fBD2abcd6B9de8E169d128226C0Fc90a012e",
@@ -26083,6 +26186,14 @@
       "decimals": 18
     },
     {
+      "address": "0xc284869087C70f2F4c3167b7cB221eBb1e84Dd41",
+      "name": "PT Midas US Treasury Bill Token 30JUL2026",
+      "symbol": "PT-mTBILL-30JUL2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xc284869087C70f2F4c3167b7cB221eBb1e84Dd41/logo-128.png",
+      "chainId": 1,
+      "decimals": 6
+    },
+    {
       "address": "0xc2B021133D1b0cF07dba696fd5DD89338428225B",
       "name": "Balancer GHO/bb-a-USD Stable Pool",
       "symbol": "GHO/bb-a-USD",
@@ -27149,6 +27260,14 @@
       "name": "MEV Capital PTs USDC",
       "symbol": "MC_PTs",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xd41830d88dfD08678b0B886E0122193d54b02Acc/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xd46fdfF6D4d4e19c3e6d31cE2bf2239BA07BF71c",
+      "name": "PT Strata Junior USDe 25JUN2026",
+      "symbol": "PT-jrUSDe-25JUN2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xd46fdfF6D4d4e19c3e6d31cE2bf2239BA07BF71c/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -29639,6 +29758,14 @@
       "name": "Napier Curve reUSD-scrvUSD yVault",
       "symbol": "yreUSDscrvUSD",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xfc1aDcb2c25FF45CF26870852071D9daB337d707/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xfc82267a9e065Aaf407f64dAdD49BfbDC9511FB1",
+      "name": "PLP Strata Senior USDe 25JUN2026",
+      "symbol": "PLP-srUSDe-25JUN2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xfc82267a9e065Aaf407f64dAdD49BfbDC9511FB1/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },

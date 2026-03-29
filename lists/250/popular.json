@@ -1,9 +1,9 @@
 {
   "name": "Popular tokens",
   "description": "A curated list of popular tokens from all the token lists on tokenlistooor.",
-  "timestamp": "2026-03-22T02:37:16Z",
+  "timestamp": "2026-03-29T02:56:27Z",
   "version": {
-    "major": 118,
+    "major": 119,
     "minor": 0,
     "patch": 0
   },
@@ -226,13 +226,6 @@
       "decimals": 18
     },
     {
-      "address": "0x2b1D36f5B61AdDAf7DA7ebbd11B35FD8cfb0DE31",
-      "name": "Interport Token",
-      "symbol": "ITP",
-      "chainId": 250,
-      "decimals": 18
-    },
-    {
       "address": "0x3129662808bEC728a27Ab6a6b9AFd3cBacA8A43c",
       "name": "Dola USD Stablecoin",
       "symbol": "DOLA",
@@ -441,6 +434,14 @@
       "decimals": 18
     },
     {
+      "address": "0x74E23dF9110Aa9eA0b6ff2fAEE01e740CA1c642e",
+      "name": "TOR",
+      "symbol": "TOR",
+      "logoURI": "https://tokens.1inch.io/0x74e23df9110aa9ea0b6ff2faee01e740ca1c642e.png",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
       "address": "0x74b23882a30290451A17c44f4F05243b6b58C76d",
       "name": "Ethereum",
       "symbol": "ETH",
@@ -636,6 +637,14 @@
       "name": "BiFi",
       "symbol": "BiFi",
       "logoURI": "https://assets.coingecko.com/coins/images/13671/large/ysYIu7Q.png?1610679337",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "address": "0xAd84341756Bf337f5a0164515b1f6F993D194E1f",
+      "name": "Fantom USD",
+      "symbol": "FUSD",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/fusd.jpg",
       "chainId": 250,
       "decimals": 18
     },

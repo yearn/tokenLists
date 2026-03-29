@@ -1,9 +1,9 @@
 {
   "name": "Popular tokens",
   "description": "A curated list of popular tokens from all the token lists on tokenlistooor.",
-  "timestamp": "2026-03-22T02:37:16Z",
+  "timestamp": "2026-03-29T02:56:27Z",
   "version": {
-    "major": 118,
+    "major": 119,
     "minor": 0,
     "patch": 0
   },
@@ -399,13 +399,6 @@
       "decimals": 18
     },
     {
-      "address": "0x2b1D36f5B61AdDAf7DA7ebbd11B35FD8cfb0DE31",
-      "name": "Interport Token",
-      "symbol": "ITP",
-      "chainId": 42161,
-      "decimals": 18
-    },
-    {
       "address": "0x2c852D3334188BE136bFC540EF2bB8C37b590BAD",
       "name": "MAGICToken",
       "symbol": "MAGIC",
@@ -446,12 +439,11 @@
       "decimals": 18
     },
     {
-      "address": "0x31C91D8Fb96BfF40955DD2dbc909B36E8b104Dde",
-      "name": "Poison.Finance Poison",
-      "symbol": "POI$ON",
-      "logoURI": "https://assets.coingecko.com/coins/images/28630/large/poisonlogo160x160.png?1672737996",
+      "address": "0x323665443CEf804A3b5206103304BD4872EA4253",
+      "name": "USDV",
+      "symbol": "USDV",
       "chainId": 42161,
-      "decimals": 18
+      "decimals": 6
     },
     {
       "address": "0x32dF62dc3aEd2cD6224193052Ce665DC18165841",
@@ -861,14 +853,6 @@
       "decimals": 18
     },
     {
-      "address": "0x67C31056358b8977Ea95a3a899dD380D4BceD706",
-      "name": "ETHforestAI",
-      "symbol": "ETHFAI",
-      "logoURI": "https://arbiscan.io/token/images/ethforestai_32.png",
-      "chainId": 42161,
-      "decimals": 18
-    },
-    {
       "address": "0x680447595e8b7b3Aa1B43beB9f6098C79ac2Ab3f",
       "name": "Decentralized USD",
       "symbol": "USDD",
@@ -1135,6 +1119,14 @@
       "name": "Agave",
       "symbol": "AGVE",
       "logoURI": "https://arbiscan.io/token/images/agave_32.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0x8616E8EA83f048ab9A5eC513c9412Dd2993bcE3F",
+      "name": "handleUSD",
+      "symbol": "fxUSD",
+      "logoURI": "https://arbiscan.io/token/images/layer2dao_32.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -1933,6 +1925,14 @@
       "decimals": 18
     },
     {
+      "address": "0xdce765f021410B3266aA0053c93Cb4535F1e12e0",
+      "name": "peg-eUSD",
+      "symbol": "peUSD",
+      "logoURI": "https://assets.coingecko.com/coins/images/31521/large/peUSD_200x200.png?1693486541",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
       "address": "0xe05A08226c49b636ACf99c40Da8DC6aF83CE5bB3",
       "name": "Ankr Staked ETH",
       "symbol": "ankrETH",
@@ -1961,6 +1961,14 @@
       "name": "Aave Arbitrum WETH",
       "symbol": "aArbWETH",
       "logoURI": "https://assets.coingecko.com/coins/images/12645/large/AAVE.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0xe66998533a1992ecE9eA99cDf47686F4fc8458E0",
+      "name": "Jones USDC",
+      "symbol": "jUSDC",
+      "logoURI": "https://assets.coingecko.com/coins/images/28893/large/jUSDC.png?1675157687",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2001,14 +2009,6 @@
       "name": "Auctus Token",
       "symbol": "AUC",
       "logoURI": "https://arbiscan.io/token/images/auctus_32.png",
-      "chainId": 42161,
-      "decimals": 18
-    },
-    {
-      "address": "0xeb8E93A0c7504Bffd8A8fFa56CD754c63aAeBFe8",
-      "name": "DAI+",
-      "symbol": "DAI+",
-      "logoURI": "https://tokens.1inch.io/0xeb8e93a0c7504bffd8a8ffa56cd754c63aaebfe8.png",
       "chainId": 42161,
       "decimals": 18
     },

@@ -1,9 +1,9 @@
 {
   "name": "DefiLlama",
   "description": "",
-  "timestamp": "2026-04-05T03:09:55Z",
+  "timestamp": "2026-04-12T03:03:01Z",
   "version": {
-    "major": 167,
+    "major": 168,
     "minor": 0,
     "patch": 0
   },
@@ -47,14 +47,6 @@
       "name": "Maia",
       "symbol": "MAIA",
       "logoURI": "https://asset-images.messari.io/images/74eef832-5ad2-4771-9bba-c3ae04c8ac3d/128.png",
-      "chainId": 42161,
-      "decimals": 18
-    },
-    {
-      "address": "0x0000206329b97DB379d5E1Bf586BbDB969C63274",
-      "name": "USDA",
-      "symbol": "USDA",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x0000206329b97DB379d5E1Bf586BbDB969C63274/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -1239,14 +1231,6 @@
       "decimals": 18
     },
     {
-      "address": "0x255f1B39172f65dC6406b8bEE8b08155C45Fe1b6",
-      "name": "HarambeCoin",
-      "symbol": "HARAMBE",
-      "logoURI": "https://asset-images.messari.io/images/9d76347e-01c8-45b5-a46d-395a5f8c1d10/128.png",
-      "chainId": 42161,
-      "decimals": 18
-    },
-    {
       "address": "0x2594A6392832b341b76B60e8B00F42094e30B1b3",
       "name": "SP Funds S\u0026P 500 Sharia  ETF - Dinari",
       "symbol": "SPUS",
@@ -1469,7 +1453,7 @@
     },
     {
       "address": "0x2b28E826b55e399F4d4699b85f68666AC51e6f70",
-      "name": "CAD Coin",
+      "name": "CADC",
       "symbol": "CADC",
       "logoURI": "https://asset-images.messari.io/images/3fe318c5-531a-45c3-9e19-eccdd9f03f91/128.png",
       "chainId": 42161,
@@ -2297,14 +2281,6 @@
       "decimals": 18
     },
     {
-      "address": "0x476ef9ac6D8673E220d0E8BC0a810C2Dc6A2AA84",
-      "name": "United States Permissionless Dollar",
-      "symbol": "USPD",
-      "logoURI": "https://coin-images.coingecko.com/coins/images/69917/thumb/logo_uspd_200_200.png?1760025748",
-      "chainId": 42161,
-      "decimals": 18
-    },
-    {
       "address": "0x4772D2e014F9fC3a820C444e3313968e9a5C8121",
       "name": "YieldFi yUSD",
       "symbol": "yUSD",
@@ -2317,6 +2293,14 @@
       "name": "Dackie Token",
       "symbol": "DACKIE",
       "logoURI": "https://asset-images.messari.io/images/880c16af-ece7-474b-ae2b-545bdfdf2c5b/128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0x4809010926aec940b550D34a46A52739f996D75D",
+      "name": "Wrapped Savings rUSD",
+      "symbol": "wsrUSD",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/66163/thumb/wsrUSD.png?1748500965",
       "chainId": 42161,
       "decimals": 18
     },
@@ -3889,14 +3873,6 @@
       "decimals": 18
     },
     {
-      "address": "0x83E60B9F7f4DB5cDb0877659b1740E73c662c55B",
-      "name": "Pingu",
-      "symbol": "PINGU",
-      "logoURI": "https://asset-images.messari.io/images/a3b2be22-7c56-4ef3-844d-5c29b00b91bf/128.png",
-      "chainId": 42161,
-      "decimals": 18
-    },
-    {
       "address": "0x847503FbF003cE8B005546Aa3c03B80b7C2F9771",
       "name": "Byte",
       "symbol": "BYTE",
@@ -5415,13 +5391,6 @@
       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xEB466342C4d449BC9f53A865D5Cb90586f405215.jpg",
       "chainId": 42161,
       "decimals": 6
-    },
-    {
-      "address": "0xEB99748e91AfCA94a6289db3b02E7ef4a8f0A22d",
-      "name": "MahaDAO",
-      "symbol": "MAHA",
-      "chainId": 42161,
-      "decimals": 18
     },
     {
       "address": "0xEC70Dcb4A1EFa46b8F2D97C310C9c4790ba5ffA8",

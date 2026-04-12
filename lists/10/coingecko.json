@@ -1,9 +1,9 @@
 {
   "name": "CoinGecko",
   "description": "",
-  "timestamp": "2026-04-05T03:13:46Z",
+  "timestamp": "2026-04-12T03:03:16Z",
   "version": {
-    "major": 170,
+    "major": 171,
     "minor": 0,
     "patch": 0
   },
@@ -26,14 +26,6 @@
       "name": "Gauntlet USD Alpha",
       "symbol": "gtUSDa",
       "logoURI": "https://coin-images.coingecko.com/coins/images/102171863/thumb/gtUSDa.png?1770138785",
-      "chainId": 10,
-      "decimals": 18
-    },
-    {
-      "address": "0x0000206329b97DB379d5E1Bf586BbDB969C63274",
-      "name": "USDA",
-      "symbol": "USDA",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x0000206329b97DB379d5E1Bf586BbDB969C63274/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -542,14 +534,6 @@
       "name": "MUMMY",
       "symbol": "MMY",
       "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x47536F17F4fF30e64A96a7555826b8f9e66ec468/logo-128.png",
-      "chainId": 10,
-      "decimals": 18
-    },
-    {
-      "address": "0x476ef9ac6D8673E220d0E8BC0a810C2Dc6A2AA84",
-      "name": "United States Permissionless Dollar",
-      "symbol": "USPD",
-      "logoURI": "https://coin-images.coingecko.com/coins/images/69917/thumb/logo_uspd_200_200.png?1760025748",
       "chainId": 10,
       "decimals": 18
     },
@@ -1499,6 +1483,7 @@
       "address": "0xa0A675d08Ca63066f48408136F8A71Fc65BE4AfC",
       "name": "Bazaars",
       "symbol": "BZR",
+      "logoURI": "https://assets.coingecko.com/coins/images/26392/large/bazaars_logo-color-black-icon.png?1657753265",
       "chainId": 10,
       "decimals": 18
     },

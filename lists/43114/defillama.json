@@ -1,9 +1,9 @@
 {
   "name": "DefiLlama",
   "description": "",
-  "timestamp": "2026-04-05T03:09:55Z",
+  "timestamp": "2026-04-12T03:03:01Z",
   "version": {
-    "major": 167,
+    "major": 168,
     "minor": 0,
     "patch": 0
   },
@@ -1038,6 +1038,14 @@
       "decimals": 6
     },
     {
+      "address": "0x4809010926aec940b550D34a46A52739f996D75D",
+      "name": "Wrapped Savings rUSD",
+      "symbol": "wsrUSD",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/66163/thumb/wsrUSD.png?1748500965",
+      "chainId": 43114,
+      "decimals": 18
+    },
+    {
       "address": "0x48f88A3fE843ccb0b5003e70B4192c1d7448bEf0",
       "name": "Colony Avalanche Index",
       "symbol": "CAI",
@@ -1226,14 +1234,6 @@
       "name": "Wrapped Mountain Protocol USD",
       "symbol": "wUSDM",
       "logoURI": "https://assets.coingecko.com/coins/images/33785/large/wUSDM_PNG_240px.png?1702981552",
-      "chainId": 43114,
-      "decimals": 18
-    },
-    {
-      "address": "0x580d5E1399157FD0d58218b7A514b60974F2AB01",
-      "name": "Staked UTY",
-      "symbol": "yUTY",
-      "logoURI": "https://coin-images.coingecko.com/coins/images/67386/thumb/yuty.jpg?1752630041",
       "chainId": 43114,
       "decimals": 18
     },
@@ -2811,14 +2811,6 @@
       "decimals": 18
     },
     {
-      "address": "0xDBc5192A6B6FfEe7451301bb4ec312f844F02B4A",
-      "name": "Unity",
-      "symbol": "UTY",
-      "logoURI": "https://coin-images.coingecko.com/coins/images/66299/thumb/UTY_token.jpg?1749148591",
-      "chainId": 43114,
-      "decimals": 18
-    },
-    {
       "address": "0xDEc933e2392AD908263e70A386fbF34e703Ffe8F",
       "name": "Wrapped Backed Coinbase Global",
       "symbol": "wbCOIN",
@@ -3533,14 +3525,6 @@
       "name": "Elk",
       "symbol": "ELK",
       "logoURI": "https://assets.coingecko.com/coins/images/17813/large/elk.png?1629336971",
-      "chainId": 43114,
-      "decimals": 18
-    },
-    {
-      "address": "0xeF282B38D1ceAB52134CA2cc653a569435744687",
-      "name": "Warp",
-      "symbol": "WRP",
-      "logoURI": "https://coin-images.coingecko.com/coins/images/102172547/thumb/Warp_Token_200x200.png?1773816398",
       "chainId": 43114,
       "decimals": 18
     },

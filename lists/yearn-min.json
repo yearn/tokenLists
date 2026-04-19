@@ -1,10 +1,10 @@
 {
   "name": "Yearn Minimal Token List",
   "description": "",
-  "timestamp": "2026-04-12T02:42:50Z",
+  "timestamp": "2026-04-19T02:54:00Z",
   "version": {
     "major": 12,
-    "minor": 14,
+    "minor": 15,
     "patch": 0
   },
   "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e/logo.svg",
@@ -3873,6 +3873,14 @@
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x52c2bc859F5082C4f8c17266A3CD640b5047370e/logo-128.png",
       "chainId": 1,
       "decimals": 17
+    },
+    {
+      "address": "0x52c66B5E7f8Fde20843De900C5C8B4b0F23708A0",
+      "name": "Asian Dollar",
+      "symbol": "AZND",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x52c66B5E7f8Fde20843De900C5C8B4b0F23708A0/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
     },
     {
       "address": "0x531F882a76A949c51457A3eB9E5d09a9cad50418",

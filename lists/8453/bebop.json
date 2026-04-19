@@ -1,10 +1,10 @@
 {
   "name": "Bebop",
   "description": "",
-  "timestamp": "2026-04-12T02:58:03Z",
+  "timestamp": "2026-04-19T02:49:14Z",
   "version": {
     "major": 28,
-    "minor": 4,
+    "minor": 5,
     "patch": 0
   },
   "logoURI": "https://bebop-public-images.s3.eu-west-2.amazonaws.com/bebop-logo.png",
@@ -134,6 +134,14 @@
       "name": "FLock.io",
       "symbol": "FLOCK",
       "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0x5aB3D4c385B400F3aBB49e80DE2fAF6a88A7B691/logo-128.png",
+      "chainId": 8453,
+      "decimals": 18
+    },
+    {
+      "address": "0x5cDa0E1CA4ce2af96315f7F8963C85399c172204",
+      "name": "Wrapped Coinbase Global Inc ST0x",
+      "symbol": "wtCOIN",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0x5cDa0E1CA4ce2af96315f7F8963C85399c172204/logo-128.png",
       "chainId": 8453,
       "decimals": 18
     },

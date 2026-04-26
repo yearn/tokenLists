@@ -1,9 +1,9 @@
 {
   "name": "Tokenlistooor Token List",
   "description": "A curated list of tokens from all the token lists on tokenlistooor.",
-  "timestamp": "2026-04-19T02:59:21Z",
+  "timestamp": "2026-04-26T03:00:38Z",
   "version": {
-    "major": 379,
+    "major": 380,
     "minor": 0,
     "patch": 0
   },
@@ -75,6 +75,14 @@
       "decimals": 18
     },
     {
+      "address": "0x1482Faf8b5A9c458c94e6A561cCF93ed7A9f552E",
+      "name": "WFTM yVault",
+      "symbol": "yvWFTM",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/250/0x1482Faf8b5A9c458c94e6A561cCF93ed7A9f552E/logo-128.png",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
       "address": "0x148c05caf1Bb09B5670f00D511718f733C54bC4c",
       "name": "USDT yVault",
       "symbol": "yvUSDT",
@@ -123,10 +131,26 @@
       "decimals": 18
     },
     {
+      "address": "0x209667B173fE4E9559bdA7818e53Bd5F5E0f9acD",
+      "name": "MIM yVault",
+      "symbol": "yvMIM",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/250/0x209667B173fE4E9559bdA7818e53Bd5F5E0f9acD/logo-128.png",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
       "address": "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83",
       "name": "Wrapped Fantom",
       "symbol": "WFTM",
       "logoURI": "https://token-assets-one.vercel.app/api/token/250/0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83/logo-128.png",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "address": "0x27cbf0fddb356a2d1EBdef604Cfa90F8f300d34E",
+      "name": "WFTM yVault",
+      "symbol": "yvWFTM",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/250/0x27cbf0fddb356a2d1EBdef604Cfa90F8f300d34E/logo-128.png",
       "chainId": 250,
       "decimals": 18
     },
@@ -163,14 +187,6 @@
       "decimals": 18
     },
     {
-      "address": "0x2dd7C9371965472E5A5fD28fbE165007c61439E1",
-      "name": "Curve.fi Factory Plain Pool: 3poolV2",
-      "symbol": "3poolV2-f",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/250/0x2dd7C9371965472E5A5fD28fbE165007c61439E1/logo-128.png",
-      "chainId": 250,
-      "decimals": 18
-    },
-    {
       "address": "0x3129662808bEC728a27Ab6a6b9AFd3cBacA8A43c",
       "name": "Dola USD Stablecoin",
       "symbol": "DOLA",
@@ -191,6 +207,22 @@
       "name": "FRAX yVault",
       "symbol": "yvFRAX",
       "logoURI": "https://token-assets-one.vercel.app/api/token/250/0x357ca46da26E1EefC195287ce9D838A6D5023ef3/logo-128.png",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "address": "0x3D8473724287eB1D903fE62688D3734DE2B97Ee8",
+      "name": "Curve Geist yVault",
+      "symbol": "yvCurve-Geist",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/250/0x3D8473724287eB1D903fE62688D3734DE2B97Ee8/logo-128.png",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "address": "0x3F0e90A85EAB7F2C441379CFc9a080A4e864Ae82",
+      "name": "fBEETS yVault",
+      "symbol": "yvfBEETS",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/250/0x3F0e90A85EAB7F2C441379CFc9a080A4e864Ae82/logo-128.png",
       "chainId": 250,
       "decimals": 18
     },
@@ -223,22 +255,6 @@
       "name": "Synthetix Network",
       "symbol": "SNX",
       "logoURI": "https://token-assets-one.vercel.app/api/token/250/0x56ee926bD8c72B2d5fa1aF4d9E4Cbb515a1E3Adc/logo-128.png",
-      "chainId": 250,
-      "decimals": 18
-    },
-    {
-      "address": "0x58e57cA18B7A47112b877E31929798Cd3D703b0f",
-      "name": "Curve.fi USD-BTC-ETH",
-      "symbol": "crv3crypto",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/250/0x58e57cA18B7A47112b877E31929798Cd3D703b0f/logo-128.png",
-      "chainId": 250,
-      "decimals": 18
-    },
-    {
-      "address": "0x5B5CFE992AdAC0C9D48E05854B2d91C73a003858",
-      "name": "Curve.fi WBTC/renBTC",
-      "symbol": "btcCRV",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/250/0x5B5CFE992AdAC0C9D48E05854B2d91C73a003858/logo-128.png",
       "chainId": 250,
       "decimals": 18
     },
@@ -315,6 +331,22 @@
       "decimals": 6
     },
     {
+      "address": "0x85611D071406a9e08Ba49c073087e3Eb57819839",
+      "name": "WBTC yVault",
+      "symbol": "yvWBTC",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/250/0x85611D071406a9e08Ba49c073087e3Eb57819839/logo-128.png",
+      "chainId": 250,
+      "decimals": 8
+    },
+    {
+      "address": "0x8853a6232e3DEBE12098Bf682898A92eC10C9921",
+      "name": "WFTM yVault",
+      "symbol": "yvWFTM",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/250/0x8853a6232e3DEBE12098Bf682898A92eC10C9921/logo-128.png",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
       "address": "0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E",
       "name": "Dai Stablecoin",
       "symbol": "DAI",
@@ -347,12 +379,44 @@
       "decimals": 18
     },
     {
+      "address": "0x99D8a9C45b2ecA8864373A26D1459e3Dff1e17F3",
+      "name": "Kashi Medium Risk Tarot/Magic Internet Money-SushiSwap TWAP+SushiSwap TWAP",
+      "symbol": "kmTAROT/MIM-TWAP+TWAP",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/250/0x99D8a9C45b2ecA8864373A26D1459e3Dff1e17F3/logo-128.png",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "address": "0x9e3922FCBb28F40026dA2E58926f0f249d8A138d",
+      "name": "USDC yVault",
+      "symbol": "yvUSDC",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/250/0x9e3922FCBb28F40026dA2E58926f0f249d8A138d/logo-128.png",
+      "chainId": 250,
+      "decimals": 6
+    },
+    {
+      "address": "0x9f87fC463327021b510f7E84A5683e1bDCE02Dcc",
+      "name": "USDC yVault",
+      "symbol": "yvUSDC",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/250/0x9f87fC463327021b510f7E84A5683e1bDCE02Dcc/logo-128.png",
+      "chainId": 250,
+      "decimals": 6
+    },
+    {
       "address": "0xA6A0cA45c2ceF0c5C0E0B58A8Ddd59209378B76A",
       "name": "Curve 2pool yVault",
       "symbol": "yvCurve-2pool",
       "logoURI": "https://token-assets-one.vercel.app/api/token/250/0xA6A0cA45c2ceF0c5C0E0B58A8Ddd59209378B76A/logo-128.png",
       "chainId": 250,
       "decimals": 18
+    },
+    {
+      "address": "0xA946C861de1Dd6CB530a07687Da99E989b929139",
+      "name": "Curve USDT yVault",
+      "symbol": "yvUSDT",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/250/0xA946C861de1Dd6CB530a07687Da99E989b929139/logo-128.png",
+      "chainId": 250,
+      "decimals": 6
     },
     {
       "address": "0xA97E7dA01C7047D6a65f894c99bE8c832227a8BC",
@@ -393,14 +457,6 @@
       "logoURI": "https://token-assets-one.vercel.app/api/token/250/0xD3c19eB022CAC706c898D60d756bf1535d605e1d/logo-128.png",
       "chainId": 250,
       "decimals": 18
-    },
-    {
-      "address": "0xDBf31dF14B66535aF65AaC99C32e9eA844e14501",
-      "name": "renBTC",
-      "symbol": "renBTC",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/250/0xDBf31dF14B66535aF65AaC99C32e9eA844e14501/logo-128.png",
-      "chainId": 250,
-      "decimals": 8
     },
     {
       "address": "0xE95416c54f3e313E49306486b0ea9c2C6D623157",
@@ -447,6 +503,14 @@
       "name": "ChainLink",
       "symbol": "LINK",
       "logoURI": "https://token-assets-one.vercel.app/api/token/250/0xb3654dc3D10Ea7645f8319668E8F54d2574FBdC8/logo-128.png",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "address": "0xc3Ca90f164d43E2053cCa591aC6e63FCAAD80782",
+      "name": "WFTM yVault",
+      "symbol": "yvWFTM",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/250/0xc3Ca90f164d43E2053cCa591aC6e63FCAAD80782/logo-128.png",
       "chainId": 250,
       "decimals": 18
     },

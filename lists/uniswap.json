@@ -1,10 +1,10 @@
 {
   "name": "Uniswap Labs Default",
   "description": "",
-  "timestamp": "2026-04-19T02:53:43Z",
+  "timestamp": "2026-04-26T02:54:46Z",
   "version": {
     "major": 27,
-    "minor": 8,
+    "minor": 9,
     "patch": 0
   },
   "logoURI": "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
@@ -1929,6 +1929,14 @@
       "decimals": 18
     },
     {
+      "address": "0x98A878b1Cd98131B271883B390f68D2c90674665",
+      "name": "apxUSD",
+      "symbol": "apxUSD",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x98A878b1Cd98131B271883B390f68D2c90674665/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0x9992eC3cF6A55b00978cdDF2b27BC6882d88D1eC",
       "name": "Polymath",
       "symbol": "POLY",
@@ -3443,7 +3451,7 @@
       "address": "0xEc6adef5E1006bb305bB1975333e8fc4071295bf",
       "name": "Cartesi Token",
       "symbol": "CTSI",
-      "logoURI": "https://assets.coingecko.com/coins/images/11038/large/cartesi.png?1592288021",
+      "logoURI": "ipfs://QmUGwJaAgBCUqg2iF3hVG3FdzTjUmUxDDP6MmaxCeMhEae",
       "chainId": 10,
       "decimals": 18
     },
@@ -3523,7 +3531,7 @@
       "address": "0xaf8cA653Fa2772d58f4368B0a71980e9E3cEB888",
       "name": "Tellor",
       "symbol": "TRB",
-      "logoURI": "https://assets.coingecko.com/coins/images/9644/large/Blk_icon_current.png?1584980686",
+      "logoURI": "ipfs://QmbQVgV3iHf75aQ5ijJsfmgm2U8J8f2mACeMbaeCSgGFou",
       "chainId": 10,
       "decimals": 18
     },
@@ -5713,6 +5721,7 @@
       "address": "0x0C1c1C109FE34733fca54b82d7B46B75CFb71F6e",
       "name": "Chip",
       "symbol": "CHIP",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0x0C1c1C109FE34733fca54b82d7B46B75CFb71F6e/logo-128.png",
       "chainId": 8453,
       "decimals": 18
     },
@@ -6471,6 +6480,14 @@
       "decimals": 18
     },
     {
+      "address": "0xD993935E13851dd7517af10687EC7e5022127228",
+      "name": "apxUSD",
+      "symbol": "apxUSD",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0xD993935E13851dd7517af10687EC7e5022127228/logo-128.png",
+      "chainId": 8453,
+      "decimals": 18
+    },
+    {
       "address": "0xDAE49C25fAd3a62a8e8bFB6dA12c46bE611f9f7a",
       "name": "Kryll",
       "symbol": "KRL",
@@ -6502,6 +6519,14 @@
       "decimals": 18
     },
     {
+      "address": "0xF4d97F2da56e8c3098f3a8D538DB630A2606a024",
+      "name": "Diem",
+      "symbol": "DIEM",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0xF4d97F2da56e8c3098f3a8D538DB630A2606a024/logo-128.png",
+      "chainId": 8453,
+      "decimals": 18
+    },
+    {
       "address": "0xF8e9E61FFB2b491f7DF29823a76009743671CD96",
       "name": "Tellor Tributes",
       "symbol": "TRB",
@@ -6513,6 +6538,13 @@
       "name": "ResearchCoin",
       "symbol": "RSC",
       "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0xFbB75A59193A3525a8825BeBe7D4b56899E2f7e1/logo-128.png",
+      "chainId": 8453,
+      "decimals": 18
+    },
+    {
+      "address": "0xFbC2051AE2265686a469421b2C5A2D5462FbF5eB",
+      "name": "OpenGradient",
+      "symbol": "OPG",
       "chainId": 8453,
       "decimals": 18
     },

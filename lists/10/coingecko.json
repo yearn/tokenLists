@@ -1,9 +1,9 @@
 {
   "name": "CoinGecko",
   "description": "",
-  "timestamp": "2026-04-19T02:50:51Z",
+  "timestamp": "2026-04-26T02:54:42Z",
   "version": {
-    "major": 172,
+    "major": 173,
     "minor": 0,
     "patch": 0
   },
@@ -295,7 +295,7 @@
       "address": "0x23ee2343B892b1BB63503a4FAbc840E0e2C6810f",
       "name": "Axelar",
       "symbol": "AXL",
-      "logoURI": "https://assets.coingecko.com/coins/images/27277/large/V-65_xQ1_400x400.jpeg?1663121730",
+      "logoURI": "ipfs://QmYJRge59EKjEcCzs4X9j6c3dsAJBCzJRRgN5XZtg9treW",
       "chainId": 10,
       "decimals": 6
     },
@@ -1379,6 +1379,7 @@
       "address": "0xE7Ba07519dFA06e60059563F484d6090dedF21B3",
       "name": "Midas Re7 Ethereum",
       "symbol": "mRe7ETH",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/102172907/thumb/mre7eth-L64TBTee.png?1776525613",
       "chainId": 10,
       "decimals": 18
     },
@@ -1394,7 +1395,7 @@
       "address": "0xEc6adef5E1006bb305bB1975333e8fc4071295bf",
       "name": "Cartesi Token",
       "symbol": "CTSI",
-      "logoURI": "https://assets.coingecko.com/coins/images/11038/large/cartesi.png?1592288021",
+      "logoURI": "ipfs://QmUGwJaAgBCUqg2iF3hVG3FdzTjUmUxDDP6MmaxCeMhEae",
       "chainId": 10,
       "decimals": 18
     },
@@ -1553,7 +1554,7 @@
       "address": "0xaf8cA653Fa2772d58f4368B0a71980e9E3cEB888",
       "name": "Tellor",
       "symbol": "TRB",
-      "logoURI": "https://assets.coingecko.com/coins/images/9644/large/Blk_icon_current.png?1584980686",
+      "logoURI": "ipfs://QmbQVgV3iHf75aQ5ijJsfmgm2U8J8f2mACeMbaeCSgGFou",
       "chainId": 10,
       "decimals": 18
     },
@@ -1572,14 +1573,6 @@
       "logoURI": "https://coin-images.coingecko.com/coins/images/39225/thumb/ionUSDT.png?1721184701",
       "chainId": 10,
       "decimals": 6
-    },
-    {
-      "address": "0xb396b31599333739A97951b74652c117BE86eE1D",
-      "name": "Davos.xyz USD",
-      "symbol": "DUSD",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xb396b31599333739A97951b74652c117BE86eE1D/logo-128.png",
-      "chainId": 10,
-      "decimals": 18
     },
     {
       "address": "0xb4Bc46bc6cB217B59ea8F4530BaE26Bf69F677f0",
@@ -1729,6 +1722,20 @@
       "name": "TrueUSD",
       "symbol": "TUSD",
       "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xcB59a0A753fDB7491d5F3D794316F1adE197B21E/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xcC476B1a49bcDf5192561e87b6Fb8ea78aa28C13",
+      "name": "Liquid Euro",
+      "symbol": "weEUR",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xca5921DF65E2e1b0B98Ae91c0187BA80D4124898",
+      "name": "Ether.Fi Liquid Reserve",
+      "symbol": "liquidRESERVE",
       "chainId": 10,
       "decimals": 18
     },

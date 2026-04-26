@@ -1,10 +1,10 @@
 {
   "name": "Uniswap Labs Default",
   "description": "",
-  "timestamp": "2026-04-19T02:53:43Z",
+  "timestamp": "2026-04-26T02:54:46Z",
   "version": {
     "major": 27,
-    "minor": 8,
+    "minor": 9,
     "patch": 0
   },
   "logoURI": "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
@@ -1925,6 +1925,14 @@
       "name": "Ocean Token",
       "symbol": "OCEAN",
       "logoURI": "https://tokens.1inch.io/0x967da4048cd07ab37855c090aaf366e4ce1b9f48.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x98A878b1Cd98131B271883B390f68D2c90674665",
+      "name": "apxUSD",
+      "symbol": "apxUSD",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x98A878b1Cd98131B271883B390f68D2c90674665/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },

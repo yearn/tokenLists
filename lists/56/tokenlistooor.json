@@ -1,9 +1,9 @@
 {
   "name": "Tokenlistooor Token List",
   "description": "A curated list of tokens from all the token lists on tokenlistooor.",
-  "timestamp": "2026-04-26T03:00:38Z",
+  "timestamp": "2026-05-03T03:10:34Z",
   "version": {
-    "major": 380,
+    "major": 381,
     "minor": 0,
     "patch": 0
   },
@@ -39,6 +39,22 @@
       "name": "Ethereum Token",
       "symbol": "ETH",
       "logoURI": "https://tokens.1inch.io/0x2170ed0880ac9a755fd29b2688956bd959f933f8.png",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "address": "0x24b1C3f935DfFcADb606920022BA8C703BB065D7",
+      "name": "Rain Coin",
+      "symbol": "RAIN",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/56/0x24b1C3f935DfFcADb606920022BA8C703BB065D7/logo-128.png",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "address": "0x27f6c8289550fCE67f6B50BeD1F519966aFE5287",
+      "name": "tGBP",
+      "symbol": "tGBP",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/56/0x27f6c8289550fCE67f6B50BeD1F519966aFE5287/logo-128.png",
       "chainId": 56,
       "decimals": 18
     },
@@ -113,6 +129,14 @@
       "logoURI": "https://assets.coingecko.com/coins/images/13295/large/mirror_logo_transparent.png?1611554658",
       "chainId": 56,
       "decimals": 18
+    },
+    {
+      "address": "0x6EF2FFB38D64aFE18ce782DA280b300e358CFeAF",
+      "name": "ACU",
+      "symbol": "ACU",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/56/0x6EF2FFB38D64aFE18ce782DA280b300e358CFeAF/logo-128.png",
+      "chainId": 56,
+      "decimals": 12
     },
     {
       "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",

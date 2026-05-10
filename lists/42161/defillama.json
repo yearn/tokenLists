@@ -1,9 +1,9 @@
 {
   "name": "DefiLlama",
   "description": "",
-  "timestamp": "2026-05-03T03:06:03Z",
+  "timestamp": "2026-05-10T03:33:52Z",
   "version": {
-    "major": 171,
+    "major": 172,
     "minor": 0,
     "patch": 0
   },
@@ -1077,14 +1077,6 @@
       "logoURI": "https://asset-images.messari.io/images/fec60d5e-74d6-42ab-ae14-ccaef74d717a/128.png",
       "chainId": 42161,
       "decimals": 18
-    },
-    {
-      "address": "0x2172fAD929E857dDfD7dDC31E24904438434cB0B",
-      "name": "mBTC",
-      "symbol": "mBTC",
-      "logoURI": "https://asset-images.messari.io/images/24e70222-bf51-42a9-a5c4-08c9c642b664/128.png",
-      "chainId": 42161,
-      "decimals": 8
     },
     {
       "address": "0x21CCbc5e7f353EC43b2F5b1Fb12c3E9D89D30Dca",
@@ -2225,14 +2217,6 @@
       "decimals": 18
     },
     {
-      "address": "0x475E1cC57af3e40c80570220b1CE079B219605C4",
-      "name": "Ostrich",
-      "symbol": "RICH",
-      "logoURI": "https://asset-images.messari.io/images/edc73951-473f-439a-bbf4-b1e8cb8b7845/128.png",
-      "chainId": 42161,
-      "decimals": 18
-    },
-    {
       "address": "0x4772D2e014F9fC3a820C444e3313968e9a5C8121",
       "name": "YieldFi yUSD",
       "symbol": "yUSD",
@@ -2626,6 +2610,14 @@
       "name": "Oracle xStock",
       "symbol": "ORCLx",
       "logoURI": "https://asset-images.messari.io/images/a39e640e-77cb-424d-93de-1517a00c53d9/128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0x54B334d68cf5382feE7FBBE496FCf1e76D9BA000",
+      "name": "Boson Token",
+      "symbol": "BOSON",
+      "logoURI": "https://assets.coingecko.com/coins/images/14710/large/boson_logo.png?1617882472",
       "chainId": 42161,
       "decimals": 18
     },

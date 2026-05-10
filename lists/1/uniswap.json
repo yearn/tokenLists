@@ -1,10 +1,10 @@
 {
   "name": "Uniswap Labs Default",
   "description": "",
-  "timestamp": "2026-05-03T03:02:16Z",
+  "timestamp": "2026-05-10T03:30:09Z",
   "version": {
     "major": 27,
-    "minor": 10,
+    "minor": 11,
     "patch": 0
   },
   "logoURI": "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
@@ -998,6 +998,7 @@
       "address": "0x4d7078DDd6cCFED2F85dB5B7D3Ff16828d378d48",
       "name": "Gensyn",
       "symbol": "AI",
+      "logoURI": "https://assets.coingecko.com/coins/images/71027/large/gensyn.png?1765331043",
       "chainId": 1,
       "decimals": 18
     },
@@ -1983,6 +1984,14 @@
       "decimals": 18
     },
     {
+      "address": "0x99E980265Bf36516C442be982df1772a6cCb3233",
+      "name": "REAL",
+      "symbol": "ASSET",
+      "logoURI": "https://assets.coingecko.com/coins/images/102172706/large/download.png?1774982021",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0x99ea4dB9EE77ACD40B119BD1dC4E33e1C070b80d",
       "name": "Quantstamp Token",
       "symbol": "QSP",
@@ -2480,6 +2489,14 @@
       "name": "Space and Time",
       "symbol": "SXT",
       "logoURI": "https://asset-images.messari.io/images/16b5e3a0-470b-4c57-be63-4689dfbbf76e/128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xE7E7E741C23a4767831A56A8C99F522c5aC1E7E7",
+      "name": "Everything",
+      "symbol": "EV",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/71690/thumb/01_15_EV_Token_coin_white.png?1768925267",
       "chainId": 1,
       "decimals": 18
     },

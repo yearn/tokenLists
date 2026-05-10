@@ -1,9 +1,9 @@
 {
   "name": "Tokenlistooor Token List",
   "description": "A curated list of tokens from all the token lists on tokenlistooor.",
-  "timestamp": "2026-05-03T03:10:34Z",
+  "timestamp": "2026-05-10T03:34:38Z",
   "version": {
-    "major": 381,
+    "major": 382,
     "minor": 0,
     "patch": 0
   },
@@ -199,6 +199,14 @@
       "name": "SushiToken",
       "symbol": "SUSHI",
       "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png?1606986688",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "address": "0x97693439EA2f0ecdeb9135881E49f354656a911c",
+      "name": "RaveDAO",
+      "symbol": "RAVE",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/56/0x97693439EA2f0ecdeb9135881E49f354656a911c/logo-128.png",
       "chainId": 56,
       "decimals": 18
     },

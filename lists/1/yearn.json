@@ -1,10 +1,10 @@
 {
   "name": "Yearn Token List",
   "description": "",
-  "timestamp": "2026-05-03T03:05:59Z",
+  "timestamp": "2026-05-10T03:34:29Z",
   "version": {
     "major": 47,
-    "minor": 16,
+    "minor": 17,
     "patch": 0
   },
   "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e/logo.svg",
@@ -173,6 +173,14 @@
       "name": "Alchemix ETH",
       "symbol": "alETH",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x0100546F2cD4C9D97f798fFC9755E47865FF7Ee6/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x011e55d2b28306458e37Ca7E997C879BB25A455D",
+      "name": "Strata Junior USDat",
+      "symbol": "jrUSDat",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x011e55d2b28306458e37Ca7E997C879BB25A455D/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -782,6 +790,14 @@
       "decimals": 2
     },
     {
+      "address": "0x05b5A8Bd55D17A7cC8133d8ccD285F83be01a062",
+      "name": "PLP Staked avUSD 6AUG2026",
+      "symbol": "PLP-savUSD-6AUG2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x05b5A8Bd55D17A7cC8133d8ccD285F83be01a062/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0x05dB2D5F89b3e9eAB8f9c07149CD3A7575Db8b9D",
       "name": "YT AI Dollar Alpha USDC 14AUG2025",
       "symbol": "YT-AIDaUSDC-14AUG2025",
@@ -1203,6 +1219,14 @@
       "decimals": 18
     },
     {
+      "address": "0x093bb931965E10AF75349B97d133Aa8dAb81Bb4A",
+      "name": "SY Midas Rockaway Market Neutral",
+      "symbol": "SY-mROX",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x093bb931965E10AF75349B97d133Aa8dAb81Bb4A/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0x093f4FCA4b71912EDb33B2d4Bb92E5b85658D833",
       "name": "Wrapped YearnV3 Strategy Cove Rewards Gauge",
       "symbol": "ysyG-yvCurve-yETH-f-gauge",
@@ -1588,7 +1612,7 @@
       "address": "0x0FedbA9178b70e8b54e2Af08eBffcf28A1e5A43B",
       "name": "Reservoir",
       "symbol": "DAM",
-      "logoURI": "https://asset-images.messari.io/images/61e7bf48-eba6-4562-94d1-17c378a4e5d4/128.png",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x0FedbA9178b70e8b54e2Af08eBffcf28A1e5A43B/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -2868,6 +2892,14 @@
       "decimals": 18
     },
     {
+      "address": "0x192725C6516656f3e288c08Db8228c25Fe1f77D5",
+      "name": "Curve LL-CRV-rec Factory yVault",
+      "symbol": "yvCurve-LL-CRV-rec-f",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x192725C6516656f3e288c08Db8228c25Fe1f77D5/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0x194eBd173F6cDacE046C53eACcE9B953F28411d1",
       "name": "Curve.fi EURS/sEUR",
       "symbol": "eursCRV",
@@ -3014,6 +3046,14 @@
       "name": "Curve.fi MUSD/3Crv",
       "symbol": "musd3CRV",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x1AEf73d49Dedc4b1778d0706583995958Dc862e6/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x1Aad217B8F78dbA5E6693460e8470F8b1A3977f3",
+      "name": "Strategy PP Variable xStock",
+      "symbol": "STRCx",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/71033/thumb/Ticker_STRCx__Company_Name_Strategy_PP_Variable__size_200x200.png?1765380234",
       "chainId": 1,
       "decimals": 18
     },
@@ -3512,6 +3552,14 @@
       "decimals": 18
     },
     {
+      "address": "0x1c44f9bE658bdE68e7B4091e9bd349fC64724450",
+      "name": "SY Strategy PP Variable xStock",
+      "symbol": "SY-STRCx",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x1c44f9bE658bdE68e7B4091e9bd349fC64724450/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0x1c48f86ae57291F7686349F12601910BD8D470bb",
       "name": "USDK",
       "symbol": "USDK",
@@ -3804,6 +3852,14 @@
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x20BB4a325924917E3336753BA5350a84F70f392e/logo-128.png",
       "chainId": 1,
       "decimals": 18
+    },
+    {
+      "address": "0x20BaB2678f6008bb4446f3cA0634CF7e069aE559",
+      "name": "YT Midas Rockaway Market Neutral 30JUL2026",
+      "symbol": "YT-mROX-30JUL2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x20BaB2678f6008bb4446f3cA0634CF7e069aE559/logo-128.png",
+      "chainId": 1,
+      "decimals": 6
     },
     {
       "address": "0x20D2281b90C7611726d7BfD1b07C3Ea9f438F7F3",
@@ -5065,6 +5121,14 @@
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x2D2d86Af3EAE41A3741151D5a5d5221e98DD1E07/logo-128.png",
       "chainId": 1,
       "decimals": 18
+    },
+    {
+      "address": "0x2D433b943FB8c015AE409444B7F960ED288082b4",
+      "name": "PT Strata Senior USDat 27AUG2026",
+      "symbol": "PT-srUSDat-27AUG2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x2D433b943FB8c015AE409444B7F960ED288082b4/logo-128.png",
+      "chainId": 1,
+      "decimals": 6
     },
     {
       "address": "0x2D59aa422A7AaE58038CF8aE6eD07330Cc7d3ae8",
@@ -7800,6 +7864,14 @@
       "decimals": 18
     },
     {
+      "address": "0x4237a8acBD0B5a2DEc4aa83B1fd83F20162d02B8",
+      "name": "PLP Strata Senior USDat 27AUG2026",
+      "symbol": "PLP-srUSDat-27AUG2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x4237a8acBD0B5a2DEc4aa83B1fd83F20162d02B8/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0x425BfB93370F14fF525aDb6EaEAcfE1f4e3b5802",
       "name": "sDAI/USDM Rebase Enjoyer Pool",
       "symbol": "sdai-usdm",
@@ -9318,6 +9390,14 @@
       "decimals": 18
     },
     {
+      "address": "0x4ad88F62310D377c60F6B0c25Bde8011f315EeA7",
+      "name": "PT Strategy PP Variable xStock 27AUG2026",
+      "symbol": "PT-STRCx-27AUG2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x4ad88F62310D377c60F6B0c25Bde8011f315EeA7/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0x4bE52209D96d070Cb2aeD19D714885BB2F208Cf9",
       "name": "YT Staked YUSD 18DEC2025",
       "symbol": "YT-sYUSD-18DEC2025",
@@ -9816,6 +9896,14 @@
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x514D2Ff735434696DF3F4E6b73e2c9093FC102Cb/logo-128.png",
       "chainId": 1,
       "decimals": 6
+    },
+    {
+      "address": "0x516C3eCfe45F0820653E08DD7c93633d71B93Cb5",
+      "name": "CRV LlamaLend Recovery",
+      "symbol": "LL-CRV-rec",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x516C3eCfe45F0820653E08DD7c93633d71B93Cb5/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
     },
     {
       "address": "0x517e54f58B5c587726c577ABBcAb3E74aA51161E",
@@ -12477,6 +12565,14 @@
       "decimals": 18
     },
     {
+      "address": "0x67E1F506B148d0Fc95a4E3fFb49068ceB6855c05",
+      "name": "Midas Rockaway Market Neutral",
+      "symbol": "mROX",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/102172744/thumb/download_%286%29.png?1775201597",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0x67Ec4046800bC2C27A51528e9D382d43c3146D29",
       "name": "Pendle Market",
       "symbol": "PENDLE-LPT",
@@ -14900,6 +14996,14 @@
       "decimals": 18
     },
     {
+      "address": "0x7Cba8339C0fEf991E9aD6088857F8f1b0d057ed3",
+      "name": "YT Staked avUSD 6AUG2026",
+      "symbol": "YT-savUSD-6AUG2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x7Cba8339C0fEf991E9aD6088857F8f1b0d057ed3/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0x7D00aFaF9C7847602264497A810a1E587f54338c",
       "name": "YT Falcon USD 29JAN2026",
       "symbol": "YT-USDf-29JAN2026",
@@ -15016,6 +15120,14 @@
       "name": "Curve XAUt-PAXG Factory yVault",
       "symbol": "yvCurve-XAUt-PAXG-f",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x7F8b06CDF3b4b0650bc9E810744E15140f5984Ee/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x7FFbA084CCEaAcD87ccd3aF4e0cD61d956ed6182",
+      "name": "PT Staked avUSD 6AUG2026",
+      "symbol": "PT-savUSD-6AUG2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x7FFbA084CCEaAcD87ccd3aF4e0cD61d956ed6182/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -15531,6 +15643,14 @@
       "decimals": 18
     },
     {
+      "address": "0x82035c2f935c93d344b5F0904d8157409F0c3Af4",
+      "name": "PT Midas Rockaway Market Neutral 30JUL2026",
+      "symbol": "PT-mROX-30JUL2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x82035c2f935c93d344b5F0904d8157409F0c3Af4/logo-128.png",
+      "chainId": 1,
+      "decimals": 6
+    },
+    {
       "address": "0x8207c1FfC5B6804F6024322CcF34F29c3541Ae26",
       "name": "OriginToken",
       "symbol": "OGN",
@@ -15821,6 +15941,14 @@
       "name": "Curve sBTC Pool yVault",
       "symbol": "yvCurve-sBTC",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x8414Db07a7F743dEbaFb402070AB01a4E0d2E45e/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x84183d35960914bad14Fa272372861664df329E2",
+      "name": "PLP Strategy PP Variable xStock 27AUG2026",
+      "symbol": "PLP-STRCx-27AUG2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x84183d35960914bad14Fa272372861664df329E2/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -16623,6 +16751,14 @@
       "decimals": 18
     },
     {
+      "address": "0x8CEf2919A8cB98Ad74e1e12392bc9f9FC4e3270a",
+      "name": "PLP Strata Junior USDat 27AUG2026",
+      "symbol": "PLP-jrUSDat-27AUG2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x8CEf2919A8cB98Ad74e1e12392bc9f9FC4e3270a/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0x8CcAeC55FeE95e7edb6CF334182999c611B36db6",
       "name": "YT Treehouse ETH 8JAN2026",
       "symbol": "YT-tETH-8JAN2026",
@@ -17191,6 +17327,14 @@
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x9068678b49B8D633952aEF7bc0077FDa71Ca68b8/logo-128.png",
       "chainId": 1,
       "decimals": 18
+    },
+    {
+      "address": "0x906aC88054b40eAf5eabaC0a92F83022F52C0032",
+      "name": "PT Strata Junior USDat 27AUG2026",
+      "symbol": "PT-jrUSDat-27AUG2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x906aC88054b40eAf5eabaC0a92F83022F52C0032/logo-128.png",
+      "chainId": 1,
+      "decimals": 6
     },
     {
       "address": "0x90759801579208B28D2D36D13b1ED7443D1b717F",
@@ -18706,6 +18850,14 @@
       "name": "Curve.fi Factory Plain Pool: cvxCRV",
       "symbol": "cvxcrv-f",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x9D0464996170c6B9e75eED71c68B99dDEDf279e8/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x9D0fc59F88acb85520a8cfb74C7fE141d8563185",
+      "name": "SY Strata Senior USDat",
+      "symbol": "SY-srUSDat",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x9D0fc59F88acb85520a8cfb74C7fE141d8563185/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -20700,6 +20852,14 @@
       "decimals": 18
     },
     {
+      "address": "0xB9891C75BcCeF3C55a4566eFDb1cDc1E337087b6",
+      "name": "PLP Midas Rockaway Market Neutral 30JUL2026",
+      "symbol": "PLP-mROX-30JUL2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xB9891C75BcCeF3C55a4566eFDb1cDc1E337087b6/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0xB98Df7163E61bf053564bde010985f67279BBCEC",
       "name": "DAI yVault",
       "symbol": "yvDAI",
@@ -22079,6 +22239,13 @@
       "decimals": 18
     },
     {
+      "address": "0xCeA18a8752bb7e7817F9AE7565328FE415C0f2cA",
+      "name": "Curve Vault for crvUSD",
+      "symbol": "cvcrvUSD",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0xCf89d9E82A021167945D3af67B2343111D1d3eB9",
       "name": "Pendle Market",
       "symbol": "PENDLE-LPT",
@@ -22968,6 +23135,14 @@
       "decimals": 6
     },
     {
+      "address": "0xDc88cC252230375833B1afCf7b16913C16B92e11",
+      "name": "YT Strategy PP Variable xStock 27AUG2026",
+      "symbol": "YT-STRCx-27AUG2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xDc88cC252230375833B1afCf7b16913C16B92e11/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0xDc9A5A2E3CE7Ac881Fc3B28c629c05d1617D1c56",
       "name": "PT reUSDe 25JUN2026",
       "symbol": "PT-reUSDe-25JUN2026",
@@ -23316,6 +23491,14 @@
       "name": "PT Midas Hyperithm 20NOV2025",
       "symbol": "PT-mHYPER-20NOV2025",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xE4d30cCF87Cb3E5E637b64A2EE21bD5d3901839A/logo-128.png",
+      "chainId": 1,
+      "decimals": 6
+    },
+    {
+      "address": "0xE4eF2A128226bf026493eF40A189865ACD1f0cd8",
+      "name": "YT Strata Senior USDat 27AUG2026",
+      "symbol": "YT-srUSDat-27AUG2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xE4eF2A128226bf026493eF40A189865ACD1f0cd8/logo-128.png",
       "chainId": 1,
       "decimals": 6
     },
@@ -23900,6 +24083,14 @@
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xEe6BdFAc6767eFEf0879B924feA12a3437d281A2/logo-128.png",
       "chainId": 1,
       "decimals": 18
+    },
+    {
+      "address": "0xEe7280386b4d829b7B44Cc85D559917F69Dd9075",
+      "name": "YT Strata Junior USDat 27AUG2026",
+      "symbol": "YT-jrUSDat-27AUG2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xEe7280386b4d829b7B44Cc85D559917F69Dd9075/logo-128.png",
+      "chainId": 1,
+      "decimals": 6
     },
     {
       "address": "0xEe9085fC268F6727d5D4293dBABccF901ffDCC29",
@@ -24802,6 +24993,14 @@
       "decimals": 18
     },
     {
+      "address": "0xFaa9a0e1Db9E22AE3A20B2B58a68DC24D053d066",
+      "name": "Strata Senior USDat",
+      "symbol": "srUSDat",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xFaa9a0e1Db9E22AE3A20B2B58a68DC24D053d066/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0xFb087F3Da58e59f4707f2E38e98B44F194468ccD",
       "name": "SY vETH-WETH_BalancerLP Aura",
       "symbol": "SY-vETH-WETH_BalancerLP Aura",
@@ -25109,6 +25308,14 @@
       "name": "WETH yVault",
       "symbol": "yvWETH",
       "logoURI": "https://raw.githubusercontent.com/yearn/yearn-assets/master/icons/multichain-tokens/1/0xa2619fDFB99ABeb533a1147461f3f1109c5ADe75/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xa26938B7Eb9f097e23e73aF30c8f2ad6D06e3C6a",
+      "name": "SY Strata Junior USDat",
+      "symbol": "SY-jrUSDat",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xa26938B7Eb9f097e23e73aF30c8f2ad6D06e3C6a/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },

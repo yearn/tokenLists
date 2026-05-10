@@ -1,9 +1,9 @@
 {
   "name": "DefiLlama",
   "description": "",
-  "timestamp": "2026-05-03T03:06:03Z",
+  "timestamp": "2026-05-10T03:33:52Z",
   "version": {
-    "major": 171,
+    "major": 172,
     "minor": 0,
     "patch": 0
   },
@@ -729,6 +729,13 @@
       "name": "Wrapped Frax",
       "symbol": "WFRAX",
       "logoURI": "https://coin-images.coingecko.com/coins/images/55432/thumb/wfrax_64.png?1745993624",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x647fE0cCA3DF596ba414C8c600D441BB3D10d616",
+      "name": "Boson Token",
+      "symbol": "BOSON",
       "chainId": 10,
       "decimals": 18
     },

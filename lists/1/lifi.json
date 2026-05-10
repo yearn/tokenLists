@@ -1,10 +1,10 @@
 {
   "name": "Lifi Token List",
   "description": "",
-  "timestamp": "2026-05-03T03:06:39Z",
+  "timestamp": "2026-05-10T03:31:06Z",
   "version": {
     "major": 19,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   },
   "logoURI": "https://avatars.githubusercontent.com/u/85288935?s=200\u0026v=4",
@@ -695,6 +695,14 @@
       "name": "MicroStrategy xStock",
       "symbol": "MSTRx",
       "logoURI": "https://coin-images.coingecko.com/coins/images/55631/thumb/Ticker_MSTR__Company_Name_MicroStrategy__size_200x200_2x.png?1746862528",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xAFF2565091E7207191dBe340B8528D02FA78d044",
+      "name": "Asteroid",
+      "symbol": "ASTEROID",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/102172917/thumb/e9ibcuq4njaw162pj8rh0cdfd1wf.?1776583348",
       "chainId": 1,
       "decimals": 18
     },

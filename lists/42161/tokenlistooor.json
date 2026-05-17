@@ -1,9 +1,9 @@
 {
   "name": "Tokenlistooor Token List",
   "description": "A curated list of tokens from all the token lists on tokenlistooor.",
-  "timestamp": "2026-05-10T03:34:38Z",
+  "timestamp": "2026-05-17T03:45:22Z",
   "version": {
-    "major": 382,
+    "major": 383,
     "minor": 0,
     "patch": 0
   },
@@ -247,21 +247,6 @@
       "name": "Pendle Market",
       "symbol": "PENDLE-LPT",
       "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x0BE708c78166183f12DE9aFa134Fd091F26D4210/logo-128.png",
-      "chainId": 42161,
-      "decimals": 18
-    },
-    {
-      "address": "0x0C1c1C109FE34733fca54b82d7B46B75CFb71F6e",
-      "name": "Chip",
-      "symbol": "CHIP",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x0C1c1C109FE34733fca54b82d7B46B75CFb71F6e/logo-128.png",
-      "chainId": 42161,
-      "decimals": 18
-    },
-    {
-      "address": "0x0C4681e6C0235179ec3D4F4fc4DF3d14FDD96017",
-      "name": "Radiant",
-      "symbol": "RDNT",
       "chainId": 42161,
       "decimals": 18
     },
@@ -602,6 +587,14 @@
       "decimals": 18
     },
     {
+      "address": "0x178E029173417b1F9C8bC16DCeC6f697bC323746",
+      "name": "Balancer 50wstETH-50USDC",
+      "symbol": "50WSTETH-50USDC",
+      "logoURI": "https://assets.coingecko.com/coins/images/11683/large/Balancer.png?",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
       "address": "0x1797E0D7FB5038195b39D1760d7364463A047317",
       "name": "Pendle Market",
       "symbol": "PENDLE-LPT",
@@ -789,6 +782,14 @@
       "name": "Pendle Market",
       "symbol": "PENDLE-LPT",
       "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x1d38d4204159aA5e767aFbA8f76BE22117De61E5/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0x1dBa7641dc69188D6086a73B972aC4bda29Ec35d",
+      "name": "Curve MIM Pool Vault",
+      "symbol": "yvCurve-MIM",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x1dBa7641dc69188D6086a73B972aC4bda29Ec35d/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -1385,14 +1386,6 @@
       "decimals": 18
     },
     {
-      "address": "0x30dF229cefa463e991e29D42DB0bae2e122B2AC7",
-      "name": "Curve.fi Factory USD Metapool: MIM",
-      "symbol": "MIM3CRV-f",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x30dF229cefa463e991e29D42DB0bae2e122B2AC7/logo-128.png",
-      "chainId": 42161,
-      "decimals": 18
-    },
-    {
       "address": "0x317A0D8D2a247004370FE4fB9362B2b256d890C0",
       "name": "xTBTC-WETH3",
       "symbol": "xTBTC-WETH3",
@@ -1897,6 +1890,14 @@
       "decimals": 18
     },
     {
+      "address": "0x49448d2B94fb9C4e41a30aD8315D32f46004A34b",
+      "name": "2CRV yVault",
+      "symbol": "yv2CRV",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x49448d2B94fb9C4e41a30aD8315D32f46004A34b/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
       "address": "0x4949d359F24Ba4882cfc1fc750F99A51863c9ccb",
       "name": "xXY-USDT5",
       "symbol": "xXY-USDT5",
@@ -2229,13 +2230,6 @@
       "name": "YT GLP 28MAR2024",
       "symbol": "YT-GLP-28MAR2024",
       "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x56051f8e46b67b4d286454995dBC6F5f3C433E34/logo-128.png",
-      "chainId": 42161,
-      "decimals": 18
-    },
-    {
-      "address": "0x561877b6b3DD7651313794e5F2894B2F18bE0766",
-      "name": "Matic Token",
-      "symbol": "MATIC",
       "chainId": 42161,
       "decimals": 18
     },
@@ -4109,6 +4103,14 @@
       "decimals": 18
     },
     {
+      "address": "0xB6CfcF89a7B22988bfC96632aC2A9D6daB60d641",
+      "name": "Tether USD-LP",
+      "symbol": "S*USDT",
+      "logoURI": "https://assets.coingecko.com/coins/images/24413/large/STG_LOGO.png",
+      "chainId": 42161,
+      "decimals": 6
+    },
+    {
       "address": "0xB7150937228C6d02ad32c27CE1AA01Bde93a0cBd",
       "name": "ARYZE eUSD",
       "symbol": "eUSD",
@@ -4205,6 +4207,14 @@
       "decimals": 18
     },
     {
+      "address": "0xBfCa4230115DE8341F3A3d5e8845fFb3337B2Be3",
+      "name": "Camelot LP",
+      "symbol": "CMLT-LP",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xBfCa4230115DE8341F3A3d5e8845fFb3337B2Be3/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
       "address": "0xC0Cda2d5d4d75544Cdf01EF69B1E5e56EA366d17",
       "name": "Pendle Market",
       "symbol": "PENDLE-LPT",
@@ -4277,13 +4287,6 @@
       "decimals": 18
     },
     {
-      "address": "0xC8a4EeA31E9B6b61c406DF013DD4FEc76f21E279",
-      "name": "Render Token",
-      "symbol": "RNDR",
-      "chainId": 42161,
-      "decimals": 18
-    },
-    {
       "address": "0xC8fD1F1E059d97ec71AE566DD6ca788DC92f36AF",
       "name": "Pendle Market",
       "symbol": "PENDLE-LPT",
@@ -4304,6 +4307,14 @@
       "name": "PT USDai 15OCT2026",
       "symbol": "PT-USDai-15OCT2026",
       "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xC9d24aD0bB25F34098e226a8C5192Dea7bacccaE/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0xC9da32C3b444F15412F7FeAC6104d1E258D23B1b",
+      "name": "Camelot LP",
+      "symbol": "CMLT-LP",
+      "logoURI": "https://assets.coingecko.com/coins/images/28416/large/vj5DIMhP_400x400.jpeg?",
       "chainId": 42161,
       "decimals": 18
     },
@@ -4466,14 +4477,6 @@
       "logoURI": "https://assets.smold.app/api/token/42161/0xDA53c73a28dfF704Fe757b8B4f6f6359707533Da/logo-128.png",
       "chainId": 42161,
       "decimals": 18
-    },
-    {
-      "address": "0xDBB5Cf12408a3Ac17d668037Ce289f9eA75439D7",
-      "name": "WorldMobileToken",
-      "symbol": "WMTX",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xDBB5Cf12408a3Ac17d668037Ce289f9eA75439D7/logo-128.png",
-      "chainId": 42161,
-      "decimals": 6
     },
     {
       "address": "0xDa3b69a45797DCA697Ff5bB2c10682f14373c063",
@@ -4920,6 +4923,14 @@
       "name": "SY weETH",
       "symbol": "SY-weETH",
       "logoURI": "https://assets.smold.app/api/token/42161/0xa6C895EB332E91c5b3D00B7baeEAae478cc502DA/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0xa6c5C7D189fA4eB5Af8ba34E63dCDD3a635D433f",
+      "name": "Camelot LP",
+      "symbol": "CMLT-LP",
+      "logoURI": "https://assets.coingecko.com/coins/images/28416/large/vj5DIMhP_400x400.jpeg?",
       "chainId": 42161,
       "decimals": 18
     },
@@ -5404,14 +5415,6 @@
       "decimals": 18
     },
     {
-      "address": "0xd85E038593d7A098614721EaE955EC2022B9B91B",
-      "name": "Gains Network DAI",
-      "symbol": "gDAI",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xd85E038593d7A098614721EaE955EC2022B9B91B/logo-128.png",
-      "chainId": 42161,
-      "decimals": 18
-    },
-    {
       "address": "0xd89ee1E95f7728f6964CF321E2648cCd29a881f1",
       "name": "AaveV3 USDC Lender",
       "symbol": "ysUSDC",
@@ -5799,13 +5802,6 @@
       "name": "OVERPOWERED",
       "symbol": "OVERPOWERED",
       "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xfe5B10F053871e66a319a57a16CF4e709f51367F/logo-128.png",
-      "chainId": 42161,
-      "decimals": 18
-    },
-    {
-      "address": "0xfeA31d704DEb0975dA8e77Bf13E04239e70d7c28",
-      "name": "Ethereum Name Service",
-      "symbol": "ENS",
       "chainId": 42161,
       "decimals": 18
     }

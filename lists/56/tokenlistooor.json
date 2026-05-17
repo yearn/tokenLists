@@ -1,9 +1,9 @@
 {
   "name": "Tokenlistooor Token List",
   "description": "A curated list of tokens from all the token lists on tokenlistooor.",
-  "timestamp": "2026-05-10T03:34:38Z",
+  "timestamp": "2026-05-17T03:45:22Z",
   "version": {
-    "major": 382,
+    "major": 383,
     "minor": 0,
     "patch": 0
   },
@@ -35,26 +35,18 @@
       "decimals": 18
     },
     {
+      "address": "0x1Ba42e5193dfA8B03D15dd1B86a3113bbBEF8Eeb",
+      "name": "Zcash Token",
+      "symbol": "ZEC",
+      "logoURI": "https://tokens.1inch.io/0x1ba42e5193dfa8b03d15dd1b86a3113bbbef8eeb.png",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
       "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
       "name": "Ethereum Token",
       "symbol": "ETH",
       "logoURI": "https://tokens.1inch.io/0x2170ed0880ac9a755fd29b2688956bd959f933f8.png",
-      "chainId": 56,
-      "decimals": 18
-    },
-    {
-      "address": "0x24b1C3f935DfFcADb606920022BA8C703BB065D7",
-      "name": "Rain Coin",
-      "symbol": "RAIN",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/56/0x24b1C3f935DfFcADb606920022BA8C703BB065D7/logo-128.png",
-      "chainId": 56,
-      "decimals": 18
-    },
-    {
-      "address": "0x27f6c8289550fCE67f6B50BeD1F519966aFE5287",
-      "name": "tGBP",
-      "symbol": "tGBP",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/56/0x27f6c8289550fCE67f6B50BeD1F519966aFE5287/logo-128.png",
       "chainId": 56,
       "decimals": 18
     },
@@ -131,14 +123,6 @@
       "decimals": 18
     },
     {
-      "address": "0x6EF2FFB38D64aFE18ce782DA280b300e358CFeAF",
-      "name": "ACU",
-      "symbol": "ACU",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/56/0x6EF2FFB38D64aFE18ce782DA280b300e358CFeAF/logo-128.png",
-      "chainId": 56,
-      "decimals": 12
-    },
-    {
       "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
       "name": "BTCB Token",
       "symbol": "BTCB",
@@ -199,14 +183,6 @@
       "name": "SushiToken",
       "symbol": "SUSHI",
       "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png?1606986688",
-      "chainId": 56,
-      "decimals": 18
-    },
-    {
-      "address": "0x97693439EA2f0ecdeb9135881E49f354656a911c",
-      "name": "RaveDAO",
-      "symbol": "RAVE",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/56/0x97693439EA2f0ecdeb9135881E49f354656a911c/logo-128.png",
       "chainId": 56,
       "decimals": 18
     },

@@ -1,9 +1,9 @@
 {
   "name": "DefiLlama",
   "description": "",
-  "timestamp": "2026-05-10T03:33:52Z",
+  "timestamp": "2026-05-17T03:43:25Z",
   "version": {
-    "major": 172,
+    "major": 173,
     "minor": 0,
     "patch": 0
   },
@@ -1135,6 +1135,14 @@
       "decimals": 18
     },
     {
+      "address": "0x501eBf66d76A96D4FB26ccead42957653e16B8B8",
+      "name": "evaUSDT",
+      "symbol": "evaUSDT",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/102173286/thumb/token-usdt.png?1778830738",
+      "chainId": 43114,
+      "decimals": 6
+    },
+    {
       "address": "0x502580fc390606b47FC3b741d6D49909383c28a9",
       "name": "Hatchy",
       "symbol": "HATCHY",
@@ -1267,14 +1275,6 @@
       "name": "PolyGaj Token",
       "symbol": "GAJ",
       "logoURI": "https://assets.coingecko.com/coins/images/15257/large/logo200x200.png?1629887093",
-      "chainId": 43114,
-      "decimals": 18
-    },
-    {
-      "address": "0x596fA47043f99A4e0F122243B841E55375cdE0d2",
-      "name": "ZRX",
-      "symbol": "ZRX.e",
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xE41d2489571d322189246DaFA5ebDe1F4699F498/logo.png",
       "chainId": 43114,
       "decimals": 18
     },
@@ -1748,6 +1748,14 @@
       "logoURI": "https://assets.coingecko.com/coins/images/35953/large/majinlogo3.png?1710251736",
       "chainId": 43114,
       "decimals": 18
+    },
+    {
+      "address": "0x741bD193B6b40f8703d2e116FD1965421f290F58",
+      "name": "evaUSDC",
+      "symbol": "evaUSDC",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/102173288/thumb/token-evaUSDC.png?1778830856",
+      "chainId": 43114,
+      "decimals": 6
     },
     {
       "address": "0x7678e162f38ec9ef2Bfd1d0aAF9fd93355E5Fa0b",
@@ -2476,14 +2484,6 @@
       "decimals": 18
     },
     {
-      "address": "0xB1466d4cf0DCfC0bCdDcf3500F473cdACb88b56D",
-      "name": "Weble Ecosystem Token",
-      "symbol": "WET",
-      "logoURI": "https://tokens.1inch.io/0xb1466d4cf0dcfc0bcddcf3500f473cdacb88b56d.png",
-      "chainId": 43114,
-      "decimals": 18
-    },
-    {
       "address": "0xB1f19E492401545C1B060C4B18688F9178325b4D",
       "name": "SHARDS@Avalanche",
       "symbol": "SHARDS",
@@ -2744,14 +2744,6 @@
       "name": "Ankr Network",
       "symbol": "ANKR",
       "logoURI": "https://assets.coingecko.com/coins/images/4324/large/U85xTl2.png?1608111978",
-      "chainId": 43114,
-      "decimals": 18
-    },
-    {
-      "address": "0xDebB1d6a2196F2335aD51FBdE7Ca587205889360",
-      "name": "NFTmall GEM Token",
-      "symbol": "GEM",
-      "logoURI": "https://assets.coingecko.com/coins/images/16217/large/Icon-1000x1000.png?1623316471",
       "chainId": 43114,
       "decimals": 18
     },
@@ -3382,6 +3374,14 @@
       "name": "Backed CSBGC3 CHF Swiss Domestic Government Bond 0-3yr",
       "symbol": "bCSBGC3",
       "logoURI": "https://coin-images.coingecko.com/coins/images/38920/thumb/b-CSBGC3-200x200.png?1719513620",
+      "chainId": 43114,
+      "decimals": 18
+    },
+    {
+      "address": "0xdBECD077c1C2feFDCB75f547d1b5a73BF8207e4C",
+      "name": "evaETH",
+      "symbol": "evaETH",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/102173285/thumb/evaETH.png?1778830690",
       "chainId": 43114,
       "decimals": 18
     },

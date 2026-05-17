@@ -1,9 +1,9 @@
 {
   "name": "CoinGecko",
   "description": "",
-  "timestamp": "2026-05-10T03:30:57Z",
+  "timestamp": "2026-05-17T03:38:37Z",
   "version": {
-    "major": 175,
+    "major": 176,
     "minor": 0,
     "patch": 0
   },
@@ -1351,6 +1351,14 @@
       "decimals": 18
     },
     {
+      "address": "0xDCB612005417Dc906fF72c87DF732e5a90D49e11",
+      "name": "EURC",
+      "symbol": "EURC",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xDCB612005417Dc906fF72c87DF732e5a90D49e11/logo-128.png",
+      "chainId": 10,
+      "decimals": 6
+    },
+    {
       "address": "0xDd462e9399624DFCF73018793BD50a7ef47940b9",
       "name": "Meeds Token",
       "symbol": "MEED",
@@ -1769,6 +1777,14 @@
       "name": "Layer2DAO",
       "symbol": "L2DAO",
       "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xd52f94DF742a6F4B4C8b033369fE13A41782Bf44/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xd83E3d560bA6F05094d9D8B3EB8aaEA571D1864E",
+      "name": "Wrapped HYPE",
+      "symbol": "WHYPE",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xd83E3d560bA6F05094d9D8B3EB8aaEA571D1864E/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },

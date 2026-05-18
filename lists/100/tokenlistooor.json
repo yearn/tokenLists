@@ -1,10 +1,10 @@
 {
   "name": "Tokenlistooor Token List",
   "description": "A curated list of tokens from all the token lists on tokenlistooor.",
-  "timestamp": "2026-05-17T03:45:22Z",
+  "timestamp": "2026-05-18T07:36:10Z",
   "version": {
     "major": 383,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   },
   "logoURI": "https://raw.githubusercontent.com/smoldapp/tokenLists/main/.github/tokenlistooor.svg",
@@ -83,6 +83,14 @@
       "decimals": 6
     },
     {
+      "address": "0x5012C6bf79b3047ECFFf2F212DfFDA4d2128188f",
+      "name": "EURe yVault",
+      "symbol": "yvEURe-1",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/100/0x5012C6bf79b3047ECFFf2F212DfFDA4d2128188f/logo-128.png",
+      "chainId": 100,
+      "decimals": 18
+    },
+    {
       "address": "0x58ea2Bb193B1429Cb90D24195E6ac4Ccb0B27a12",
       "name": "vTAO",
       "symbol": "vTAO",
@@ -103,6 +111,14 @@
       "name": "Wrapped Ether on xDai",
       "symbol": "WETH",
       "logoURI": "https://tokens.1inch.io/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png",
+      "chainId": 100,
+      "decimals": 18
+    },
+    {
+      "address": "0x78035b40e4a16EF7845454301C1dfCaFB0AcDfb7",
+      "name": "CANA Holdings California Carbon Credits from Mainnet",
+      "symbol": "CANA",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/100/0x78035b40e4a16EF7845454301C1dfCaFB0AcDfb7/logo-128.png",
       "chainId": 100,
       "decimals": 18
     },
@@ -135,6 +151,14 @@
       "name": "Gnosis Token on xDai",
       "symbol": "GNO",
       "logoURI": "https://token-assets-one.vercel.app/api/token/100/0x9C58BAcC331c9aa871AFD802DB6379a98e80CEdb/logo-128.png",
+      "chainId": 100,
+      "decimals": 18
+    },
+    {
+      "address": "0x9eE1963f05553eF838604Dd39403be21ceF26AA4",
+      "name": "USDp",
+      "symbol": "USDp",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/100/0x9eE1963f05553eF838604Dd39403be21ceF26AA4/logo-128.png",
       "chainId": 100,
       "decimals": 18
     },

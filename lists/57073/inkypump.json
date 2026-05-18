@@ -1,9 +1,9 @@
 {
   "name": "Inkypump",
   "description": "",
-  "timestamp": "2026-05-17T03:32:04Z",
+  "timestamp": "2026-05-18T07:22:41Z",
   "version": {
-    "major": 57,
+    "major": 58,
     "minor": 0,
     "patch": 0
   },
@@ -13,6 +13,14 @@
     "launcher"
   ],
   "tokens": [
+    {
+      "address": "0x03792f3C7841C901916cB76882Fb5a9E1902aB69",
+      "name": "INKACHU",
+      "symbol": "POKE",
+      "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/9b7be32f38114f4843a203b5c4125a24391fa0b2a6689765e770e66821612ce8.jpeg",
+      "chainId": 57073,
+      "decimals": 18
+    },
     {
       "address": "0x04866c5907F1a72447735333BCdC08Da616E9f7d",
       "name": "KRX6900",
@@ -110,6 +118,14 @@
       "decimals": 18
     },
     {
+      "address": "0x3379B82E2C225788e876b415B4F27CbB66EEC09B",
+      "name": "The Finker",
+      "symbol": "FINK",
+      "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/25c73dd4538ea225bd8130d3a15d6688dc1a60423bac274f651878ee4e5e5b1e.png",
+      "chainId": 57073,
+      "decimals": 18
+    },
+    {
       "address": "0x33b43F8d8a8dB582cA34992DfCD7663720433bEb",
       "name": "INK DOG",
       "symbol": "iDOG",
@@ -130,6 +146,14 @@
       "name": "GMINKY",
       "symbol": "GMINKY",
       "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/e5b2daf48c03b8fc4516e594c5b0a0af4bf3d3180dc7ff89d8fb76e2d9183590.png",
+      "chainId": 57073,
+      "decimals": 18
+    },
+    {
+      "address": "0x487EfE1C71712C45E493a9B5D60DDDF852DdD48c",
+      "name": "VIOLET",
+      "symbol": "VIOLET",
+      "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/b5c3f861da57f1504230c566a01838c74a09c87303d06092a136da2ef84874be.gif",
       "chainId": 57073,
       "decimals": 18
     },
@@ -158,10 +182,26 @@
       "decimals": 18
     },
     {
+      "address": "0x6B6299A7cDE8B0d3e735AF178b7b5A870a624408",
+      "name": "Mojo",
+      "symbol": "Mojo",
+      "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/76057fad8a1be1a223e59723cd97037e80d19f37dd2e2cea12c47a13f4730db3.png",
+      "chainId": 57073,
+      "decimals": 18
+    },
+    {
       "address": "0x7160644365e7011FA96CE60706743B434dF32690",
       "name": "Kek",
       "symbol": "KEK",
       "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/8c0e6d46a5d323be176ae49bf7bf0dfe662b6e10353d750382b091765ae98005.jpg",
+      "chainId": 57073,
+      "decimals": 18
+    },
+    {
+      "address": "0x739ec5aF87446fA8F7540CB028421139495B4E2d",
+      "name": "Pepe Ink",
+      "symbol": "PENK",
+      "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/4f7b3029748007ebd957fe77577d69d4336a0a632f09cc7856f8eabf43d0d3ee.jpg",
       "chainId": 57073,
       "decimals": 18
     },
@@ -202,14 +242,6 @@
       "name": "Grape The Ape",
       "symbol": "GRAPE",
       "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/3ee947604a473622ba3366e1c6ef0bf307b7f3c4c9551e6b0d0f9619ff0f8832.gif",
-      "chainId": 57073,
-      "decimals": 18
-    },
-    {
-      "address": "0x8f65E8139bdf6892bf48BA65c98Db8Cd2C3Ea68e",
-      "name": "GOOFY",
-      "symbol": "GOOFY",
-      "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/4e72adf40c622c7cec8762c7db6fb33d9e4fe1bb4aeaa7388ca8440bddb8c423.png",
       "chainId": 57073,
       "decimals": 18
     },
@@ -346,14 +378,6 @@
       "name": "QUEEN",
       "symbol": "QUEEN",
       "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/96ff064a044123307818b15aa19fd7965914c5d0c349e96a8f4e23f59ab4102d.jpg",
-      "chainId": 57073,
-      "decimals": 18
-    },
-    {
-      "address": "0xf273C1b042Fd28F1ca99315DE04A7C8B6ea9a9f5",
-      "name": "Spider",
-      "symbol": "SPIDER",
-      "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/a73f87d2b6d533646a591a611446461d389edef21721f93165c7bef38dc2e374.jpg",
       "chainId": 57073,
       "decimals": 18
     }

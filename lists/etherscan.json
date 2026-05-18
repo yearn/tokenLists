@@ -1,9 +1,9 @@
 {
   "name": "Etherscan",
   "description": "",
-  "timestamp": "2026-05-17T03:44:02Z",
+  "timestamp": "2026-05-18T07:25:01Z",
   "version": {
-    "major": 168,
+    "major": 169,
     "minor": 0,
     "patch": 0
   },
@@ -354,14 +354,6 @@
       "logoURI": "https://assets.coingecko.com/coins/images/19837/large/dar.png?1636014223",
       "chainId": 1,
       "decimals": 6
-    },
-    {
-      "address": "0x081599E4936D12c46Bd48913B2329115Cd26cbdd",
-      "name": "Macropod Stablecoin",
-      "symbol": "AUDM",
-      "logoURI": "https://assets.coingecko.com/coins/images/70943/large/AUDM-Logo.png?1764718671",
-      "chainId": 1,
-      "decimals": 18
     },
     {
       "address": "0x081F67aFA0cCF8c7B17540767BBe95DF2bA8D97F",
@@ -753,6 +745,14 @@
       "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/1/0x163f8c2467924be0ae7b5347228cabf260318753/logo.png",
       "chainId": 1,
       "decimals": 18
+    },
+    {
+      "address": "0x16980b3B4a3f9D89E33311B5aa8f80303E5ca4F8",
+      "name": "KIRA Network",
+      "symbol": "KEX",
+      "logoURI": "https://tokens.1inch.io/0x16980b3b4a3f9d89e33311b5aa8f80303e5ca4f8.png",
+      "chainId": 1,
+      "decimals": 6
     },
     {
       "address": "0x16A3543Fa6B32CAC3B0A755f64A729E84f89a75C",
@@ -1162,6 +1162,14 @@
       "decimals": 18
     },
     {
+      "address": "0x246908BfF0b1ba6ECaDCF57fb94F6AE2FcD43a77",
+      "name": "Divi",
+      "symbol": "DIVI",
+      "logoURI": "https://etherscan.io/token/images/divi_32.png",
+      "chainId": 1,
+      "decimals": 8
+    },
+    {
       "address": "0x24A3D725C37A8D1a66Eb87f0E5D07fE67c120035",
       "name": "Eden Token",
       "symbol": "EDEN",
@@ -1366,6 +1374,14 @@
       "name": "SPACE ID",
       "symbol": "ID",
       "logoURI": "https://etherscan.io/token/images/spaceid_32.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x2e44f3f609ff5aA4819B323FD74690f07C3607c4",
+      "name": "PinLink",
+      "symbol": "Pin",
+      "logoURI": "https://assets.coingecko.com/coins/images/51611/large/200x00.png?1731616756",
       "chainId": 1,
       "decimals": 18
     },
@@ -2078,14 +2094,6 @@
       "name": "Dorayaki",
       "symbol": "DORA",
       "logoURI": "https://assets.coingecko.com/coins/images/31552/large/DORA.jpg?1696530364",
-      "chainId": 1,
-      "decimals": 18
-    },
-    {
-      "address": "0x49fb8ad7578148E17c3eF0C344CE23A66ed372C4",
-      "name": "tao.bot",
-      "symbol": "TAOBOT",
-      "logoURI": "https://asset-images.messari.io/images/5010fdec-9241-425d-8f3c-63b0032a25de/128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -2882,14 +2890,6 @@
       "decimals": 18
     },
     {
-      "address": "0x644192291cc835A93d6330b24EA5f5FEdD0eEF9e",
-      "name": "AllianceBlock Nexera Token",
-      "symbol": "NXRA",
-      "logoURI": "https://tokens.1inch.io/0x644192291cc835a93d6330b24ea5f5fedd0eef9e.png",
-      "chainId": 1,
-      "decimals": 18
-    },
-    {
       "address": "0x64Bc2cA1Be492bE7185FAA2c8835d9b824c8a194",
       "name": "Big Time",
       "symbol": "BIGTIME",
@@ -3441,6 +3441,14 @@
       "decimals": 18
     },
     {
+      "address": "0x74dB7a52773A52699dbC0c01b1254E5301E3e119",
+      "name": "Altura Vault Tokens",
+      "symbol": "AVLT",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x74dB7a52773A52699dbC0c01b1254E5301E3e119/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0x75231F58b43240C9718Dd58B4967c5114342a86c",
       "name": "OKB",
       "symbol": "OKB",
@@ -3888,14 +3896,6 @@
       "decimals": 18
     },
     {
-      "address": "0x84EAac1B2dc3f84D92Ff84c3ec205B1FA74671fC",
-      "name": "Camp",
-      "symbol": "CAMP",
-      "logoURI": "https://assets.coingecko.com/coins/images/68465/large/camp.png?1755828258",
-      "chainId": 1,
-      "decimals": 18
-    },
-    {
       "address": "0x84cA8bc7997272c7CfB4D0Cd3D55cd942B3c9419",
       "name": "DIAToken",
       "symbol": "DIA",
@@ -4175,6 +4175,14 @@
       "decimals": 18
     },
     {
+      "address": "0x8c213ee79581Ff4984583C6a801e5263418C4b86",
+      "name": "Janus Henderson Anemoy Treasury Fund",
+      "symbol": "JTRSY",
+      "logoURI": "https://asset-images.messari.io/images/8ff556fb-d39b-40a9-a7e8-df8bef912819/128.png",
+      "chainId": 1,
+      "decimals": 6
+    },
+    {
       "address": "0x8c9532a60E0E7C6BbD2B2c1303F63aCE1c3E9811",
       "name": "Renzo Restaked LST ",
       "symbol": "pzETH",
@@ -4397,14 +4405,6 @@
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x963b37d30eee26d0D94C1E5a42Aa5B1371494cA2/logo-128.png",
       "chainId": 1,
       "decimals": 9
-    },
-    {
-      "address": "0x96543ef8d2C75C26387c1a319ae69c0BEE6f3fe7",
-      "name": "Kuji",
-      "symbol": "KUJI",
-      "logoURI": "https://assets.coingecko.com/coins/images/20685/large/kuji-200x200.png?1696520085",
-      "chainId": 1,
-      "decimals": 6
     },
     {
       "address": "0x967da4048cD07aB37855c090aAF366e4ce1b9F48",
@@ -4740,6 +4740,14 @@
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xA469B7Ee9ee773642b3e93E842e5D9b5BaA10067/logo-128.png",
       "chainId": 1,
       "decimals": 18
+    },
+    {
+      "address": "0xA4842662637e7C8A0210247D89244B0E45d3f777",
+      "name": "x-DOL-x",
+      "symbol": "XDOL",
+      "logoURI": "https://assets.coingecko.com/coins/images/102173072/large/xdol_COINGENKO.png?1777620711",
+      "chainId": 1,
+      "decimals": 6
     },
     {
       "address": "0xA4e8C3Ec456107eA67d3075bF9e3DF3A75823DB0",
@@ -6057,6 +6065,14 @@
       "decimals": 18
     },
     {
+      "address": "0xFb782396c9b20E564A64896181c7AC8d8979d5F4",
+      "name": "DivergenceProtocol",
+      "symbol": "DIVER",
+      "logoURI": "https://tokens.1inch.io/0xfb782396c9b20e564a64896181c7ac8d8979d5f4.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0xFc0B60E0DF5Dc9d4B72D957cA2d251ceE308019a",
       "name": "Shattered Legion",
       "symbol": "SLG",
@@ -6199,14 +6215,6 @@
       "logoURI": "https://etherscan.io/token/images/gluwacreditcoin2_32.png",
       "chainId": 1,
       "decimals": 18
-    },
-    {
-      "address": "0xa44E5137293E855B1b7bC7E2C6f8cD796fFCB037",
-      "name": "SENTinel",
-      "symbol": "SENT",
-      "logoURI": "https://etherscan.io/token/images/sentinelgroup_28.png",
-      "chainId": 1,
-      "decimals": 8
     },
     {
       "address": "0xa45cd7ac9865b9539166ebaf2aBc362Df4736580",
@@ -6709,14 +6717,6 @@
       "logoURI": "https://tokens.1inch.io/0xc770eefad204b5180df6a14ee197d99d808ee52d.png",
       "chainId": 1,
       "decimals": 18
-    },
-    {
-      "address": "0xc81978862b6cE566400579a5F8975732D42BD410",
-      "name": "Sentinel",
-      "symbol": "DVPN",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xc81978862b6cE566400579a5F8975732D42BD410/logo-128.png",
-      "chainId": 1,
-      "decimals": 6
     },
     {
       "address": "0xc83e27f270cce0A3A3A29521173a83F402c1768b",

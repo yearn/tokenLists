@@ -1,10 +1,10 @@
 {
   "name": "Ajna",
   "description": "",
-  "timestamp": "2026-05-17T03:35:29Z",
+  "timestamp": "2026-05-18T07:28:28Z",
   "version": {
     "major": 35,
-    "minor": 3,
+    "minor": 4,
     "patch": 0
   },
   "logoURI": "https://www.ajna.finance/static/tokens/ajna.png",
@@ -5800,6 +5800,14 @@
       "decimals": 18
     },
     {
+      "address": "0x382Be8E549B02FEaA0520d9DE9b04FE38D1A5C67",
+      "name": "Collateral Test Token",
+      "symbol": "CTEST",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0x382Be8E549B02FEaA0520d9DE9b04FE38D1A5C67/logo-128.png",
+      "chainId": 8453,
+      "decimals": 18
+    },
+    {
       "address": "0x3CDd0dF7a8955954c522049679e87e97c6519B46",
       "name": "JAB04061978 Bond Token",
       "symbol": "JAB78",
@@ -6254,6 +6262,14 @@
       "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0xE07aDC4bAd16Be3E4F6f7511a3E0b0219C73672B/logo-128.png",
       "chainId": 8453,
       "decimals": 8
+    },
+    {
+      "address": "0xE29aE502166fDD6AB319aFbA9f6e4Fc9182BF9Be",
+      "name": "Quote Test Token",
+      "symbol": "QTEST",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0xE29aE502166fDD6AB319aFbA9f6e4Fc9182BF9Be/logo-128.png",
+      "chainId": 8453,
+      "decimals": 18
     },
     {
       "address": "0xE46982AeEf3b1EC305899f3E2426E4E4439FD4a6",

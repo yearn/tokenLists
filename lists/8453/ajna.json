@@ -1,10 +1,10 @@
 {
   "name": "Ajna",
   "description": "",
-  "timestamp": "2026-05-18T07:28:28Z",
+  "timestamp": "2026-05-24T03:52:02Z",
   "version": {
     "major": 35,
-    "minor": 4,
+    "minor": 5,
     "patch": 0
   },
   "logoURI": "https://www.ajna.finance/static/tokens/ajna.png",
@@ -107,6 +107,14 @@
       "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0x0bD4887f7D41B35CD75DFF9FfeE2856106f86670/logo-128.png",
       "chainId": 8453,
       "decimals": 18
+    },
+    {
+      "address": "0x0d2D82bBbda0f403D28A86A8e039F2CBbC28f857",
+      "name": "Wrapped UTXO Asset",
+      "symbol": "wUTXO",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0x0d2D82bBbda0f403D28A86A8e039F2CBbC28f857/logo-128.png",
+      "chainId": 8453,
+      "decimals": 8
     },
     {
       "address": "0x0d97F261b1e88845184f678e2d1e7a98D9FD38dE",

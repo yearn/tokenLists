@@ -1,11 +1,11 @@
 {
   "name": "Uniswap Labs Default",
   "description": "",
-  "timestamp": "2026-05-18T07:32:07Z",
+  "timestamp": "2026-05-24T03:49:33Z",
   "version": {
     "major": 27,
-    "minor": 12,
-    "patch": 1
+    "minor": 13,
+    "patch": 0
   },
   "logoURI": "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
   "keywords": [
@@ -2613,6 +2613,14 @@
       "decimals": 18
     },
     {
+      "address": "0xa6C0c097741D55ECd9a3A7DeF3A8253fD022ceB9",
+      "name": "AVA",
+      "symbol": "AVA",
+      "logoURI": "https://assets.coingecko.com/coins/images/3014/large/AVA_Logo_160x160px_Black.png?1696503750",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0xaA7a9CA87d3694B5755f213B5D04094b8d0F0A6F",
       "name": "Trace Token",
       "symbol": "TRAC",
@@ -3709,6 +3717,14 @@
       "decimals": 18
     },
     {
+      "address": "0x1F12B85aAC097E43Aa1555b2881E98a51090e9A6",
+      "name": "Genius",
+      "symbol": "GENIUS",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/71660/thumb/genius.png?1768804210",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
       "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
       "name": "Ethereum Token",
       "symbol": "ETH",
@@ -4199,6 +4215,14 @@
       "name": "MindNetwork FHE Token",
       "symbol": "FHE",
       "logoURI": "https://coin-images.coingecko.com/coins/images/55161/thumb/mind.jpg?1744276359",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "address": "0xd9483EA7214FCfd89B4Fb8f513B544920E315A52",
+      "name": "AVA",
+      "symbol": "AVA",
+      "logoURI": "https://assets.coingecko.com/coins/images/35580/large/ava.jpeg?1709200977",
       "chainId": 56,
       "decimals": 18
     },
@@ -5806,6 +5830,7 @@
       "address": "0x11030f79109269d796fd0FB956D6244e502757f7",
       "name": "CTR",
       "symbol": "CTR",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0x11030f79109269d796fd0FB956D6244e502757f7/logo-128.png",
       "chainId": 8453,
       "decimals": 18
     },

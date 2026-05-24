@@ -1,10 +1,10 @@
 {
   "name": "Yearn Token List",
   "description": "",
-  "timestamp": "2026-05-18T07:36:07Z",
+  "timestamp": "2026-05-24T03:46:10Z",
   "version": {
     "major": 47,
-    "minor": 19,
+    "minor": 20,
     "patch": 0
   },
   "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e/logo.svg",
@@ -1609,6 +1609,22 @@
       "decimals": 18
     },
     {
+      "address": "0x0F83FF733b756435EF4433607EbEF9Fe28D53275",
+      "name": "PT Strata Junior NUSD 17SEP2026",
+      "symbol": "PT-jrNUSD-17SEP2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x0F83FF733b756435EF4433607EbEF9Fe28D53275/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x0FAd2688313eC6883420118B6fcc74c6a5c86419",
+      "name": "PLP Strata Junior NUSD 17SEP2026",
+      "symbol": "PLP-jrNUSD-17SEP2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x0FAd2688313eC6883420118B6fcc74c6a5c86419/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0x0FE906e030a44eF24CA8c7dC7B7c53A6C4F00ce9",
       "name": "Wrapped Aave Ethereum Lido WETH",
       "symbol": "waEthLidoWETH",
@@ -2132,6 +2148,14 @@
       "symbol": "ZETACRVUSD",
       "chainId": 1,
       "decimals": 18
+    },
+    {
+      "address": "0x119Dd7dAFf816f29D7eE47596ae5E4bdC4299165",
+      "name": "Nest BlackOpal LiquidStone II Vault",
+      "symbol": "nOPAL",
+      "logoURI": "https://assets.coingecko.com/coins/images/70787/large/BlackOpal_Vault.png?1763752532",
+      "chainId": 1,
+      "decimals": 6
     },
     {
       "address": "0x11AA6742bC3AFD713e7Fd3f0d3B1f7507Cf2aD12",
@@ -7249,6 +7273,14 @@
       "decimals": 18
     },
     {
+      "address": "0x3F71CCCE5641951cdAf573Be760464a8FD74fE56",
+      "name": "PT Strata Senior NUSD 17SEP2026",
+      "symbol": "PT-srNUSD-17SEP2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x3F71CCCE5641951cdAf573Be760464a8FD74fE56/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0x3F805DE0ec508BF7311baaa617015809BE9CE953",
       "name": "Visor TRIBE-ETH Uni .3%",
       "symbol": "TRIBE-ETH3",
@@ -9031,6 +9063,14 @@
       "decimals": 18
     },
     {
+      "address": "0x4A5067C3fF1abb7449244025B0e37fEAF77D8E3e",
+      "name": "PLP USD3 17DEC2026",
+      "symbol": "PLP-USD3-17DEC2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x4A5067C3fF1abb7449244025B0e37fEAF77D8E3e/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0x4A77913d07b4154600A1E37234336f8273409c96",
       "name": "Morpho Gauntlet USDC Core Compounder",
       "symbol": "ysUSDC",
@@ -9075,6 +9115,14 @@
       "name": "PT Zircuit Ether.fi weETH 27JUN2024",
       "symbol": "PT-zs-weETH-27JUN2024",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x4AE5411F3863CdB640309e84CEDf4B08B8b33FfF/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x4Af2E5411636b5bc460ebf44b83fd1f4E8c7B783",
+      "name": "PLP Nest BlackOpal LiquidStone II Vault 17SEP2026",
+      "symbol": "PLP-nOPAL-17SEP2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x4Af2E5411636b5bc460ebf44b83fd1f4E8c7B783/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -9808,6 +9856,14 @@
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x501C1738FE316C414B8A182C38569863D496cF5B/logo-128.png",
       "chainId": 1,
       "decimals": 18
+    },
+    {
+      "address": "0x50327c6c5a14DCaDE707ABad2E27eB517df87AB5",
+      "name": "TRON",
+      "symbol": "TRX",
+      "logoURI": "https://ethereum-optimism.github.io/data/TRX/logo.svg",
+      "chainId": 1,
+      "decimals": 6
     },
     {
       "address": "0x503e0BaB6acDAE73eA7fb7cf6Ae5792014dbe935",
@@ -10794,6 +10850,14 @@
       "decimals": 6
     },
     {
+      "address": "0x57BADd19a4756d0190bfcD8f444aE6EbCDB38e86",
+      "name": "SY Nest BlackOpal LiquidStone II Vault",
+      "symbol": "SY-nOPAL",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x57BADd19a4756d0190bfcD8f444aE6EbCDB38e86/logo-128.png",
+      "chainId": 1,
+      "decimals": 6
+    },
+    {
       "address": "0x57E9EBeB30852D31f99A08E39068d93b0D8FC917",
       "name": "Principal Token: sw-ynETH-1735516827",
       "symbol": "PT-sw-ynETH-1735516827",
@@ -10928,6 +10992,14 @@
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x58900d761Ae3765B75DDFc235c1536B527F25d8F/logo-128.png",
       "chainId": 1,
       "decimals": 18
+    },
+    {
+      "address": "0x58Ca8Ac7214189CC4DB18de660D653DA44fd728A",
+      "name": "YT Nest BlackOpal LiquidStone II Vault 17SEP2026",
+      "symbol": "YT-nOPAL-17SEP2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x58Ca8Ac7214189CC4DB18de660D653DA44fd728A/logo-128.png",
+      "chainId": 1,
+      "decimals": 6
     },
     {
       "address": "0x58D97B57BB95320F9a05dC918Aef65434969c2B2",
@@ -11351,6 +11423,14 @@
       "decimals": 6
     },
     {
+      "address": "0x5E1ff5c857f1D2251600507F2031d2AA2A5fC468",
+      "name": "PT Nest BlackOpal LiquidStone II Vault 17SEP2026",
+      "symbol": "PT-nOPAL-17SEP2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x5E1ff5c857f1D2251600507F2031d2AA2A5fC468/logo-128.png",
+      "chainId": 1,
+      "decimals": 6
+    },
+    {
       "address": "0x5E8422345238F34275888049021821E8E08CAa1f",
       "name": "Frax Ether",
       "symbol": "frxETH",
@@ -11621,6 +11701,14 @@
       "logoURI": "https://assets.coingecko.com/coins/images/54119/large/AV.png?1738314011",
       "chainId": 1,
       "decimals": 18
+    },
+    {
+      "address": "0x5cFfCc9DdEF0fDcf395e2eA24CA5ED5A12032706",
+      "name": "YT USD3 17DEC2026",
+      "symbol": "YT-USD3-17DEC2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x5cFfCc9DdEF0fDcf395e2eA24CA5ED5A12032706/logo-128.png",
+      "chainId": 1,
+      "decimals": 6
     },
     {
       "address": "0x5ca0313D44551e32e0d7a298EC024321c4BC59B4",
@@ -12006,6 +12094,14 @@
       "name": "PT Strata Senior USDe 25JUN2026",
       "symbol": "PT-srUSDe-25JUN2026",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x619D75E3b790eBC21c289f2805Bb7177A7D732E2/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x61EC85aB89377db65762E234C946b5c25A56E99e",
+      "name": "HTX",
+      "symbol": "HTX",
+      "logoURI": "https://asset-images.messari.io/images/f22cb657-4745-4aca-a5d6-ebc31ae4417f/128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -14760,6 +14856,14 @@
       "decimals": 18
     },
     {
+      "address": "0x77Fe4CD64b5b37Da507c1d69Ced1E0497eD463f7",
+      "name": "YT Strata Senior NUSD 17SEP2026",
+      "symbol": "YT-srNUSD-17SEP2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x77Fe4CD64b5b37Da507c1d69Ced1E0497eD463f7/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0x77db49Ac43107F0cEF6f65837aA55EE8Ae4Cd9fA",
       "name": "PT YieldNest RWA MAX 15OCT2026",
       "symbol": "PT-ynRWAx-15OCT2026",
@@ -15537,6 +15641,14 @@
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0/logo-128.png",
       "chainId": 1,
       "decimals": 18
+    },
+    {
+      "address": "0x7f47c3e6b2c00fC4eB4d5Ae50d0Ab0Ab6888Eb4D",
+      "name": "PT USD3 17DEC2026",
+      "symbol": "PT-USD3-17DEC2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x7f47c3e6b2c00fC4eB4d5Ae50d0Ab0Ab6888Eb4D/logo-128.png",
+      "chainId": 1,
+      "decimals": 6
     },
     {
       "address": "0x7f531a70A240Fba0e40169E56EedE1C6B7Ef8463",
@@ -20813,6 +20925,14 @@
       "decimals": 18
     },
     {
+      "address": "0xB4d8860895dFF6E30C6872075a7BdFfF53B5E772",
+      "name": "YT Global Dollar 24SEP2026",
+      "symbol": "YT-USDG-24SEP2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xB4d8860895dFF6E30C6872075a7BdFfF53B5E772/logo-128.png",
+      "chainId": 1,
+      "decimals": 6
+    },
+    {
       "address": "0xB50721BCf8d664c30412Cfbc6cf7a15145234ad1",
       "name": "Arbitrum",
       "symbol": "ARB",
@@ -23319,6 +23439,14 @@
       "decimals": 18
     },
     {
+      "address": "0xDb3b421176215AD746ecBA51a10e1c522E02C261",
+      "name": "PLP Strata Senior NUSD 17SEP2026",
+      "symbol": "PLP-srNUSD-17SEP2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xDb3b421176215AD746ecBA51a10e1c522E02C261/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0xDbC00a45E7530017E553fBFA340Be32dE89eA27b",
       "name": "PT Terminal WBTC 25SEP2025",
       "symbol": "PT-tBTC-25SEP2025",
@@ -24897,6 +25025,14 @@
       "decimals": 18
     },
     {
+      "address": "0xF80b67a32DF07960C731794769309E3D30E9717F",
+      "name": "PLP Global Dollar 24SEP2026",
+      "symbol": "PLP-USDG-24SEP2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xF80b67a32DF07960C731794769309E3D30E9717F/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0xF81d12FFAc8d42e0997cA6437e152Dd03906ADA7",
       "name": "YT Aave Ethereum PYUSD 28MAY2026",
       "symbol": "YT-aEthPYUSD-28MAY2026",
@@ -26220,6 +26356,14 @@
       "decimals": 18
     },
     {
+      "address": "0xacE5eAa9348Aa8A9e795784D62669d50e899aD43",
+      "name": "YT Strata Junior NUSD 17SEP2026",
+      "symbol": "YT-jrNUSD-17SEP2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xacE5eAa9348Aa8A9e795784D62669d50e899aD43/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0xae08c57475cb850751aD161917Ea941E2552CDF8",
       "name": "Standardized Yield asdPENDLE",
       "symbol": "SY-asdPENDLE",
@@ -27333,6 +27477,14 @@
       "name": "SY Global Dollar",
       "symbol": "SY-USDG",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xc1799CaB1F201946f7CFaFBaF1BCC089b2F08927/logo-128.png",
+      "chainId": 1,
+      "decimals": 6
+    },
+    {
+      "address": "0xc1906aeCf868749a2DeE203F59b904c0cf212140",
+      "name": "PT Global Dollar 24SEP2026",
+      "symbol": "PT-USDG-24SEP2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xc1906aeCf868749a2DeE203F59b904c0cf212140/logo-128.png",
       "chainId": 1,
       "decimals": 6
     },
@@ -33486,7 +33638,7 @@
       "address": "0x37e7D30CC180A750C83D68ED0C2511dA10694d63",
       "name": "StableV2 AMM - USD+/LUSD",
       "symbol": "sAMMV2-USD+/LUSD",
-      "logoURI": "https://assets.smold.app/api/token/10/0x37e7D30CC180A750C83D68ED0C2511dA10694d63/logo-128.png",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x37e7D30CC180A750C83D68ED0C2511dA10694d63/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },

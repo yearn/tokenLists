@@ -1,10 +1,10 @@
 {
   "name": "Bebop",
   "description": "",
-  "timestamp": "2026-05-17T03:40:21Z",
+  "timestamp": "2026-05-24T03:48:26Z",
   "version": {
     "major": 28,
-    "minor": 9,
+    "minor": 10,
     "patch": 0
   },
   "logoURI": "https://bebop-public-images.s3.eu-west-2.amazonaws.com/bebop-logo.png",
@@ -478,6 +478,14 @@
       "name": "Prompt",
       "symbol": "PROMPT",
       "logoURI": "https://coin-images.coingecko.com/coins/images/55169/thumb/wayfinder.jpg?1744336900",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x2D1F7226Bd1F780AF6B9A49DCC0aE00E8Df4bDEE",
+      "name": "NVIDIA (Ondo Tokenized)",
+      "symbol": "NVDAon",
+      "logoURI": "https://assets.coingecko.com/coins/images/68623/large/nvdaon_160x160.png?1756130268",
       "chainId": 1,
       "decimals": 18
     },
@@ -2648,6 +2656,14 @@
       "decimals": 18
     },
     {
+      "address": "0xFeDC5f4a6c38211c1338aa411018DFAf26612c08",
+      "name": "SPDR S\u0026P 500 ETF (Ondo Tokenized)",
+      "symbol": "SPYon",
+      "logoURI": "https://assets.coingecko.com/coins/images/68655/large/spyon_160x160.png?1756156354",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0xa127f6D2233DAE96066EE8eCC8a09b0a2C782FDF",
       "name": "OPT-WETH-USDC-2900-2026-02-20",
       "symbol": "OPT-WETH-USDC-2900-2026-02-20",
@@ -2822,6 +2838,14 @@
       "logoURI": "https://bebop-public-images.s3.eu-west-2.amazonaws.com/black.png",
       "chainId": 1,
       "decimals": 6
+    },
+    {
+      "address": "0xbA47214eDd2bb43099611b208f75E4b42FDcfEDc",
+      "name": "Alphabet Class A (Ondo Tokenized)",
+      "symbol": "GOOGLon",
+      "logoURI": "https://assets.coingecko.com/coins/images/68606/large/googlon_160x160.png?1756130033",
+      "chainId": 1,
+      "decimals": 18
     },
     {
       "address": "0xbC396689893D065F41bc2C6EcbeE5e0085233447",

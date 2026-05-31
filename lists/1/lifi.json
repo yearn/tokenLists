@@ -1,10 +1,10 @@
 {
   "name": "Lifi Token List",
   "description": "",
-  "timestamp": "2026-05-24T03:48:12Z",
+  "timestamp": "2026-05-31T04:08:16Z",
   "version": {
     "major": 19,
-    "minor": 4,
+    "minor": 5,
     "patch": 0
   },
   "logoURI": "https://avatars.githubusercontent.com/u/85288935?s=200\u0026v=4",
@@ -41,6 +41,14 @@
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x00Da8466B296E382E5Da2Bf20962D0cB87200c78/logo-128.png",
       "chainId": 1,
       "decimals": 18
+    },
+    {
+      "address": "0x00f3C42833C3170159af4E92dbb451Fb3F708917",
+      "name": "ICP",
+      "symbol": "ICP",
+      "logoURI": "https://assets.coingecko.com/coins/images/14495/large/Internet_Computer_logo.png?1696514180",
+      "chainId": 1,
+      "decimals": 8
     },
     {
       "address": "0x030b69280892c888670EDCDCD8B69Fd8026A0BF3",
@@ -134,7 +142,7 @@
       "address": "0x152649eA73beAb28c5b49B26eb48f7EAD6d4c898",
       "name": "PancakeSwap Token",
       "symbol": "Cake",
-      "logoURI": "https://etherscan.io/token/images/pancake_32.png?v=2",
+      "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/1/0x152649ea73beab28c5b49b26eb48f7ead6d4c898/logo.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -359,6 +367,14 @@
       "name": "Staked USDz",
       "symbol": "sUSDz",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x547213367cfB08ab418E7b54d7883b2C2AA27Fd7/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x54D2252757e1672EEaD234D27B1270728fF90581",
+      "name": "BitgetToken",
+      "symbol": "BGB",
+      "logoURI": "https://assets.coingecko.com/coins/images/11610/large/icon_colour.png?1696511504",
       "chainId": 1,
       "decimals": 18
     },
@@ -1032,6 +1048,14 @@
       "logoURI": "https://asset-images.messari.io/images/6d49c1b9-39f2-4475-9d24-779cd84063c9/128.png",
       "chainId": 1,
       "decimals": 9
+    },
+    {
+      "address": "0xd55159FE5633e24510D5317d224324413407C5B8",
+      "name": "Boardwalk",
+      "symbol": "BMX",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xd55159FE5633e24510D5317d224324413407C5B8/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
     },
     {
       "address": "0xd8Fa690304D2B2824D918C0c7376e2823704557A",

@@ -1,11 +1,11 @@
 {
   "name": "Uniswap Labs Default",
   "description": "",
-  "timestamp": "2026-05-31T03:58:53Z",
+  "timestamp": "2026-06-07T04:07:29Z",
   "version": {
     "major": 27,
-    "minor": 13,
-    "patch": 1
+    "minor": 14,
+    "patch": 0
   },
   "logoURI": "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
   "keywords": [
@@ -13,6 +13,14 @@
     "default"
   ],
   "tokens": [
+    {
+      "address": "0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a",
+      "name": "AUSD",
+      "symbol": "AUSD",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/39284/thumb/Agora_Olive.png?1721453639",
+      "chainId": 43114,
+      "decimals": 6
+    },
     {
       "address": "0x130966628846BFd36ff31a822705796e8cb8C18D",
       "name": "Magic Internet Money",

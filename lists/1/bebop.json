@@ -1,10 +1,10 @@
 {
   "name": "Bebop",
   "description": "",
-  "timestamp": "2026-05-31T04:03:06Z",
+  "timestamp": "2026-06-07T04:04:17Z",
   "version": {
     "major": 29,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   },
   "logoURI": "https://bebop-public-images.s3.eu-west-2.amazonaws.com/bebop-logo.png",
@@ -71,6 +71,14 @@
       "name": "Cisco xStock",
       "symbol": "CSCOx",
       "logoURI": "https://coin-images.coingecko.com/coins/images/55604/thumb/Ticker_CSCO__Company_Name_Cisco_Systems_Inc.__size_200x200_2x.png?1746858247",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x067f03Be93c7Dcd21C3eB700f58203F514c2Be1A",
+      "name": "Tenbin Mexican Peso",
+      "symbol": "tMXN",
+      "logoURI": "https://bebop-public-images.s3.eu-west-2.amazonaws.com/black.png",
       "chainId": 1,
       "decimals": 18
     },

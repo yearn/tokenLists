@@ -1,11 +1,11 @@
 {
   "name": "Uniswap Labs Default",
   "description": "",
-  "timestamp": "2026-05-31T03:58:53Z",
+  "timestamp": "2026-06-07T04:07:29Z",
   "version": {
     "major": 27,
-    "minor": 13,
-    "patch": 1
+    "minor": 14,
+    "patch": 0
   },
   "logoURI": "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
   "keywords": [
@@ -13,6 +13,14 @@
     "default"
   ],
   "tokens": [
+    {
+      "address": "0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a",
+      "name": "AUSD",
+      "symbol": "AUSD",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a/logo-128.png",
+      "chainId": 1,
+      "decimals": 6
+    },
     {
       "address": "0x000006c2A22ff4A44ff1f5d0F2ed65F781F55555",
       "name": "ZK Coin",

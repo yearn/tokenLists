@@ -1,9 +1,9 @@
 {
   "name": "Popular tokens",
   "description": "A curated list of popular tokens from all the token lists on tokenlistooor.",
-  "timestamp": "2026-05-31T04:09:38Z",
+  "timestamp": "2026-06-07T04:13:40Z",
   "version": {
-    "major": 129,
+    "major": 130,
     "minor": 0,
     "patch": 0
   },
@@ -8942,7 +8942,7 @@
       "address": "0x0994206dfE8De6Ec6920FF4D779B0d950605Fb53",
       "name": "Curve DAO Token",
       "symbol": "CRV",
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xD533a949740bb3306d119CC777fa900bA034cd52/logo.png",
+      "logoURI": "ipfs://QmcVbt1ezDs89zPw5rgaR9xy5f3bdE7dxvTz958FeFNgfQ",
       "chainId": 10,
       "decimals": 18
     },
@@ -9148,7 +9148,7 @@
       "address": "0x350a791Bfc2C21F9Ed5d10980Dad2e2638ffa7f6",
       "name": "ChainLink Token",
       "symbol": "LINK",
-      "logoURI": "https://tokens.1inch.io/0x350a791bfc2c21f9ed5d10980dad2e2638ffa7f6.png",
+      "logoURI": "ipfs://QmU96KikTqZ4rmV6LPim9i57fuvTLMLcV8B6HKXvkdrdcW",
       "chainId": 10,
       "decimals": 18
     },
@@ -9204,14 +9204,6 @@
       "name": "MetalSwap",
       "symbol": "XMT",
       "logoURI": "https://ethereum-optimism.github.io/data/XMT/logo.svg",
-      "chainId": 10,
-      "decimals": 18
-    },
-    {
-      "address": "0x3Ed9AcAac7Bd974eB83a8eA6432a239e3C829D5D",
-      "name": "LERNITAS",
-      "symbol": "2192",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x3Ed9AcAac7Bd974eB83a8eA6432a239e3C829D5D/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -9819,7 +9811,7 @@
       "address": "0xFE8B128bA8C78aabC59d4c64cEE7fF28e9379921",
       "name": "Balancer",
       "symbol": "BAL",
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xba100000625a3754423978a60c9317c58a424e3D/logo.png",
+      "logoURI": "ipfs://QmeVnk6jkW8J9ZHFxsLVamMNHpz9bigp7tsY2CJuxas297",
       "chainId": 10,
       "decimals": 18
     },
@@ -30613,14 +30605,6 @@
       "decimals": 18
     },
     {
-      "address": "0xA32608e873F9DdEF944B24798db69d80Bbb4d1ed",
-      "name": "CRA",
-      "symbol": "CRA",
-      "logoURI": "https://tokens.1inch.io/0xa32608e873f9ddef944b24798db69d80bbb4d1ed.png",
-      "chainId": 43114,
-      "decimals": 18
-    },
-    {
       "address": "0xA5aCFECA5270bC9768633FBC86caA959B85Ec8b7",
       "name": "KRW",
       "symbol": "KRW",
@@ -31282,6 +31266,14 @@
       "decimals": 18
     },
     {
+      "address": "0x04866c5907F1a72447735333BCdC08Da616E9f7d",
+      "name": "KRX6900",
+      "symbol": "KRX6900",
+      "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/5137203fb06e4d0c342794409284e3ce1bfcd00bb60d749e0f6b737d0c034f68.jpg",
+      "chainId": 57073,
+      "decimals": 18
+    },
+    {
       "address": "0x0606FC632ee812bA970af72F8489baAa443C4B98",
       "name": "ANITA INK",
       "symbol": "ANITA",
@@ -31330,10 +31322,18 @@
       "decimals": 18
     },
     {
-      "address": "0x25Fdc675E6045f7279cbF0dAe98fF746d55fA273",
-      "name": "VAYLET",
-      "symbol": "VAYLET",
-      "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/274a652a00fddbd7b1c46a02c7d352a9c62a738c7cd8de9515fe779f2ed0bc25.jpg",
+      "address": "0x26Dcf538C022e1ee5e3A871651D1EB6C603a2b9C",
+      "name": "Ragnar",
+      "symbol": "RAGNAR",
+      "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/df39ca133c251c424afdcd1ce50c1c5c83143125dadf1d95cf3f8395ee37980d.jpg",
+      "chainId": 57073,
+      "decimals": 18
+    },
+    {
+      "address": "0x2AF94A6Ad45cFAb9F98e960c59BC9B61D116474e",
+      "name": "Shell",
+      "symbol": "SHELL",
+      "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/e4e82fe4dab577ff8905889e68bf9ae2e4ef3a9ad8ca6ca940ee91137fee304b.jpg",
       "chainId": 57073,
       "decimals": 18
     },
@@ -31377,6 +31377,14 @@
       "decimals": 18
     },
     {
+      "address": "0x33b43F8d8a8dB582cA34992DfCD7663720433bEb",
+      "name": "INK DOG",
+      "symbol": "iDOG",
+      "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/3b3d142b7e5f782c1cf08fc6d404bc1ace5040881ae878d7c8ad6f720ec8bd29.jpg",
+      "chainId": 57073,
+      "decimals": 18
+    },
+    {
       "address": "0x38cB679C82A79e57Fb5576696ed2b36696001635",
       "name": "KRAKX",
       "symbol": "KRAKX",
@@ -31400,6 +31408,22 @@
       "decimals": 18
     },
     {
+      "address": "0x487EfE1C71712C45E493a9B5D60DDDF852DdD48c",
+      "name": "VIOLET",
+      "symbol": "VIOLET",
+      "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/b5c3f861da57f1504230c566a01838c74a09c87303d06092a136da2ef84874be.gif",
+      "chainId": 57073,
+      "decimals": 18
+    },
+    {
+      "address": "0x51C8aD20c3D18596A500F3AA32154e5Eb5c8C359",
+      "name": "milady",
+      "symbol": "MILADY",
+      "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/c04b07975d3ef566a4f6c37eac934f5fd4ed5515ad16af865df36d8072396027.png",
+      "chainId": 57073,
+      "decimals": 18
+    },
+    {
       "address": "0x53EB0098d09B8d1008f382BbD2A5D4f649111710",
       "name": "WATCH DOGS",
       "symbol": "WATCH",
@@ -31416,10 +31440,18 @@
       "decimals": 18
     },
     {
-      "address": "0x7160644365e7011FA96CE60706743B434dF32690",
-      "name": "Kek",
-      "symbol": "KEK",
-      "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/8c0e6d46a5d323be176ae49bf7bf0dfe662b6e10353d750382b091765ae98005.jpg",
+      "address": "0x6B6299A7cDE8B0d3e735AF178b7b5A870a624408",
+      "name": "Mojo",
+      "symbol": "Mojo",
+      "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/76057fad8a1be1a223e59723cd97037e80d19f37dd2e2cea12c47a13f4730db3.png",
+      "chainId": 57073,
+      "decimals": 18
+    },
+    {
+      "address": "0x739ec5aF87446fA8F7540CB028421139495B4E2d",
+      "name": "Pepe Ink",
+      "symbol": "PENK",
+      "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/4f7b3029748007ebd957fe77577d69d4336a0a632f09cc7856f8eabf43d0d3ee.jpg",
       "chainId": 57073,
       "decimals": 18
     },
@@ -31428,6 +31460,14 @@
       "name": "Pearl",
       "symbol": "PRL",
       "logoURI": "https://luauiyxrqsrcixgjxhja.supabase.co/storage/v1/object/public/images/f810163a811c8ae21a0ce1f723cf50c5eab1b1a8bd14e1e46b39b23f7f41fdca.gif",
+      "chainId": 57073,
+      "decimals": 18
+    },
+    {
+      "address": "0x767F1e9feDfF2BFA4f90a7EFFddfCCc2970530Ba",
+      "name": "INKO",
+      "symbol": "INKO",
+      "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/e2766fa19b7ddce47dc22a573c2430c364e4c01e87a4ffdc600c5253ecb2317f.png",
       "chainId": 57073,
       "decimals": 18
     },
@@ -31452,6 +31492,22 @@
       "name": "KRAQU",
       "symbol": "KRAQU",
       "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/8c688287c98e5ae4b72308d1c9e32ef9cb61b4db275c3891a3bd8c223d670ba5.png",
+      "chainId": 57073,
+      "decimals": 18
+    },
+    {
+      "address": "0x8551504De58b04fAE313b9BAA15791532A876044",
+      "name": "Grape The Ape",
+      "symbol": "GRAPE",
+      "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/3ee947604a473622ba3366e1c6ef0bf307b7f3c4c9551e6b0d0f9619ff0f8832.gif",
+      "chainId": 57073,
+      "decimals": 18
+    },
+    {
+      "address": "0x8f65E8139bdf6892bf48BA65c98Db8Cd2C3Ea68e",
+      "name": "GOOFY",
+      "symbol": "GOOFY",
+      "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/4e72adf40c622c7cec8762c7db6fb33d9e4fe1bb4aeaa7388ca8440bddb8c423.png",
       "chainId": 57073,
       "decimals": 18
     },
@@ -31617,6 +31673,14 @@
       "name": "QUEEN",
       "symbol": "QUEEN",
       "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/96ff064a044123307818b15aa19fd7965914c5d0c349e96a8f4e23f59ab4102d.jpg",
+      "chainId": 57073,
+      "decimals": 18
+    },
+    {
+      "address": "0xf273C1b042Fd28F1ca99315DE04A7C8B6ea9a9f5",
+      "name": "Spider",
+      "symbol": "SPIDER",
+      "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/a73f87d2b6d533646a591a611446461d389edef21721f93165c7bef38dc2e374.jpg",
       "chainId": 57073,
       "decimals": 18
     },

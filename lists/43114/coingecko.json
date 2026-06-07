@@ -1,9 +1,9 @@
 {
   "name": "CoinGecko",
   "description": "",
-  "timestamp": "2026-05-31T03:57:09Z",
+  "timestamp": "2026-06-07T04:01:37Z",
   "version": {
-    "major": 179,
+    "major": 180,
     "minor": 0,
     "patch": 0
   },
@@ -68,6 +68,13 @@
       "logoURI": "https://assets.coingecko.com/coins/images/25307/large/ZVoPiysPJq6dPIZm_Se-6vjmsBepwhHlTQfdYZRILbHyVVTRUYCO-wmJJ4zT10HXCGv1j-ZyWr2u2sBaVlap5Y-ILqeXZuIquWdBDxxG0E0qDpgH7omLqYdgWWLSM_TUK9d1PiiYdu6bERdCDaucgFjlqwmhVQK4uV4jyUiXzchVUnu8Qt6SnxlNxz88G0mQ_tfiwkFv_vKqtgb1CcPycVZVz9.jpg?1651211260",
       "chainId": 43114,
       "decimals": 18
+    },
+    {
+      "address": "0x038Dbe3D967bB8389190446DACdfE7B95b44F73D",
+      "name": "bCircle",
+      "symbol": "bUSDC",
+      "chainId": 43114,
+      "decimals": 6
     },
     {
       "address": "0x039D2E8f097331278BD6c1415D839310E0D5Ece4",
@@ -659,14 +666,6 @@
       "decimals": 18
     },
     {
-      "address": "0x2cd3CdB3bd68Eea0d3BE81DA707bC0c8743D7335",
-      "name": "Yield BTC.B",
-      "symbol": "YBTC.B",
-      "logoURI": "https://coin-images.coingecko.com/coins/images/67087/thumb/20250703-152236.png?1751702269",
-      "chainId": 43114,
-      "decimals": 8
-    },
-    {
       "address": "0x2d0aFed89a6D6A100273Db377dBA7a32C739E314",
       "name": "BIG",
       "symbol": "BIG",
@@ -857,6 +856,13 @@
       "logoURI": "https://assets.coingecko.com/coins/images/10951/large/UMA.png?1586307916",
       "chainId": 43114,
       "decimals": 18
+    },
+    {
+      "address": "0x3C594084dC7AB1864AC69DFd01AB77E8f65B83B7",
+      "name": "bTether",
+      "symbol": "bUSDT",
+      "chainId": 43114,
+      "decimals": 6
     },
     {
       "address": "0x3D8f74620857dd8ED6D0dA02ceB13fd0Ed8Ba678",
@@ -2336,14 +2342,6 @@
       "decimals": 18
     },
     {
-      "address": "0xA32608e873F9DdEF944B24798db69d80Bbb4d1ed",
-      "name": "CRA",
-      "symbol": "CRA",
-      "logoURI": "https://tokens.1inch.io/0xa32608e873f9ddef944b24798db69d80bbb4d1ed.png",
-      "chainId": 43114,
-      "decimals": 18
-    },
-    {
       "address": "0xA34C5e0AbE843E10461E2C9586Ea03E55Dbcc495",
       "name": "Backed NVIDIA Corp",
       "symbol": "bNVDA",
@@ -3309,6 +3307,13 @@
       "logoURI": "https://tokens.1inch.io/0xd1c3f94de7e5b45fa4edbba472491a9f4b166fc4.png",
       "chainId": 43114,
       "decimals": 18
+    },
+    {
+      "address": "0xd211b17Dfe8288D4Fb0dd8EEFF07A6C48fC679D5",
+      "name": "bAUSD",
+      "symbol": "bAUSD",
+      "chainId": 43114,
+      "decimals": 6
     },
     {
       "address": "0xd2a530170D71a9Cfe1651Fb468E2B98F7Ed7456b",

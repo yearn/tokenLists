@@ -1,11 +1,11 @@
 {
   "name": "Uniswap Labs Default",
   "description": "",
-  "timestamp": "2026-05-31T03:58:53Z",
+  "timestamp": "2026-06-07T04:07:29Z",
   "version": {
     "major": 27,
-    "minor": 13,
-    "patch": 1
+    "minor": 14,
+    "patch": 0
   },
   "logoURI": "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
   "keywords": [
@@ -20,6 +20,14 @@
       "logoURI": "https://assets.coingecko.com/coins/images/4713/large/matic-token-icon.png?1624446912",
       "chainId": 137,
       "decimals": 18
+    },
+    {
+      "address": "0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a",
+      "name": "AUSD",
+      "symbol": "AUSD",
+      "logoURI": "https://asset-images.messari.io/images/784b12bc-b284-4689-9b97-8ea7fec440ba/128.png",
+      "chainId": 137,
+      "decimals": 6
     },
     {
       "address": "0x00e5646f60AC6Fb446f621d146B6E1886f002905",

@@ -1,9 +1,9 @@
 {
   "name": "DefiLlama",
   "description": "",
-  "timestamp": "2026-06-07T04:04:56Z",
+  "timestamp": "2026-06-14T04:13:16Z",
   "version": {
-    "major": 177,
+    "major": 178,
     "minor": 0,
     "patch": 0
   },
@@ -864,6 +864,14 @@
       "name": "Fantom Bomb",
       "symbol": "fBOMB",
       "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x74ccbe53F77b08632ce0CB91D3A545bF6B8E0979/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x74dB7a52773A52699dbC0c01b1254E5301E3e119",
+      "name": "Altura Vault Tokens",
+      "symbol": "AVLT",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/102172640/thumb/AVLT_200x200_Kopie.png?1774446611",
       "chainId": 10,
       "decimals": 18
     },

@@ -1,10 +1,10 @@
 {
   "name": "SmolAssets",
   "description": "A list of tokens supported by Smoldapp Token Assets repository",
-  "timestamp": "2026-06-07T04:05:11Z",
+  "timestamp": "2026-06-14T04:14:05Z",
   "version": {
     "major": 28,
-    "minor": 15,
+    "minor": 16,
     "patch": 0
   },
   "logoURI": "https://raw.githubusercontent.com/smoldapp/tokenLists/main/.github/tokenlistooor.svg",
@@ -586,6 +586,14 @@
       "name": "Curve d3pool Pool yVault",
       "symbol": "yvCurve-d3pool",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x16825039dfe2a5b01F3E1E6a2BBF9a576c6F95c4/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x16F93eBC5320C89EfC8701577efe49d14A276a06",
+      "name": "CAD Digital Inc",
+      "symbol": "CADD",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x16F93eBC5320C89EfC8701577efe49d14A276a06/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },

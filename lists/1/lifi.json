@@ -1,10 +1,10 @@
 {
   "name": "Lifi Token List",
   "description": "",
-  "timestamp": "2026-06-07T04:07:24Z",
+  "timestamp": "2026-06-14T04:21:01Z",
   "version": {
     "major": 19,
-    "minor": 6,
+    "minor": 7,
     "patch": 0
   },
   "logoURI": "https://avatars.githubusercontent.com/u/85288935?s=200\u0026v=4",
@@ -431,6 +431,14 @@
       "name": "Midas Rockaway Market Neutral",
       "symbol": "mROX",
       "logoURI": "https://coin-images.coingecko.com/coins/images/102172744/thumb/download_%286%29.png?1775201597",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x68fa48B1C2FE52b3D776E1953e0E782b5044Ce28",
+      "name": "SpaceX xStock",
+      "symbol": "SPCXx",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x68fa48B1C2FE52b3D776E1953e0E782b5044Ce28/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -1046,6 +1054,14 @@
       "name": "Wrapped XTZ",
       "symbol": "WXTZ",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xc9B53AB2679f573e480d01e0f49e2B5CFB7a3EAb/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xc9eef266834730340A55B6CC24621B31BAF55581",
+      "name": "SpaceX (Ondo Tokenized)",
+      "symbol": "SPCXon",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xc9eef266834730340A55B6CC24621B31BAF55581/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },

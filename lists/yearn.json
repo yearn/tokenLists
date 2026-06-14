@@ -1,10 +1,10 @@
 {
   "name": "Yearn Token List",
   "description": "",
-  "timestamp": "2026-06-07T04:12:39Z",
+  "timestamp": "2026-06-14T04:17:58Z",
   "version": {
     "major": 47,
-    "minor": 22,
+    "minor": 23,
     "patch": 0
   },
   "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e/logo.svg",
@@ -2354,6 +2354,14 @@
       "name": "ARCx Governance Token",
       "symbol": "ARCX",
       "logoURI": "https://tokens.1inch.io/0xed30dd7e50edf3581ad970efc5d9379ce2614adb.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x13285bCbc27F92b47B4EDB99D744C07B48C977c0",
+      "name": "PLP reUSD 10DEC2026",
+      "symbol": "PLP-reUSD-10DEC2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x13285bCbc27F92b47B4EDB99D744C07B48C977c0/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -5442,6 +5450,14 @@
       "decimals": 18
     },
     {
+      "address": "0x2aE4f59E500b6ddEB88c480edf277eDA54A00205",
+      "name": "PT reUSDe 10DEC2026",
+      "symbol": "PT-reUSDe-10DEC2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x2aE4f59E500b6ddEB88c480edf277eDA54A00205/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0x2b0C826BB68FB3ff9D29Db368AF6210b302Ab31b",
       "name": "Pendle Market",
       "symbol": "PENDLE-LPT",
@@ -5732,6 +5748,14 @@
       "name": "Caulflower",
       "symbol": "CFLWR",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x30041947d1CA70C8Dde4ee0088cD60DFC21CDA7A/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x3014b2942117742840D318917A17eb256B3ea777",
+      "name": "YT Staked infiniFi USD 20AUG2026",
+      "symbol": "YT-siUSD-20AUG2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x3014b2942117742840D318917A17eb256B3ea777/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -11137,6 +11161,14 @@
       "decimals": 18
     },
     {
+      "address": "0x5987440EC8Fa7f8976Fe5D324e052a3140C9F333",
+      "name": "PT Staked Falcon USD 17DEC2026",
+      "symbol": "PT-sUSDf-17DEC2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x5987440EC8Fa7f8976Fe5D324e052a3140C9F333/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0x59D7Bc6260f9424E843dafc07C6950DA6CD806a1",
       "name": "yGauge LP Yearn CRV Vault v2 Cove Rewards Gauge",
       "symbol": "yG-lp-yCRVv2-gauge",
@@ -15174,6 +15206,14 @@
       "decimals": 18
     },
     {
+      "address": "0x7A257B4c15309e046571D8A33465e0ed797Ba946",
+      "name": "Curve USGfrxUSD Factory yVault",
+      "symbol": "yvCurve-USGfrxUSD-f",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x7A257B4c15309e046571D8A33465e0ed797Ba946/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0x7A493Be5c2ce014cD049Bf178a1ac0Db1B434744",
       "name": "SY Zircuit Staking ezETH",
       "symbol": "SY-zs-ezETH",
@@ -16396,6 +16436,14 @@
       "name": "yvBOOST-yswap yVault",
       "symbol": "yvb-yswap",
       "logoURI": "https://raw.githubusercontent.com/yearn/yearn-assets/master/icons/multichain-tokens/1/0x84ca3Bf4822A342E9C1aD27bd5FBCf5fc5E37128/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x84cdA226022B5d6012b418e76B815b967eCc785b",
+      "name": "PLP Staked Falcon USD 17DEC2026",
+      "symbol": "PLP-sUSDf-17DEC2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x84cdA226022B5d6012b418e76B815b967eCc785b/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -17732,6 +17780,14 @@
       "name": "Wrapped YearnV3 Strategy Cove Rewards Gauge",
       "symbol": "ysyG-yvDAI-1-gauge",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x90B28aa7Df2eFaaAD4582afaF4D2a1c61519A245/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x90B70c407f1077F8eb92Bf423b44CD92329b737a",
+      "name": "PLP reUSDe 10DEC2026",
+      "symbol": "PLP-reUSDe-10DEC2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x90B70c407f1077F8eb92Bf423b44CD92329b737a/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -20270,6 +20326,14 @@
       "decimals": 18
     },
     {
+      "address": "0xA8bD3B21291AcE53927b35563fc80615919E63D7",
+      "name": "YT reUSD 10DEC2026",
+      "symbol": "YT-reUSD-10DEC2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xA8bD3B21291AcE53927b35563fc80615919E63D7/logo-128.png",
+      "chainId": 1,
+      "decimals": 6
+    },
+    {
       "address": "0xA8c8861b5ccF8CCe0ade6811CD2A7A7d3222B0B8",
       "name": "PT Wrapped stUSR 27MAR2025",
       "symbol": "PT-wstUSR-27MAR2025",
@@ -20897,6 +20961,13 @@
       "name": "PLP msUSD 9APR2026",
       "symbol": "PLP-msUSD-9APR2026",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xB1aA024dA92E80F6D684A80429882874455DA011/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xB1c2Db5d6cA03FCe73dBd304d320bF76C55Ae1B1",
+      "name": "Tangent USD",
+      "symbol": "USG",
       "chainId": 1,
       "decimals": 18
     },
@@ -22628,6 +22699,14 @@
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xCb95d32B87D2ECEB196Af2152147de371aF3C7C9/logo-128.png",
       "chainId": 1,
       "decimals": 6
+    },
+    {
+      "address": "0xCb975d7694295532B82529b175E14E233A36b22D",
+      "name": "PLP Staked infiniFi USD 20AUG2026",
+      "symbol": "PLP-siUSD-20AUG2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xCb975d7694295532B82529b175E14E233A36b22D/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
     },
     {
       "address": "0xCb9f85730f57732fc899fb158164b9Ed60c77D49",
@@ -24636,6 +24715,13 @@
       "decimals": 18
     },
     {
+      "address": "0xEfc056790bb19702b2164ec6Ea6bA3AE01d81195",
+      "name": "USG/frxUSD",
+      "symbol": "USGfrxUSD",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0xF02B8c7FF1accD022CD78444dd9F56330cB699B9",
       "name": "Bankr USDC Vault",
       "symbol": "ysUSDC",
@@ -25405,6 +25491,14 @@
       "name": "PT Staked Frax USD 15JAN2026",
       "symbol": "PT-sfrxUSD-15JAN2026",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xFD6944B60F41DCbD7A3037De1329b17B6b3a0819/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xFD9aA51f530369fF5024Bc3F6D6f3A00a789F94a",
+      "name": "YT reUSDe 10DEC2026",
+      "symbol": "YT-reUSDe-10DEC2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xFD9aA51f530369fF5024Bc3F6D6f3A00a789F94a/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -27433,6 +27527,14 @@
       "decimals": 18
     },
     {
+      "address": "0xbb6CDB98A2f8a9fB431FD1073EaA0A51422aC30d",
+      "name": "PT Staked infiniFi USD 20AUG2026",
+      "symbol": "PT-siUSD-20AUG2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xbb6CDB98A2f8a9fB431FD1073EaA0A51422aC30d/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0xbbA9BAaa6b3107182147A12177e0F1Ec46B8b072",
       "name": "Pendle Market",
       "symbol": "PENDLE-LPT",
@@ -29157,6 +29259,14 @@
       "decimals": 18
     },
     {
+      "address": "0xd94D3b841eA48a0E0B3cfC75296686d19af3cf8a",
+      "name": "YT Staked Falcon USD 17DEC2026",
+      "symbol": "YT-sUSDf-17DEC2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xd94D3b841eA48a0E0B3cfC75296686d19af3cf8a/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0xd9788f3931Ede4D5018184E198699dC6d66C1915",
       "name": "AAVE yVault",
       "symbol": "yvAAVE",
@@ -30272,6 +30382,14 @@
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xeCDd0cE505da71cd9dE855CD6804BA1e8C7bdB07/logo-128.png",
       "chainId": 1,
       "decimals": 18
+    },
+    {
+      "address": "0xeCfaFdC7741323a945A163ed068B5a3C43483957",
+      "name": "PT reUSD 10DEC2026",
+      "symbol": "PT-reUSD-10DEC2026",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xeCfaFdC7741323a945A163ed068B5a3C43483957/logo-128.png",
+      "chainId": 1,
+      "decimals": 6
     },
     {
       "address": "0xeD5cC19927E3a4AC20e4A9e9e433dDd99138504e",
@@ -33846,7 +33964,7 @@
       "address": "0x37e7D30CC180A750C83D68ED0C2511dA10694d63",
       "name": "StableV2 AMM - USD+/LUSD",
       "symbol": "sAMMV2-USD+/LUSD",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x37e7D30CC180A750C83D68ED0C2511dA10694d63/logo-128.png",
+      "logoURI": "https://assets.smold.app/api/token/10/0x37e7D30CC180A750C83D68ED0C2511dA10694d63/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },

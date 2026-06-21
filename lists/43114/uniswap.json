@@ -1,10 +1,10 @@
 {
   "name": "Uniswap Labs Default",
   "description": "",
-  "timestamp": "2026-06-14T04:13:28Z",
+  "timestamp": "2026-06-21T04:28:29Z",
   "version": {
     "major": 27,
-    "minor": 15,
+    "minor": 16,
     "patch": 0
   },
   "logoURI": "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
@@ -329,6 +329,14 @@
       "name": "Wootrade Network",
       "symbol": "WOO.e",
       "logoURI": "https://snowtrace.io/token/images/wootradenetwork_32.png",
+      "chainId": 43114,
+      "decimals": 18
+    },
+    {
+      "address": "0xb6314518b61b4864162c7aE7fdc36261e0A14C4b",
+      "name": "YOM",
+      "symbol": "YOM",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/102172602/thumb/YOM_TOKEN_LOGO_200x200.png?1774193038",
       "chainId": 43114,
       "decimals": 18
     },

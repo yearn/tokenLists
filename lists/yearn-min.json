@@ -1,10 +1,10 @@
 {
   "name": "Yearn Minimal Token List",
   "description": "",
-  "timestamp": "2026-06-14T04:20:43Z",
+  "timestamp": "2026-06-21T04:26:44Z",
   "version": {
     "major": 12,
-    "minor": 23,
+    "minor": 24,
     "patch": 0
   },
   "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e/logo.svg",
@@ -1771,6 +1771,14 @@
       "decimals": 18
     },
     {
+      "address": "0x2434ccB738F4260a71C41Eea641A77936Ac1bBE0",
+      "name": "Curve ftUSDUSDC Factory yVault",
+      "symbol": "yvCurve-ftUSDUSDC-f",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x2434ccB738F4260a71C41Eea641A77936Ac1bBE0/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0x2478d5997324e8B47e9Ff870166DBa8d2e461993",
       "name": "yPT-eETH-Karak (auto-rolling Pendle PT)",
       "symbol": "yPT-eETH-Karak",
@@ -2130,6 +2138,14 @@
       "decimals": 18
     },
     {
+      "address": "0x2FEE733d8939343615a8627BC29f95390a161e74",
+      "name": "Curve USG-USDC Factory yVault",
+      "symbol": "yvCurve-USG-USDC-f",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x2FEE733d8939343615a8627BC29f95390a161e74/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0x2a38B9B0201Ca39B17B460eD2f11e4929559071E",
       "name": "Curve GUSD Pool yVault",
       "symbol": "yvCurve-GUSD",
@@ -2325,6 +2341,13 @@
       "name": "Curve.fi FRAX/USDC",
       "symbol": "crvFRAX",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x3175Df0976dFA876431C2E9eE6Bc45b65d3473CC/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x317837AED98bea887074d1f97Fd3C83eBCA6905b",
+      "name": "USG/sDOLA",
+      "symbol": "USGsDOLA",
       "chainId": 1,
       "decimals": 18
     },
@@ -3807,6 +3830,14 @@
       "name": "Curve alUSD-FRAXBP Factory yVault",
       "symbol": "yvCurve-alUSD-FRAXBP-f",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x507c6dE33f50c0505F77F598c0B3CA7b5fEB3D68/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x50A90236365B48620611b64A134949a5FBD6E7Ac",
+      "name": "Curve USG-sDOLA Factory yVault",
+      "symbol": "yvCurve-USG-sDOLA-f",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x50A90236365B48620611b64A134949a5FBD6E7Ac/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -7233,6 +7264,13 @@
       "decimals": 18
     },
     {
+      "address": "0x97BA10115da528c113462EDE9C20D7adc806D93f",
+      "name": "USG/USDC",
+      "symbol": "USGUSDC",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0x97E2768e8E73511cA874545DC5Ff8067eB19B787",
       "name": "Curve.fi USDK/3Crv",
       "symbol": "usdk3CRV",
@@ -9390,6 +9428,14 @@
       "decimals": 18
     },
     {
+      "address": "0xE78392Ecb40939C1c29d9D47429913Dd88b5DaeD",
+      "name": "SY sUSD3",
+      "symbol": "SY-sUSD3",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xE78392Ecb40939C1c29d9D47429913Dd88b5DaeD/logo-128.png",
+      "chainId": 1,
+      "decimals": 6
+    },
+    {
       "address": "0xE7E1043eA932DBAA7De79450824a92f40481c82b",
       "name": "Yearn-Ajna Pool mpETH/WETH Vault",
       "symbol": "yv-ajna-mpeth-weth",
@@ -10286,6 +10332,13 @@
       "name": "SKY-1 yVault",
       "symbol": "yvSKY-1",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xaF71a4f5d93fb88B24C67760BCF9688a6C3A54D4/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xaFEc61e7A604F8F81F7cab64eC75BFa07c542630",
+      "name": "ftUSD/USDC",
+      "symbol": "ftUSDUSDC",
       "chainId": 1,
       "decimals": 18
     },
@@ -12090,6 +12143,14 @@
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xf6193C65Cf3d1CeDDe0FF9d8Cb9781Ad21Ec980f/logo-128.png",
       "chainId": 1,
       "decimals": 18
+    },
+    {
+      "address": "0xf689555121e529Ff0463e191F9Bd9d1E496164a7",
+      "name": "sUSD3",
+      "symbol": "sUSD3",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xf689555121e529Ff0463e191F9Bd9d1E496164a7/logo-128.png",
+      "chainId": 1,
+      "decimals": 6
     },
     {
       "address": "0xf6E2d36c489e5B361CdC962D4568ceA663AD5ddC",

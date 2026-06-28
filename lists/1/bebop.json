@@ -1,9 +1,9 @@
 {
   "name": "Bebop",
   "description": "",
-  "timestamp": "2026-06-21T04:23:51Z",
+  "timestamp": "2026-06-28T04:00:56Z",
   "version": {
-    "major": 30,
+    "major": 31,
     "minor": 0,
     "patch": 0
   },
@@ -39,14 +39,6 @@
       "name": "UMA Voting Token v1",
       "symbol": "UMA",
       "logoURI": "https://tokens.1inch.io/0x04fa0d235c4abf4bcf4787af4cf447de572ef828.png",
-      "chainId": 1,
-      "decimals": 18
-    },
-    {
-      "address": "0x067f03Be93c7Dcd21C3eB700f58203F514c2Be1A",
-      "name": "Tenbin Mexican Peso",
-      "symbol": "tMXN",
-      "logoURI": "https://assets.coingecko.com/coins/images/102173627/large/tMXN.png?1780557035",
       "chainId": 1,
       "decimals": 18
     },
@@ -103,14 +95,6 @@
       "name": "yearn.finance",
       "symbol": "YFI",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e/logo-128.png",
-      "chainId": 1,
-      "decimals": 18
-    },
-    {
-      "address": "0x0e397938C1Aa0680954093495B70A9F5e2249aBa",
-      "name": "Invesco QQQ (Ondo Tokenized)",
-      "symbol": "QQQon",
-      "logoURI": "https://assets.coingecko.com/coins/images/68654/large/qqqon_160x160.png?1756156339",
       "chainId": 1,
       "decimals": 18
     },
@@ -314,6 +298,14 @@
       "decimals": 18
     },
     {
+      "address": "0x3632DEa96A953C11dac2f00b4A05a32CD1063fAE",
+      "name": "Circle Internet Group (Ondo Tokenized)",
+      "symbol": "CRCLon",
+      "logoURI": "https://assets.coingecko.com/coins/images/68595/large/crclon_160x160.png?1756129889",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0x364f210f430eC2448Fc68A49203040F6124096F0",
       "name": "Coinbase xStock",
       "symbol": "COINx",
@@ -326,6 +318,14 @@
       "name": "SAND",
       "symbol": "SAND",
       "logoURI": "https://tokens.1inch.io/0x3845badade8e6dff049820680d1f14bd3903a5d0.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x38BAC69cbBd28156796e4163B2B6dcb81E336565",
+      "name": "Broadcom xStock",
+      "symbol": "AVGOx",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/55592/thumb/Ticker_AVGO__Company_Name_Broadcom_Inc.__size_200x200_2x.png?1746809042",
       "chainId": 1,
       "decimals": 18
     },
@@ -418,6 +418,14 @@
       "decimals": 18
     },
     {
+      "address": "0x4C1b46adb8877E389171EC6Ef67b385094C0afaD",
+      "name": "Tenbin Brazilian Real",
+      "symbol": "tBRL",
+      "logoURI": "https://bebop-public-images.s3.eu-west-2.amazonaws.com/black.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0x4E15361FD6b4BB609Fa63C81A2be19d873717870",
       "name": "Fantom Token",
       "symbol": "FTM",
@@ -494,6 +502,14 @@
       "name": "Blur",
       "symbol": "BLUR",
       "logoURI": "https://assets.coingecko.com/coins/images/28453/large/blur.png?1670745921",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0x52A8845DF664D76C69d2EEa607CD793565aF42B8",
+      "name": "ApeX Token",
+      "symbol": "APEX",
+      "logoURI": "https://etherscan.io/token/images/apex_32.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -642,6 +658,14 @@
       "decimals": 6
     },
     {
+      "address": "0x68fa48B1C2FE52b3D776E1953e0E782b5044Ce28",
+      "name": "SpaceX xStock",
+      "symbol": "SPCXx",
+      "logoURI": "https://assets.coingecko.com/coins/images/102173688/large/SPCXx.png?1780961372",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0x6917037F8944201b2648198a89906Edf863B9517",
       "name": "Wrapped MON",
       "symbol": "WMON",
@@ -766,14 +790,6 @@
       "name": "Fluid",
       "symbol": "FLUID",
       "logoURI": "https://tokens.1inch.io/0x6f40d4a6237c257fff2db00fa0510deeecd303eb.png",
-      "chainId": 1,
-      "decimals": 18
-    },
-    {
-      "address": "0x71E2400CF1Cb83204f33794eD326636A71a9AAfC",
-      "name": "SanDisk (Ondo Tokenized)",
-      "symbol": "SNDKon",
-      "logoURI": "https://assets.coingecko.com/coins/images/102172440/large/sndkon_160x160.png?1773419692",
       "chainId": 1,
       "decimals": 18
     },
@@ -946,6 +962,14 @@
       "decimals": 18
     },
     {
+      "address": "0x8d015aFcb6F437010653352EB1E58152c4e23734",
+      "name": "Tenbin Mexican Peso",
+      "symbol": "tMXN",
+      "logoURI": "https://bebop-public-images.s3.eu-west-2.amazonaws.com/black.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
       "address": "0x8d0D000Ee44948FC98c9B98A4FA4921476f08B0d",
       "name": "World Liberty Financial USD",
       "symbol": "USD1",
@@ -1006,14 +1030,6 @@
       "name": "Meta xStock",
       "symbol": "METAx",
       "logoURI": "https://coin-images.coingecko.com/coins/images/55628/thumb/Ticker_META__Company_Name_Meta_Platforms_Inc.__size_200x200_2x.png?1746862467",
-      "chainId": 1,
-      "decimals": 18
-    },
-    {
-      "address": "0x998f02A9E343EF6E3E6f28700d5A20F839fD74E6",
-      "name": "Robinhood Markets (Ondo Tokenized)",
-      "symbol": "HOODon",
-      "logoURI": "https://assets.coingecko.com/coins/images/68581/large/hoodon_160x160.png?1756129765",
       "chainId": 1,
       "decimals": 18
     },
@@ -1221,14 +1237,6 @@
       "address": "0xCa14007Eff0dB1f8135f4C25B34De49AB0d42766",
       "name": "StarkNet Token",
       "symbol": "STRK",
-      "chainId": 1,
-      "decimals": 18
-    },
-    {
-      "address": "0xCabD955322dfbf94C084929ac5E9Eca3fEB5556F",
-      "name": "MicroStrategy (Ondo Tokenized)",
-      "symbol": "MSTRon",
-      "logoURI": "https://assets.coingecko.com/coins/images/68530/large/mstron_160x160.png?1756100941",
       "chainId": 1,
       "decimals": 18
     },
@@ -1465,14 +1473,6 @@
       "decimals": 18
     },
     {
-      "address": "0xbA47214eDd2bb43099611b208f75E4b42FDcfEDc",
-      "name": "Alphabet Class A (Ondo Tokenized)",
-      "symbol": "GOOGLon",
-      "logoURI": "https://assets.coingecko.com/coins/images/68606/large/googlon_160x160.png?1756130033",
-      "chainId": 1,
-      "decimals": 18
-    },
-    {
       "address": "0xc00e94Cb662C3520282E6f5717214004A7f26888",
       "name": "Compound",
       "symbol": "COMP",
@@ -1509,14 +1509,6 @@
       "name": "Graph Token",
       "symbol": "GRT",
       "logoURI": "https://tokens.1inch.io/0xc944e90c64b2c07662a292be6244bdf05cda44a7.png",
-      "chainId": 1,
-      "decimals": 18
-    },
-    {
-      "address": "0xc9eef266834730340A55B6CC24621B31BAF55581",
-      "name": "SpaceX (Ondo Tokenized)",
-      "symbol": "SPCXon",
-      "logoURI": "https://assets.coingecko.com/coins/images/102173730/large/spcxon.png?1781148349",
       "chainId": 1,
       "decimals": 18
     },
@@ -1669,14 +1661,6 @@
       "name": "Circle xStock",
       "symbol": "CRCLx",
       "logoURI": "https://coin-images.coingecko.com/coins/images/66918/thumb/CRCLx.png?1751052233",
-      "chainId": 1,
-      "decimals": 18
-    },
-    {
-      "address": "0xfF0D6F193E152830b38eF45eB75538636C9F7063",
-      "name": "Tenbin Brazilian Real",
-      "symbol": "tBRL",
-      "logoURI": "https://assets.coingecko.com/coins/images/102173628/large/tBRL.png?1780557193",
       "chainId": 1,
       "decimals": 18
     }

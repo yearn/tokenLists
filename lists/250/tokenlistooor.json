@@ -1,15 +1,23 @@
 {
   "name": "Tokenlistooor Token List",
   "description": "A curated list of tokens from all the token lists on tokenlistooor.",
-  "timestamp": "2026-06-21T04:30:54Z",
+  "timestamp": "2026-06-28T04:08:56Z",
   "version": {
-    "major": 388,
+    "major": 389,
     "minor": 0,
     "patch": 0
   },
   "logoURI": "https://raw.githubusercontent.com/smoldapp/tokenLists/main/.github/tokenlistooor.svg",
   "keywords": [],
   "tokens": [
+    {
+      "address": "0x03B82e4070cA32FF63A03F2EcfC16c0165689a9d",
+      "name": "Curve AVAX yVault",
+      "symbol": "yvAVAX",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/250/0x03B82e4070cA32FF63A03F2EcfC16c0165689a9d/logo-128.png",
+      "chainId": 250,
+      "decimals": 18
+    },
     {
       "address": "0x04068DA6C83AFCFA0e13ba15A6696662335D5B75",
       "name": "USD Coin",
@@ -267,14 +275,6 @@
       "decimals": 18
     },
     {
-      "address": "0x5B5CFE992AdAC0C9D48E05854B2d91C73a003858",
-      "name": "Curve.fi WBTC/renBTC",
-      "symbol": "btcCRV",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/250/0x5B5CFE992AdAC0C9D48E05854B2d91C73a003858/logo-128.png",
-      "chainId": 250,
-      "decimals": 18
-    },
-    {
       "address": "0x5Cc61A78F164885776AA610fb0FE1257df78E59B",
       "name": "SpiritSwap Token",
       "symbol": "SPIRIT",
@@ -459,20 +459,20 @@
       "decimals": 18
     },
     {
-      "address": "0xD02a30d33153877BC20e5721ee53DeDEE0422B2F",
-      "name": "Curve.fi gDAI/gUSDC/gUSDT",
-      "symbol": "g3CRV",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/250/0xD02a30d33153877BC20e5721ee53DeDEE0422B2F/logo-128.png",
-      "chainId": 250,
-      "decimals": 18
-    },
-    {
       "address": "0xD3c19eB022CAC706c898D60d756bf1535d605e1d",
       "name": "SPELL yVault",
       "symbol": "yvSPELL",
       "logoURI": "https://token-assets-one.vercel.app/api/token/250/0xD3c19eB022CAC706c898D60d756bf1535d605e1d/logo-128.png",
       "chainId": 250,
       "decimals": 18
+    },
+    {
+      "address": "0xDBf31dF14B66535aF65AaC99C32e9eA844e14501",
+      "name": "renBTC",
+      "symbol": "renBTC",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/250/0xDBf31dF14B66535aF65AaC99C32e9eA844e14501/logo-128.png",
+      "chainId": 250,
+      "decimals": 8
     },
     {
       "address": "0xE95416c54f3e313E49306486b0ea9c2C6D623157",
@@ -553,13 +553,6 @@
       "logoURI": "https://token-assets-one.vercel.app/api/token/250/0xe2D27f06F63d98b8e11b38b5b08A75D0c8dD62B9/logo-128.png",
       "chainId": 250,
       "decimals": 6
-    },
-    {
-      "address": "0xf16e81dce15B08F326220742020379B855B87DF9",
-      "name": "IceToken",
-      "symbol": "ICE",
-      "chainId": 250,
-      "decimals": 18
     },
     {
       "address": "0xf2d323621785A066E64282d2B407eAc79cC04966",

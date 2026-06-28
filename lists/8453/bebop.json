@@ -1,9 +1,9 @@
 {
   "name": "Bebop",
   "description": "",
-  "timestamp": "2026-06-21T04:23:51Z",
+  "timestamp": "2026-06-28T04:00:56Z",
   "version": {
-    "major": 30,
+    "major": 31,
     "minor": 0,
     "patch": 0
   },
@@ -166,6 +166,14 @@
       "name": "OFC",
       "symbol": "OFC",
       "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0x752C5a95d202972E124390F30a50154409d3c858/logo-128.png",
+      "chainId": 8453,
+      "decimals": 18
+    },
+    {
+      "address": "0x78c31580c97101694C70022c83D570150c11e935",
+      "name": "Wrapped  iShares 0-3 Month Treasury Bond ETF ST0x",
+      "symbol": "wtSGOV",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0x78c31580c97101694C70022c83D570150c11e935/logo-128.png",
       "chainId": 8453,
       "decimals": 18
     },

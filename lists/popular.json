@@ -1,9 +1,9 @@
 {
   "name": "Popular tokens",
   "description": "A curated list of popular tokens from all the token lists on tokenlistooor.",
-  "timestamp": "2026-06-21T04:31:53Z",
+  "timestamp": "2026-06-28T04:09:34Z",
   "version": {
-    "major": 132,
+    "major": 133,
     "minor": 0,
     "patch": 0
   },
@@ -9736,14 +9736,6 @@
       "decimals": 18
     },
     {
-      "address": "0xD9cC3D70E730503E7f28c1B407389198c4B75FA2",
-      "name": "TLX DAO Token",
-      "symbol": "TLX",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xD9cC3D70E730503E7f28c1B407389198c4B75FA2/logo-128.png",
-      "chainId": 10,
-      "decimals": 18
-    },
-    {
       "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
       "name": "Dai Stablecoin",
       "symbol": "DAI",
@@ -9779,7 +9771,7 @@
       "address": "0xEc6adef5E1006bb305bB1975333e8fc4071295bf",
       "name": "Cartesi Token",
       "symbol": "CTSI",
-      "logoURI": "https://assets.coingecko.com/coins/images/11038/large/cartesi.png?1592288021",
+      "logoURI": "ipfs://QmUGwJaAgBCUqg2iF3hVG3FdzTjUmUxDDP6MmaxCeMhEae",
       "chainId": 10,
       "decimals": 18
     },
@@ -9811,7 +9803,7 @@
       "address": "0xFE8B128bA8C78aabC59d4c64cEE7fF28e9379921",
       "name": "Balancer",
       "symbol": "BAL",
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xba100000625a3754423978a60c9317c58a424e3D/logo.png",
+      "logoURI": "ipfs://QmeVnk6jkW8J9ZHFxsLVamMNHpz9bigp7tsY2CJuxas297",
       "chainId": 10,
       "decimals": 18
     },
@@ -9875,7 +9867,7 @@
       "address": "0xaf8cA653Fa2772d58f4368B0a71980e9E3cEB888",
       "name": "Tellor",
       "symbol": "TRB",
-      "logoURI": "https://assets.coingecko.com/coins/images/9644/large/Blk_icon_current.png?1584980686",
+      "logoURI": "ipfs://QmbQVgV3iHf75aQ5ijJsfmgm2U8J8f2mACeMbaeCSgGFou",
       "chainId": 10,
       "decimals": 18
     },
@@ -16069,6 +16061,14 @@
       "decimals": 18
     },
     {
+      "address": "0x74E23dF9110Aa9eA0b6ff2fAEE01e740CA1c642e",
+      "name": "TOR",
+      "symbol": "TOR",
+      "logoURI": "https://tokens.1inch.io/0x74e23df9110aa9ea0b6ff2faee01e740ca1c642e.png",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
       "address": "0x74b23882a30290451A17c44f4F05243b6b58C76d",
       "name": "Ethereum",
       "symbol": "ETH",
@@ -16236,6 +16236,14 @@
       "decimals": 6
     },
     {
+      "address": "0x953E94CaF91a1E32337d0548B9274f337920eDFA",
+      "name": "USDV",
+      "symbol": "USDV",
+      "logoURI": "https://assets.coingecko.com/coins/images/31806/large/200x200.png?1695173608",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
       "address": "0x9879aBDea01a879644185341F7aF7d8343556B7a",
       "name": "TrueUSD",
       "symbol": "TUSD",
@@ -16256,6 +16264,14 @@
       "name": "BiFi",
       "symbol": "BiFi",
       "logoURI": "https://assets.coingecko.com/coins/images/13671/large/ysYIu7Q.png?1610679337",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "address": "0xAd84341756Bf337f5a0164515b1f6F993D194E1f",
+      "name": "Fantom USD",
+      "symbol": "FUSD",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/fusd.jpg",
       "chainId": 250,
       "decimals": 18
     },
@@ -16463,14 +16479,6 @@
       "name": "Elk",
       "symbol": "ELK",
       "logoURI": "https://tokens.1inch.io/0xeeeeeb57642040be42185f49c52f7e9b38f8eeee.png",
-      "chainId": 250,
-      "decimals": 18
-    },
-    {
-      "address": "0xeaF26191ac1D35AE30Baa19a5ad5558DD8156Aef",
-      "name": "Nord Token",
-      "symbol": "NORD",
-      "logoURI": "https://assets.coingecko.com/coins/images/13630/large/nord.jpg?1610465136",
       "chainId": 250,
       "decimals": 18
     },
@@ -28163,6 +28171,13 @@
       "decimals": 18
     },
     {
+      "address": "0x323665443CEf804A3b5206103304BD4872EA4253",
+      "name": "USDV",
+      "symbol": "USDV",
+      "chainId": 42161,
+      "decimals": 6
+    },
+    {
       "address": "0x3405E88af759992937b84E58F2Fe691EF0EeA320",
       "name": "Frax Price Index Share",
       "symbol": "FPIS",
@@ -28490,6 +28505,14 @@
       "decimals": 6
     },
     {
+      "address": "0x641441c631e2F909700d2f41FD87F0aA6A6b4EDb",
+      "name": "dForce USD",
+      "symbol": "USX",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x641441c631e2F909700d2f41FD87F0aA6A6b4EDb.jpg",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
       "address": "0x64343594Ab9b56e99087BfA6F2335Db24c2d1F17",
       "name": "Vesta Stable",
       "symbol": "VST",
@@ -28672,14 +28695,6 @@
       "decimals": 18
     },
     {
-      "address": "0x7C8a1A80FDd00C9Cccd6EbD573E9EcB49BFa2a59",
-      "name": "AICODE",
-      "symbol": "AICODE",
-      "logoURI": "https://assets.coingecko.com/coins/images/30057/large/aicode.png?1683000248",
-      "chainId": 42161,
-      "decimals": 18
-    },
-    {
       "address": "0x7CE746B45eaBD0C4321538DeC1B849c79A9A8476",
       "name": "DSLA",
       "symbol": "DSLA",
@@ -28780,6 +28795,14 @@
       "name": "Agave",
       "symbol": "AGVE",
       "logoURI": "https://arbiscan.io/token/images/agave_32.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0x8616E8EA83f048ab9A5eC513c9412Dd2993bcE3F",
+      "name": "handleUSD",
+      "symbol": "fxUSD",
+      "logoURI": "https://arbiscan.io/token/images/layer2dao_32.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -29213,14 +29236,6 @@
       "decimals": 18
     },
     {
-      "address": "0xF763fa322Dc58dEe588252fAFee5f448e863b633",
-      "name": "Carbon Token",
-      "symbol": "SWTH",
-      "logoURI": "https://assets.coingecko.com/coins/images/3645/large/SWTH_Symbol_Origin.png?1645000262",
-      "chainId": 42161,
-      "decimals": 8
-    },
-    {
       "address": "0xF80D589b3Dbe130c270a69F1a69D050f268786Df",
       "name": "Flux",
       "symbol": "FLUX",
@@ -29539,6 +29554,14 @@
       "decimals": 18
     },
     {
+      "address": "0xdce765f021410B3266aA0053c93Cb4535F1e12e0",
+      "name": "peg-eUSD",
+      "symbol": "peUSD",
+      "logoURI": "https://assets.coingecko.com/coins/images/31521/large/peUSD_200x200.png?1693486541",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
       "address": "0xe05A08226c49b636ACf99c40Da8DC6aF83CE5bB3",
       "name": "Ankr Staked ETH",
       "symbol": "ankrETH",
@@ -29567,6 +29590,14 @@
       "name": "Aave Arbitrum WETH",
       "symbol": "aArbWETH",
       "logoURI": "https://assets.coingecko.com/coins/images/12645/large/AAVE.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0xe66998533a1992ecE9eA99cDf47686F4fc8458E0",
+      "name": "Jones USDC",
+      "symbol": "jUSDC",
+      "logoURI": "https://assets.coingecko.com/coins/images/28893/large/jUSDC.png?1675157687",
       "chainId": 42161,
       "decimals": 18
     },
@@ -30542,14 +30573,6 @@
       "decimals": 18
     },
     {
-      "address": "0xB09FE1613fE03E7361319d2a43eDc17422f36B09",
-      "name": "Bogged Finance",
-      "symbol": "BOG",
-      "logoURI": "https://tokens.1inch.io/0xb09fe1613fe03e7361319d2a43edc17422f36b09.png",
-      "chainId": 43114,
-      "decimals": 18
-    },
-    {
       "address": "0xB0a6e056B587D0a85640b39b1cB44086F7a26A1E",
       "name": "OddzToken",
       "symbol": "ODDZ",
@@ -31187,14 +31210,6 @@
       "decimals": 18
     },
     {
-      "address": "0x1B184de5952d11fE3e821fc58E6ef73d545F733e",
-      "name": "Cypherpunk",
-      "symbol": "CYPHER",
-      "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/f51b651c25ee9762dadb09688d905616fd107521774a459b6c9a93b7f0aa3596.png",
-      "chainId": 57073,
-      "decimals": 18
-    },
-    {
       "address": "0x1bCE6497be814337C58Bd570F9474570aB1936e8",
       "name": "Ape Force One",
       "symbol": "AFO",
@@ -31207,6 +31222,14 @@
       "name": "Cat Call Agent",
       "symbol": "CAT",
       "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/ff171d7343f4af4519cf402a692978b2957f9037cd5c9aa3b70dc355a9dbfa9e.webp",
+      "chainId": 57073,
+      "decimals": 18
+    },
+    {
+      "address": "0x25Fdc675E6045f7279cbF0dAe98fF746d55fA273",
+      "name": "VAYLET",
+      "symbol": "VAYLET",
+      "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/274a652a00fddbd7b1c46a02c7d352a9c62a738c7cd8de9515fe779f2ed0bc25.jpg",
       "chainId": 57073,
       "decimals": 18
     },
@@ -31416,14 +31439,6 @@
       "decimals": 18
     },
     {
-      "address": "0xBE23B5574000f9676E34308b16aB100542B2Ff2e",
-      "name": "Inked Fartcoin",
-      "symbol": "Fartcoin",
-      "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/c808ed4f203b83ca577f008294be326ceffe4d30b0c375ab7dd1dd8ea6a8d099.png",
-      "chainId": 57073,
-      "decimals": 18
-    },
-    {
       "address": "0xC73E0b7F73fC5A1dc6C5E52E95C79273695e993E",
       "name": "Trump on Ink",
       "symbol": "TRUMPINK",
@@ -31432,26 +31447,10 @@
       "decimals": 18
     },
     {
-      "address": "0xCE01E9fb9E801A5FE52F5A4cb3d33e59e44980EC",
-      "name": "Squidjak",
-      "symbol": "SQJAK",
-      "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/f118516fe3f5b792c57d7fe70016aba359e5d378c04a770d6dcc8baedbe63a9c.png",
-      "chainId": 57073,
-      "decimals": 18
-    },
-    {
       "address": "0xCeA0f8ed85E4EB981406E84DDCA7062946093089",
       "name": "Poseidon",
       "symbol": "PSD",
       "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/1e75a7bcb91ca2d624d804af55c4f56f6b8756844a9c8ba57c367d9d919beb4b.jpeg",
-      "chainId": 57073,
-      "decimals": 18
-    },
-    {
-      "address": "0xD35C395aE081b2FC1E9644E9D6E4D950Af2b6FDc",
-      "name": "BabyKraken",
-      "symbol": "BabyKraken",
-      "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/baa0d1a48941c44ad94256bdb0bdfe5bd1959c3f8a71abdbbe745bb7c6abb435.png",
       "chainId": 57073,
       "decimals": 18
     },
@@ -31527,14 +31526,6 @@
       "decimals": 18
     },
     {
-      "address": "0xcF6Ddc319D7535901c5e1cA69979E750F3e3a3D7",
-      "name": "Inkachu",
-      "symbol": "INKA",
-      "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/d49265662f59b7458709f3d49e1ea518a311ad5e571accfe2b2813ab0c3c95e3.png",
-      "chainId": 57073,
-      "decimals": 18
-    },
-    {
       "address": "0xe343167631d89B6Ffc58B88d6b7fB0228795491D",
       "name": "Global Dollar",
       "symbol": "USDG",
@@ -31546,14 +31537,6 @@
       "name": "thelema",
       "symbol": "TLA",
       "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/816b8fcfee4e4e01991de2ed37a6b6991ddcfefa83526f50eee9981e3be5ef00.jpg",
-      "chainId": 57073,
-      "decimals": 18
-    },
-    {
-      "address": "0xeC2d096221bF7f599D1b1581DD73eb6b245807Ee",
-      "name": "LIT",
-      "symbol": "LIT",
-      "logoURI": "https://luauiyxrqsrcixgjxhja.supabase.co/storage/v1/object/public/images/ab732d3c63b01068dde260392d8c89683cfce440e55b9655b898a9cdde8ac524.jpeg",
       "chainId": 57073,
       "decimals": 18
     },

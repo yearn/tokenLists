@@ -1,9 +1,9 @@
 {
   "name": "Bebop",
   "description": "",
-  "timestamp": "2026-06-21T04:23:51Z",
+  "timestamp": "2026-06-28T04:00:56Z",
   "version": {
-    "major": 30,
+    "major": 31,
     "minor": 0,
     "patch": 0
   },
@@ -91,6 +91,14 @@
       "decimals": 18
     },
     {
+      "address": "0x0E63B9C287E32A05E6b9AB8ee8dF88A2760225A9",
+      "name": "Pieverse Token",
+      "symbol": "PIEVERSE",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/68773/thumb/pieverse.png?1756546685",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
       "address": "0x0ED2E3180EDf393e6bf8Db124bD15DDD54dE150A",
       "name": "Broadcom (Ondo Tokenized)",
       "symbol": "AVGOon",
@@ -147,14 +155,6 @@
       "decimals": 18
     },
     {
-      "address": "0x1d28D989F9e3CCb8B15D0cec601734514f958E4D",
-      "name": "Based Token",
-      "symbol": "BASED",
-      "logoURI": "https://coin-images.coingecko.com/coins/images/71361/thumb/based_400x400.jpg?1767603806",
-      "chainId": 56,
-      "decimals": 18
-    },
-    {
       "address": "0x20d6015660b3fe52e6690a889b5C51F69902cE0e",
       "name": "Giggle Fund",
       "symbol": "GIGGLE",
@@ -199,6 +199,14 @@
       "name": "MEET48 Token",
       "symbol": "IDOL",
       "logoURI": "https://coin-images.coingecko.com/coins/images/66490/thumb/meet48.jpg?1749563372",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "address": "0x3E5d4f8aee0D9B3082d5f6DA5D6e225D17ba9ea0",
+      "name": "UnifAI",
+      "symbol": "UAI",
+      "logoURI": "https://asset-images.messari.io/images/72f45ec6-9cef-48ee-a0c2-66cd1997d345/128.png",
       "chainId": 56,
       "decimals": 18
     },
@@ -283,6 +291,14 @@
       "decimals": 18
     },
     {
+      "address": "0x500A02a20B0B0A3F3efCCFc0559543F5743bd1C4",
+      "name": "o1.exchange",
+      "symbol": "O",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/102173974/thumb/o1.png?1781654491",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
       "address": "0x527C6436E1eAa4f2065CDE4090F798Cb5D031dD6",
       "name": "Arm Holdings plc (Ondo Tokenized)",
       "symbol": "ARMon",
@@ -299,26 +315,18 @@
       "decimals": 18
     },
     {
+      "address": "0x55ad16Bd573B3365f43A9dAeB0Cc66A73821b4a5",
+      "name": "OKZOO",
+      "symbol": "AIOT",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/55349/thumb/okzoo.jpg?1745566014",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
       "address": "0x55d398326f99059fF775485246999027B3197955",
       "name": "Tether USD",
       "symbol": "USDT",
       "logoURI": "https://tokens.1inch.io/0xdac17f958d2ee523a2206206994597c13d831ec7.png",
-      "chainId": 56,
-      "decimals": 18
-    },
-    {
-      "address": "0x595dEaad1eB5476Ff1E649fDb7EFC36F1E4679cc",
-      "name": "Block Street",
-      "symbol": "BSB",
-      "logoURI": "https://coin-images.coingecko.com/coins/images/102172257/thumb/bsb_400x400.jpg?1772553610",
-      "chainId": 56,
-      "decimals": 18
-    },
-    {
-      "address": "0x5b1910eAaD6450E50f816082Aa078C41F10C292f",
-      "name": "Tesla, Inc. ",
-      "symbol": "TSLAB",
-      "logoURI": "https://coin-images.coingecko.com/coins/images/102173745/thumb/tesla-tokenized-bStocks-tslab.png?1781197024",
       "chainId": 56,
       "decimals": 18
     },
@@ -351,14 +359,6 @@
       "name": "OpenGradient",
       "symbol": "OPG",
       "logoURI": "https://coin-images.coingecko.com/coins/images/102172863/thumb/coingecko_logo.png?1776349115",
-      "chainId": 56,
-      "decimals": 18
-    },
-    {
-      "address": "0x61fac5F038515572d6F42d4BcB6B581642753D50",
-      "name": "INFINIT",
-      "symbol": "IN",
-      "logoURI": "https://coin-images.coingecko.com/coins/images/67941/thumb/infinit.jpg?1754390008",
       "chainId": 56,
       "decimals": 18
     },
@@ -403,6 +403,14 @@
       "decimals": 18
     },
     {
+      "address": "0x70f2EADf1CA1969FF42b0c78e9DA519e8937cbaF",
+      "name": "Edge",
+      "symbol": "EDGE",
+      "logoURI": "https://bebop-public-images.s3.eu-west-2.amazonaws.com/black.png",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
       "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
       "name": "BTCB Token",
       "symbol": "BTCB",
@@ -443,18 +451,10 @@
       "decimals": 9
     },
     {
-      "address": "0x7ec43Cf65F1663F820427C62A5780b8f2E25593A",
-      "name": "LAB",
-      "symbol": "LAB",
-      "logoURI": "https://coin-images.coingecko.com/coins/images/70014/thumb/lab.png?1760352822",
-      "chainId": 56,
-      "decimals": 18
-    },
-    {
-      "address": "0x81D3A238b02827F62B9f390f947D36d4A5bf89D2",
-      "name": "Yei Finance",
-      "symbol": "CLO",
-      "logoURI": "https://coin-images.coingecko.com/coins/images/69987/thumb/yei.png?1760271689",
+      "address": "0x80f3D493EBCe97e343c53D29a137942416B4ffC0",
+      "name": "Circle Internet Group Inc.",
+      "symbol": "CRCLB",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/102173742/thumb/circle-internet-group-tokenized-bStocks-crclb.png?1781196448",
       "chainId": 56,
       "decimals": 18
     },
@@ -471,6 +471,14 @@
       "name": "Tesla xStock",
       "symbol": "TSLAx",
       "logoURI": "https://coin-images.coingecko.com/coins/images/55638/thumb/Ticker_TSLA__Company_Name_Tesla_Inc.__size_200x200_2x.png?1746863299",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "address": "0x8b194370825E37b33373e74A41009161808C1488",
+      "name": "Velvet",
+      "symbol": "VELVET",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/56/0x8b194370825E37b33373e74A41009161808C1488/logo-128.png",
       "chainId": 56,
       "decimals": 18
     },
@@ -507,10 +515,26 @@
       "decimals": 18
     },
     {
+      "address": "0x8fce7206E3043DD360F115AFa956EE31b90B787C",
+      "name": "Starpower Network",
+      "symbol": "STAR",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/102173394/thumb/starpower.png?1779343117",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
       "address": "0x90A2a4c76b5D8c0bc892A69EA28Aa775a8f2dD48",
       "name": "SP500 xStock",
       "symbol": "SPYx",
       "logoURI": "https://coin-images.coingecko.com/coins/images/66695/thumb/Ticker_SPX__Company_Name_SP500__size_200x200_2x.png?1750266819",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "address": "0x9123400446a56176Eb1B6BE9ee5CF703e409F492",
+      "name": "TRADOOR",
+      "symbol": "TRADOOR",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/68862/thumb/tradoor.png?1756809006",
       "chainId": 56,
       "decimals": 18
     },
@@ -563,6 +587,22 @@
       "decimals": 18
     },
     {
+      "address": "0x997A58129890bBdA032231A52eD1ddC845fc18e1",
+      "name": "SIREN",
+      "symbol": "SIREN",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/54479/thumb/siren.png?1739960056",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "address": "0x9dC44ae5BE187ECA9e2A67e33f27A4c91cEA1223",
+      "name": "Power",
+      "symbol": "POWER",
+      "logoURI": "https://assets.coingecko.com/coins/images/70944/large/power.png?1764744522",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
       "address": "0x9f16E46c73b43BDB70861247d537bEE4eA18F639",
       "name": "AMD (Ondo Tokenized)",
       "symbol": "AMDon",
@@ -611,6 +651,14 @@
       "decimals": 18
     },
     {
+      "address": "0xD82544bf0dfe8385eF8FA34D67e6e4940CC63e16",
+      "name": "MYX",
+      "symbol": "MYX",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/55506/thumb/myx.jpg?1746434335",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
       "address": "0xD955c9bA56Fb1AB30e34766e252A97ccCE3D31A6",
       "name": "XPIN Token",
       "symbol": "XPIN",
@@ -649,6 +697,14 @@
       "logoURI": "https://coin-images.coingecko.com/coins/images/69816/thumb/kgen.png?1759733785",
       "chainId": 56,
       "decimals": 8
+    },
+    {
+      "address": "0xFF7F8F301F7A706E3CfD3D2275f5dc0b9EE8009B",
+      "name": "Folks Finance",
+      "symbol": "FOLKS",
+      "logoURI": "https://asset-images.messari.io/images/6b6c10fe-3d3f-4e44-b02b-65ee151a89b4/128.png",
+      "chainId": 56,
+      "decimals": 6
     },
     {
       "address": "0xFf7d6A96ae471BbCD7713aF9CB1fEeB16cf56B41",
@@ -731,10 +787,10 @@
       "decimals": 18
     },
     {
-      "address": "0xcf3232B85b43BCa90E51D38cc06Cc8bB8C8A3E36",
-      "name": "Beat Token",
-      "symbol": "Beat",
-      "logoURI": "https://coin-images.coingecko.com/coins/images/70428/thumb/audiera.png?1761964064",
+      "address": "0xcdf2f3e0fa43C47A6662a91C9E4a7C5f69762699",
+      "name": "Micron Technology Inc",
+      "symbol": "MUB",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/102173741/thumb/micron-technology-tokenized-bStocks-mub.png?1781196189",
       "chainId": 56,
       "decimals": 18
     },
@@ -743,6 +799,14 @@
       "name": "SpaceX (Ondo Tokenized)",
       "symbol": "SPCXon",
       "logoURI": "https://assets.coingecko.com/coins/images/102173730/large/spcxon.png?1781148349",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "address": "0xdA7AD9dea9397cffdDAE2F8a052B82f1484252B3",
+      "name": "River",
+      "symbol": "RIVER",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/56/0xdA7AD9dea9397cffdDAE2F8a052B82f1484252B3/logo-128.png",
       "chainId": 56,
       "decimals": 18
     },
@@ -779,10 +843,10 @@
       "decimals": 18
     },
     {
-      "address": "0xfed13D0c40790220fbdE712987079Eda1Ed75C51",
-      "name": "BTR token",
-      "symbol": "BTR",
-      "logoURI": "https://coin-images.coingecko.com/coins/images/55177/thumb/App_Logo.png?1744368194",
+      "address": "0xfEbDEd1B0986a8ee107f5AB1a1c5a813491DeCEB",
+      "name": "Circle xStock",
+      "symbol": "CRCLx",
+      "logoURI": "https://assets.coingecko.com/coins/images/66918/large/CRCLx.png?1751052233",
       "chainId": 56,
       "decimals": 18
     }

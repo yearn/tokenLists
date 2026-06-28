@@ -1,16 +1,16 @@
 {
   "name": "Tokenlistooor summary",
-  "timestamp": 1782016313,
+  "timestamp": 1782619775,
   "logoURI": "https://raw.githubusercontent.com/smoldapp/tokenLists/main/.github/tokenlistooor.svg",
   "lists": [
     {
       "name": "Popular tokens",
       "description": "A curated list of popular tokens from all the token lists on tokenlistooor.",
-      "timestamp": "2026-06-21T04:31:53Z",
+      "timestamp": "2026-06-28T04:09:34Z",
       "logoURI": "https://raw.githubusercontent.com/smoldapp/tokenLists/main/.github/tokenlistooor.svg",
       "URI": "https://raw.githubusercontent.com/smoldapp/tokenLists/main/lists/popular.json",
       "keywords": [],
-      "tokenCount": 4426,
+      "tokenCount": 4424,
       "metadata": {
         "supportedChains": [
           1,
@@ -40,22 +40,22 @@
         "generationMethod": "API",
         "tokenCountPerChain": {
           "1": 1113,
-          "10": 149,
+          "10": 148,
           "100": 97,
           "1101": 1,
           "1151111081099710": 1,
           "137": 597,
           "1380012617": 4,
-          "250": 105,
+          "250": 107,
           "314": 11,
           "324": 1,
-          "42161": 245,
-          "43114": 166,
+          "42161": 248,
+          "43114": 165,
           "5000": 40,
           "50104": 15,
           "534352": 1,
           "56": 1,
-          "57073": 55,
+          "57073": 50,
           "59144": 166,
           "747474": 59,
           "7777777": 1,
@@ -65,7 +65,7 @@
         }
       },
       "version": {
-        "major": 132,
+        "major": 133,
         "minor": 0,
         "patch": 0
       }
@@ -73,7 +73,7 @@
     {
       "name": "",
       "description": "A list of tokens available on SushiSwap DEX.",
-      "timestamp": "2026-06-21T04:22:05Z",
+      "timestamp": "2026-06-28T04:07:38Z",
       "logoURI": "",
       "URI": "https://raw.githubusercontent.com/smoldapp/tokenLists/main/lists/sushiswap.json",
       "keywords": null,
@@ -116,7 +116,7 @@
       "version": {
         "major": 27,
         "minor": 0,
-        "patch": 1
+        "patch": 2
       }
     },
     {
@@ -186,13 +186,13 @@
     {
       "name": "Ajna",
       "description": "A list of tokens available on Ajna.",
-      "timestamp": "2026-06-14T04:16:35Z",
+      "timestamp": "2026-06-28T03:57:54Z",
       "logoURI": "https://www.ajna.finance/static/tokens/ajna.png",
       "URI": "https://raw.githubusercontent.com/smoldapp/tokenLists/main/lists/ajna.json",
       "keywords": [
         "Ajna"
       ],
-      "tokenCount": 882,
+      "tokenCount": 884,
       "metadata": {
         "supportedChains": [
           1,
@@ -209,12 +209,12 @@
           "100": 12,
           "137": 404,
           "42161": 65,
-          "8453": 125
+          "8453": 127
         }
       },
       "version": {
         "major": 35,
-        "minor": 6,
+        "minor": 7,
         "patch": 0
       }
     },
@@ -254,11 +254,11 @@
     {
       "name": "Bebop",
       "description": "A list of tokens available on Bebop.",
-      "timestamp": "2026-06-21T04:23:51Z",
+      "timestamp": "2026-06-28T04:00:56Z",
       "logoURI": "https://bebop-public-images.s3.eu-west-2.amazonaws.com/bebop-logo.png",
       "URI": "https://raw.githubusercontent.com/smoldapp/tokenLists/main/lists/bebop.json",
       "keywords": null,
-      "tokenCount": 365,
+      "tokenCount": 372,
       "metadata": {
         "supportedChains": [
           1,
@@ -269,15 +269,15 @@
         ],
         "generationMethod": "API",
         "tokenCountPerChain": {
-          "1": 209,
+          "1": 207,
           "10": 6,
           "42161": 13,
-          "56": 97,
-          "8453": 40
+          "56": 105,
+          "8453": 41
         }
       },
       "version": {
-        "major": 30,
+        "major": 31,
         "minor": 0,
         "patch": 0
       }
@@ -397,14 +397,14 @@
     {
       "name": "CoinGecko",
       "description": "A list of tokens available showing in CoinGecko data agregator.",
-      "timestamp": "2026-06-21T04:28:08Z",
+      "timestamp": "2026-06-28T04:08:50Z",
       "logoURI": "https://static.coingecko.com/s/about/gecko-1b23cd303298d7474345b1938c21fdb20c71f4f399eefa8637ad243b8ac5dbf5.png",
       "URI": "https://raw.githubusercontent.com/smoldapp/tokenLists/main/lists/coingecko.json",
       "keywords": [
         "coingecko",
         "defi"
       ],
-      "tokenCount": 10882,
+      "tokenCount": 10833,
       "metadata": {
         "supportedChains": [
           1,
@@ -418,18 +418,18 @@
         ],
         "generationMethod": "API",
         "tokenCountPerChain": {
-          "1": 4869,
-          "10": 239,
+          "1": 4845,
+          "10": 238,
           "100": 109,
-          "137": 859,
-          "250": 140,
-          "42161": 862,
-          "43114": 432,
-          "56": 3372
+          "137": 857,
+          "250": 139,
+          "42161": 858,
+          "43114": 428,
+          "56": 3359
         }
       },
       "version": {
-        "major": 182,
+        "major": 183,
         "minor": 0,
         "patch": 0
       }
@@ -472,11 +472,11 @@
     {
       "name": "DefiLlama",
       "description": "A list of tokens available in DefiLlama token service",
-      "timestamp": "2026-06-21T04:28:59Z",
+      "timestamp": "2026-06-28T04:08:53Z",
       "logoURI": "https://wiki.defillama.com/w/resources/assets/wiki.png?88de1",
       "URI": "https://raw.githubusercontent.com/smoldapp/tokenLists/main/lists/defillama.json",
       "keywords": [],
-      "tokenCount": 10882,
+      "tokenCount": 10833,
       "metadata": {
         "supportedChains": [
           1,
@@ -490,18 +490,18 @@
         ],
         "generationMethod": "External",
         "tokenCountPerChain": {
-          "1": 4869,
-          "10": 239,
+          "1": 4845,
+          "10": 238,
           "100": 109,
-          "137": 859,
-          "250": 140,
-          "42161": 862,
-          "43114": 432,
-          "56": 3372
+          "137": 857,
+          "250": 139,
+          "42161": 858,
+          "43114": 428,
+          "56": 3359
         }
       },
       "version": {
-        "major": 179,
+        "major": 180,
         "minor": 0,
         "patch": 0
       }
@@ -534,25 +534,25 @@
     {
       "name": "Inkypump",
       "description": "A list of tokens available on inkypump.com.",
-      "timestamp": "2026-06-21T04:22:19Z",
+      "timestamp": "2026-06-28T03:58:48Z",
       "logoURI": "https://token-assets-one.vercel.app/api/chain/57073/logo-128.png",
       "URI": "https://raw.githubusercontent.com/smoldapp/tokenLists/main/lists/inkypump.json",
       "keywords": [
         "inkypump",
         "launcher"
       ],
-      "tokenCount": 49,
+      "tokenCount": 44,
       "metadata": {
         "supportedChains": [
           57073
         ],
         "generationMethod": "API",
         "tokenCountPerChain": {
-          "57073": 49
+          "57073": 44
         }
       },
       "version": {
-        "major": 63,
+        "major": 64,
         "minor": 0,
         "patch": 0
       }
@@ -815,14 +815,14 @@
     {
       "name": "SmolAssets",
       "description": "A list of tokens supported by Smoldapp Token Assets repository",
-      "timestamp": "2026-06-21T04:28:21Z",
+      "timestamp": "2026-06-28T04:00:50Z",
       "logoURI": "https://raw.githubusercontent.com/smoldapp/tokenLists/main/.github/tokenlistooor.svg",
       "URI": "https://raw.githubusercontent.com/smoldapp/tokenLists/main/lists/smolAssets.json",
       "keywords": [
         "smol",
         "tokenAssets"
       ],
-      "tokenCount": 2510,
+      "tokenCount": 2514,
       "metadata": {
         "supportedChains": [
           1,
@@ -847,12 +847,12 @@
           "42161": 105,
           "56": 40,
           "81457": 12,
-          "8453": 887
+          "8453": 891
         }
       },
       "version": {
         "major": 28,
-        "minor": 17,
+        "minor": 18,
         "patch": 0
       }
     },
@@ -907,7 +907,7 @@
     {
       "name": "Superchain Token List",
       "description": "A list of tokens used as the source of truth for the Optimism Gateway.",
-      "timestamp": "2026-06-21T04:30:50Z",
+      "timestamp": "2026-06-28T03:58:34Z",
       "logoURI": "https://ethereum-optimism.github.io/optimism.svg",
       "URI": "https://raw.githubusercontent.com/smoldapp/tokenLists/main/lists/optimism.json",
       "keywords": [
@@ -936,7 +936,7 @@
       "version": {
         "major": 12,
         "minor": 1,
-        "patch": 6
+        "patch": 7
       }
     },
     {
@@ -1076,11 +1076,11 @@
     {
       "name": "Tokenlistooor Token List",
       "description": "A curated list of tokens from all the token lists on tokenlistooor.",
-      "timestamp": "2026-06-21T04:30:54Z",
+      "timestamp": "2026-06-28T04:08:56Z",
       "logoURI": "https://raw.githubusercontent.com/smoldapp/tokenLists/main/.github/tokenlistooor.svg",
       "URI": "https://raw.githubusercontent.com/smoldapp/tokenLists/main/lists/tokenlistooor.json",
       "keywords": [],
-      "tokenCount": 8964,
+      "tokenCount": 8665,
       "metadata": {
         "supportedChains": [
           1,
@@ -1109,33 +1109,33 @@
         ],
         "generationMethod": "API",
         "tokenCountPerChain": {
-          "1": 5027,
-          "10": 1269,
-          "100": 24,
+          "1": 4543,
+          "10": 1190,
+          "100": 26,
           "1101": 1,
           "1151111081099710": 1,
-          "137": 827,
+          "137": 799,
           "1380012617": 4,
-          "250": 73,
+          "250": 72,
           "314": 12,
           "324": 79,
-          "42161": 815,
+          "42161": 748,
           "43114": 35,
           "5000": 40,
           "50104": 15,
           "534352": 1,
-          "56": 36,
+          "56": 43,
           "57073": 2,
           "59144": 68,
           "747474": 39,
           "7777777": 2,
           "80094": 48,
           "81457": 26,
-          "8453": 520
+          "8453": 871
         }
       },
       "version": {
-        "major": 388,
+        "major": 389,
         "minor": 0,
         "patch": 0
       }
@@ -1143,7 +1143,7 @@
     {
       "name": "Uniswap Labs Default",
       "description": "A list of tokens available on UniSwap DEX.",
-      "timestamp": "2026-06-21T04:28:29Z",
+      "timestamp": "2026-06-28T03:58:29Z",
       "logoURI": "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
       "URI": "https://raw.githubusercontent.com/smoldapp/tokenLists/main/lists/uniswap.json",
       "keywords": [
@@ -1183,7 +1183,7 @@
       "version": {
         "major": 27,
         "minor": 16,
-        "patch": 0
+        "patch": 1
       }
     },
     {
@@ -1275,7 +1275,7 @@
     {
       "name": "Yearn Token List",
       "description": "A list of Yearn's vaults and their underlying tokens.",
-      "timestamp": "2026-06-21T04:30:11Z",
+      "timestamp": "2026-06-28T04:06:36Z",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e/logo.svg",
       "URI": "https://raw.githubusercontent.com/smoldapp/tokenLists/main/lists/yearn.json",
       "keywords": [
@@ -1287,7 +1287,7 @@
         "yprotocol",
         "vaults"
       ],
-      "tokenCount": 6563,
+      "tokenCount": 6576,
       "metadata": {
         "supportedChains": [
           1,
@@ -1301,7 +1301,7 @@
         ],
         "generationMethod": "API",
         "tokenCountPerChain": {
-          "1": 4000,
+          "1": 4013,
           "10": 1239,
           "100": 13,
           "137": 261,
@@ -1313,7 +1313,7 @@
       },
       "version": {
         "major": 47,
-        "minor": 24,
+        "minor": 25,
         "patch": 0
       }
     },
@@ -1371,7 +1371,7 @@
     {
       "name": "Ethereum",
       "description": "The most popular tokens on Ethereum.",
-      "timestamp": "2026-06-21T04:31:54Z",
+      "timestamp": "2026-06-28T04:09:35Z",
       "logoURI": "https://raw.githubusercontent.com/SmolDapp/tokenAssets/main/chains/1/logo-128.png",
       "URI": "https://raw.githubusercontent.com/smoldapp/tokenLists/main/lists/1.json",
       "keywords": [],
@@ -1386,7 +1386,7 @@
         }
       },
       "version": {
-        "major": 132,
+        "major": 133,
         "minor": 0,
         "patch": 0
       }
@@ -1394,7 +1394,7 @@
     {
       "name": "Goerli",
       "description": "The most popular tokens on Goerli.",
-      "timestamp": "2026-06-21T04:31:54Z",
+      "timestamp": "2026-06-28T04:09:35Z",
       "logoURI": "https://raw.githubusercontent.com/SmolDapp/tokenAssets/main/chains/5/logo-128.png",
       "URI": "https://raw.githubusercontent.com/smoldapp/tokenLists/main/lists/5.json",
       "keywords": [],
@@ -1413,22 +1413,22 @@
     {
       "name": "Optimism",
       "description": "The most popular tokens on Optimism.",
-      "timestamp": "2026-06-21T04:31:54Z",
+      "timestamp": "2026-06-28T04:09:35Z",
       "logoURI": "https://raw.githubusercontent.com/SmolDapp/tokenAssets/main/chains/10/logo-128.png",
       "URI": "https://raw.githubusercontent.com/smoldapp/tokenLists/main/lists/10.json",
       "keywords": [],
-      "tokenCount": 149,
+      "tokenCount": 148,
       "metadata": {
         "supportedChains": [
           10
         ],
         "generationMethod": "Chains",
         "tokenCountPerChain": {
-          "10": 149
+          "10": 148
         }
       },
       "version": {
-        "major": 132,
+        "major": 133,
         "minor": 0,
         "patch": 0
       }
@@ -1436,7 +1436,7 @@
     {
       "name": "BSC",
       "description": "The most popular tokens on BSC.",
-      "timestamp": "2026-06-21T04:31:54Z",
+      "timestamp": "2026-06-28T04:09:35Z",
       "logoURI": "https://raw.githubusercontent.com/SmolDapp/tokenAssets/main/chains/56/logo-128.png",
       "URI": "https://raw.githubusercontent.com/smoldapp/tokenLists/main/lists/56.json",
       "keywords": [],
@@ -1459,7 +1459,7 @@
     {
       "name": "Gnosis",
       "description": "The most popular tokens on Gnosis.",
-      "timestamp": "2026-06-21T04:31:54Z",
+      "timestamp": "2026-06-28T04:09:35Z",
       "logoURI": "https://raw.githubusercontent.com/SmolDapp/tokenAssets/main/chains/100/logo-128.png",
       "URI": "https://raw.githubusercontent.com/smoldapp/tokenLists/main/lists/100.json",
       "keywords": [],
@@ -1474,7 +1474,7 @@
         }
       },
       "version": {
-        "major": 132,
+        "major": 133,
         "minor": 0,
         "patch": 0
       }
@@ -1482,7 +1482,7 @@
     {
       "name": "Polygon",
       "description": "The most popular tokens on Polygon.",
-      "timestamp": "2026-06-21T04:31:54Z",
+      "timestamp": "2026-06-28T04:09:35Z",
       "logoURI": "https://raw.githubusercontent.com/SmolDapp/tokenAssets/main/chains/137/logo-128.png",
       "URI": "https://raw.githubusercontent.com/smoldapp/tokenLists/main/lists/137.json",
       "keywords": [],
@@ -1497,7 +1497,7 @@
         }
       },
       "version": {
-        "major": 132,
+        "major": 133,
         "minor": 0,
         "patch": 0
       }
@@ -1505,22 +1505,22 @@
     {
       "name": "Fantom",
       "description": "The most popular tokens on Fantom.",
-      "timestamp": "2026-06-21T04:31:54Z",
+      "timestamp": "2026-06-28T04:09:35Z",
       "logoURI": "https://raw.githubusercontent.com/SmolDapp/tokenAssets/main/chains/250/logo-128.png",
       "URI": "https://raw.githubusercontent.com/smoldapp/tokenLists/main/lists/250.json",
       "keywords": [],
-      "tokenCount": 105,
+      "tokenCount": 107,
       "metadata": {
         "supportedChains": [
           250
         ],
         "generationMethod": "Chains",
         "tokenCountPerChain": {
-          "250": 105
+          "250": 107
         }
       },
       "version": {
-        "major": 132,
+        "major": 133,
         "minor": 0,
         "patch": 0
       }
@@ -1528,7 +1528,7 @@
     {
       "name": "Filecoin",
       "description": "The most popular tokens on Filecoin.",
-      "timestamp": "2026-06-21T04:31:54Z",
+      "timestamp": "2026-06-28T04:09:35Z",
       "logoURI": "https://raw.githubusercontent.com/SmolDapp/tokenAssets/main/chains/314/logo-128.png",
       "URI": "https://raw.githubusercontent.com/smoldapp/tokenLists/main/lists/314.json",
       "keywords": [],
@@ -1543,7 +1543,7 @@
         }
       },
       "version": {
-        "major": 132,
+        "major": 133,
         "minor": 0,
         "patch": 0
       }
@@ -1551,7 +1551,7 @@
     {
       "name": "ZKSync",
       "description": "The most popular tokens on ZKSync.",
-      "timestamp": "2026-06-21T04:31:54Z",
+      "timestamp": "2026-06-28T04:09:35Z",
       "logoURI": "https://raw.githubusercontent.com/SmolDapp/tokenAssets/main/chains/324/logo-128.png",
       "URI": "https://raw.githubusercontent.com/smoldapp/tokenLists/main/lists/324.json",
       "keywords": [],
@@ -1574,7 +1574,7 @@
     {
       "name": "Metis",
       "description": "The most popular tokens on Metis.",
-      "timestamp": "2026-06-21T04:31:54Z",
+      "timestamp": "2026-06-28T04:09:35Z",
       "logoURI": "https://raw.githubusercontent.com/SmolDapp/tokenAssets/main/chains/1088/logo-128.png",
       "URI": "https://raw.githubusercontent.com/smoldapp/tokenLists/main/lists/1088.json",
       "keywords": [],
@@ -1597,7 +1597,7 @@
     {
       "name": "Polygon ZKEvm",
       "description": "The most popular tokens on Polygon ZKEvm.",
-      "timestamp": "2026-06-21T04:31:54Z",
+      "timestamp": "2026-06-28T04:09:35Z",
       "logoURI": "https://raw.githubusercontent.com/SmolDapp/tokenAssets/main/chains/1101/logo-128.png",
       "URI": "https://raw.githubusercontent.com/smoldapp/tokenLists/main/lists/1101.json",
       "keywords": [],
@@ -1620,7 +1620,7 @@
     {
       "name": "Mantle",
       "description": "The most popular tokens on Mantle.",
-      "timestamp": "2026-06-21T04:31:54Z",
+      "timestamp": "2026-06-28T04:09:35Z",
       "logoURI": "https://raw.githubusercontent.com/SmolDapp/tokenAssets/main/chains/5000/logo-128.png",
       "URI": "https://raw.githubusercontent.com/smoldapp/tokenLists/main/lists/5000.json",
       "keywords": [],
@@ -1635,7 +1635,7 @@
         }
       },
       "version": {
-        "major": 132,
+        "major": 133,
         "minor": 0,
         "patch": 0
       }
@@ -1643,7 +1643,7 @@
     {
       "name": "Base",
       "description": "The most popular tokens on Base.",
-      "timestamp": "2026-06-21T04:31:54Z",
+      "timestamp": "2026-06-28T04:09:35Z",
       "logoURI": "https://raw.githubusercontent.com/SmolDapp/tokenAssets/main/chains/8453/logo-128.png",
       "URI": "https://raw.githubusercontent.com/smoldapp/tokenLists/main/lists/8453.json",
       "keywords": [],
@@ -1658,7 +1658,7 @@
         }
       },
       "version": {
-        "major": 132,
+        "major": 133,
         "minor": 0,
         "patch": 0
       }
@@ -1666,22 +1666,22 @@
     {
       "name": "Arbitrum",
       "description": "The most popular tokens on Arbitrum.",
-      "timestamp": "2026-06-21T04:31:54Z",
+      "timestamp": "2026-06-28T04:09:35Z",
       "logoURI": "https://raw.githubusercontent.com/SmolDapp/tokenAssets/main/chains/42161/logo-128.png",
       "URI": "https://raw.githubusercontent.com/smoldapp/tokenLists/main/lists/42161.json",
       "keywords": [],
-      "tokenCount": 245,
+      "tokenCount": 248,
       "metadata": {
         "supportedChains": [
           42161
         ],
         "generationMethod": "Chains",
         "tokenCountPerChain": {
-          "42161": 245
+          "42161": 248
         }
       },
       "version": {
-        "major": 132,
+        "major": 133,
         "minor": 0,
         "patch": 0
       }
@@ -1689,7 +1689,7 @@
     {
       "name": "Celo",
       "description": "The most popular tokens on Celo.",
-      "timestamp": "2026-06-21T04:31:54Z",
+      "timestamp": "2026-06-28T04:09:35Z",
       "logoURI": "https://raw.githubusercontent.com/SmolDapp/tokenAssets/main/chains/42220/logo-128.png",
       "URI": "https://raw.githubusercontent.com/smoldapp/tokenLists/main/lists/42220.json",
       "keywords": [],
@@ -1712,22 +1712,22 @@
     {
       "name": "Avax",
       "description": "The most popular tokens on Avax.",
-      "timestamp": "2026-06-21T04:31:54Z",
+      "timestamp": "2026-06-28T04:09:35Z",
       "logoURI": "https://raw.githubusercontent.com/SmolDapp/tokenAssets/main/chains/43114/logo-128.png",
       "URI": "https://raw.githubusercontent.com/smoldapp/tokenLists/main/lists/43114.json",
       "keywords": [],
-      "tokenCount": 166,
+      "tokenCount": 165,
       "metadata": {
         "supportedChains": [
           43114
         ],
         "generationMethod": "Chains",
         "tokenCountPerChain": {
-          "43114": 166
+          "43114": 165
         }
       },
       "version": {
-        "major": 132,
+        "major": 133,
         "minor": 0,
         "patch": 0
       }
@@ -1735,7 +1735,7 @@
     {
       "name": "Sophon",
       "description": "The most popular tokens on Sophon.",
-      "timestamp": "2026-06-21T04:31:54Z",
+      "timestamp": "2026-06-28T04:09:35Z",
       "logoURI": "https://raw.githubusercontent.com/SmolDapp/tokenAssets/main/chains/50104/logo-128.png",
       "URI": "https://raw.githubusercontent.com/smoldapp/tokenLists/main/lists/50104.json",
       "keywords": [],
@@ -1750,7 +1750,7 @@
         }
       },
       "version": {
-        "major": 132,
+        "major": 133,
         "minor": 0,
         "patch": 0
       }
@@ -1758,22 +1758,22 @@
     {
       "name": "Ink",
       "description": "The most popular tokens on Ink.",
-      "timestamp": "2026-06-21T04:31:54Z",
+      "timestamp": "2026-06-28T04:09:35Z",
       "logoURI": "https://raw.githubusercontent.com/SmolDapp/tokenAssets/main/chains/57073/logo-128.png",
       "URI": "https://raw.githubusercontent.com/smoldapp/tokenLists/main/lists/57073.json",
       "keywords": [],
-      "tokenCount": 55,
+      "tokenCount": 50,
       "metadata": {
         "supportedChains": [
           57073
         ],
         "generationMethod": "Chains",
         "tokenCountPerChain": {
-          "57073": 55
+          "57073": 50
         }
       },
       "version": {
-        "major": 132,
+        "major": 133,
         "minor": 0,
         "patch": 0
       }
@@ -1781,7 +1781,7 @@
     {
       "name": "Linea",
       "description": "The most popular tokens on Linea.",
-      "timestamp": "2026-06-21T04:31:54Z",
+      "timestamp": "2026-06-28T04:09:35Z",
       "logoURI": "https://raw.githubusercontent.com/SmolDapp/tokenAssets/main/chains/59144/logo-128.png",
       "URI": "https://raw.githubusercontent.com/smoldapp/tokenLists/main/lists/59144.json",
       "keywords": [],
@@ -1796,7 +1796,7 @@
         }
       },
       "version": {
-        "major": 132,
+        "major": 133,
         "minor": 0,
         "patch": 0
       }
@@ -1804,7 +1804,7 @@
     {
       "name": "Berachain",
       "description": "The most popular tokens on Berachain.",
-      "timestamp": "2026-06-21T04:31:54Z",
+      "timestamp": "2026-06-28T04:09:35Z",
       "logoURI": "https://raw.githubusercontent.com/SmolDapp/tokenAssets/main/chains/80094/logo-128.png",
       "URI": "https://raw.githubusercontent.com/smoldapp/tokenLists/main/lists/80094.json",
       "keywords": [],
@@ -1819,7 +1819,7 @@
         }
       },
       "version": {
-        "major": 132,
+        "major": 133,
         "minor": 0,
         "patch": 0
       }
@@ -1827,7 +1827,7 @@
     {
       "name": "Blast",
       "description": "The most popular tokens on Blast.",
-      "timestamp": "2026-06-21T04:31:54Z",
+      "timestamp": "2026-06-28T04:09:35Z",
       "logoURI": "https://raw.githubusercontent.com/SmolDapp/tokenAssets/main/chains/81457/logo-128.png",
       "URI": "https://raw.githubusercontent.com/smoldapp/tokenLists/main/lists/81457.json",
       "keywords": [],
@@ -1842,7 +1842,7 @@
         }
       },
       "version": {
-        "major": 132,
+        "major": 133,
         "minor": 0,
         "patch": 0
       }
@@ -1850,7 +1850,7 @@
     {
       "name": "Scroll",
       "description": "The most popular tokens on Scroll.",
-      "timestamp": "2026-06-21T04:31:54Z",
+      "timestamp": "2026-06-28T04:09:35Z",
       "logoURI": "https://raw.githubusercontent.com/SmolDapp/tokenAssets/main/chains/534352/logo-128.png",
       "URI": "https://raw.githubusercontent.com/smoldapp/tokenLists/main/lists/534352.json",
       "keywords": [],
@@ -1873,7 +1873,7 @@
     {
       "name": "Katana",
       "description": "The most popular tokens on Katana.",
-      "timestamp": "2026-06-21T04:31:54Z",
+      "timestamp": "2026-06-28T04:09:35Z",
       "logoURI": "https://raw.githubusercontent.com/SmolDapp/tokenAssets/main/chains/747474/logo-128.png",
       "URI": "https://raw.githubusercontent.com/smoldapp/tokenLists/main/lists/747474.json",
       "keywords": [],
@@ -1888,7 +1888,7 @@
         }
       },
       "version": {
-        "major": 132,
+        "major": 133,
         "minor": 0,
         "patch": 0
       }
@@ -1896,7 +1896,7 @@
     {
       "name": "Zora",
       "description": "The most popular tokens on Zora.",
-      "timestamp": "2026-06-21T04:31:54Z",
+      "timestamp": "2026-06-28T04:09:35Z",
       "logoURI": "https://raw.githubusercontent.com/SmolDapp/tokenAssets/main/chains/7777777/logo-128.png",
       "URI": "https://raw.githubusercontent.com/smoldapp/tokenLists/main/lists/7777777.json",
       "keywords": [],
@@ -1919,7 +1919,7 @@
     {
       "name": "Rari",
       "description": "The most popular tokens on Rari.",
-      "timestamp": "2026-06-21T04:31:54Z",
+      "timestamp": "2026-06-28T04:09:35Z",
       "logoURI": "https://raw.githubusercontent.com/SmolDapp/tokenAssets/main/chains/1380012617/logo-128.png",
       "URI": "https://raw.githubusercontent.com/smoldapp/tokenLists/main/lists/1380012617.json",
       "keywords": [],
@@ -1934,7 +1934,7 @@
         }
       },
       "version": {
-        "major": 132,
+        "major": 133,
         "minor": 0,
         "patch": 0
       }
@@ -1942,7 +1942,7 @@
     {
       "name": "Solana",
       "description": "The most popular tokens on Solana.",
-      "timestamp": "2026-06-21T04:31:54Z",
+      "timestamp": "2026-06-28T04:09:35Z",
       "logoURI": "https://raw.githubusercontent.com/SmolDapp/tokenAssets/main/chains/1151111081099710/logo-128.png",
       "URI": "https://raw.githubusercontent.com/smoldapp/tokenLists/main/lists/1151111081099710.json",
       "keywords": [],

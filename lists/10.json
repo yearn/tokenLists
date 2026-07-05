@@ -1,15 +1,23 @@
 {
   "name": "Optimism",
   "description": "A curated list of popular tokens from all the token lists on tokenlistooor.",
-  "timestamp": "2026-06-28T04:09:35Z",
+  "timestamp": "2026-07-05T03:39:59Z",
   "version": {
-    "major": 133,
+    "major": 134,
     "minor": 0,
     "patch": 0
   },
   "logoURI": "https://token-assets-one.vercel.app/chains/10/logo-128.png",
   "keywords": [],
   "tokens": [
+    {
+      "address": "0x00F932F0FE257456b32dedA4758922E56A4F4b42",
+      "name": "Paper",
+      "symbol": "PAPER",
+      "logoURI": "https://ethereum-optimism.github.io/data/PAPER/logo.svg",
+      "chainId": 10,
+      "decimals": 18
+    },
     {
       "address": "0x00a35FD824c717879BF370E70AC6868b95870Dfb",
       "name": "IronBank",
@@ -83,14 +91,6 @@
       "decimals": 18
     },
     {
-      "address": "0x15e770B95Edd73fD96b02EcE0266247D50895E76",
-      "name": "Jarvis Reward Token",
-      "symbol": "JRT",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x15e770B95Edd73fD96b02EcE0266247D50895E76/logo-128.png",
-      "chainId": 10,
-      "decimals": 18
-    },
-    {
       "address": "0x1610e3c85dd44Af31eD7f33a63642012Dca0C5A5",
       "name": "Metronome Synth ETH",
       "symbol": "msETH",
@@ -99,17 +99,9 @@
       "decimals": 18
     },
     {
-      "address": "0x17Aabf6838a6303fc6E9C5A227DC1EB6d95c829A",
-      "name": "MagicalTux",
-      "symbol": "TUX",
-      "chainId": 10,
-      "decimals": 18
-    },
-    {
-      "address": "0x191c10Aa4AF7C30e871E70C95dB0E4eb77237530",
-      "name": "Aave Optimism LINK",
-      "symbol": "aOptLINK",
-      "logoURI": "https://assets.coingecko.com/coins/images/12645/large/AAVE.png",
+      "address": "0x181D739A0C016Bd0B32bd6e47cbcA70D3A0e69d7",
+      "name": "Global Token",
+      "symbol": "GBL",
       "chainId": 10,
       "decimals": 18
     },
@@ -225,6 +217,13 @@
       "decimals": 18
     },
     {
+      "address": "0x2b1D36f5B61AdDAf7DA7ebbd11B35FD8cfb0DE31",
+      "name": "Interport Token",
+      "symbol": "ITP",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
       "address": "0x2dAD3a13ef0C6366220f989157009e501e7938F8",
       "name": "Extra Finance",
       "symbol": "EXTRA",
@@ -300,14 +299,6 @@
       "name": "MetalSwap",
       "symbol": "XMT",
       "logoURI": "https://ethereum-optimism.github.io/data/XMT/logo.svg",
-      "chainId": 10,
-      "decimals": 18
-    },
-    {
-      "address": "0x3b08fcd15280e7B5A6e404c4abb87F7C774D1B2e",
-      "name": "OVN",
-      "symbol": "OVN",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x3b08fcd15280e7B5A6e404c4abb87F7C774D1B2e/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -436,6 +427,14 @@
       "name": "Molten",
       "symbol": "MOLTEN",
       "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x66E535e8D2ebf13F49F3D49e5c50395a97C137b1/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x66e8617d1Df7ab523a316a6c01D16Aa5beD93681",
+      "name": "Shack Token",
+      "symbol": "SHACK",
+      "logoURI": "https://assets.coingecko.com/coins/images/25699/large/shack_no_bg_no_pad3.png?1653441433",
       "chainId": 10,
       "decimals": 18
     },
@@ -584,6 +583,22 @@
       "decimals": 6
     },
     {
+      "address": "0x81aB7E0D570b01411fcC4afd3D50eC8C241cb74b",
+      "name": "Equalizer",
+      "symbol": "EQZ",
+      "logoURI": "https://ethereum-optimism.github.io/data/EQZ/logo.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0x820802Fa8a99901F52e39acD21177b0BE6EE2974",
+      "name": "EUROe Stablecoin",
+      "symbol": "EUROe",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x820802Fa8a99901F52e39acD21177b0BE6EE2974/logo-128.png",
+      "chainId": 10,
+      "decimals": 6
+    },
+    {
       "address": "0x82E64f49Ed5EC1bC6e43DAD4FC8Af9bb3A2312EE",
       "name": "Aave Optimism DAI",
       "symbol": "aOptDAI",
@@ -696,6 +711,14 @@
       "decimals": 18
     },
     {
+      "address": "0x96D17e1301b31556e5e263389583A9331e6749E9",
+      "name": "Rilla",
+      "symbol": "RILLA",
+      "logoURI": "https://assets.coingecko.com/coins/images/29193/large/output-onlinepngtools.png?1677301164",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
       "address": "0x970D50d09F3a656b43E11B0D45241a84e3a6e011",
       "name": "DAI+",
       "symbol": "DAI+",
@@ -728,6 +751,14 @@
       "decimals": 18
     },
     {
+      "address": "0x9b88D293b7a791E40d36A39765FFd5A1B9b5c349",
+      "name": "Celo native asset",
+      "symbol": "CELO",
+      "logoURI": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/celo_wh.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
       "address": "0x9cfB13E6c11054ac9fcB92BA89644F30775436e4",
       "name": "Axelar Wrapped wstETH",
       "symbol": "axl-wstETH",
@@ -750,6 +781,14 @@
       "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x9e1028F5F1D5eDE59748FFceE5532509976840E0/logo-128.png",
       "chainId": 10,
       "decimals": 18
+    },
+    {
+      "address": "0x9ed7E4B1BFF939ad473dA5E7a218C771D1569456",
+      "name": "Reunit Token",
+      "symbol": "REUNI",
+      "logoURI": "https://assets.coingecko.com/coins/images/29492/large/reunit_200.png?1679280627",
+      "chainId": 10,
+      "decimals": 6
     },
     {
       "address": "0xAF9fE3B5cCDAe78188B1F8b9a49Da7ae9510F151",
@@ -782,6 +821,14 @@
       "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xB153FB3d196A8eB25522705560ac152eeEc57901/logo-128.png",
       "chainId": 10,
       "decimals": 18
+    },
+    {
+      "address": "0xB25EA095997F5bBaa6cEa962c4fBf3bfc3C09776",
+      "name": "Promethios",
+      "symbol": "FIRE",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xB25EA095997F5bBaa6cEa962c4fBf3bfc3C09776/logo-128.png",
+      "chainId": 10,
+      "decimals": 9
     },
     {
       "address": "0xB962150760F9A3bB00e3E9Cf48297EE20AdA4A33",
@@ -824,14 +871,6 @@
       "decimals": 18
     },
     {
-      "address": "0xCB8FA9a76b8e203D8C3797bF438d8FB81Ea3326A",
-      "name": "Alchemix USD",
-      "symbol": "alUSD",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xCB8FA9a76b8e203D8C3797bF438d8FB81Ea3326A/logo-128.png",
-      "chainId": 10,
-      "decimals": 18
-    },
-    {
       "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
       "name": "Dai Stablecoin",
       "symbol": "DAI",
@@ -852,6 +891,14 @@
       "name": "Synth sETH",
       "symbol": "sETH",
       "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xE405de8F52ba7559f9df3C368500B6E6ae6Cee49/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xE4d8701C69b3B94A620ff048e4226C895b67b2c0",
+      "name": "Minerva",
+      "symbol": "MINE",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xE4d8701C69b3B94A620ff048e4226C895b67b2c0/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -892,6 +939,14 @@
       "name": "Kromatika",
       "symbol": "KROM",
       "logoURI": "https://tokens.1inch.io/0xf98dcd95217e15e05d8638da4c91125e59590b07.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xFA436399d0458Dbe8aB890c3441256E3E09022a8",
+      "name": "Zip Token",
+      "symbol": "ZIP",
+      "logoURI": "https://assets.coingecko.com/coins/images/22910/large/zip.png?1642949795",
       "chainId": 10,
       "decimals": 18
     },
@@ -952,14 +1007,6 @@
       "decimals": 18
     },
     {
-      "address": "0xaf20f5f19698f1D19351028cd7103B63D30DE7d7",
-      "name": "Wagmi",
-      "symbol": "WAGMI",
-      "logoURI": "https://assets.coingecko.com/coins/images/31887/large/wagmi_token_logo.png?1695372579",
-      "chainId": 10,
-      "decimals": 18
-    },
-    {
       "address": "0xaf8cA653Fa2772d58f4368B0a71980e9E3cEB888",
       "name": "Tellor",
       "symbol": "TRB",
@@ -984,6 +1031,14 @@
       "decimals": 18
     },
     {
+      "address": "0xb532178708814F0c174B29B991D2b355106Afbc3",
+      "name": "Astrava",
+      "symbol": "AST",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xb532178708814F0c174B29B991D2b355106Afbc3/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
       "address": "0xb829b68f57CC546dA7E5806A929e53bE32a4625D",
       "name": "Axelar Wrapped ETH",
       "symbol": "axlETH",
@@ -996,6 +1051,14 @@
       "name": "Osaka Protocol",
       "symbol": "OSAK",
       "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xbFd5206962267c7b4b4A8B3D76AC2E1b2A5c4d5e/logo-128.png",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xbf0c7ccB143126C1bE90a426f676f5cb313956d9",
+      "name": "Tempest",
+      "symbol": "TEM",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xbf0c7ccB143126C1bE90a426f676f5cb313956d9/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -1148,6 +1211,14 @@
       "name": "Fuse Token",
       "symbol": "FUSE",
       "logoURI": "https://assets.coingecko.com/coins/images/10347/large/vUXKHEe.png?1601523640",
+      "chainId": 10,
+      "decimals": 18
+    },
+    {
+      "address": "0xe4dE4B87345815C71aa843ea4841bCdc682637bb",
+      "name": "Build Token",
+      "symbol": "BUILD",
+      "logoURI": "https://assets.coingecko.com/coins/images/26533/large/BUILD.png?1658714842",
       "chainId": 10,
       "decimals": 18
     },

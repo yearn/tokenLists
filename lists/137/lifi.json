@@ -1,10 +1,10 @@
 {
   "name": "Lifi Token List",
   "description": "",
-  "timestamp": "2026-06-21T04:30:46Z",
+  "timestamp": "2026-07-05T03:33:29Z",
   "version": {
-    "major": 19,
-    "minor": 8,
+    "major": 20,
+    "minor": 0,
     "patch": 0
   },
   "logoURI": "https://avatars.githubusercontent.com/u/85288935?s=200\u0026v=4",
@@ -340,6 +340,14 @@
       "name": "RaiderToken",
       "symbol": "RAIDER",
       "logoURI": "https://tokens.1inch.io/0xcd7361ac3307d1c5a46b63086a90742ff44c63b3.png",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
+      "address": "0xd2E57e7019a8faea8b3E4a3738Ee5B269975008A",
+      "name": "THAT",
+      "symbol": "THAT",
+      "logoURI": "https://asset-images.messari.io/images/f9bcd382-2fbd-49d8-902a-ef1bcb32efa0/128.png",
       "chainId": 137,
       "decimals": 18
     },

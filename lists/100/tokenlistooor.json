@@ -1,9 +1,9 @@
 {
   "name": "Tokenlistooor Token List",
   "description": "A curated list of tokens from all the token lists on tokenlistooor.",
-  "timestamp": "2026-07-05T03:38:57Z",
+  "timestamp": "2026-07-12T03:04:16Z",
   "version": {
-    "major": 390,
+    "major": 391,
     "minor": 0,
     "patch": 0
   },
@@ -46,7 +46,7 @@
       "address": "0x4ECaBa5870353805a9F068101A40E0f32ed605C6",
       "name": "Tether USD on xDai",
       "symbol": "USDT",
-      "logoURI": "https://tokens.1inch.io/0xdac17f958d2ee523a2206206994597c13d831ec7.png",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/100/0x4ECaBa5870353805a9F068101A40E0f32ed605C6/logo-128.png",
       "chainId": 100,
       "decimals": 6
     },
@@ -55,6 +55,14 @@
       "name": "vTAO",
       "symbol": "vTAO",
       "logoURI": "https://token-assets-one.vercel.app/api/token/100/0x58ea2Bb193B1429Cb90D24195E6ac4Ccb0B27a12/logo-128.png",
+      "chainId": 100,
+      "decimals": 18
+    },
+    {
+      "address": "0x68115fFA8bF088289B80B1e17cD486B5752492aA",
+      "name": "Wren Staked tGBP from Mainnet",
+      "symbol": "wstGBP",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/100/0x68115fFA8bF088289B80B1e17cD486B5752492aA/logo-128.png",
       "chainId": 100,
       "decimals": 18
     },

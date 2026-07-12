@@ -1,9 +1,9 @@
 {
   "name": "CoinGecko",
   "description": "",
-  "timestamp": "2026-07-05T03:38:40Z",
+  "timestamp": "2026-07-12T02:54:54Z",
   "version": {
-    "major": 184,
+    "major": 185,
     "minor": 0,
     "patch": 0
   },
@@ -89,7 +89,7 @@
       "address": "0x0994206dfE8De6Ec6920FF4D779B0d950605Fb53",
       "name": "Curve DAO Token",
       "symbol": "CRV",
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xD533a949740bb3306d119CC777fa900bA034cd52/logo.png",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x0994206dfE8De6Ec6920FF4D779B0d950605Fb53/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -295,7 +295,7 @@
       "address": "0x23ee2343B892b1BB63503a4FAbc840E0e2C6810f",
       "name": "Axelar",
       "symbol": "AXL",
-      "logoURI": "https://assets.coingecko.com/coins/images/27277/large/V-65_xQ1_400x400.jpeg?1663121730",
+      "logoURI": "ipfs://QmYJRge59EKjEcCzs4X9j6c3dsAJBCzJRRgN5XZtg9treW",
       "chainId": 10,
       "decimals": 6
     },
@@ -405,7 +405,7 @@
       "address": "0x374Ad0f47F4ca39c78E5Cc54f1C9e426FF8f231A",
       "name": "Premia",
       "symbol": "PREMIA",
-      "logoURI": "https://ethereum-optimism.github.io/data/PREMIA/logo.svg",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x374Ad0f47F4ca39c78E5Cc54f1C9e426FF8f231A/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -453,7 +453,7 @@
       "address": "0x3E5D9D8a63CC8a88748f229999CF59487e90721e",
       "name": "MetalSwap",
       "symbol": "XMT",
-      "logoURI": "https://ethereum-optimism.github.io/data/XMT/logo.svg",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x3E5D9D8a63CC8a88748f229999CF59487e90721e/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -588,7 +588,7 @@
       "address": "0x50Bce64397C75488465253c0A034b8097FeA6578",
       "name": "HanChain",
       "symbol": "HAN",
-      "logoURI": "https://ethereum-optimism.github.io/data/HAN/logo.svg",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x50Bce64397C75488465253c0A034b8097FeA6578/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -1023,14 +1023,6 @@
       "decimals": 18
     },
     {
-      "address": "0x8c6f28f2F1A3C87F0f938b96d27520d9751ec8d9",
-      "name": "Synth sUSD",
-      "symbol": "sUSD",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x8c6f28f2F1A3C87F0f938b96d27520d9751ec8d9/logo-128.png",
-      "chainId": 10,
-      "decimals": 18
-    },
-    {
       "address": "0x8d010bf9C26881788b4e6bf5Fd1bdC358c8F90b8",
       "name": "Polkadot Token (Relay Chain)",
       "symbol": "DOT",
@@ -1250,7 +1242,7 @@
       "address": "0xC27D9BC194a648fE3069955a5126699C4e49351C",
       "name": "Alongside Crypto Market Index",
       "symbol": "AMKT",
-      "logoURI": "https://ethereum-optimism.github.io/data/AMKT/logo.svg",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xC27D9BC194a648fE3069955a5126699C4e49351C/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -1258,7 +1250,7 @@
       "address": "0xC3248A1bd9D72fa3DA6E6ba701E58CbF818354eB",
       "name": "HANePlatform",
       "symbol": "HANeP",
-      "logoURI": "https://ethereum-optimism.github.io/data/HANeP/logo.svg",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xC3248A1bd9D72fa3DA6E6ba701E58CbF818354eB/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -1394,7 +1386,7 @@
       "address": "0xEcF46257ed31c329F204Eb43E254C609dee143B3",
       "name": "Rigo Token",
       "symbol": "GRG",
-      "logoURI": "https://ethereum-optimism.github.io/data/GRG/logo.svg",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xEcF46257ed31c329F204Eb43E254C609dee143B3/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },

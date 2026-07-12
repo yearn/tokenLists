@@ -1,9 +1,9 @@
 {
   "name": "Bebop",
   "description": "",
-  "timestamp": "2026-07-05T03:38:40Z",
+  "timestamp": "2026-07-12T02:54:19Z",
   "version": {
-    "major": 32,
+    "major": 33,
     "minor": 0,
     "patch": 0
   },
@@ -254,6 +254,13 @@
       "name": "Ethereum",
       "symbol": "ETH",
       "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE/logo-128.png",
+      "chainId": 8453,
+      "decimals": 18
+    },
+    {
+      "address": "0xFbC2051AE2265686a469421b2C5A2D5462FbF5eB",
+      "name": "OpenGradient",
+      "symbol": "OPG",
       "chainId": 8453,
       "decimals": 18
     },

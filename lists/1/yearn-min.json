@@ -1,10 +1,10 @@
 {
   "name": "Yearn Minimal Token List",
   "description": "",
-  "timestamp": "2026-07-05T03:33:57Z",
+  "timestamp": "2026-07-12T02:59:47Z",
   "version": {
     "major": 12,
-    "minor": 26,
+    "minor": 27,
     "patch": 0
   },
   "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e/logo.svg",
@@ -46,7 +46,7 @@
       "address": "0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776",
       "name": "Staked USDA",
       "symbol": "stUSD",
-      "logoURI": "https://assets.coingecko.com/coins/images/34509/large/stUSD_copie.png?1705288386",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -54,7 +54,7 @@
       "address": "0x004626A008B1aCdC4c74ab51644093b155e59A23",
       "name": "Staked EURA",
       "symbol": "stEUR",
-      "logoURI": "https://assets.coingecko.com/coins/images/32036/large/stEUR-x4.png?1696530832",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x004626A008B1aCdC4c74ab51644093b155e59A23/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -69,7 +69,7 @@
       "address": "0x004E9C3EF86bc1ca1f0bB5C7662861Ee93350568",
       "name": "uniBTC",
       "symbol": "uniBTC",
-      "logoURI": "https://asset-images.messari.io/images/dc633a4d-d765-4f19-98a4-7d685bcfe02d/128.png",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x004E9C3EF86bc1ca1f0bB5C7662861Ee93350568/logo-128.png",
       "chainId": 1,
       "decimals": 8
     },
@@ -133,7 +133,7 @@
       "address": "0x01791F726B4103694969820be083196cC7c045fF",
       "name": "Yield Basis",
       "symbol": "YB",
-      "logoURI": "https://assets.coingecko.com/coins/images/54871/large/yieldbasis_400x400.png?1760514173",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x01791F726B4103694969820be083196cC7c045fF/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -157,7 +157,7 @@
       "address": "0x01Ba69727E2860b37bc1a2bd56999c1aFb4C15D8",
       "name": "YieldNest RWA MAX",
       "symbol": "ynRWAx",
-      "logoURI": "https://asset-images.messari.io/images/3248c338-8dc4-44ee-9cce-309d9db8640d/128.png",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x01Ba69727E2860b37bc1a2bd56999c1aFb4C15D8/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -277,6 +277,7 @@
       "address": "0x04C154b66CB340F3Ae24111CC767e0184Ed00Cc6",
       "name": "Pirex Ether",
       "symbol": "pxETH",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x04C154b66CB340F3Ae24111CC767e0184Ed00Cc6/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -633,7 +634,7 @@
       "address": "0x0E573Ce2736Dd9637A0b21058352e1667925C7a8",
       "name": "USDV",
       "symbol": "USDV",
-      "logoURI": "https://assets.coingecko.com/coins/images/32948/large/usdv_%281%29.png?1699933314",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x0E573Ce2736Dd9637A0b21058352e1667925C7a8/logo-128.png",
       "chainId": 1,
       "decimals": 6
     },
@@ -1096,7 +1097,7 @@
       "address": "0x152649eA73beAb28c5b49B26eb48f7EAD6d4c898",
       "name": "PancakeSwap Token",
       "symbol": "Cake",
-      "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/1/0x152649ea73beab28c5b49b26eb48f7ead6d4c898/logo.png",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x152649eA73beAb28c5b49B26eb48f7EAD6d4c898/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -1104,7 +1105,7 @@
       "address": "0x15700B564Ca08D9439C58cA5053166E8317aa138",
       "name": "deUSD",
       "symbol": "deUSD",
-      "logoURI": "https://asset-images.messari.io/images/a329f628-acd9-4ec2-b799-42b083b3efed/128.png",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x15700B564Ca08D9439C58cA5053166E8317aa138/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -2514,7 +2515,7 @@
       "address": "0x35282d87011f87508D457F08252Bc5bFa52E10A0",
       "name": "Prisma ULTRA USD",
       "symbol": "ULTRA",
-      "logoURI": "https://assets.coingecko.com/coins/images/35315/large/ultra-logo.png?1708161054",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x35282d87011f87508D457F08252Bc5bFa52E10A0/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -2546,7 +2547,7 @@
       "address": "0x35fA164735182de50811E8e2E824cFb9B6118ac2",
       "name": "ether.fi ETH",
       "symbol": "eETH",
-      "logoURI": "https://asset-images.messari.io/images/53a682e4-20f1-4257-b238-4cfcde9a7cb8/128.png",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x35fA164735182de50811E8e2E824cFb9B6118ac2/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -2618,6 +2619,7 @@
       "address": "0x3835a58CA93Cdb5f912519ad366826aC9a752510",
       "name": "FraxlendV1 - Curve DAO Token/Frax - Variable Time-Weighted Interest Rate - 6",
       "symbol": "FraxlendV1 - CRV/FRAX",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x3835a58CA93Cdb5f912519ad366826aC9a752510/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -2657,7 +2659,7 @@
       "address": "0x38EA452219524Bb87e18dE1C24D3bB59510BD783",
       "name": "Tether USD-LP",
       "symbol": "S*USDT",
-      "logoURI": "https://assets.coingecko.com/coins/images/24413/large/STG_LOGO.png",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x38EA452219524Bb87e18dE1C24D3bB59510BD783/logo-128.png",
       "chainId": 1,
       "decimals": 6
     },
@@ -2801,7 +2803,7 @@
       "address": "0x3DB228FE836D99Ccb25Ec4dfdC80ED6d2CDdCB4b",
       "name": "ynUSD Max",
       "symbol": "ynUSDx",
-      "logoURI": "https://asset-images.messari.io/images/84e7611d-6b3f-4b65-a8ba-caeefcfe53b8/128.png",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x3DB228FE836D99Ccb25Ec4dfdC80ED6d2CDdCB4b/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -3313,7 +3315,7 @@
       "address": "0x4737D9b4592B40d51e110b94c9C043c6654067Ae",
       "name": "Staked lvlUSD",
       "symbol": "slvlUSD",
-      "logoURI": "https://assets.coingecko.com/coins/images/54094/large/slvlusd.png?1738222536",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x4737D9b4592B40d51e110b94c9C043c6654067Ae/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -3401,7 +3403,7 @@
       "address": "0x48f9e38f3070AD8945DFEae3FA70987722E3D89c",
       "name": "infiniFi USD",
       "symbol": "iUSD",
-      "logoURI": "https://asset-images.messari.io/images/b95c4266-e195-4b51-b7a1-593d6bb23b88/128.png",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x48f9e38f3070AD8945DFEae3FA70987722E3D89c/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -3648,7 +3650,7 @@
       "address": "0x4ba01f22827018b4772CD326C7627FB4956A7C00",
       "name": "msUSD",
       "symbol": "msUSD",
-      "logoURI": "https://assets.coingecko.com/coins/images/66996/large/msUSD.png?1751389184",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x4ba01f22827018b4772CD326C7627FB4956A7C00/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -3734,7 +3736,7 @@
       "address": "0x4e3FBD56CD56c3e72c1403e103b45Db9da5B9D2B",
       "name": "Convex Token",
       "symbol": "CVX",
-      "logoURI": "https://tokens.1inch.io/0x4e3fbd56cd56c3e72c1403e103b45db9da5b9d2b.png",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x4e3FBD56CD56c3e72c1403e103b45Db9da5B9D2B/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -4178,7 +4180,7 @@
     },
     {
       "address": "0x57Ab1ec28D129707052df4dF418D58a2D46d5f51",
-      "name": "Synth sUSD",
+      "name": "Synth sUSD (retired)",
       "symbol": "sUSD",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x57Ab1ec28D129707052df4dF418D58a2D46d5f51/logo-128.png",
       "chainId": 1,
@@ -4402,7 +4404,7 @@
       "address": "0x5E8422345238F34275888049021821E8E08CAa1f",
       "name": "Frax Ether",
       "symbol": "frxETH",
-      "logoURI": "https://tokens.1inch.io/0x5e8422345238f34275888049021821e8e08caa1f.png",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x5E8422345238F34275888049021821E8E08CAa1f/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -4410,7 +4412,7 @@
       "address": "0x5Ea630e00D6eE438d3deA1556A110359ACdc10A9",
       "name": "Stake DAO PENDLE",
       "symbol": "sdPENDLE",
-      "logoURI": "https://assets.coingecko.com/coins/images/13724/large/stakedao_logo.jpg",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x5Ea630e00D6eE438d3deA1556A110359ACdc10A9/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -4902,7 +4904,7 @@
       "address": "0x65D72AA8DA931F047169112fcf34f52DbaAE7D18",
       "name": "f(x) rUSD",
       "symbol": "rUSD",
-      "logoURI": "https://asset-images.messari.io/images/8379b767-9d3a-4736-a3aa-c882a452bedf/128.png",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x65D72AA8DA931F047169112fcf34f52DbaAE7D18/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -5978,7 +5980,7 @@
       "address": "0x7C1156E515aA1A2E851674120074968C905aAF37",
       "name": "Level USD",
       "symbol": "lvlUSD",
-      "logoURI": "https://coin-images.coingecko.com/coins/images/53150/thumb/lvlusd-logo.png?1735406507",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x7C1156E515aA1A2E851674120074968C905aAF37/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -6004,6 +6006,13 @@
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x7Da96a3891Add058AdA2E826306D812C638D87a7/logo-128.png",
       "chainId": 1,
       "decimals": 6
+    },
+    {
+      "address": "0x7E13876B92F1a62C599C231f783f682E96B91761",
+      "name": "stLINK/LINK-ng",
+      "symbol": "stLINK-ng",
+      "chainId": 1,
+      "decimals": 18
     },
     {
       "address": "0x7E586fBaF3084C0be7aB5C82C04FfD7592723153",
@@ -6567,7 +6576,7 @@
       "address": "0x8668a15b7b023Dc77B372a740FCb8939E15257Cf",
       "name": "Asymmetry Finance afCVX",
       "symbol": "afCVX",
-      "logoURI": "https://assets.smold.app/api/token/1/0x8668a15b7b023Dc77B372a740FCb8939E15257Cf/logo-128.png",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x8668a15b7b023Dc77B372a740FCb8939E15257Cf/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -6671,7 +6680,7 @@
       "address": "0x890A5122Aa1dA30fEC4286DE7904Ff808F0bd74A",
       "name": "msY",
       "symbol": "msY",
-      "logoURI": "https://assets.coingecko.com/coins/images/71150/large/msY_200x200.png?1766047721",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x890A5122Aa1dA30fEC4286DE7904Ff808F0bd74A/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -7148,6 +7157,7 @@
       "address": "0x9469470C9878bf3d6d0604831d9A3A366156f7EE",
       "name": "avETH",
       "symbol": "avETH",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x9469470C9878bf3d6d0604831d9A3A366156f7EE/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -7241,7 +7251,7 @@
       "address": "0x967da4048cD07aB37855c090aAF366e4ce1b9F48",
       "name": "Ocean Token",
       "symbol": "OCEAN",
-      "logoURI": "https://tokens.1inch.io/0x967da4048cd07ab37855c090aaf366e4ce1b9f48.png",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x967da4048cD07aB37855c090aAF366e4ce1b9F48/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -7281,7 +7291,7 @@
       "address": "0x97983236bE88107Cc8998733Ef73D8d969c52E37",
       "name": "Stake DAO YFI",
       "symbol": "sdYFI",
-      "logoURI": "https://assets.coingecko.com/coins/images/13724/large/stakedao_logo.jpg",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0x97983236bE88107Cc8998733Ef73D8d969c52E37/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -7838,7 +7848,7 @@
       "address": "0xA663B02CF0a4b149d2aD41910CB81e23e1c41c32",
       "name": "Staked FRAX",
       "symbol": "sFRAX",
-      "logoURI": "https://assets.coingecko.com/coins/images/35383/large/sfrax.png?1708445569",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xA663B02CF0a4b149d2aD41910CB81e23e1c41c32/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -7889,6 +7899,14 @@
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xA7b68F2184B283cB494a6788c06BC5bBC09275e3/logo-128.png",
       "chainId": 1,
       "decimals": 18
+    },
+    {
+      "address": "0xA808Bc9775cb41c52C7842f8b50427fE7A770326",
+      "name": "Staked thUSD",
+      "symbol": "sthUSD",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/102172894/thumb/sthUSD_Logo.png?1776441288",
+      "chainId": 1,
+      "decimals": 6
     },
     {
       "address": "0xA87958C4E0CFae74b6f7a158Ab639359cDf989bE",
@@ -8400,6 +8418,14 @@
       "decimals": 18
     },
     {
+      "address": "0xBEeFE990F4099E11C6ab745555621cdFA161F18d",
+      "name": "SY Staked thUSD",
+      "symbol": "SY-sthUSD",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xBEeFE990F4099E11C6ab745555621cdFA161F18d/logo-128.png",
+      "chainId": 1,
+      "decimals": 6
+    },
+    {
       "address": "0xBF319dDC2Edc1Eb6FDf9910E39b37Be221C8805F",
       "name": "crvUSD-2 yVault",
       "symbol": "yvcrvUSD-2",
@@ -8715,7 +8741,7 @@
       "address": "0xC5d6A7B61d18AfA11435a889557b068BB9f29930",
       "name": "Savings Usdd",
       "symbol": "sUSDD",
-      "logoURI": "https://coin-images.coingecko.com/coins/images/102171852/thumb/susdd.jpg?1770085299",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xC5d6A7B61d18AfA11435a889557b068BB9f29930/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -8724,6 +8750,14 @@
       "name": "SY Strata Senior USDe",
       "symbol": "SY-srUSDe",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xC69c87351Bf66cAB8E5676D6f2D4b63299Ad0835/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xC7aF118d43a735527eCa65Be302266dF5913E607",
+      "name": "Curve stLINK-ng Factory yVault",
+      "symbol": "yvCurve-stLINK-ng-f",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xC7aF118d43a735527eCa65Be302266dF5913E607/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -8811,7 +8845,7 @@
       "address": "0xCAcd6fd266aF91b8AeD52aCCc382b4e165586E29",
       "name": "Frax USD",
       "symbol": "frxUSD",
-      "logoURI": "https://coin-images.coingecko.com/coins/images/53963/thumb/frxUSD.png?1737792154",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xCAcd6fd266aF91b8AeD52aCCc382b4e165586E29/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -8867,7 +8901,7 @@
       "address": "0xCb9f85730f57732fc899fb158164b9Ed60c77D49",
       "name": "Staked Lyra",
       "symbol": "stkLYRA",
-      "logoURI": "https://ethereum-optimism.github.io/data/stkLYRA/logo.svg",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xCb9f85730f57732fc899fb158164b9Ed60c77D49/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -8923,7 +8957,7 @@
       "address": "0xD11c452fc99cF405034ee446803b6F6c1F6d5ED8",
       "name": "Treehouse ETH",
       "symbol": "tETH",
-      "logoURI": "https://assets.coingecko.com/coins/images/40155/large/tETH_logo_2_%281%29.png?1726079209",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xD11c452fc99cF405034ee446803b6F6c1F6d5ED8/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -8963,7 +8997,7 @@
       "address": "0xD1b5651E55D4CeeD36251c61c50C889B36F6abB5",
       "name": "Stake DAO CRV",
       "symbol": "sdCRV",
-      "logoURI": "https://assets.coingecko.com/coins/images/13724/large/stakedao_logo.jpg",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xD1b5651E55D4CeeD36251c61c50C889B36F6abB5/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -10003,7 +10037,7 @@
       "address": "0xFa2B947eEc368f42195f24F36d2aF29f7c24CeC2",
       "name": "Falcon USD",
       "symbol": "USDf",
-      "logoURI": "https://assets.coingecko.com/coins/images/54558/large/ff_200_X_200.png?1740741076",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xFa2B947eEc368f42195f24F36d2aF29f7c24CeC2/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -10192,6 +10226,14 @@
       "decimals": 18
     },
     {
+      "address": "0xa3fE5c7596024E6811E14F029937D5bd8Ae485b3",
+      "name": "thUSD",
+      "symbol": "thUSD",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/102172895/thumb/thUSD_Logo.png?1776441415",
+      "chainId": 1,
+      "decimals": 6
+    },
+    {
       "address": "0xa442BEB83baBC33D93c8Bec471070Ce59b88fb7d",
       "name": "WETH yVault",
       "symbol": "yvWETH",
@@ -10354,7 +10396,7 @@
       "address": "0xaD55aebc9b8c03FC43cd9f62260391c13c23e7c0",
       "name": "Compounding Open Dollar",
       "symbol": "cUSDO",
-      "logoURI": "https://coin-images.coingecko.com/coins/images/53751/thumb/cUSDO_logo_white.png?1737182014",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xaD55aebc9b8c03FC43cd9f62260391c13c23e7c0/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -10577,7 +10619,7 @@
       "address": "0xb45ad160634c528Cc3D2926d9807104FA3157305",
       "name": "Staked Dola",
       "symbol": "sDOLA",
-      "logoURI": "https://assets.coingecko.com/coins/images/35495/large/sDOLAlogoFINAL.png?1708922289",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xb45ad160634c528Cc3D2926d9807104FA3157305/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -10682,6 +10724,14 @@
       "name": "Pendle Market",
       "symbol": "PENDLE-LPT",
       "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xb8FBF5cC2826c1C9909f59DD11633b494f46FBfe/logo-128.png",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "address": "0xb8b295df2cd735b15BE5Eb419517Aa626fc43cD5",
+      "name": "Staked LINK",
+      "symbol": "stLINK",
+      "logoURI": "https://assets.coingecko.com/coins/images/29271/large/ST.LINK_tokenl_blue.png?1696528224",
       "chainId": 1,
       "decimals": 18
     },
@@ -11152,7 +11202,7 @@
       "address": "0xcCcc62962d17b8914c62D74FfB843d73B2a3cccC",
       "name": "cap USD",
       "symbol": "cUSD",
-      "logoURI": "https://coin-images.coingecko.com/coins/images/68272/thumb/cUSD_ab_500%C3%97500.png?1755232868",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xcCcc62962d17b8914c62D74FfB843d73B2a3cccC/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -11263,7 +11313,7 @@
       "address": "0xcf62F905562626CfcDD2261162a51fd02Fc9c5b6",
       "name": "Staked Frax USD",
       "symbol": "sfrxUSD",
-      "logoURI": "https://coin-images.coingecko.com/coins/images/53964/thumb/sfrxUSD.png?1737792232",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xcf62F905562626CfcDD2261162a51fd02Fc9c5b6/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -11485,7 +11535,7 @@
       "address": "0xdA47862a83dac0c112BA89c6abC2159b95afd71C",
       "name": "Prisma Governance Token",
       "symbol": "PRISMA",
-      "logoURI": "https://assets.coingecko.com/coins/images/31520/large/PRISMA_200.png?1696530330",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xdA47862a83dac0c112BA89c6abC2159b95afd71C/logo-128.png",
       "chainId": 1,
       "decimals": 18
     },
@@ -11740,6 +11790,7 @@
       "address": "0xe343167631d89B6Ffc58B88d6b7fB0228795491D",
       "name": "Global Dollar",
       "symbol": "USDG",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/1/0xe343167631d89B6Ffc58B88d6b7fB0228795491D/logo-128.png",
       "chainId": 1,
       "decimals": 6
     },

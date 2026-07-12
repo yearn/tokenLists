@@ -1,9 +1,9 @@
 {
   "name": "Uniswap Labs Default",
   "description": "",
-  "timestamp": "2026-07-05T03:37:16Z",
+  "timestamp": "2026-07-12T02:59:08Z",
   "version": {
-    "major": 28,
+    "major": 29,
     "minor": 0,
     "patch": 0
   },
@@ -32,7 +32,7 @@
       "address": "0x0994206dfE8De6Ec6920FF4D779B0d950605Fb53",
       "name": "Curve DAO Token",
       "symbol": "CRV",
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xD533a949740bb3306d119CC777fa900bA034cd52/logo.png",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x0994206dfE8De6Ec6920FF4D779B0d950605Fb53/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -56,7 +56,7 @@
       "address": "0x1EBA7a6a72c894026Cd654AC5CDCF83A46445B08",
       "name": "Gitcoin",
       "symbol": "GTC",
-      "logoURI": "https://ethereum-optimism.github.io/data/GTC/logo.svg",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x1EBA7a6a72c894026Cd654AC5CDCF83A46445B08/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -88,7 +88,7 @@
       "address": "0x334cc734866E97D8452Ae6261d68Fd9bc9BFa31E",
       "name": "ARPA Token",
       "symbol": "ARPA",
-      "logoURI": "https://ethereum-optimism.github.io/data/ARPA/logo.svg",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x334cc734866E97D8452Ae6261d68Fd9bc9BFa31E/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -104,7 +104,7 @@
       "address": "0x3390108E913824B8eaD638444cc52B9aBdF63798",
       "name": "Mask Network",
       "symbol": "MASK",
-      "logoURI": "https://ethereum-optimism.github.io/data/MASK/logo.svg",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x3390108E913824B8eaD638444cc52B9aBdF63798/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -136,7 +136,7 @@
       "address": "0x3eaEb77b03dBc0F6321AE1b72b2E9aDb0F60112B",
       "name": "SushiToken",
       "symbol": "SUSHI",
-      "logoURI": "https://ethereum-optimism.github.io/data/SUSHI/logo.svg",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x3eaEb77b03dBc0F6321AE1b72b2E9aDb0F60112B/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -168,7 +168,7 @@
       "address": "0x650AF3C15AF43dcB218406d30784416D64Cfb6B2",
       "name": "Status Network Token",
       "symbol": "SNT",
-      "logoURI": "https://ethereum-optimism.github.io/data/SNT/logo.svg",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x650AF3C15AF43dcB218406d30784416D64Cfb6B2/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -262,7 +262,7 @@
     },
     {
       "address": "0x8c6f28f2F1A3C87F0f938b96d27520d9751ec8d9",
-      "name": "Synth sUSD",
+      "name": "Synth sUSD (retired)",
       "symbol": "sUSD",
       "logoURI": "https://token-assets-one.vercel.app/api/token/10/0x8c6f28f2F1A3C87F0f938b96d27520d9751ec8d9/logo-128.png",
       "chainId": 10,
@@ -327,7 +327,7 @@
       "address": "0xAd42D013ac31486B73b6b059e748172994736426",
       "name": "1INCH Token",
       "symbol": "1INCH",
-      "logoURI": "https://ethereum-optimism.github.io/data/1INCH/logo.svg",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xAd42D013ac31486B73b6b059e748172994736426/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -359,7 +359,7 @@
       "address": "0xC81D1F0EB955B0c020E5d5b264E1FF72c14d1401",
       "name": "Rocket Pool Protocol",
       "symbol": "RPL",
-      "logoURI": "https://ethereum-optimism.github.io/data/RPL/logo.svg",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xC81D1F0EB955B0c020E5d5b264E1FF72c14d1401/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -407,7 +407,7 @@
       "address": "0xEd50aCE88bd42B45cB0F49be15395021E141254e",
       "name": "BTRST",
       "symbol": "BTRST",
-      "logoURI": "https://ethereum-optimism.github.io/data/BTRST/logo.svg",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xEd50aCE88bd42B45cB0F49be15395021E141254e/logo-128.png",
       "chainId": 10,
       "decimals": 18
     },
@@ -487,7 +487,7 @@
       "address": "0xba1Cf949c382A32a09A17B2AdF3587fc7fA664f1",
       "name": "Wrapped SOL",
       "symbol": "SOL",
-      "logoURI": "https://ethereum-optimism.github.io/data/SOL/logo.svg",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/10/0xba1Cf949c382A32a09A17B2AdF3587fc7fA664f1/logo-128.png",
       "chainId": 10,
       "decimals": 9
     },

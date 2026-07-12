@@ -1,9 +1,9 @@
 {
   "name": "DefiLlama",
   "description": "",
-  "timestamp": "2026-07-05T03:33:15Z",
+  "timestamp": "2026-07-12T02:55:14Z",
   "version": {
-    "major": 181,
+    "major": 182,
     "minor": 0,
     "patch": 0
   },
@@ -38,15 +38,7 @@
       "address": "0x07E6332dD090D287d3489245038daF987955DCFB",
       "name": "Geist DAI",
       "symbol": "gDAI",
-      "logoURI": "https://assets.coingecko.com/coins/images/18832/large/GEIST-token.png",
-      "chainId": 250,
-      "decimals": 18
-    },
-    {
-      "address": "0x0E1694483eBB3b74d3054E383840C6cf011e518e",
-      "name": "Synth sUSD",
-      "symbol": "sUSD",
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/susd.jpg",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/250/0x07E6332dD090D287d3489245038daF987955DCFB/logo-128.png",
       "chainId": 250,
       "decimals": 18
     },
@@ -102,7 +94,7 @@
       "address": "0x1B6382DBDEa11d97f24495C9A90b7c88469134a4",
       "name": "Axelar Wrapped USDC",
       "symbol": "axlUSDC",
-      "logoURI": "https://ftmscan.com/token/images/axlusdc_32.png",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/250/0x1B6382DBDEa11d97f24495C9A90b7c88469134a4/logo-128.png",
       "chainId": 250,
       "decimals": 6
     },
@@ -636,7 +628,7 @@
       "address": "0x846e4D51d7E2043C1a87E0Ab7490B93FB940357b",
       "name": "UST",
       "symbol": "UST",
-      "logoURI": "https://ftmscan.com/token/images/wormholeust_32.png",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/250/0x846e4D51d7E2043C1a87E0Ab7490B93FB940357b/logo-128.png",
       "chainId": 250,
       "decimals": 6
     },
@@ -732,7 +724,7 @@
       "address": "0x940F41F0ec9ba1A34CF001cc03347ac092F5F6B5",
       "name": "Geist fUSDT",
       "symbol": "gfUSDT",
-      "logoURI": "https://tokens.1inch.io/0x940f41f0ec9ba1a34cf001cc03347ac092f5f6b5.png",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/250/0x940F41F0ec9ba1A34CF001cc03347ac092F5F6B5/logo-128.png",
       "chainId": 250,
       "decimals": 6
     },
@@ -1043,7 +1035,7 @@
       "address": "0xe578C856933D8e1082740bf7661e379Aa2A30b26",
       "name": "Geist USDC",
       "symbol": "gUSDC",
-      "logoURI": "https://assets.coingecko.com/coins/images/18832/large/GEIST-token.png",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/250/0xe578C856933D8e1082740bf7661e379Aa2A30b26/logo-128.png",
       "chainId": 250,
       "decimals": 6
     },
@@ -1090,7 +1082,7 @@
       "address": "0xfB98B335551a418cD0737375a2ea0ded62Ea213b",
       "name": "miMATIC",
       "symbol": "miMATIC",
-      "logoURI": "https://tokens.1inch.io/0xa3fa99a148fa48d14ed51d610c367c61876997f1.png",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/250/0xfB98B335551a418cD0737375a2ea0ded62Ea213b/logo-128.png",
       "chainId": 250,
       "decimals": 18
     },

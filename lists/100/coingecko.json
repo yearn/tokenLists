@@ -1,9 +1,9 @@
 {
   "name": "CoinGecko",
   "description": "",
-  "timestamp": "2026-07-05T03:38:40Z",
+  "timestamp": "2026-07-12T02:54:54Z",
   "version": {
-    "major": 184,
+    "major": 185,
     "minor": 0,
     "patch": 0
   },
@@ -97,6 +97,13 @@
       "name": "xSpace Token",
       "symbol": "xSPACE",
       "logoURI": "https://assets.coingecko.com/coins/images/20676/large/jYw3kgsY_400x400.png?1637550733",
+      "chainId": 100,
+      "decimals": 18
+    },
+    {
+      "address": "0x1F34490F8e8E776FFc547b39B864364035Eaf44F",
+      "name": "tGBP",
+      "symbol": "tGBP",
       "chainId": 100,
       "decimals": 18
     },
@@ -296,7 +303,7 @@
       "address": "0x4ECaBa5870353805a9F068101A40E0f32ed605C6",
       "name": "Tether USD on xDai",
       "symbol": "USDT",
-      "logoURI": "https://tokens.1inch.io/0xdac17f958d2ee523a2206206994597c13d831ec7.png",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/100/0x4ECaBa5870353805a9F068101A40E0f32ed605C6/logo-128.png",
       "chainId": 100,
       "decimals": 6
     },

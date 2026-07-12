@@ -1,9 +1,9 @@
 {
   "name": "Paraswap Token List",
   "description": "",
-  "timestamp": "2026-07-05T03:38:25Z",
+  "timestamp": "2026-07-12T02:52:35Z",
   "version": {
-    "major": 49,
+    "major": 50,
     "minor": 0,
     "patch": 0
   },
@@ -22,6 +22,7 @@
       "address": "0x0a1d576f3eFeF75b330424287a95A366e8281D54",
       "name": "Aave Base USDbC",
       "symbol": "aBasUSDbC",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0x0a1d576f3eFeF75b330424287a95A366e8281D54/logo-128.png",
       "chainId": 8453,
       "decimals": 6
     },
@@ -69,6 +70,7 @@
       "address": "0x4e65fE4DbA92790696d040ac24Aa414708F5c0AB",
       "name": "Aave Base USDC",
       "symbol": "aBasUSDC",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/8453/0x4e65fE4DbA92790696d040ac24Aa414708F5c0AB/logo-128.png",
       "chainId": 8453,
       "decimals": 6
     },

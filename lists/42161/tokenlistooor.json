@@ -1,9 +1,9 @@
 {
   "name": "Tokenlistooor Token List",
   "description": "A curated list of tokens from all the token lists on tokenlistooor.",
-  "timestamp": "2026-07-05T03:38:57Z",
+  "timestamp": "2026-07-12T03:04:16Z",
   "version": {
-    "major": 390,
+    "major": 391,
     "minor": 0,
     "patch": 0
   },
@@ -227,6 +227,14 @@
       "decimals": 18
     },
     {
+      "address": "0x0c880f6761F1af8d9Aa9C466984b80DAb9a8c9e8",
+      "name": "Pendle",
+      "symbol": "PENDLE",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x0c880f6761F1af8d9Aa9C466984b80DAb9a8c9e8/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
       "address": "0x0cF3d4Ca39AF8dc47fD683240b667932b0CEf16a",
       "name": "xwstETH-WETH01",
       "symbol": "xwstETH-WETH01",
@@ -342,7 +350,7 @@
       "address": "0x11cDb42B0EB46D95f990BeDD4695A6e3fA034978",
       "name": "Curve DAO Token",
       "symbol": "CRV",
-      "logoURI": "https://tokens.1inch.io/0xd533a949740bb3306d119cc777fa900ba034cd52.png",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x11cDb42B0EB46D95f990BeDD4695A6e3fA034978/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -419,6 +427,14 @@
       "decimals": 18
     },
     {
+      "address": "0x178E029173417b1F9C8bC16DCeC6f697bC323746",
+      "name": "Balancer 50wstETH-50USDC",
+      "symbol": "50WSTETH-50USDC",
+      "logoURI": "https://assets.coingecko.com/coins/images/11683/large/Balancer.png?",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
       "address": "0x1797E0D7FB5038195b39D1760d7364463A047317",
       "name": "Pendle Market",
       "symbol": "PENDLE-LPT",
@@ -430,7 +446,7 @@
       "address": "0x17FC002b466eEc40DaE837Fc4bE5c67993ddBd6F",
       "name": "Frax",
       "symbol": "FRAX",
-      "logoURI": "https://tokens.1inch.io/0x17fc002b466eec40dae837fc4be5c67993ddbd6f.png",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x17FC002b466eEc40DaE837Fc4bE5c67993ddBd6F/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -519,6 +535,14 @@
       "name": "PT Ethena USDe 28NOV2024",
       "symbol": "PT-USDe-28NOV2024",
       "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x1FA42e6730DF74fF2742704761Da41111bB7F019/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0x1aDDD80E6039594eE970E5872D247bf0414C8903",
+      "name": "Fee + Staked GLP",
+      "symbol": "fsGLP",
+      "logoURI": "https://asset-images.messari.io/images/e15cbd0a-9d1b-4ee8-85a5-c1692badc9e2/128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -915,6 +939,14 @@
       "decimals": 18
     },
     {
+      "address": "0x2Ea0bE86990E8Dac0D09e4316Bb92086F304622d",
+      "name": "The Standard USD",
+      "symbol": "USDs",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x2Ea0bE86990E8Dac0D09e4316Bb92086F304622d/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
       "address": "0x2FDc424946AA72D42E2F897447d7c335E64845F0",
       "name": "YT rsETH 26SEP2024",
       "symbol": "YT-rsETH-26SEP2024",
@@ -935,6 +967,14 @@
       "name": "mPendle Penpie Receipt Token",
       "symbol": "mPendle_PRT",
       "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x2b5FA2C7cb4b0F51EA7250f66Ca3eD369253ADdF/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0x2c8CBe32da6feAECcF99eCeE2900556a17a529ED",
+      "name": "Wren Staked tGBP",
+      "symbol": "wstGBP",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x2c8CBe32da6feAECcF99eCeE2900556a17a529ED/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -1667,13 +1707,6 @@
       "decimals": 18
     },
     {
-      "address": "0x561877b6b3DD7651313794e5F2894B2F18bE0766",
-      "name": "Matic Token",
-      "symbol": "MATIC",
-      "chainId": 42161,
-      "decimals": 18
-    },
-    {
       "address": "0x563f1e87a6a3Cb4A84F7D438fCF4882133e59d6d",
       "name": "SY Kyber Elastic axlWstEth-wstETH",
       "symbol": "SY-Kyber Elastic axlWstEth-wstETH",
@@ -1894,6 +1927,14 @@
       "name": "PT sETH-pteETHSilo 26SEP2024",
       "symbol": "PT-sETH-pteETHSilo-26SEP2024",
       "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x617CF00C50e0CbB9FDf54516E9E9540D61AcFCA8/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0x62d5a59E0d67c0381aAd53B201B4A1B8Dcd2C833",
+      "name": "Vote Boosted sdCRV",
+      "symbol": "vsdCRV",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0x62d5a59E0d67c0381aAd53B201B4A1B8Dcd2C833/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -2954,6 +2995,14 @@
       "decimals": 18
     },
     {
+      "address": "0xA06A65032b78106EA47d122387E40E1fbCBA942d",
+      "name": "xBTC",
+      "symbol": "xBTC",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xA06A65032b78106EA47d122387E40E1fbCBA942d/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
       "address": "0xA1c32EF8d3c4c30cB596bAb8647e11daF0FA5C94",
       "name": "YT aUSDC 27JUN2024",
       "symbol": "YT-aUSDC-27JUN2024",
@@ -3282,13 +3331,6 @@
       "decimals": 18
     },
     {
-      "address": "0xC8a4EeA31E9B6b61c406DF013DD4FEc76f21E279",
-      "name": "Render Token",
-      "symbol": "RNDR",
-      "chainId": 42161,
-      "decimals": 18
-    },
-    {
       "address": "0xC8fD1F1E059d97ec71AE566DD6ca788DC92f36AF",
       "name": "Pendle Market",
       "symbol": "PENDLE-LPT",
@@ -3309,6 +3351,14 @@
       "name": "PT USDai 15OCT2026",
       "symbol": "PT-USDai-15OCT2026",
       "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xC9d24aD0bB25F34098e226a8C5192Dea7bacccaE/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0xC9da32C3b444F15412F7FeAC6104d1E258D23B1b",
+      "name": "Camelot LP",
+      "symbol": "CMLT-LP",
+      "logoURI": "https://assets.coingecko.com/coins/images/28416/large/vj5DIMhP_400x400.jpeg?",
       "chainId": 42161,
       "decimals": 18
     },
@@ -3385,6 +3435,14 @@
       "decimals": 18
     },
     {
+      "address": "0xD4fe6e1e37dfCf35E9EEb54D4cca149d1c10239f",
+      "name": "TREN Debt Token",
+      "symbol": "XY",
+      "logoURI": "https://assets.smold.app/api/token/42161/0xD4fe6e1e37dfCf35E9EEb54D4cca149d1c10239f/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
       "address": "0xD5AabeDA88c31858E5f60905185f8697bE185e55",
       "name": "PT sETH-wstEthSilo 26DEC2024",
       "symbol": "PT-sETH-wstEthSilo-26DEC2024",
@@ -3421,6 +3479,14 @@
       "name": "PT Bedrock uniETH 25JUN2026",
       "symbol": "PT-uniETH-25JUN2026",
       "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xD8d5fbBAAD1e80AA0352B2029a594caEff6cF1Ec/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0xD9879D9DbDc5042D8f1C2710Be293909B985dc90",
+      "name": "rEYWA",
+      "symbol": "rEYWA",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xD9879D9DbDc5042D8f1C2710Be293909B985dc90/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -3692,7 +3758,7 @@
       "address": "0xFEa7a6a0B346362BF88A9e4A88416B77a57D6c2A",
       "name": "Magic Internet Money",
       "symbol": "MIM",
-      "logoURI": "https://tokens.1inch.io/0xfea7a6a0b346362bf88a9e4a88416b77a57d6c2a.png",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xFEa7a6a0B346362BF88A9e4A88416B77a57D6c2A/logo-128.png",
       "chainId": 42161,
       "decimals": 18
     },
@@ -3805,6 +3871,14 @@
       "name": "SY weETH",
       "symbol": "SY-weETH",
       "logoURI": "https://assets.smold.app/api/token/42161/0xa6C895EB332E91c5b3D00B7baeEAae478cc502DA/logo-128.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "address": "0xa6c5C7D189fA4eB5Af8ba34E63dCDD3a635D433f",
+      "name": "Camelot LP",
+      "symbol": "CMLT-LP",
+      "logoURI": "https://assets.coingecko.com/coins/images/28416/large/vj5DIMhP_400x400.jpeg?",
       "chainId": 42161,
       "decimals": 18
     },
@@ -4557,13 +4631,6 @@
       "name": "OVERPOWERED",
       "symbol": "OVERPOWERED",
       "logoURI": "https://token-assets-one.vercel.app/api/token/42161/0xfe5B10F053871e66a319a57a16CF4e709f51367F/logo-128.png",
-      "chainId": 42161,
-      "decimals": 18
-    },
-    {
-      "address": "0xfeA31d704DEb0975dA8e77Bf13E04239e70d7c28",
-      "name": "Ethereum Name Service",
-      "symbol": "ENS",
       "chainId": 42161,
       "decimals": 18
     }

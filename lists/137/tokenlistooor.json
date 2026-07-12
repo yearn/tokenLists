@@ -1,9 +1,9 @@
 {
   "name": "Tokenlistooor Token List",
   "description": "A curated list of tokens from all the token lists on tokenlistooor.",
-  "timestamp": "2026-07-05T03:38:57Z",
+  "timestamp": "2026-07-12T03:04:16Z",
   "version": {
-    "major": 390,
+    "major": 391,
     "minor": 0,
     "patch": 0
   },
@@ -646,7 +646,7 @@
       "address": "0x172370d5Cd63279eFa6d502DAB29171933a610AF",
       "name": "CRV (PoS)",
       "symbol": "CRV",
-      "logoURI": "https://tokens.1inch.io/0xd533a949740bb3306d119cc777fa900ba034cd52.png",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/137/0x172370d5Cd63279eFa6d502DAB29171933a610AF/logo-128.png",
       "chainId": 137,
       "decimals": 18
     },
@@ -1206,7 +1206,7 @@
       "address": "0x2e1AD108fF1D8C782fcBbB89AAd783aC49586756",
       "name": "TrueUSD (PoS)",
       "symbol": "TUSD",
-      "logoURI": "https://tokens.1inch.io/0x2e1ad108ff1d8c782fcbbb89aad783ac49586756.png",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/137/0x2e1AD108fF1D8C782fcBbB89AAd783aC49586756/logo-128.png",
       "chainId": 137,
       "decimals": 18
     },
@@ -1331,6 +1331,14 @@
       "decimals": 18
     },
     {
+      "address": "0x3319d8A0A7f742AAC63D586E7bb846a9ee8218Ab",
+      "name": "Wren Staked tGBP(PoS)",
+      "symbol": "wstGBP",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/137/0x3319d8A0A7f742AAC63D586E7bb846a9ee8218Ab/logo-128.png",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
       "address": "0x33B0B883626C21Ce5b3aad202bC435f876aee2c4",
       "name": "aUSDC-BOB",
       "symbol": "aUSDC-BOB",
@@ -1413,7 +1421,7 @@
       "address": "0x361A5a4993493cE00f61C32d4EcCA5512b82CE90",
       "name": "Stake DAO Token (PoS)",
       "symbol": "SDT",
-      "logoURI": "https://tokens.1inch.io/0x73968b9a57c6e53d41345fd57a6e6ae27d6cdb2f.png",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/137/0x361A5a4993493cE00f61C32d4EcCA5512b82CE90/logo-128.png",
       "chainId": 137,
       "decimals": 18
     },
@@ -2417,6 +2425,14 @@
       "decimals": 18
     },
     {
+      "address": "0x62d5a59E0d67c0381aAd53B201B4A1B8Dcd2C833",
+      "name": "Vote Boosted sdCRV",
+      "symbol": "vsdCRV",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/137/0x62d5a59E0d67c0381aAd53B201B4A1B8Dcd2C833/logo-128.png",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
       "address": "0x6362Bd3Bd1a217bbf6Afa810eaA63f2d55620e2e",
       "name": "DeHive.finance (PoS)",
       "symbol": "DHV",
@@ -2956,7 +2972,7 @@
       "address": "0x7BDF330f423Ea880FF95fC41A280fD5eCFD3D09f",
       "name": "Euro Tether (PoS)",
       "symbol": "EURT",
-      "logoURI": "https://assets.coingecko.com/coins/images/17385/large/Tether_full_logo_dm.png?1627537298",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/137/0x7BDF330f423Ea880FF95fC41A280fD5eCFD3D09f/logo-128.png",
       "chainId": 137,
       "decimals": 6
     },
@@ -3395,6 +3411,14 @@
       "name": "DxSale.Network (PoS)",
       "symbol": "SALE",
       "logoURI": "https://tokens.1inch.io/0x8f6196901a4a153d8ee8f3fa779a042f6092d908.png",
+      "chainId": 137,
+      "decimals": 18
+    },
+    {
+      "address": "0x900F717EA076E1E7a484ad9DD2dB81CEEc60eBF1",
+      "name": "ANGLE",
+      "symbol": "ANGLE",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/137/0x900F717EA076E1E7a484ad9DD2dB81CEEc60eBF1/logo-128.png",
       "chainId": 137,
       "decimals": 18
     },
@@ -4373,6 +4397,14 @@
       "logoURI": "https://token-assets-one.vercel.app/api/token/137/0xE0fb098aF0544dF0124dcd326B15c0df3cA62164/logo-128.png",
       "chainId": 137,
       "decimals": 18
+    },
+    {
+      "address": "0xE111178A87A3BFf0c8d18DECBa5798827539Ae99",
+      "name": "STASIS EURS Token (PoS)",
+      "symbol": "EURS",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/137/0xE111178A87A3BFf0c8d18DECBa5798827539Ae99/logo-128.png",
+      "chainId": 137,
+      "decimals": 2
     },
     {
       "address": "0xE117837c0c8A53765cb6b4A16eBc84B3a71DD0BD",

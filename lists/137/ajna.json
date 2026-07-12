@@ -1,10 +1,10 @@
 {
   "name": "Ajna",
   "description": "",
-  "timestamp": "2026-06-28T03:57:54Z",
+  "timestamp": "2026-07-12T02:58:27Z",
   "version": {
-    "major": 35,
-    "minor": 7,
+    "major": 36,
+    "minor": 0,
     "patch": 0
   },
   "logoURI": "https://www.ajna.finance/static/tokens/ajna.png",
@@ -1685,14 +1685,6 @@
       "decimals": 18
     },
     {
-      "address": "0x783695f4c4b394773b86BB0F82Bf559DbE14f951",
-      "name": "MyToken",
-      "symbol": "MTK",
-      "logoURI": "https://token-assets-one.vercel.app/api/token/137/0x783695f4c4b394773b86BB0F82Bf559DbE14f951/logo-128.png",
-      "chainId": 137,
-      "decimals": 18
-    },
-    {
       "address": "0x7D50eE976A67EF964552352da5B0A08Dc74D69F9",
       "name": "MaticTest4",
       "symbol": "MTEST4",
@@ -2504,7 +2496,7 @@
       "address": "0xE111178A87A3BFf0c8d18DECBa5798827539Ae99",
       "name": "STASIS EURS Token (PoS)",
       "symbol": "EURS",
-      "logoURI": "https://tokens.1inch.io/0xe111178a87a3bff0c8d18decba5798827539ae99.png",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/137/0xE111178A87A3BFf0c8d18DECBa5798827539Ae99/logo-128.png",
       "chainId": 137,
       "decimals": 2
     },
@@ -2576,7 +2568,7 @@
       "address": "0xE7a24EF0C5e95Ffb0f6684b813A78F2a3AD7D171",
       "name": "Curve.fi amDAI/amUSDC/amUSDT",
       "symbol": "am3CRV",
-      "logoURI": "https://assets.coingecko.com/coins/images/12124/large/Curve.png",
+      "logoURI": "https://token-assets-one.vercel.app/api/token/137/0xE7a24EF0C5e95Ffb0f6684b813A78F2a3AD7D171/logo-128.png",
       "chainId": 137,
       "decimals": 18
     },
